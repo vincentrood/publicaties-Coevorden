@@ -3,28 +3,26 @@
 <head>
     <title>{{ .Title }}</title>
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
-    
-    <meta name="pagefind.title" content="{{ .Title }}">
 </head>
 <body>
 
-    <div data-pagefind-ignore="all" style="text-align: center; margin-top: 50px; font-family: sans-serif;">
-        <h1>Bezig met doorsturen naar PDF...</h1>
-        <p>Geduld a.u.b., u wordt direct doorgeleid naar het document.</p>
-        <p>Lukt dit niet? <a href="{{ $pdf_url }}">Klik dan hier voor de PDF</a>.</p>
+    <script>
+        window.location.href = "{{ $pdf_url | safeJS }}";
+    </script>
+
+    <div data-pagefind-ignore="all" style="font-family: sans-serif; text-align: center; padding: 50px;">
+        <h1>{{ .Title }}</h1>
+        <p>U wordt doorgestuurd naar de PDF...</p>
+        <p><a href="{{ $pdf_url }}">Klik hier als er niets gebeurt.</a></p>
     </div>
 
-    <div style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; overflow: hidden;">
+    <div style="visibility: hidden; height: 0; overflow: hidden;">
         <article data-pagefind-body>
             <h1 data-pagefind-meta="title">{{ .Title }}</h1>
             <p>{{ .Content }}</p>
             <a href="{{ $pdf_url }}" data-pagefind-meta="url[href]">Bekijk PDF</a>
         </article>
     </div>
-
-    <script>
-        window.location.href = "{{ $pdf_url | safeJS }}";
-    </script>
 
 </body>
 </html>
