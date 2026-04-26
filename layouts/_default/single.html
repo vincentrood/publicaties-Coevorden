@@ -4,23 +4,30 @@
     <title>{{ .Title }}</title>
 </head>
 <body>
-    {{/* 1. Pak het pad, vervang .md door .pdf en plak de S3-basis-URL er voor */}}
-    {{ $pdf_path := replace .File.Path ".md" ".pdf" }}
+    {{/* 1. Pak het volledige pad */}}
+    {{ $full_path := .File.Path }}
+
+    {{/* 2. Haal 'docs/' aan het begin weg (indien aanwezig) */}}
+    {{ $cleaned_path := replace $full_path "docs/" "" }}
+
+    {{/* 3. Vervang .md door .pdf */}}
+    {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
+
+    {{/* 4. Bouw de uiteindelijke S3 URL */}}
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
     
     <h1>{{ .File.BaseFileName | humanize }}</h1>
     
     <script>
-        // Direct doorsturen
+        // Direct doorsturen naar de S3 PDF
         window.location.href = "{{ $pdf_url | safeJS }}";
     </script>
 
     <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
     
-    {{/* Pagefind sectie */}}
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        {{/* We gebruiken de mapnaam direct als categorie (simpel) */}}
+        {{/* Gebruik de sectie of de mapnaam als filter */}}
         <span data-pagefind-filter="categorie">{{ .Section | humanize }}</span>
         {{ .Content }}
     </div>
