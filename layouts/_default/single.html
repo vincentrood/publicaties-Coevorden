@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    <h1>Bezig met doorsturen naar PDF...</h1>
+    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
+    
+    <script>
+        // Direct doorsturen naar de S3 PDF
+        window.location.href = "{{ $pdf_url | safeJS }}";
+    </script>
+
+    <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
+    
+    <div style="display:none;" data-pagefind-body>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </div>
+</body>
+</html>
