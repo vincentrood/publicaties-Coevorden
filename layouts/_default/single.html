@@ -4,7 +4,7 @@
     <title>{{ .Title }}</title>
 </head>
 <body>
-    <h1>Dit moet een titel zijn</h1>
+    <h1>{{ .File.BaseFileName | humanize }}</h1>
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
     
     <script>
