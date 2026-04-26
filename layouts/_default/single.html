@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>{{ .File.BaseFileName | humanize }}</h1>
-    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
+    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/{{ .File.Dir }}" .File.BaseFileName ".pdf" }}
     
     <script>
         // Direct doorsturen naar de S3 PDF
