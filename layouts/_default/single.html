@@ -3,6 +3,9 @@
 <head>
     <title>{{ .Title }}</title>
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
+    
+    <meta data-pagefind-meta="title" content="{{ .Title }}">
+    <meta data-pagefind-meta="url" content="{{ $pdf_url }}">
 </head>
 <body>
 
@@ -16,12 +19,8 @@
         <p><a href="{{ $pdf_url }}">Klik hier als er niets gebeurt.</a></p>
     </div>
 
-    <div style="visibility: hidden; height: 0; overflow: hidden;">
-        <article data-pagefind-body>
-            <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-            <p>{{ .Content }}</p>
-            <a href="{{ $pdf_url }}" data-pagefind-meta="url[href]">Bekijk PDF</a>
-        </article>
+    <div style="opacity: 0; height: 0; overflow: hidden;" data-pagefind-body>
+        {{ .Content }}
     </div>
 
 </body>
