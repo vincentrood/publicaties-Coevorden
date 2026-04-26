@@ -4,22 +4,27 @@
     <title>{{ .Title }}</title>
 </head>
 <body>
-    {{/* 1. Pak het volledige pad */}}
+    {{/* 1. URL LOGICA */}}
     {{ $full_path := .File.Path }}
-
-    {{/* 2. Haal 'docs/' aan het begin weg (indien aanwezig) */}}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
-
-    {{/* 3. Vervang .md door .pdf */}}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-
-    {{/* 4. Bouw de uiteindelijke S3 URL */}}
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
     
+    {{/* 2. CATEGORIE LOGICA (Dynamisch de map na 'docs' pakken) */}}
+    {{ $path_parts := split .File.Dir "/" }}
+    {{ $real_category := "Algemeen" }}
+    
+    {{/* Als het pad meer dan 2 delen heeft (bijv. docs/pdf-bestanden/), pak dan het tweede deel */}}
+    {{ if gt (len $path_parts) 2 }}
+        {{ $real_category = index $path_parts 1 }}
+    {{ else }}
+        {{/* Fallback: als er geen submap is, gebruik de sectie-naam */}}
+        {{ $real_category = .Section }}
+    {{ end }}
+
     <h1>{{ .File.BaseFileName | humanize }}</h1>
     
     <script>
-        // Direct doorsturen naar de S3 PDF
         window.location.href = "{{ $pdf_url | safeJS }}";
     </script>
 
@@ -27,8 +32,10 @@
     
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        {{/* Gebruik de sectie of de mapnaam als filter */}}
-        <span data-pagefind-filter="categorie">{{ .Section | humanize }}</span>
+        
+        {{/* Hier gebruiken we de nieuwe dynamische categorie */}}
+        <span data-pagefind-filter="categorie">{{ $real_category | humanize }}</span>
+        
         {{ .Content }}
     </div>
 </body>
