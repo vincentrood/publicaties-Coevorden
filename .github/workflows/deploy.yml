@@ -26,7 +26,7 @@ jobs:
         run: hugo --minify
 
       - name: Index with Pagefind
-        run: npx pagefind --site public
+        run: npx pagefind --site public --bundle-dir _pagefind
 
       - name: Deploy to GitHub Pages (of S3)
         uses: peaceiris/actions-gh-pages@v3
