@@ -20,7 +20,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
           mkdir -p content/docs
-          aws s3 sync s3://publicaties-coevorden content/docs/ --exclude "*" --include "*.md" --region eu-central-1
+          aws s3 sync s3://publicaties-coevorden content/docs/ --exclude "*" --include "pdf bestanden/*.md" --region eu-central-1
 
       - name: Build Hugo
         run: hugo --minify
