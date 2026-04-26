@@ -2,26 +2,21 @@
 <html>
 <head>
     <title>{{ .Title }}</title>
-    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
-    
-    <meta data-pagefind-meta="title" content="{{ .Title }}">
-    <meta data-pagefind-meta="url" content="{{ $pdf_url }}">
 </head>
 <body>
-
+    <h1>{{ .Title }}</h1>
+    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/pdf+bestanden/" .File.BaseFileName ".pdf" }}
+    
     <script>
+        // Direct doorsturen naar de S3 PDF
         window.location.href = "{{ $pdf_url | safeJS }}";
     </script>
 
-    <div data-pagefind-ignore="all" style="font-family: sans-serif; text-align: center; padding: 50px;">
+    <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
+    
+    <div style="display:none;" data-pagefind-body>
         <h1>{{ .Title }}</h1>
-        <p>U wordt doorgestuurd naar de PDF...</p>
-        <p><a href="{{ $pdf_url }}">Klik hier als er niets gebeurt.</a></p>
-    </div>
-
-    <div style="opacity: 0; height: 0; overflow: hidden;" data-pagefind-body>
         {{ .Content }}
     </div>
-
 </body>
 </html>
