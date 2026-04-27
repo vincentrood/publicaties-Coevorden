@@ -36,6 +36,17 @@
                     searching: "Zoeken naar [SEARCH_TERM]..."
                 }
             });
+
+// Omdat Pagefind UI geen directe 'target' optie heeft, 
+        // gebruiken we een 'MutationObserver' of een simpel click-event op de container.
+        document.querySelector('#search').addEventListener('click', function(e) {
+            if (e.target.tagName === 'A' || e.target.closest('a')) {
+                const link = e.target.tagName === 'A' ? e.target : e.target.closest('a');
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
+            
         });
     </script>
 </body>
