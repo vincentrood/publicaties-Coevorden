@@ -3,11 +3,19 @@
 <head>
     <title>{{ .Title }}</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
-        #mobile-view { display: none; padding: 40px 20px; border: 1px solid #ddd; border-radius: 8px; text-align: center; }
-        .pdf-link { font-size: 1.2em; color: #005eb0; text-decoration: underline; font-weight: bold; }
-        .data-warning { display: block; margin-top: 15px; color: #d93025; font-size: 0.9em; font-weight: bold; }
-        #redirect-message { text-align: center; margin-top: 50px; }
+        .pdf-link-container {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        .warning {
+            color: #d9534f;
+            font-size: 0.9em;
+            font-weight: bold;
+            margin-top: 5px;
+        }
     </style>
 </head>
 <body>
@@ -17,14 +25,16 @@
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
     
-    {{/* 2. MAP LOGICA: De mappenstructuur ontleden voor Pagefind */}}
+    {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
     {{ $dir_path := trim .File.Dir "/" }}
     {{ $path_parts := split $dir_path "/" }}
     {{ $depth := len $path_parts }}
 
+    {{/* Standaardwaarden instellen */}}
     {{ $categorie := "Algemeen" }}
     {{ $zaak := "" }}
 
+    {{/* Logica voor het toewijzen van Categorie en Zaak-tags */}}
     {{ if eq $depth 2 }}
         {{ $categorie = index $path_parts 1 }}
     {{ else if gt $depth 2 }}
@@ -34,54 +44,24 @@
         {{ $categorie = .Section }}
     {{ end }}
 
-    {{/* 3. DISPLAY LOGICA: Desktop vs Mobiel */}}
-
-    <div id="redirect-message">
-        <h1>{{ .File.BaseFileName | humanize }}</h1>
-        <p>Een moment geduld, u wordt doorgestuurd naar het document...</p>
+    <h1>{{ .File.BaseFileName | humanize }}</h1>
+    
+    <div class="pdf-link-container">
+        <p>Klik op de onderstaande link om het document te bekijken:</p>
+        <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
+            Bekijk PDF: {{ .File.BaseFileName | humanize }}
+        </a>
+        <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
-
-    <div id="mobile-view">
-        <h1>{{ .File.BaseFileName | humanize }}</h1>
-        <p>Klik op de onderstaande link om de publicatie te openen:</p>
-        
-        <a href="{{ $pdf_url }}" class="pdf-link">Open document (PDF)</a>
-        
-        <span class="data-warning">
-            ⚠️ Let op: Dit bestand kan groot zijn (tot 100 MB). 
-            Het openen kan veel data verbruiken van uw mobiele abonnement.
-        </span>
-    </div>
-
-    <script>
-        (function() {
-            var pdfUrl = "{{ $pdf_url | safeJS }}";
-            // Check of de gebruiker op een mobiel apparaat zit
-            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
-
-            if (isMobile) {
-                // Stop redirect en toon mobiele link (bespaart data)
-                document.getElementById('redirect-message').style.display = 'none';
-                document.getElementById('mobile-view').style.display = 'block';
-            } else {
-                // Desktop: Direct doorsturen naar de PDF
-                window.location.href = pdfUrl;
-            }
-        })();
-    </script>
     
     {{/* 4. PAGEFIND: De verborgen data voor de zoekmachine */}}
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        
         <span data-pagefind-filter="categorie">{{ $categorie | humanize }}</span>
-        
         {{ if $zaak }}
             <span data-pagefind-filter="zaak">{{ $zaak | humanize }}</span>
             <span data-pagefind-meta="zaak">{{ $zaak | humanize }}</span>
         {{ end }}
-
-        {{/* De volledige tekstinhoud uit Markdown voor de zoekmachine */}}
         {{ .Content }}
     </div>
 </body>
