@@ -1,85 +1,62 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>{{ .Title }}</title>
-    <style>
-        /* Verwijder alle marges en padding van de body */
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            width: 100%;
-            overflow: hidden; /* Voorkom dubbele scrollbalken */
-            background-color: #525659; /* Match vaak de PDF viewer achtergrond */
-        }
-
-        /* Het iframe vult de volledige viewport */
-        .pdf-container {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-
-        /* Verberg de H1 voor gebruikers, maar hou hem voor SEO/toegankelijkheid */
-        .sr-only {
-            position: absolute;
-            width: 1px;
-            height: 1px;
-            padding: 0;
-            margin: -1px;
-            overflow: hidden;
-            clip: rect(0, 0, 0, 0);
-            border: 0;
-        }
-    </style>
 </head>
 <body>
-    {{/* 1. URL LOGICA */}}
+    {{/* 1. URL LOGICA: Bouw de directe link naar de PDF op S3 */}}
     {{ $full_path := .File.Path }}
     {{ $cleaned_path := replace $full_path "docs/" "" }}
     {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
     
-    {{/* 2. MAP LOGICA */}}
+    {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
     {{ $dir_path := trim .File.Dir "/" }}
     {{ $path_parts := split $dir_path "/" }}
     {{ $depth := len $path_parts }}
+
+    {{/* Standaardwaarden instellen */}}
     {{ $categorie := "Algemeen" }}
     {{ $zaak := "" }}
 
+    {{/* Logica voor het toewijzen van Categorie en Zaak-tags */}}
     {{ if eq $depth 2 }}
+        {{/* Situatie: docs/categorie-naam/bestand.md */}}
         {{ $categorie = index $path_parts 1 }}
     {{ else if gt $depth 2 }}
+        {{/* Situatie: docs/categorie-naam/zaak-naam/bestand.md */}}
         {{ $categorie = index $path_parts 1 }}
         {{ $zaak = index $path_parts (sub $depth 1) }}
     {{ else }}
+        {{/* Situatie: bestand staat direct in de docs map */}}
         {{ $categorie = .Section }}
     {{ end }}
 
-    <h1 class="sr-only">{{ .File.BaseFileName | humanize }}</h1>
+    <h1>{{ .File.BaseFileName | humanize }}</h1>
+    
+    {{/* 3. REDIRECT: Automatisch doorsturen naar de PDF */}}
 
-    {{/* 3. HET IFRAME */}}
-    <iframe 
-        src="{{ $pdf_url }}" 
-        class="pdf-container"
-        frameborder="0"
-        allow="fullscreen">
-        <p>Je browser ondersteunt geen iframes. <a href="{{ $pdf_url }}">Klik hier om de PDF te downloaden.</a></p>
-    </iframe>
+        <script>
+            window.location.href = "{{ $pdf_url | safeJS }}";
+        </script>
+
+    <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
     
     {{/* 4. PAGEFIND: De verborgen data voor de zoekmachine */}}
     <div style="display:none;" data-pagefind-body>
+        {{/* Titel voor in de zoekresultaten */}}
         <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
+        
+        {{/* Categorie Filter */}}
         <span data-pagefind-filter="categorie">{{ $categorie | humanize }}</span>
+        
+        {{/* Zaak Filter (alleen als er een zaak-map is) */}}
         {{ if $zaak }}
             <span data-pagefind-filter="zaak">{{ $zaak | humanize }}</span>
             <span data-pagefind-meta="zaak">{{ $zaak | humanize }}</span>
         {{ end }}
+
+        {{/* De tekstinhoud van de markdown voor de zoekmachine */}}
         {{ .Content }}
     </div>
 </body>
