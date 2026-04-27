@@ -1,62 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
-    <title>{{ .Title }}</title>
+    <meta charset="UTF-8">
+    <title>S3 PDF Zoeker - Coevorden</title>
+    <link href="https://vincentrood.github.io/publicaties-Coevorden/_pagefind/pagefind-ui.css" rel="stylesheet">
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        h1 { color: #333; }
+        #search { margin-top: 20px; }
+    </style>
 </head>
 <body>
-    {{/* 1. URL LOGICA: Bouw de directe link naar de PDF op S3 */}}
-    {{ $full_path := .File.Path }}
-    {{ $cleaned_path := replace $full_path "docs/" "" }}
-    {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
+    <h1>Zoek in PDF publicaties</h1>
     
-    {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
-    {{ $dir_path := trim .File.Dir "/" }}
-    {{ $path_parts := split $dir_path "/" }}
-    {{ $depth := len $path_parts }}
+    <div id="search"></div>
 
-    {{/* Standaardwaarden instellen */}}
-    {{ $categorie := "Algemeen" }}
-    {{ $zaak := "" }}
-
-    {{/* Logica voor het toewijzen van Categorie en Zaak-tags */}}
-    {{ if eq $depth 2 }}
-        {{/* Situatie: docs/categorie-naam/bestand.md */}}
-        {{ $categorie = index $path_parts 1 }}
-    {{ else if gt $depth 2 }}
-        {{/* Situatie: docs/categorie-naam/zaak-naam/bestand.md */}}
-        {{ $categorie = index $path_parts 1 }}
-        {{ $zaak = index $path_parts (sub $depth 1) }}
-    {{ else }}
-        {{/* Situatie: bestand staat direct in de docs map */}}
-        {{ $categorie = .Section }}
-    {{ end }}
-
-    <h1>{{ .File.BaseFileName | humanize }}</h1>
-    
-    {{/* 3. REDIRECT: Automatisch doorsturen naar de PDF */}}
+    <script src="https://vincentrood.github.io/publicaties-Coevorden/_pagefind/pagefind-ui.js"></script>
     <script>
-        window.location.href = "{{ $pdf_url | safeJS }}";
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ 
+                element: "#search", 
+                showSubResults: true,
+                showImages: false,
+                excerptLength: 40,
+                showFilters: ["categorie", "zaak"],
+                translations: {
+                    placeholder: "Zoek hier naar documenten...",
+                    clear_search: "Wissen",
+                    load_more: "Meer resultaten laden",
+                    search_label: "Zoek in deze site",
+                    filters_label: "Filters",
+                    zero_results: "Geen resultaten gevonden voor [SEARCH_TERM]",
+                    many_results: "[COUNT] resultaten gevonden voor [SEARCH_TERM]",
+                    one_result: "[COUNT] resultaat gevonden voor [SEARCH_TERM]",
+                    searching: "Zoeken naar [SEARCH_TERM]..."
+                }
+            });
+        });
     </script>
-
-    <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
-    
-    {{/* 4. PAGEFIND: De verborgen data voor de zoekmachine */}}
-    <div style="display:none;" data-pagefind-body>
-        {{/* Titel voor in de zoekresultaten */}}
-        <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        
-        {{/* Categorie Filter */}}
-        <span data-pagefind-filter="categorie">{{ $categorie | humanize }}</span>
-        
-        {{/* Zaak Filter (alleen als er een zaak-map is) */}}
-        {{ if $zaak }}
-            <span data-pagefind-filter="zaak">{{ $zaak | humanize }}</span>
-            <span data-pagefind-meta="zaak">{{ $zaak | humanize }}</span>
-        {{ end }}
-
-        {{/* De tekstinhoud van de markdown voor de zoekmachine */}}
-        {{ .Content }}
-    </div>
 </body>
 </html>
