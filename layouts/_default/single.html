@@ -35,8 +35,9 @@
     <h1>{{ .File.BaseFileName | humanize }}</h1>
     
     {{/* 3. REDIRECT: Automatisch doorsturen naar de PDF */}}
+
         <script>
-            window.location.assign("{{ $pdf_url | safeJS }}");
+            window.location.href = "{{ $pdf_url | safeJS }}";
         </script>
 
     <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
