@@ -11,11 +11,12 @@
     </style>
 </head>
 <body>
-    {{/* 1. URL & PAD LOGICA */}}
+    {{/* 1. PAD EN URL LOGICA */}}
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" (replace (replace .File.Path "docs/" "") ".md" ".pdf") }}
     {{ $path_parts := split (trim .File.Dir "/") "/" }}
-    
-    <h1>{{ .Title }}</h1>
+
+    {{/* 2. ZICHTBARE TITEL (Met Pagefind Meta voor betrouwbare resultaten) */}}
+    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
     
     <div class="pdf-link-container">
         <p>Klik op de onderstaande link om het document te bekijken:</p>
@@ -25,25 +26,28 @@
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
 
-    {{/* 2. DYNAMISCHE PAGEFIND META & FILTERS */}}
-    {{/* We loopen door alle mappen. We slaan de eerste (index 0) over zoals gevraagd. */}}
-    <div style="display:none;" data-pagefind-body>
-        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-        
+    {{/* 3. DYNAMISCHE FILTERS & CONTENT */}}
+    <div data-pagefind-body>
+        {{/* Loop door de mappen voor filters */}}
         {{ range $index, $element := $path_parts }}
-            {{ if gt $index 0 }}
-                <span data-pagefind-filter="laag_{{ $index }}">{{ $element | humanize }}</span>
-                <span data-pagefind-meta="laag_{{ $index }}">{{ $element | humanize }}</span>
+            {{ if eq $index 1 }}
+                {{/* De eerste laag na 'docs' noemen we Categorie */}}
+                <span style="display:none;" data-pagefind-filter="Categorie">{{ $element | humanize }}</span>
+            {{ else if eq $index 2 }}
+                {{/* De tweede laag noemen we Zaak */}}
+                <span style="display:none;" data-pagefind-filter="Zaak" data-pagefind-meta="zaak">{{ $element | humanize }}</span>
+            {{ else if gt $index 2 }}
+                {{/* Alles daarna krijgt de naam van de map als filter-type */}}
+                <span style="display:none;" data-pagefind-filter="Subniveau">{{ $element | humanize }}</span>
             {{ end }}
         {{ end }}
 
         {{ .Content }}
     </div>
 
-    {{/* 3. RELEVANTE DOCUMENTEN (Laatste laag) */}}
-    {{/* Dit haalt alle pagina's op die in dezelfde map staan als dit document */}}
+    {{/* 4. RELEVANTE DOCUMENTEN (Laatste laag) */}}
     <div class="related-docs">
-        <h3>Documenten in dezelfde categorie</h3>
+        <h3>Documenten in deze map</h3>
         <ul>
             {{ $current_page := . }}
             {{ range .Parent.Pages }}
@@ -51,11 +55,7 @@
                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                 {{ end }}
             {{ end }}
-            {{ if eq (len .Parent.Pages) 1 }}
-                <li><em>Geen andere documenten gevonden in deze map.</em></li>
-            {{ end }}
         </ul>
     </div>
-
 </body>
 </html>
