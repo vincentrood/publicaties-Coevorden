@@ -7,47 +7,45 @@
         .warning { color: #d9534f; font-size: 0.9em; font-weight: bold; margin-top: 5px; }
         .related-docs { margin-top: 40px; padding-top: 20px; border-top: 2px solid #eee; }
         .related-docs ul { list-style: none; padding: 0; }
-        .related-docs li { margin-bottom: 8px; }
+        .related-docs li { margin-bottom: 8px; font-size: 1.1em; }
+        .related-docs a { color: #0056b3; text-decoration: none; }
+        .related-docs a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
-    {{/* 1. PAD EN URL LOGICA */}}
+    {{/* 1. URL LOGICA */}}
     {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" (replace (replace .File.Path "docs/" "") ".md" ".pdf") }}
     {{ $path_parts := split (trim .File.Dir "/") "/" }}
 
-    {{/* 2. ZICHTBARE TITEL (Met Pagefind Meta voor betrouwbare resultaten) */}}
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-    
-    <div class="pdf-link-container">
-        <p>Klik op de onderstaande link om het document te bekijken:</p>
-        <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
-            Bekijk PDF: {{ .Title }}
-        </a>
-        <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
-    </div>
+    <main data-pagefind-body>
+        {{/* 2. TITEL & PDF LINK (Meta title voor Pagefind resultaten) */}}
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+        
+        <div class="pdf-link-container">
+            <p>Klik op de onderstaande link om het document te bekijken:</p>
+            <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
+                Bekijk PDF: {{ .Title }}
+            </a>
+            <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
+        </div>
 
-    {{/* 3. DYNAMISCHE FILTERS & CONTENT */}}
-    <div data-pagefind-body>
-        {{/* Loop door de mappen voor filters */}}
+        {{/* 3. DYNAMISCHE FILTERS: Elke mapnaam wordt een eigen filtergroep */}}
         {{ range $index, $element := $path_parts }}
-            {{ if eq $index 1 }}
-                {{/* De eerste laag na 'docs' noemen we Categorie */}}
-                <span style="display:none;" data-pagefind-filter="Categorie">{{ $element | humanize }}</span>
-            {{ else if eq $index 2 }}
-                {{/* De tweede laag noemen we Zaak */}}
-                <span style="display:none;" data-pagefind-filter="Zaak" data-pagefind-meta="zaak">{{ $element | humanize }}</span>
-            {{ else if gt $index 2 }}
-                {{/* Alles daarna krijgt de naam van de map als filter-type */}}
-                <span style="display:none;" data-pagefind-filter="Subniveau">{{ $element | humanize }}</span>
+            {{ if gt $index 0 }}
+                <span style="display:none;" data-pagefind-filter="{{ $element | humanize }}">Ja</span>
+                <span style="display:none;" data-pagefind-meta="{{ $element | humanize }}">{{ $element | humanize }}</span>
             {{ end }}
         {{ end }}
 
-        {{ .Content }}
-    </div>
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </main>
 
-    {{/* 4. RELEVANTE DOCUMENTEN (Laatste laag) */}}
-    <div class="related-docs">
-        <h3>Documenten in deze map</h3>
+    {{/* 4. RELEVANTE DOCUMENTEN (Andere bestanden in dezelfde map) */}}
+    <section class="related-docs">
+        <hr>
+        <h3>Andere documenten in deze categorie</h3>
         <ul>
             {{ $current_page := . }}
             {{ range .Parent.Pages }}
@@ -56,6 +54,7 @@
                 {{ end }}
             {{ end }}
         </ul>
-    </div>
+    </section>
+
 </body>
 </html>
