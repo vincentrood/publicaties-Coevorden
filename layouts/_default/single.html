@@ -36,9 +36,11 @@
     
     {{/* 3. REDIRECT: Automatisch doorsturen naar de PDF */}}
 
-        <script>
-            window.location.href = "{{ $pdf_url | safeJS }}";
-        </script>
+    <script>
+        window.open("{{ $pdf_url | safeJS }}", "_blank");
+        // Optioneel: stuur de huidige pagina ook ergens anders heen of ga eentje terug
+        window.history.back();
+    </script>
 
     <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
     
