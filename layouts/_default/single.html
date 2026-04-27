@@ -1,68 +1,61 @@
 <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
     <title>{{ .Title }}</title>
     <style>
-        .pdf-link-container {
-            margin: 20px 0;
-            padding: 15px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background-color: #f9f9f9;
-        }
-        .warning {
-            color: #d9534f;
-            font-size: 0.9em;
-            font-weight: bold;
-            margin-top: 5px;
-        }
+        .pdf-link-container { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; }
+        .warning { color: #d9534f; font-size: 0.9em; font-weight: bold; margin-top: 5px; }
+        .related-docs { margin-top: 40px; padding-top: 20px; border-top: 2px solid #eee; }
+        .related-docs ul { list-style: none; padding: 0; }
+        .related-docs li { margin-bottom: 8px; }
     </style>
 </head>
 <body>
-    {{/* 1. URL LOGICA: Bouw de directe link naar de PDF op S3 */}}
-    {{ $full_path := .File.Path }}
-    {{ $cleaned_path := replace $full_path "docs/" "" }}
-    {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
+    {{/* 1. URL & PAD LOGICA */}}
+    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" (replace (replace .File.Path "docs/" "") ".md" ".pdf") }}
+    {{ $path_parts := split (trim .File.Dir "/") "/" }}
     
-    {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
-    {{ $dir_path := trim .File.Dir "/" }}
-    {{ $path_parts := split $dir_path "/" }}
-    {{ $depth := len $path_parts }}
-
-    {{/* Standaardwaarden instellen */}}
-    {{ $categorie := "Algemeen" }}
-    {{ $zaak := "" }}
-
-    {{/* Logica voor het toewijzen van Categorie en Zaak-tags */}}
-    {{ if eq $depth 2 }}
-        {{ $categorie = index $path_parts 1 }}
-    {{ else if gt $depth 2 }}
-        {{ $categorie = index $path_parts 1 }}
-        {{ $zaak = index $path_parts (sub $depth 1) }}
-    {{ else }}
-        {{ $categorie = .Section }}
-    {{ end }}
-
-    <h1>{{ .File.BaseFileName | humanize }}</h1>
+    <h1>{{ .Title }}</h1>
     
     <div class="pdf-link-container">
         <p>Klik op de onderstaande link om het document te bekijken:</p>
         <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
-            Bekijk PDF: {{ .File.BaseFileName | humanize }}
+            Bekijk PDF: {{ .Title }}
         </a>
         <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
     </div>
-    
-    {{/* 4. PAGEFIND: De verborgen data voor de zoekmachine */}}
+
+    {{/* 2. DYNAMISCHE PAGEFIND META & FILTERS */}}
+    {{/* We loopen door alle mappen. We slaan de eerste (index 0) over zoals gevraagd. */}}
     <div style="display:none;" data-pagefind-body>
-        <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        <span data-pagefind-filter="categorie">{{ $categorie | humanize }}</span>
-        {{ if $zaak }}
-            <span data-pagefind-filter="zaak">{{ $zaak | humanize }}</span>
-            <span data-pagefind-meta="zaak">{{ $zaak | humanize }}</span>
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+        
+        {{ range $index, $element := $path_parts }}
+            {{ if gt $index 0 }}
+                <span data-pagefind-filter="laag_{{ $index }}">{{ $element | humanize }}</span>
+                <span data-pagefind-meta="laag_{{ $index }}">{{ $element | humanize }}</span>
+            {{ end }}
         {{ end }}
+
         {{ .Content }}
     </div>
+
+    {{/* 3. RELEVANTE DOCUMENTEN (Laatste laag) */}}
+    {{/* Dit haalt alle pagina's op die in dezelfde map staan als dit document */}}
+    <div class="related-docs">
+        <h3>Documenten in dezelfde categorie</h3>
+        <ul>
+            {{ $current_page := . }}
+            {{ range .Parent.Pages }}
+                {{ if ne . $current_page }}
+                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+            {{ end }}
+            {{ if eq (len .Parent.Pages) 1 }}
+                <li><em>Geen andere documenten gevonden in deze map.</em></li>
+            {{ end }}
+        </ul>
+    </div>
+
 </body>
 </html>
