@@ -36,9 +36,23 @@
     
     {{/* 3. REDIRECT: Automatisch doorsturen naar de PDF */}}
 
-        <script>
-            window.location.href = "{{ $pdf_url | safeJS }}";
-        </script>
+
+
+<div class="pdf-container" style="margin-top: 20px;">
+    <iframe 
+        src="{{ $pdf_url }}" 
+        style="width: 100%; height: 80vh; border: none;"
+        allow="autoplay">
+    </iframe>
+</div>
+
+<p style="text-align: center; margin-top: 10px;">
+    Wordt de PDF niet goed weergegeven? 
+    <a href="{{ $pdf_url }}" target="_blank" rel="noopener">Open direct in een nieuw tabblad</a>.
+</p>
+
+
+    
 
     <p>Als je niet wordt doorgestuurd, <a href="{{ $pdf_url }}">klik dan hier</a>.</p>
     
