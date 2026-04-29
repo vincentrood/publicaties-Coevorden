@@ -115,6 +115,120 @@
         {{ end }}
     </div>
 
+
+<!-- AI UI -->
+<div class="ai-container">
+    <h3>🤖 Stel een vraag over dit document</h3>
+
+    <div id="ai-response"></div>
+
+    <div style="display:flex; gap:10px;">
+        <input id="ai-question" style="flex:1; padding:10px;">
+        <button onclick="askAILive()" id="ai-send-btn">Vraag</button>
+    </div>
+</div>
+
+
+    <script>
+// STOPWORDS
+const STOPWORDS = [
+    "de","het","een","en","van","in","op","te","dat","die","is","zijn",
+    "wordt","voor","met","als","bij","door","aan","of","dan","er"
+];
+
+// CLEAN WORDS
+function cleanWords(text) {
+    return text
+        .toLowerCase()
+        .replace(/[^\w\s]/g, "")
+        .split(/\s+/)
+        .filter(word => word.length > 2 && !STOPWORDS.includes(word));
+}
+
+// SCORE CHUNK
+function scoreChunk(chunk, question) {
+    const qWords = cleanWords(question);
+    const chunkText = chunk.toLowerCase();
+
+    let score = 0;
+    qWords.forEach(word => {
+        if (chunkText.includes(word)) score += 2;
+    });
+
+    return score;
+}
+
+// GET RELEVANT CONTEXT
+function getRelevantContext(chunks, question) {
+    const scored = chunks.map(chunk => ({
+        text: chunk,
+        score: scoreChunk(chunk, question)
+    }));
+
+    const filtered = scored
+        .filter(c => c.score > 0)
+        .sort((a, b) => b.score - a.score);
+
+    let context = "";
+    for (let i = 0; i < filtered.length; i++) {
+        if ((context + filtered[i].text).length > 12000) break;
+        context += "\n\n" + filtered[i].text;
+    }
+
+    return context;
+}
+
+// MAIN
+async function askAILive() {
+    const question = document.getElementById('ai-question').value.trim();
+    const responseDiv = document.getElementById('ai-response');
+    const btn = document.getElementById('ai-send-btn');
+
+    if (!question) return;
+
+    const fullText = document.getElementById("ai-source").innerText;
+
+    // 🔥 ALINEA CHUNKS
+    const chunks = fullText
+        .split(/\n\s*\n/)
+        .map(p => p.trim())
+        .filter(p => p.length > 50);
+
+    const context = getRelevantContext(chunks, question);
+
+    btn.disabled = true;
+    btn.innerText = "Bezig...";
+    responseDiv.style.display = "block";
+    responseDiv.innerHTML = "⏳ AI zoekt...";
+
+    try {
+        const res = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ context, question })
+        });
+
+        const data = await res.json();
+        responseDiv.innerHTML = data.answer;
+
+    } catch {
+        responseDiv.innerHTML = "Fout bij AI.";
+    }
+
+    btn.disabled = false;
+    btn.innerText = "Vraag";
+}
+
+// ENTER support
+document.getElementById("ai-question").addEventListener("keypress", e => {
+    if (e.key === "Enter") {
+        e.preventDefault();
+        askAILive();
+    }
+});
+</script>
+    
+
     {{/* ---------------- PAGEFIND INDEX ---------------- */}}
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
