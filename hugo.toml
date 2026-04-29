@@ -1,4 +1,4 @@
-baseURL = 'https://vincentrood.github.io/publicaties-Coevorden/'
+baseURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/'
 languageCode = 'nl-nl'
 title = 'PDF Zoekmachine'
 theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
