@@ -7,6 +7,12 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+# 🔧 GLOBALE VARIABELEN (hier stel je alles in)
+env:
+  BUCKET_NAME: publicaties-coevorden
+  S3_PREFIX: publicaties/          # 👈 alleen deze map uit S3 syncen (leeg = alles)
+  HUGO_CONTENT_DIR: docs
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -27,12 +33,11 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: eu-central-1
-          BUCKET_NAME: publicaties-coevorden
         run: |
           set -euo pipefail
-          mkdir -p docs
+          mkdir -p "$HUGO_CONTENT_DIR"
 
-          echo "📥 S3 listing (safe pagination)..."
+          echo "📥 S3 listing (prefix: $S3_PREFIX)"
 
           > s3_list.txt
           TOKEN=""
@@ -41,15 +46,17 @@ jobs:
             if [ -z "$TOKEN" ]; then
               RESPONSE=$(aws s3api list-objects-v2 \
                 --bucket "$BUCKET_NAME" \
+                --prefix "$S3_PREFIX" \
                 --max-items 1000)
             else
               RESPONSE=$(aws s3api list-objects-v2 \
                 --bucket "$BUCKET_NAME" \
+                --prefix "$S3_PREFIX" \
                 --starting-token "$TOKEN" \
                 --max-items 1000)
             fi
 
-            echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt
+            echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt || true
             TOKEN=$(echo "$RESPONSE" | jq -r '.NextToken // empty')
             [ -z "$TOKEN" ] && break
           done
@@ -59,9 +66,9 @@ jobs:
           echo "📊 PDF count: $(wc -l < s3_list.txt)"
 
           echo "🧹 Cleanup removed files..."
-          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
-            relative="${md_path#docs/}"
-            expected_pdf="${relative%.md}.pdf"
+          find "$HUGO_CONTENT_DIR" -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
+            relative="${md_path#$HUGO_CONTENT_DIR/}"
+            expected_pdf="${S3_PREFIX}${relative%.md}.pdf"
 
             if ! grep -Fxq "$expected_pdf" s3_list.txt; then
               echo "❌ Removing: $md_path"
@@ -73,7 +80,10 @@ jobs:
 
           process_file () {
             pdf_key="$1"
-            md_path="docs/${pdf_key%.pdf}.md"
+
+            # verwijder prefix zodat structuur schoon blijft
+            relative="${pdf_key#$S3_PREFIX/}"
+            md_path="${HUGO_CONTENT_DIR}/${relative%.pdf}.md"
 
             if [ -f "$md_path" ]; then
               return
@@ -90,8 +100,7 @@ jobs:
               clean_title=$(echo "$filename" | tr '"' "'")
 
               # taxonomy uit mapstructuur
-              relative_path="${pdf_key%.pdf}"
-              IFS='/' read -ra parts <<< "$relative_path"
+              IFS='/' read -ra parts <<< "${relative}"
 
               taxo=()
               for ((i=0; i<${#parts[@]}-1; i++)); do
@@ -100,7 +109,6 @@ jobs:
 
               taxonomy_list=$(IFS=,; echo "${taxo[*]}")
 
-              # SAFE FRONT MATTER (NO HEREDOC)
               {
                 printf -- "---\n"
                 printf "title: \"%s\"\n" "$clean_title"
@@ -110,23 +118,21 @@ jobs:
                 printf -- "---\n\n"
               } > "$md_path"
 
-              # SAFE PDF TEXT APPEND
               pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
-
             fi
 
             rm -f "$tmpfile"
           }
 
           export -f process_file
-          export BUCKET_NAME
+          export BUCKET_NAME S3_PREFIX HUGO_CONTENT_DIR
 
           cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync: S3 → Hugo Markdown (taxonomies + safe build)"
+          commit_message: "Sync: S3 → Hugo Markdown (prefix + structured build)"
           file_pattern: 'docs/**'
 
       - name: Install Hugo
@@ -134,20 +140,18 @@ jobs:
 
       - name: Build Hugo site
         run: |
-          mkdir -p content/docs
-          cp -r docs/* content/docs/ 2>/dev/null || true
+          mkdir -p content
+          cp -r "$HUGO_CONTENT_DIR" content/docs 2>/dev/null || true
           hugo --minify
 
       - name: Index with Pagefind
         run: npx pagefind --site public --bundle-dir _pagefind
 
-      - name: Deploy to S3
+      - name: Deploy to S3 (NON-root deploy)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID_SITE }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY_SITE }}
           AWS_DEFAULT_REGION: eu-central-1
-          BUCKET_NAME: publicaties-coevorden-site
         run: |
-          aws s3 sync ./public s3://$BUCKET_NAME \
-            --delete \
-
+          aws s3 sync ./public "s3://$BUCKET_NAME/S3_PREFIX" \
+            --delete
