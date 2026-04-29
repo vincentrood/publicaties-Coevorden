@@ -1,4 +1,4 @@
-name: Robust S3 → Hugo Markdown Sync
+name: Robust S3 → Hugo Markdown Sync (Full Mirror)
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
       - name: Resolve Year Context
         run: |
           YEAR_INPUT="${{ github.event.inputs.year }}"
-          
+
           if [ -z "$YEAR_INPUT" ] || [ "$YEAR_INPUT" = "null" ]; then
             SELECTED_YEAR="${SYNC_YEAR}"
           else
@@ -46,7 +46,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils jq awscli rsync
 
-      - name: Sync S3 → Markdown
+      - name: Build fresh S3 snapshot → Markdown (FULL MIRROR)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -55,7 +55,10 @@ jobs:
         run: |
           set -euo pipefail
 
+          echo "🧹 Full rebuild: clearing docs/"
+          rm -rf docs
           mkdir -p docs
+
           echo "📥 Listing S3 objects for year $PROCESSING_YEAR"
 
           > s3_list.txt
@@ -79,13 +82,7 @@ jobs:
 
           process_file () {
             pdf_key="$1"
-
-            safe_name=$(echo "$pdf_key" | tr '/' '_' | tr '"' "'")
             md_path="docs/${pdf_key%.pdf}.md"
-            lock_file="${md_path}.lock"
-
-            if [ -f "$lock_file" ]; then return; fi
-            touch "$lock_file"
 
             mkdir -p "$(dirname "$md_path")"
 
@@ -107,7 +104,7 @@ jobs:
 
               taxonomy_list=$(IFS=,; echo "${taxo[*]}")
 
-              # S3 timestamp (betere dan date NOW)
+              # S3 timestamp
               S3_DATE=$(aws s3api head-object \
                 --bucket "$SOURCE_BUCKET" \
                 --key "$pdf_key" \
@@ -126,7 +123,7 @@ jobs:
               pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
             fi
 
-            rm -f "$tmpfile" "$lock_file"
+            rm -f "$tmpfile"
           }
 
           export -f process_file
@@ -152,7 +149,7 @@ jobs:
         run: |
           npx pagefind --site public --bundle-dir _pagefind
 
-      - name: Deploy to Year-Specific S3
+      - name: Deploy to S3 (idempotent sync)
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
