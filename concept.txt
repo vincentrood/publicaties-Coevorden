@@ -1,160 +1,241 @@
-name: Robust S3 → Hugo Markdown Sync (Full Mirror)
+Robust S3 → Hugo Sync (Production Grade)"
+
+
 
 on:
+
   push:
+
     branches: [main]
 
   schedule:
+
     - cron: '0 0 * * *'
 
   workflow_dispatch:
+
     inputs:
+
       year:
+
         description: "Welk jaartal moet gesynct worden?"
+
         required: false
-        default: ""
+
+        default: "2024"
+
+
 
 env:
-  SYNC_YEAR: "2024"
+
+  DEFAULT_YEAR: "2024"
+
+  SOURCE_BUCKET: "publicaties-coevorden"
+
   DEST_BUCKET_PREFIX: "publicatie"
 
+  AWS_REGION: "eu-central-1"
+
+
+
 jobs:
+
   deploy:
+
     runs-on: ubuntu-latest
+
     permissions:
+
       contents: write
 
+
+
     steps:
+
       - name: Checkout repository
+
         uses: actions/checkout@v4
 
-      - name: Resolve Year Context
-        run: |
-          YEAR_INPUT="${{ github.event.inputs.year }}"
 
-          if [ -z "$YEAR_INPUT" ] || [ "$YEAR_INPUT" = "null" ]; then
-            SELECTED_YEAR="${SYNC_YEAR}"
-          else
-            SELECTED_YEAR="$YEAR_INPUT"
-          fi
+
+      - name: Setup Context
+
+        run: |
+
+          # Bepaal het jaar: Input -> Env -> Default
+
+          SELECTED_YEAR="${{ github.event.inputs.year || env.DEFAULT_YEAR }}"
 
           echo "PROCESSING_YEAR=$SELECTED_YEAR" >> $GITHUB_ENV
+
           echo "TARGET_S3_BUCKET=${DEST_BUCKET_PREFIX}${SELECTED_YEAR}" >> $GITHUB_ENV
 
-      - name: Install Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y poppler-utils jq awscli rsync
 
-      - name: Build fresh S3 snapshot → Markdown (FULL MIRROR)
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: eu-central-1
-          SOURCE_BUCKET: publicaties-coevorden
+
+      - name: Install Tools
+
         run: |
+
+          sudo apt-get update
+
+          sudo apt-get install -y poppler-utils jq awscli
+
+
+
+      - name: Sync S3 to Local & Convert
+
+        env:
+
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+        run: |
+
           set -euo pipefail
 
-          echo "🧹 Full rebuild: clearing docs/"
-          rm -rf docs
-          mkdir -p docs
+          
 
-          echo "📥 Listing S3 objects for year $PROCESSING_YEAR"
+          # 1. Maak mappen schoon
 
-          > s3_list.txt
-          TOKEN=""
+          mkdir -p ./s3_raw
 
-          while : ; do
-            RESPONSE=$(aws s3api list-objects-v2 \
-              --bucket "$SOURCE_BUCKET" \
-              --prefix "$PROCESSING_YEAR/" \
-              ${TOKEN:+--continuation-token "$TOKEN"} \
-              --max-keys 1000)
+          mkdir -p ./content/docs
 
-            echo "$RESPONSE" | jq -r '.Contents[]?.Key | select(endswith(".pdf"))' >> s3_list.txt
+          
 
-            TOKEN=$(echo "$RESPONSE" | jq -r '.NextContinuationToken // empty')
-            [ -z "$TOKEN" ] && break
-          done
+          # 2. Sync ALLE PDF's in één keer (veel sneller dan losse cp's)
 
-          sort -u s3_list.txt -o s3_list.txt
-          echo "📊 PDF count: $(wc -l < s3_list.txt)"
+          echo "📥 Downloading PDFs for $PROCESSING_YEAR..."
 
-          process_file () {
-            pdf_key="$1"
-            md_path="docs/${pdf_key%.pdf}.md"
+          aws s3 sync "s3://$SOURCE_BUCKET/$PROCESSING_YEAR/" "./s3_raw/$PROCESSING_YEAR/" --quiet --exclude "*" --include "*.pdf"
 
-            mkdir -p "$(dirname "$md_path")"
 
-            tmpfile=$(mktemp --suffix=.pdf)
 
-            if aws s3 cp "s3://$SOURCE_BUCKET/$pdf_key" "$tmpfile" --quiet; then
+          # 3. Genereer metadata lijst (Key + LastModified) via S3 API
 
-              filename=$(basename "${pdf_key%.pdf}")
-              clean_title=$(echo "$filename" | tr '"' "'")
+          echo "📊 Fetching metadata..."
 
-              # taxonomy
-              relative_path="${pdf_key%.pdf}"
-              IFS='/' read -ra parts <<< "$relative_path"
-              taxo=()
+          aws s3api list-objects-v2 \
 
-              for ((i=0; i<${#parts[@]}-1; i++)); do
-                taxo+=("\"${parts[$i]}\"")
-              done
+            --bucket "$SOURCE_BUCKET" \
 
-              taxonomy_list=$(IFS=,; echo "${taxo[*]}")
+            --prefix "$PROCESSING_YEAR/" \
 
-              # S3 timestamp
-              S3_DATE=$(aws s3api head-object \
-                --bucket "$SOURCE_BUCKET" \
-                --key "$pdf_key" \
-                --query 'LastModified' \
-                --output text 2>/dev/null || date -I)
+            --query 'Contents[?ends_with(Key, `.pdf`)].[Key, LastModified]' \
 
-              {
-                printf -- "---\n"
-                printf "title: \"%s\"\n" "$clean_title"
-                printf "maps: [%s]\n" "$taxonomy_list"
-                printf "source: \"%s\"\n" "$pdf_key"
-                printf "date: \"%s\"\n" "$S3_DATE"
-                printf -- "---\n\n"
-              } > "$md_path"
+            --output json > metadata.json
 
-              pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
-            fi
 
-            rm -f "$tmpfile"
+
+          # 4. Verwerkingsfunctie (nu zonder extra AWS calls!)
+
+          process_pdf() {
+
+            local key="$1"
+
+            local mdate="$2"
+
+            local clean_name=$(basename "${key%.pdf}")
+
+            local target_md="content/docs/${key%.pdf}.md"
+
+            
+
+            mkdir -p "$(dirname "$target_md")"
+
+            
+
+            # Taxonomie opbouwen vanuit folderstructuur
+
+            IFS='/' read -ra ADDR <<< "${key%/*}"
+
+            local taxo_json=$(printf '%s\n' "${ADDR[@]}" | jq -R . | jq -s -c .)
+
+
+
+            # Markdown schrijven
+
+            cat <<EOF > "$target_md"
+
+---
+
+title: "${clean_name//\"/\\\"}"
+
+date: "${mdate}"
+
+maps: ${taxo_json}
+
+source: "${key}"
+
+---
+
+
+
+EOF
+
+            # Tekst extractie (foutbestendig)
+
+            pdftotext -raw "./s3_raw/$key" - | tr -d '\000' >> "$target_md" || echo "Warning: Text extraction failed for $key"
+
           }
 
-          export -f process_file
-          export SOURCE_BUCKET
 
-          xargs -P 4 -I {} bash -c 'process_file "$1"' _ {} < s3_list.txt
+
+          export -f process_pdf
+
+          
+
+          # 5. Parallel verwerken met JQ en XARGS
+
+          jq -r '.[] | @tsv' metadata.json | xargs -P 4 -L 1 bash -c 'process_pdf "$0" "$1"'
+
+          
 
       - name: Install Hugo
-        uses: peaceiris/actions-hugo@v2
+
+        uses: peaceiris/actions-hugo@v3 # v3 is stabieler
+
+        with:
+
+          hugo-version: 'latest'
+
+          extended: true
+
+
 
       - name: Build Hugo site
-        run: |
-          set -euo pipefail
 
-          mkdir -p content/docs
-          rsync -av docs/ content/docs/
+        run: |
 
           hugo --minify
 
-          test -d public || exit 1
+          # Check of build geslaagd is
+
+          [ -d "public" ] || exit 1
+
+
 
       - name: Index with Pagefind
-        run: |
-          npx pagefind --site public --bundle-dir _pagefind
 
-      - name: Deploy to S3 (idempotent sync)
+        run: npx pagefind --site public --bundle-dir _pagefind
+
+
+
+      - name: Deploy to S3
+
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: eu-central-1
-        run: |
-          set -euo pipefail
 
-          aws s3 sync public/ "s3://$TARGET_S3_BUCKET" --delete
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+        run: |
+
+          aws s3 sync public/ "s3://$TARGET_S3_BUCKET" \
+
+            --delete \
+
+            --region $AWS_REGION \
+
+            --cache-control "max-age=31536000, public"
