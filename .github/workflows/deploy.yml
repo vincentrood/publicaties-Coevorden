@@ -1,39 +1,148 @@
-name: Sync S3 and Build Search
+name: Robust S3 → Hugo Markdown Sync
+
 on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 0 * * *' # Elke nacht synchroniseren mochten er nieuwe PDF's zijn
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils jq
+
+      - name: Sync S3 → Markdown (taxonomy enabled)
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: eu-central-1
+          BUCKET_NAME: publicaties-coevorden
+        run: |
+          set -euo pipefail
+          mkdir -p docs
+
+          echo "📥 S3 listing (safe pagination)..."
+
+          > s3_list.txt
+          TOKEN=""
+
+          while : ; do
+            if [ -z "$TOKEN" ]; then
+              RESPONSE=$(aws s3api list-objects-v2 \
+                --bucket "$BUCKET_NAME" \
+                --max-items 1000)
+            else
+              RESPONSE=$(aws s3api list-objects-v2 \
+                --bucket "$BUCKET_NAME" \
+                --starting-token "$TOKEN" \
+                --max-items 1000)
+            fi
+
+            echo "$RESPONSE" | jq -r '.Contents[].Key' | grep '\.pdf$' >> s3_list.txt
+            TOKEN=$(echo "$RESPONSE" | jq -r '.NextToken // empty')
+            [ -z "$TOKEN" ] && break
+          done
+
+          sort -u s3_list.txt -o s3_list.txt
+
+          echo "📊 PDF count: $(wc -l < s3_list.txt)"
+
+          echo "🧹 Cleanup removed files..."
+          find docs -name "*.md" -print0 | while IFS= read -r -d '' md_path; do
+            relative="${md_path#docs/}"
+            expected_pdf="${relative%.md}.pdf"
+
+            if ! grep -Fxq "$expected_pdf" s3_list.txt; then
+              echo "❌ Removing: $md_path"
+              rm "$md_path"
+            fi
+          done
+
+          echo "➕ Processing PDFs..."
+
+          process_file () {
+            pdf_key="$1"
+            md_path="docs/${pdf_key%.pdf}.md"
+
+            if [ -f "$md_path" ]; then
+              return
+            fi
+
+            echo "🆕 $pdf_key"
+
+            mkdir -p "$(dirname "$md_path")"
+            tmpfile=$(mktemp --suffix=.pdf)
+
+            if aws s3 cp "s3://$BUCKET_NAME/$pdf_key" "$tmpfile" --quiet; then
+
+              filename=$(basename "${pdf_key%.pdf}")
+              clean_title=$(echo "$filename" | tr '"' "'")
+
+              # taxonomy uit mapstructuur
+              relative_path="${pdf_key%.pdf}"
+              IFS='/' read -ra parts <<< "$relative_path"
+
+              taxo=()
+              for ((i=0; i<${#parts[@]}-1; i++)); do
+                taxo+=("\"${parts[$i]}\"")
+              done
+
+              taxonomy_list=$(IFS=,; echo "${taxo[*]}")
+
+              # SAFE FRONT MATTER (NO HEREDOC)
+              {
+                printf -- "---\n"
+                printf "title: \"%s\"\n" "$clean_title"
+                printf "maps: [%s]\n" "$taxonomy_list"
+                printf "source: \"%s\"\n" "$pdf_key"
+                printf "date: %s\n" "$(date +%Y-%m-%d)"
+                printf -- "---\n\n"
+              } > "$md_path"
+
+              # SAFE PDF TEXT APPEND
+              pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
+
+            fi
+
+            rm -f "$tmpfile"
+          }
+
+          export -f process_file
+          export BUCKET_NAME
+
+          cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Sync: S3 → Hugo Markdown (taxonomies + safe build)"
+          file_pattern: 'docs/**'
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
 
-      - name: Sync Markdown from S3
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Build Hugo site
         run: |
           mkdir -p content/docs
-          aws s3 sync s3://publicaties-coevorden content/docs/ --exclude "*" --include "*.md" --region eu-central-1
-
-      - name: Build Hugo
-        run: hugo --minify
+          cp -r docs/* content/docs/ 2>/dev/null || true
+          hugo --minify
 
       - name: Index with Pagefind
         run: npx pagefind --site public --bundle-dir _pagefind
 
-      - name: Deploy to GitHub Pages (of S3)
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          
-          
-          
-          

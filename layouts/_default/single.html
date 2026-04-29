@@ -1,68 +1,184 @@
 <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
+    <meta charset="utf-8">
     <title>{{ .Title }}</title>
+
     <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            background-color: transparent;
+        }
+
+        h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
+
+        .meta-info {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+            font-style: italic;
+        }
+
         .pdf-link-container {
             margin: 20px 0;
-            padding: 15px;
-            border: 1px solid #ddd;
+            padding: 20px;
+            border: 1px dashed #ccc;
             border-radius: 8px;
-            background-color: #f9f9f9;
+            background-color: rgba(0, 0, 0, 0.02);
+            text-align: center;
         }
-        .warning {
-            color: #d9534f;
-            font-size: 0.9em;
+
+        .pdf-link-container a {
+            color: #0056b3;
+            text-decoration: underline;
+            font-size: 1.2em;
             font-weight: bold;
-            margin-top: 5px;
         }
+
+        .warning {
+            color: #777;
+            font-size: 0.8rem;
+            margin-top: 10px;
+        }
+
+        .gerelateerde-zaken {
+            margin-top: 40px;
+            border-top: 2px solid #f5f5f5;
+            padding-top: 20px;
+        }
+
+        .gerelateerde-zaken h3 { font-size: 1.1rem; color: #444; }
+
+        ul { padding-left: 20px; }
+        li { margin-bottom: 10px; font-size: 0.95rem; }
+        li a { color: #0056b3; text-decoration: none; }
+        li a:hover { text-decoration: underline; }
+        small { color: #888; }
     </style>
 </head>
 <body>
-    {{/* 1. URL LOGICA: Bouw de directe link naar de PDF op S3 */}}
-    {{ $full_path := .File.Path }}
-    {{ $cleaned_path := replace $full_path "docs/" "" }}
-    {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-    {{ $pdf_url := print "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/" $pdf_path }}
-    
-    {{/* 2. MAP LOGICA: De mappenstructuur ontleden */}}
-    {{ $dir_path := trim .File.Dir "/" }}
-    {{ $path_parts := split $dir_path "/" }}
-    {{ $depth := len $path_parts }}
 
-    {{/* Standaardwaarden instellen */}}
-    {{ $categorie := "Algemeen" }}
+    {{/* ---------------- SAFE DATA EXTRACTION ---------------- */}}
+    {{ $maps := .Params.maps | default (slice) }}
+
+    {{ $jaar := "" }}
+    {{ $categorie := "" }}
     {{ $zaak := "" }}
 
-    {{/* Logica voor het toewijzen van Categorie en Zaak-tags */}}
-    {{ if eq $depth 2 }}
-        {{ $categorie = index $path_parts 1 }}
-    {{ else if gt $depth 2 }}
-        {{ $categorie = index $path_parts 1 }}
-        {{ $zaak = index $path_parts (sub $depth 1) }}
-    {{ else }}
-        {{ $categorie = .Section }}
-    {{ end }}
+    {{ if ge (len $maps) 1 }}{{ $jaar = index $maps 0 }}{{ end }}
+    {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
+    {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
 
-    <h1>{{ .File.BaseFileName | humanize }}</h1>
-    
+    {{/* Datum */}}
+    {{ $publicatiedatum := .Date.Format "02-01-2006" }}
+
+    <h1>{{ .Title }}</h1>
+
+    <div class="meta-info">
+        {{ if .Date }}
+            <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
+        {{ end }}
+
+        {{ if $jaar }}
+            <strong>Jaar:</strong> {{ $jaar }}
+        {{ end }}
+
+        {{ if $categorie }}
+            | <strong>Categorie:</strong> {{ $categorie }}
+        {{ end }}
+    </div>
+
+    {{/* ---------------- PDF LINK ---------------- */}}
     <div class="pdf-link-container">
         <p>Klik op de onderstaande link om het document te bekijken:</p>
-        <a href="{{ $pdf_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
-            Bekijk PDF: {{ .File.BaseFileName | humanize }}
-        </a>
-        <p class="warning">Let op: het openen van een PDF kan data verbruiken.</p>
-    </div>
-    
-    {{/* 4. PAGEFIND: De verborgen data voor de zoekmachine */}}
-    <div style="display:none;" data-pagefind-body>
-        <h1 data-pagefind-meta="title">{{ .File.BaseFileName | humanize }}</h1>
-        <span data-pagefind-filter="categorie">{{ $categorie | humanize }}</span>
-        {{ if $zaak }}
-            <span data-pagefind-filter="zaak">{{ $zaak | humanize }}</span>
-            <span data-pagefind-meta="zaak">{{ $zaak | humanize }}</span>
+
+        {{ $full_path := .File.Path | default "" }}
+        {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
+        {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
+
+        {{ $base := .Site.Params.s3_url | default "" }}
+        {{ $base := strings.TrimSuffix "/" $base }}
+        {{ $pdf_url := printf "%s/%s" $base $pdf_path }}
+
+        {{ if and $base $pdf_path }}
+            <a href="{{ $pdf_url }}" target="_blank" rel="noopener noreferrer">
+                Bekijk PDF: {{ .Title }}
+            </a>
+        {{ else }}
+            <p>PDF niet beschikbaar.</p>
         {{ end }}
+    </div>
+
+    {{/* ---------------- PAGEFIND INDEX ---------------- */}}
+    <div style="display:none;" data-pagefind-body>
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+        {{ if .Date }}
+            <span data-pagefind-meta="Publicatiedatum">{{ $publicatiedatum }}</span>
+        {{ end }}
+
+        {{ if $jaar }}
+            <span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>
+        {{ end }}
+
+        {{ if $categorie }}
+            <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
+        {{ end }}
+
+        {{ if $zaak }}
+            <span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ $zaak }}</span>
+        {{ end }}
+
         {{ .Content }}
     </div>
+
+    {{/* ---------------- GERELATEERDE ZAKEN ---------------- */}}
+    {{ if $zaak }}
+        <div class="gerelateerde-zaken">
+            <h3>Andere documenten in de zaak: {{ $zaak }}</h3>
+
+            {{ $hasRelated := false }}
+
+            {{ range (where .Site.RegularPages "Section" "docs") }}
+                {{ if and
+                    (ne .Permalink $.Permalink)
+                    (isset .Params "maps")
+                    (ge (len .Params.maps) 3)
+                    (eq (index .Params.maps 2) $zaak)
+                }}
+                    {{ $hasRelated = true }}
+                {{ end }}
+            {{ end }}
+
+            {{ if $hasRelated }}
+                <ul>
+                    {{ range (where .Site.RegularPages "Section" "docs") }}
+                        {{ if and
+                            (ne .Permalink $.Permalink)
+                            (isset .Params "maps")
+                            (ge (len .Params.maps) 3)
+                            (eq (index .Params.maps 2) $zaak)
+                        }}
+                            <li>
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                {{ if .Date }}
+                                    <small>({{ .Date.Format "02-01-2006" }})</small>
+                                {{ end }}
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+            {{ else }}
+                <p>Geen andere documenten gevonden.</p>
+            {{ end }}
+        </div>
+    {{ end }}
+
 </body>
 </html>
