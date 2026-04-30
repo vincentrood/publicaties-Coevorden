@@ -120,9 +120,7 @@
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
-        {{ if .Date }}
-            <span data-pagefind-meta="Publicatiedatum">{{ $publicatiedatum }}</span>
-        {{ end }}
+    {{/*     {{ if .Date }}    <span data-pagefind-meta="Publicatiedatum">{{ $publicatiedatum }}</span>  {{ end }}  */}}
 
         {{ if $jaar }}
             <span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>
