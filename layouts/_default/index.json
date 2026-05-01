@@ -1,5 +1,5 @@
 [
-  {{- $docs := where .Site.AllPages "Section" "docs" -}}
+  {{- $docs := where .Site.Pages "Section" "docs" -}}
   {{- $base := $.Site.Params.s3_url | default "" -}}
   {{- $base = strings.TrimSuffix "/" $base -}}
 
@@ -7,11 +7,10 @@
 
   {{- range $docs -}}
 
-    {{- /* JSON comma handling */ -}}
     {{- if not $first }},{{ end -}}
     {{- $first = false -}}
 
-    {{- /* Maps metadata extractie */ -}}
+    {{- /* Maps metadata */ -}}
     {{- $maps := .Params.maps | default (slice) -}}
     {{- $jaar := "" -}}
     {{- $categorie := "" -}}
@@ -27,8 +26,12 @@
       {{- $zaak = index $maps 2 -}}
     {{- end -}}
 
-    {{- /* PDF URL logica (veilig tegen // issues) */ -}}
-    {{- $full_path := .File.Path | default "" -}}
+    {{- /* SAFE file path handling (FIX: .File can be nil) */ -}}
+    {{- $full_path := "" -}}
+    {{- with .File -}}
+      {{- $full_path = .Path -}}
+    {{- end -}}
+
     {{- $cleaned_path := strings.TrimPrefix "docs/" $full_path -}}
     {{- $pdf_path := replace $cleaned_path ".md" ".pdf" -}}
     {{- $pdf_path = strings.TrimPrefix "/" $pdf_path -}}
