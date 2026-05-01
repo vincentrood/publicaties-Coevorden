@@ -1,55 +1,46 @@
 [
   {{- $docs := where .Site.Pages "Section" "docs" -}}
-  {{- $base := $.Site.Params.s3_url | default "" -}}
-  {{- $base = strings.TrimSuffix "/" $base -}}
+  {{- $base := $.Site.Params.s3_url | default "" | strings.TrimSuffix "/" -}}
+  {{- $valid_docs := where $docs "File" "!=" nil -}}
+  
+  {{- $first_record := true -}}
 
-  {{- $first := true -}}
-
-  {{- range $docs -}}
-
-    {{- if not $first }},{{ end -}}
-    {{- $first = false -}}
-
+  {{- range $valid_docs -}}
+    {{- $page := . -}}
+    
     {{- /* Maps metadata */ -}}
     {{- $maps := .Params.maps | default (slice) -}}
-    {{- $jaar := "" -}}
-    {{- $categorie := "" -}}
-    {{- $zaak := "" -}}
+    {{- $jaar := index $maps 0 | default "" -}}
+    {{- $categorie := index $maps 1 | default "" -}}
 
-    {{- if ge (len $maps) 1 -}}
-      {{- $jaar = index $maps 0 -}}
-    {{- end -}}
-    {{- if ge (len $maps) 2 -}}
-      {{- $categorie = index $maps 1 -}}
-    {{- end -}}
-    {{- if ge (len $maps) 3 -}}
-      {{- $zaak = index $maps 2 -}}
-    {{- end -}}
-
-    {{- /* SAFE file path handling (FIX: .File can be nil) */ -}}
-    {{- $full_path := "" -}}
-    {{- with .File -}}
-      {{- $full_path = .Path -}}
-    {{- end -}}
-
-    {{- $cleaned_path := strings.TrimPrefix "docs/" $full_path -}}
-    {{- $pdf_path := replace $cleaned_path ".md" ".pdf" -}}
-    {{- $pdf_path = strings.TrimPrefix "/" $pdf_path -}}
-
+    {{- /* PDF Path */ -}}
+    {{- $pdf_path := .File.Path | strings.TrimPrefix "docs/" | replaceRE `\.md$` ".pdf" | strings.TrimPrefix "/" -}}
     {{- $pdf_url := printf "%s/%s" $base $pdf_path -}}
 
-    {
-      "objectID": {{ .Permalink | jsonify }},
-      "title": {{ .Title | jsonify }},
-      "content": {{ .Plain | jsonify }},
-      "jaar": {{ $jaar | jsonify }},
-      "categorie": {{ $categorie | jsonify }},
-      "zaak": {{ $zaak | jsonify }},
-      "publicatiedatum": {{ if .Date }}{{ .Date.Format "02-01-2006" | jsonify }}{{ else }}{{ "" | jsonify }}{{ end }},
-      "pdf_url": {{ $pdf_url | jsonify }},
-      "relpermalink": {{ .RelPermalink | jsonify }},
-      "type": "document"
-    }
+    {{- /* Hak de tekst in stukken van 4000 tekens */ -}}
+    {{- $content := .Plain -}}
+    {{- $chunkSize := 4000 -}}
+    {{- $contentLen := len $content -}}
+    {{- $numberOfChunks := math.Ceil (div $contentLen (float $chunkSize)) -}}
 
+    {{- range $i := seq 0 (sub $numberOfChunks 1) -}}
+      {{- if not $first_record }},{{ end -}}
+      {{- $first_record = false -}}
+      
+      {{- $start := mul $i $chunkSize -}}
+      {{- $chunk := substr $content $start $chunkSize -}}
+
+      {
+        "objectID": {{ printf "%s_chunk_%d" $page.File.UniqueID $i | jsonify }},
+        "parentID": {{ $page.File.UniqueID | jsonify }},
+        "title": {{ $page.Title | jsonify }},
+        "content": {{ $chunk | jsonify }},
+        "jaar": {{ $jaar | jsonify }},
+        "categorie": {{ $categorie | jsonify }},
+        "publicatiedatum": {{ with $page.Date }}{{ .Format "2006-01-02" | jsonify }}{{ else }}""{{ end }},
+        "pdf_url": {{ $pdf_url | jsonify }},
+        "distinct_key": {{ $page.File.UniqueID | jsonify }}
+      }
+    {{- end -}}
   {{- end -}}
 ]
