@@ -1,0 +1,35 @@
+[
+  {{- range $index, $page := .Site.AllPages -}}
+    {{- /* Alleen pagina's in de 'docs' sectie indexeren om ruis te voorkomen */ -}}
+    {{- if eq .Section "docs" -}}
+      {{- if $index -}}, {{- end -}}
+      
+      {{- /* 1. Maps metadata extractie */ -}}
+      {{- $maps := .Params.maps | default (slice) -}}
+      {{- $jaar := "" -}}{{ if ge (len $maps) 1 }}{{ $jaar = index $maps 0 }}{{ end -}}
+      {{- $categorie := "" -}}{{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end -}}
+      {{- $zaak := "" -}}{{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end -}}
+
+      {{- /* 2. PDF URL logica (exact uit jouw template) */ -}}
+      {{- $full_path := .File.Path | default "" -}}
+      {{- $cleaned_path := strings.TrimPrefix "docs/" $full_path -}}
+      {{- $pdf_path := replace $cleaned_path ".md" ".pdf" -}}
+      {{- $base := $.Site.Params.s3_url | default "" -}}
+      {{- $base := strings.TrimSuffix "/" $base -}}
+      {{- $pdf_url := printf "%s/%s" $base $pdf_path -}}
+
+      {
+        "objectID": {{ .Permalink | jsonify }},
+        "title": {{ .Title | jsonify }},
+        "content": {{ .Plain | jsonify }},
+        "jaar": {{ $jaar | jsonify }},
+        "categorie": {{ $categorie | jsonify }},
+        "zaak": {{ $zaak | jsonify }},
+        "publicatiedatum": {{ if .Date }}{{ .Date.Format "02-01-2006" | jsonify }}{{ else }}""{{ end }},
+        "pdf_url": {{ $pdf_url | jsonify }},
+        "relpermalink": {{ .RelPermalink | jsonify }},
+        "type": "document"
+      }
+    {{- end -}}
+  {{- end -}}
+]
