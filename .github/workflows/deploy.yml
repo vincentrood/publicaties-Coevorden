@@ -150,7 +150,7 @@ jobs:
           hugo --minify --baseURL "https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/$SYNC_FOLDER/"
 
       - name: Index with Pagefind
-        run: npx pagefind --site public --bundle-dir _pagefind
+        run: npx pagefind@latest --site public --bundle-dir _pagefind
 
       - name: Deploy to S3
         env:
