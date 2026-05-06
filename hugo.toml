@@ -9,3 +9,6 @@ uglyURLs = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[minify]
+  disableXML = true
