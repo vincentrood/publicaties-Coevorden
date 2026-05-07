@@ -341,11 +341,11 @@
                                       responsive: {
                                         rules: [{
                                           condition: {
-                                            maxWidth: 600
+                                            maxWidth: auto
                                           },
                                           chartOptions: {
                                             chart: {
-                                              height: 600
+                                              height: auto
                                             },
                                             series: [{
                                               dataLabels: {
@@ -442,12 +442,7 @@
                                 });
                                     initChat();
 
-        
-        // Kleine update voor de start-melding:
-        function initChat() {
-            addMessage("assistant", "Hallo! Ik heb dit document gelezen. Heb je specifieke vragen over de inhoud?");
-        }
-        initChat();
+
     </script>
 
 </body>
