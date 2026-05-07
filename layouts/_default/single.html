@@ -248,7 +248,7 @@
         {{ if .Params.milestones }}
         <div class="card">
             <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
-            <div id="milestone-timeline" style="width: 100%; min-height: 200px;"></div>
+            <div id="milestone-timeline" style="width: 100%; height: 400px;"></div>
         </div>
         {{ end }}
 
@@ -296,86 +296,71 @@
 
     <script>
           // ... (Tijdlijn script) ...
-                         document.addEventListener('DOMContentLoaded', function () {
-
-                          // 👉 Dynamische hoogte op basis van aantal milestones
-                          const milestonesCount = {{ len .Params.milestones }};
-                          const baseHeight = 150;
-                          const perItemHeight = window.innerWidth < 600 ? 55 : 70;
-                        
-                          const chartHeight = baseHeight + (milestonesCount * perItemHeight);
-                        
-                          Highcharts.chart('milestone-timeline', {
-                            chart: {
-                              type: 'timeline',
-                              inverted: true,
-                              height: chartHeight
-                            },
-                        
-                            title: {
-                              text: null
-                            },
-                        
-                            xAxis: {
-                              type: 'datetime',
-                              visible: true
-                            },
-                        
-                            yAxis: {
-                              visible: false
-                            },
-                        
-                            series: [{
-                              dataLabels: {
-                                allowOverlap: false,
-                                alternate: true,
-                                distance: 30,
-                                format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}',
-                                style: {
-                                  textOutline: 'none',
-                                  fontSize: '12px'
-                                }
-                              },
-                        
-                              marker: {
-                                symbol: 'circle',
-                                radius: 6
-                              },
-                        
-                              data: [
-                                {{- range $i, $m := .Params.milestones }}
-                                {{ if $i }},{{ end }}
-                                {
-                                  x: Date.parse("{{ $m.date }}"),
-                                  name: "{{ $m.date }}",
-                                  label: "{{ $m.event }}"
-                                }
-                                {{- end }}
-                              ]
-                            }],
-                        
-                            // 👉 Alleen mobile tweaks (GEEN height override hier meer)
-                            responsive: {
-                              rules: [{
-                                condition: {
-                                  maxWidth: 600
-                                },
-                                chartOptions: {
-                                  series: [{
-                                    dataLabels: {
-                                      distance: 15,
-                                      style: {
-                                        fontSize: '10px'
+                                  document.addEventListener('DOMContentLoaded', function () {
+                                    Highcharts.chart('milestone-timeline', {
+                                      chart: {
+                                        type: 'timeline',
+                                        inverted: true // Zet op 'true' voor een verticale tijdlijn op mobiel
+                                      },
+                                      title: {
+                                        text: null
+                                      },
+                                      xAxis: {
+                                        type: 'datetime',
+                                        visible: true // De tijdsbalk onderaan helpt bij de oriëntatie
+                                      },
+                                      yAxis: {
+                                        visible: false
+                                      },
+                                      series: [{
+                                        dataLabels: {
+                                          allowOverlap: false,  // Belangrijk: voorkomt dat tekst over elkaar heen valt
+                                          alternate: true,      // Plaatst labels om en om boven en onder de lijn
+                                          distance: 30,         // Ruimte tussen de stip en het label
+                                          format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}',
+                                          style: {
+                                            textOutline: 'none',
+                                            fontSize: '12px'
+                                          }
+                                        },
+                                        marker: {
+                                          symbol: 'circle',
+                                          radius: 6
+                                        },
+                                        data: [
+                                          {{ range .Params.milestones }}
+                                          {
+                                            x: Date.parse("{{ .date }}"),
+                                            name: "{{ .date }}",
+                                            label: "{{ .event }}"
+                                          },
+                                          {{ end }}
+                                        ]
+                                      }],
+                                      // Optioneel: verbeteringen voor kleine schermen
+                                      responsive: {
+                                        rules: [{
+                                          condition: {
+                                            maxWidth: 600
+                                          },
+                                          chartOptions: {
+                                            chart: {
+                                              minheight: 200
+                                            },
+                                            series: [{
+                                              dataLabels: {
+                                                distance: 15,
+                                                style: {
+                                                  fontSize: '10px'
+                                                }
+                                              }
+                                            }]
+                                          }
+                                        }]
                                       }
-                                    }
-                                  }]
-                                }
-                              }]
-                            }
-                        
-                          });
-                        
-                        });
+                                    });
+                                  });
+
                                  // ... (De AI JS-logica ) ...
                                 const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
                                 const MAX_CONTEXT = 50000;
@@ -457,7 +442,7 @@
                                 });
                                     initChat();
 
-
+        
     </script>
 
 </body>
