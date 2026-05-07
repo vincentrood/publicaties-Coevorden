@@ -297,11 +297,11 @@
           // ... (Tijdlijn script) ...
                                   document.addEventListener('DOMContentLoaded', function () {
                                     Highcharts.chart('milestone-timeline', {
-                                      chart: {
-                                        type: 'timeline',
-                                        inverted: true, // Zet op 'true' voor een verticale tijdlijn op mobiel
-                                        height: null
-                                      },
+                                        chart: {
+                                          type: 'timeline',
+                                          inverted: true,
+                                          height: Math.max(400, {{ len .Params.milestones }} * 80)
+                                        },
                                       title: {
                                         text: null
                                       },
