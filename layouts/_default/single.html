@@ -322,9 +322,9 @@
     {{/* PAGEFIND HIDDEN DATA */}}
     <div style="display:none;" data-pagefind-body>
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-        {{ if $jaar }}<span data-pagefind-filter="Jaar">{{ $jaar }}</span>{{ end }}
-        {{ if $categorie }}<span data-pagefind-filter="Categorie">{{ $categorie }}</span>{{ end }}
-        {{ if $zaak }}<span data-pagefind-filter="Zaak">{{ $zaak }}</span>{{ end }}
+        {{ if $jaar }}<span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>{{ end }}
+        {{ if $categorie }}<span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>{{ end }}
+        {{ if $zaak }}<span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ $zaak }}</span>{{ end }}
         {{ .Content }}
     </div>
 
