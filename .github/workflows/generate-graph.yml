@@ -2,36 +2,32 @@ name: Generate Knowledge Graph Relations
 
 on:
   workflow_dispatch:
-    inputs:
-      year:
-        description: 'Welk jaartal moet verwerkt worden?'
-        required: true
-        default: '2025'
 
 jobs:
-  build-relations:
+  enrich:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.10'
+          node-version: 20
 
       - name: Install dependencies
-        run: |
-          pip install spacy python-frontmatter
-          python -m spacy download nl_core_news_lg
+        run: npm install gray-matter openai glob fs-extra
 
-      - name: Run NER Extraction
-        run: python scripts/generate_relations.py ${{ github.event.inputs.year }}
+      - name: Run enrichment script
+        run: node scripts/enrich.js
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Commit and Push relations.json
+      - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/${{ github.event.inputs.year }}/relaties.json
-          git commit -m "Update relaties.json voor ${{ github.event.inputs.year }}" || echo "Geen wijzigingen"
+          git config user.name "ai-bot"
+          git config user.email "ai-bot@users.noreply.github.com"
+          git add .
+          git commit -m "chore: enrich markdown with AI metadata" || exit 0
           git push
