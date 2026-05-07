@@ -168,6 +168,13 @@
 
     <h1>{{ .Title }}</h1>
 
+                                    {{ with .Params.summary }}
+                                  <section class="summary">
+                                    <h2>Samenvatting</h2>
+                                    <p>{{ . }}</p>
+                                  </section>
+                                {{ end }}
+
     <div class="meta-info">
       {{/*  {{ if .Date }}
             <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
@@ -211,6 +218,50 @@
         <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
     </div>
     </div>
+
+
+                            {{ if .Params.milestones }}
+                          <section class="timeline">
+                            <h2>Tijdlijn</h2>
+                        
+                            <!-- Container voor Highcharts -->
+                            <div id="milestone-timeline"></div>
+                        
+                            <!-- Highcharts library -->
+                            <script src="https://code.highcharts.com/highcharts.js"></script>
+                            <script src="https://code.highcharts.com/modules/timeline.js"></script>
+                        
+                            <script>
+                              document.addEventListener('DOMContentLoaded', function () {
+                                Highcharts.chart('milestone-timeline', {
+                                  chart: {
+                                    type: 'timeline'
+                                  },
+                                  title: {
+                                    text: null
+                                  },
+                                  xAxis: {
+                                    type: 'datetime'
+                                  },
+                                  yAxis: {
+                                    visible: false
+                                  },
+                                  series: [{
+                                    data: [
+                                      {{ range .Params.milestones }}
+                                      {
+                                        x: Date.parse("{{ .date }}"),
+                                        name: "{{ .date }}",
+                                        label: "{{ .event }}"
+                                      },
+                                      {{ end }}
+                                    ]
+                                  }]
+                                });
+                              });
+                            </script>
+                          </section>
+                        {{ end }}
 
 
     {{/* ---------------- PAGEFIND INDEX ---------------- */}}
