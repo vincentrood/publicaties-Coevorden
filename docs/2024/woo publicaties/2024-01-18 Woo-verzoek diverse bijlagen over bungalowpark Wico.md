@@ -1,8 +1,46 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","woo publicaties"]
-source: "2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-05-06
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - woo publicaties
+source: >-
+  2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-05-06T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op basis van Woo-verzoeken besloten documenten
+  over het programma Vitale Vakantieparken Coevorden deels openbaar te maken,
+  met uitzondering van persoonsgegevens, en heeft daarnaast bestemmingsplannen
+  voor diverse recreatieparken geactualiseerd waarbij permanente bewoning
+  grotendeels wordt tegengegaan en alleen persoonsgebonden gedoogbeschikkingen
+  worden toegestaan.
+milestones:
+  - date: '2022-02-01'
+    event: >-
+      Rapport heroverweging toekomst en planning Vitale Vakantieparken Coevorden
+      opgesteld
+  - date: '2023-07-25'
+    event: >-
+      Mail met opdracht toezegging Raad Vitale Vakantieparken Coevorden
+      verzonden
+  - date: '2023-12-22'
+    event: Woo-verzoek ontvangen door gemeente Coevorden
+  - date: '2024-01-18'
+    event: Besluit Woo-verzoek Vitale Vakantieparken Coevorden genomen
+  - date: '2011-06-23'
+    event: 'Voorontwerp bestemmingsplan Gees, De Tilkampen ter inzage gelegd'
+  - date: '2014-03-04'
+    event: 'Ontwerpbestemmingsplan Meppen, Toenakkers ter inzage gelegd'
+  - date: '2014-04-14'
+    event: 'Ontwerpbestemmingsplan Meppen, Toenakkers inzagetermijn afgesloten'
+  - date: '2014-03-01'
+    event: 'Ontwerpbestemmingsplan Oosterhesselen, Binnenveld ter inzage gelegd'
+  - date: '2014-04-14'
+    event: 'Ontwerpbestemmingsplan Oosterhesselen, Binnenveld inzagetermijn afgesloten'
+  - date: '2011-06-23'
+    event: 'Voorontwerp bestemmingsplan Gees, De Tilkampen ter inzage gelegd'
+  - date: '2011-08-03'
+    event: 'Voorontwerp bestemmingsplan Gees, De Tilkampen inzagetermijn afgesloten'
 ---
 
 Postadres:
