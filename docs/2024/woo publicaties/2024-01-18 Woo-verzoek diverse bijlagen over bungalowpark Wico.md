@@ -1,8 +1,53 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","woo publicaties"]
-source: "2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-05-07
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - woo publicaties
+source: >-
+  2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-05-07T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op basis van Woo-verzoeken besloten documenten
+  over het programma Vitale Vakantieparken Coevorden deels openbaar te maken,
+  met uitzondering van persoonsgegevens, en heeft daarnaast bestemmingsplannen
+  geactualiseerd voor diverse recreatieparken met regels omtrent permanente
+  bewoning en behoud van natuur- en cultuurwaarden.
+milestones:
+  - date: '2022-02-01'
+    event: >-
+      Status definitief herbeoordeling toekomst parken en planning Vitale
+      Vakantieparken Coevorden
+  - date: '2023-07-25'
+    event: >-
+      Mail van VVPC met formulering toezegging aan de raad over geformuleerde
+      einddoelen vakantieparken
+  - date: '2023-07-26'
+    event: >-
+      Reactie wethouder Stegen op mail VVPC over tussentijdse scan beleid Vitale
+      Vakantieparken
+  - date: '2023-08-02'
+    event: Mail VVPC met toelichting bestemmingsplannen vakantieparken
+  - date: '2023-12-22'
+    event: >-
+      Ontvangst Woo-verzoek inzake openbaarmaking documenten Vitale
+      Vakantieparken Coevorden
+  - date: '2024-01-18'
+    event: >-
+      Besluit gemeente Coevorden over Woo-verzoek, gedeeltelijke openbaarmaking
+      documenten
+  - date: '2015-02-03'
+    event: Vaststelling bestemmingsplan Bungalowpark Het Zuiderveld
+  - date: '2014-03-04'
+    event: Terinzagelegging ontwerpbestemmingsplan Binnenveld
+  - date: '2014-03-04'
+    event: Terinzagelegging ontwerpbestemmingsplan Toenakkers
+  - date: '2014-03-04'
+    event: Terinzagelegging ontwerpbestemmingsplan De Tilkampen
+  - date: '2014-03-04'
+    event: Terinzagelegging ontwerpbestemmingsplan De Tilkampen
+  - date: '2014-03-04'
+    event: Terinzagelegging ontwerpbestemmingsplan De Tilkampen
 ---
 
 Postadres:
