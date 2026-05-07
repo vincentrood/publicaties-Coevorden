@@ -8,8 +8,8 @@
 
     <style>
         :root {
-            --primary: #003057; 
-            --accent: #e6001a;  
+            --primary: #003057; /* Gemeente blauw */
+            --accent: #e6001a;  /* Gemeente rood */
             --bg: #f4f7f6;
             --white: #ffffff;
         }
@@ -23,46 +23,25 @@
             background-color: var(--bg);
         }
 
-        /* Header met Terugknop */
+        /* Hero Header voor de titel van het document */
         .doc-header {
             background: var(--primary);
             color: white;
-            padding: 1.5rem;
-            position: relative;
+            padding: 2.5rem 1.5rem;
             text-align: center;
-        }
-
-        .back-btn {
-            position: absolute;
-            left: 1.5rem;
-            top: 50%;
-            transform: translateY(-50%);
-            color: white;
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 0.9rem;
-            background: rgba(255,255,255,0.1);
-            padding: 8px 15px;
-            border-radius: 20px;
-            transition: background 0.2s;
-        }
-
-        .back-btn:hover {
-            background: rgba(255,255,255,0.2);
         }
 
         .doc-header h1 {
             margin: 0;
-            font-size: 1.5rem;
-            padding: 0 100px; /* Ruimte voor de knop */
+            font-size: 1.75rem;
+            max-width: 900px;
+            margin: 0 auto;
         }
 
-        /* Container */
+        /* Container & Kaart-stijl */
         .main-content {
             max-width: 900px;
-            margin: 2rem auto;
+            margin: -2rem auto 3rem auto;
             padding: 0 15px;
         }
 
@@ -74,8 +53,32 @@
             margin-bottom: 2rem;
         }
 
+        .meta-info {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+        }
+
+        /* Samenvatting styling */
+        .summary-box {
+            background: #fdfdfd;
+            border-left: 4px solid var(--accent);
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            font-style: italic;
+        }
+
         /* PDF Knop */
-        .pdf-action { text-align: center; margin: 2rem 0; }
+        .pdf-action {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
         .btn-pdf {
             display: inline-flex;
             align-items: center;
@@ -86,52 +89,143 @@
             border-radius: 30px;
             text-decoration: none;
             font-weight: bold;
+            transition: transform 0.2s, background 0.2s;
         }
 
-        /* Tijdlijn Container */
-        #milestone-timeline {
-            width: 100%;
-            min-height: 500px; /* Verhoogd om afsnijden te voorkomen */
-            margin: 0 auto;
+        .btn-pdf:hover {
+            background: #004a85;
+            transform: translateY(-2px);
         }
 
-        /* AI Chat (compact) */
+        /* AI Chat Box */
         #ai-chat {
             border-radius: 12px;
+            overflow: hidden;
             border: 1px solid #e5e7eb;
             background: #f9fafb;
             display: flex;
             flex-direction: column;
-            height: 450px;
+            height: 500px;
         }
 
-        #chat-window { flex: 1; padding: 1rem; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; }
-        .msg { max-width: 85%; padding: 10px 15px; border-radius: 15px; font-size: 0.9rem; }
-        .user { align-self: flex-end; background: var(--primary); color: white; }
-        .ai { align-self: flex-start; background: white; border: 1px solid #ddd; }
-        
-        #input-bar { display: flex; padding: 10px; background: white; border-top: 1px solid #eee; gap: 10px; }
-        #ai-question { flex: 1; padding: 8px 15px; border: 1px solid #ddd; border-radius: 20px; outline: none; }
-        #ai-send-btn { background: var(--accent); color: white; border: none; padding: 8px 15px; border-radius: 20px; cursor: pointer; }
-
-        @media (max-width: 600px) {
-            .back-btn span { display: none; } /* Toon alleen icoon op mobiel */
-            .doc-header h1 { font-size: 1.2rem; padding: 0 50px; }
+        #chat-window {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
         }
+
+        .msg {
+            max-width: 85%;
+            padding: 12px 16px;
+            border-radius: 18px;
+            font-size: 0.95rem;
+        }
+
+        .user {
+            align-self: flex-end;
+            background: var(--primary);
+            color: white;
+            border-bottom-right-radius: 4px;
+        }
+
+        .ai {
+            align-self: flex-start;
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-bottom-left-radius: 4px;
+        }
+
+        #input-bar {
+            display: flex;
+            padding: 1rem;
+            background: white;
+            border-top: 1px solid #eee;
+            gap: 10px;
+        }
+
+        #ai-question {
+            flex: 1;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 25px;
+            outline: none;
+        }
+
+        #ai-send-btn {
+            background: var(--accent);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        /* Tijdlijn & Gerelateerd */
+        .section-title {
+            font-size: 1.2rem;
+            border-bottom: 2px solid var(--primary);
+            display: inline-block;
+            margin-bottom: 1.5rem;
+            padding-bottom: 5px;
+        }
+
+        .gerelateerde-zaken ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .gerelateerde-zaken li {
+            padding: 10px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .gerelateerde-zaken a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .gerelateerde-zaken a:hover { color: var(--accent); }
+
     </style>
 </head>
 <body>
 
+    {{/* DATA EXTRACTION */}}
+    {{ $maps := .Params.maps | default (slice) }}
+    {{ $jaar := "" }}{{ $categorie := "" }}{{ $zaak := "" }}
+    {{ if ge (len $maps) 1 }}{{ $jaar = index $maps 0 }}{{ end }}
+    {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
+    {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
+
+
     <header class="doc-header">
-        <a href="https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/index.html" class="back-btn">
+        {{/* We halen de indexURL uit de [params] of gebruiken de BaseURL als fallback */}}
+        <a href="{{ .Site.Params.indexurl | default .Site.BaseURL }}" class="back-btn">
             <i class="bi bi-arrow-left"></i> <span>Terug naar overzicht</span>
         </a>
         <h1>{{ .Title }}</h1>
     </header>
 
     <div class="main-content">
-        <!-- Document Meta & PDF -->
         <div class="card">
+            <div class="meta-info">
+                <span><i class="bi bi-calendar3"></i> {{ $jaar }}</span>
+                {{ if $categorie }}<span>| <i class="bi bi-tag"></i> {{ $categorie }}</span>{{ end }}
+                {{ if $zaak }}<span>| <i class="bi bi-folder"></i> Zaak: {{ $zaak }}</span>{{ end }}
+            </div>
+
+            {{ with .Params.summary }}
+            <div class="summary-box">
+                <strong><i class="bi bi-info-circle"></i> In het kort:</strong>
+                <p>{{ . }}</p>
+            </div>
+            {{ end }}
+
             <div class="pdf-action">
                 {{ $full_path := .File.Path | default "" }}
                 {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
@@ -140,36 +234,68 @@
                 {{ $pdf_url := printf "%s/%s" (strings.TrimSuffix "/" $base) $pdf_path }}
 
                 <a href="{{ $pdf_url }}" class="btn-pdf" target="_blank">
-                    <i class="bi bi-file-earmark-pdf"></i> Open PDF Document
+                    <i class="bi bi-file-earmark-pdf"></i> Open Originele PDF
                 </a>
             </div>
 
-            {{ with .Params.summary }}
-            <div style="background: #fdfdfd; border-left: 4px solid var(--accent); padding: 1rem; margin-bottom: 2rem;">
-                <strong>Samenvatting:</strong><br>{{ . }}
-            </div>
-            {{ end }}
-
-            <h3><i class="bi bi-robot"></i> AI Assistent</h3>
+            <!-- AI CHAT UNIT -->
+            <h3 class="section-title"><i class="bi bi-robot"></i> Vraag het de AI</h3>
             <div id="ai-chat">
                 <div id="chat-window"></div>
                 <div id="input-bar">
-                    <input id="ai-question" type="text" placeholder="Stel een vraag..." />
+                    <input id="ai-question" type="text" placeholder="Stel een vraag over dit document..." />
                     <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
                 </div>
             </div>
         </div>
 
-        <!-- Tijdlijn -->
+        {{/* TIJDLIJN SECTIE */}}
         {{ if .Params.milestones }}
         <div class="card">
-            <h3><i class="bi bi-clock-history"></i> Belangrijke Milestones</h3>
-            <div id="milestone-timeline"></div>
+            <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
+            <div id="milestone-timeline" style="width: 100%; height: 400px;"></div>
+        </div>
+        {{ end }}
+
+        {{/* GERELATEERDE ZAKEN */}}
+        {{ if $zaak }}
+        <div class="card gerelateerde-zaken">
+            <h3 class="section-title"><i class="bi bi-link-45deg"></i> Documenten in dezelfde zaak</h3>
+            {{ $hasRelated := false }}
+            {{ range (where .Site.RegularPages "Section" "docs") }}
+                {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
+                    {{ $hasRelated = true }}
+                {{ end }}
+            {{ end }}
+
+            {{ if $hasRelated }}
+                <ul>
+                {{ range (where .Site.RegularPages "Section" "docs") }}
+                    {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
+                        <li>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            {{ if .Date }}<small class="text-muted">({{ .Date.Format "02-01-2006" }})</small>{{ end }}
+                        </li>
+                    {{ end }}
+                {{ end }}
+                </ul>
+            {{ else }}
+                <p>Geen andere documenten gevonden binnen deze zaak.</p>
+            {{ end }}
         </div>
         {{ end }}
     </div>
 
-    <!-- Scripts -->
+    {{/* PAGEFIND HIDDEN DATA */}}
+    <div style="display:none;" data-pagefind-body>
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+        {{ if $jaar }}<span data-pagefind-filter="Jaar">{{ $jaar }}</span>{{ end }}
+        {{ if $categorie }}<span data-pagefind-filter="Categorie">{{ $categorie }}</span>{{ end }}
+        {{ if $zaak }}<span data-pagefind-filter="Zaak">{{ $zaak }}</span>{{ end }}
+        {{ .Content }}
+    </div>
+
+    <!-- Scripts (Highcharts & AI) -->
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/timeline.js"></script>
 
