@@ -4,199 +4,91 @@ import spacy
 import frontmatter
 import glob
 import sys
-import re
+from collections import Counter
 
-from collections import Counter, defaultdict
-
-# Nederlands model laden
+# Laden van het Nederlandse model
 try:
     nlp = spacy.load("nl_core_news_lg")
 except:
     os.system("python -m spacy download nl_core_news_lg")
     nlp = spacy.load("nl_core_news_lg")
 
-# Extra irrelevante woorden
-CUSTOM_STOPWORDS = {
-    "pagina", "datum", "onderwerp", "bijlage",
-    "kenmerk", "geachte", "besluit", "artikel",
-    "verzoek", "woo", "wob", "college",
-    "gemeente", "gemeente coevorden",
-    "zaak", "nummer", "zienswijze"
-}
-
-# Alleen deze entity types
+# Alleen relevante labels: PER (Personen), ORG (Organisaties), LOC (Locaties), FAC (Gebouwen/Infrastructuur)
 VALID_LABELS = {"PER", "ORG", "LOC", "FAC"}
-
-MIN_ENTITY_OCCURRENCES = 5
-MAX_DOC_CHARS = 80000
-
-
-def normalize_entity(text):
-    """
-    Maak entiteiten consistenter.
-    """
-
-    text = text.strip().lower()
-
-    # verwijder rare OCR tekens
-    text = re.sub(r"[^\w\s\-]", "", text)
-
-    # meerdere spaties weg
-    text = re.sub(r"\s+", " ", text)
-
-    return text
-
-
-def is_valid_entity(ent_text):
-    """
-    Filter slechte entiteiten eruit.
-    """
-
-    if len(ent_text) < 4:
-        return False
-
-    if ent_text in CUSTOM_STOPWORDS:
-        return False
-
-    if any(char.isdigit() for char in ent_text):
-        return False
-
-    if ent_text.startswith("sab"):
-        return False
-
-    return True
-
+MIN_OCCURRENCES = 5
 
 def extract_entities(year):
-
     docs_path = f"docs/{year}/**/*.md"
     output_dir = f"data/{year}"
-
     os.makedirs(output_dir, exist_ok=True)
 
     all_entities = []
     documents = []
 
-    print(f"Scannen documenten voor {year}...")
+    print(f"Verwerken van documenten voor {year}...")
 
     for filepath in glob.iglob(docs_path, recursive=True):
-
         try:
-
             with open(filepath, "r", encoding="utf-8") as f:
-
                 post = frontmatter.load(f)
-
                 doc_id = os.path.basename(filepath)
-
-                title = post.get("title", doc_id)
-
-                content = post.content[:MAX_DOC_CHARS]
-
-                doc = nlp(content)
-
-                entity_counter = Counter()
-
-                for ent in doc.ents:
-
-                    if ent.label_ not in VALID_LABELS:
-                        continue
-
-                    normalized = normalize_entity(ent.text)
-
-                    if not is_valid_entity(normalized):
-                        continue
-
-                    entity_counter[normalized] += 1
-                    all_entities.append(normalized)
-
+                
+                # NLP analyse op de tekst (beperkt tot eerste 80k tekens voor snelheid)
+                doc = nlp(post.content[:80000])
+                
+                # Filter direct op labels en lengte
+                entities_in_doc = [
+                    ent.text.strip().lower() 
+                    for ent in doc.ents 
+                    if ent.label_ in VALID_LABELS and len(ent.text) > 3
+                ]
+                
+                doc_counts = Counter(entities_in_doc)
+                all_entities.extend(entities_in_doc)
+                
                 documents.append({
                     "id": doc_id,
-                    "label": title,
-                    "entities": dict(entity_counter)
+                    "label": post.get("title", doc_id),
+                    "entities": dict(doc_counts)
                 })
-
         except Exception as e:
-            print(f"Fout in {filepath}: {e}")
+            print(f"Fout bij {filepath}: {e}")
 
-    print("Frequenties berekenen...")
-
+    # Alleen entiteiten behouden die vaak genoeg voorkomen
     global_counts = Counter(all_entities)
+    valid_ents = {e for e, count in global_counts.items() if count >= MIN_OCCURRENCES}
 
-    valid_entities = {
-        ent for ent, count in global_counts.items()
-        if count >= MIN_ENTITY_OCCURRENCES
-    }
-
+    # Bouw de JSON structuur
     nodes = []
     links = []
-
-    added_entities = set()
-
-    print("Graph bouwen...")
+    added_topics = set()
 
     for doc in documents:
+        # Voeg document toe als node
+        nodes.append({"id": doc["id"], "label": doc["label"], "type": "document", "val": 1})
 
-        # document node
-        nodes.append({
-            "id": doc["id"],
-            "label": doc["label"],
-            "type": "document",
-            "val": 1
-        })
+        for ent_name, count in doc["entities"].items():
+            if ent_name in valid_ents:
+                ent_id = f"ent_{ent_name.replace(' ', '_')}"
+                
+                # Voeg stakeholder/plaats toe als node indien nieuw
+                if ent_id not in added_topics:
+                    nodes.append({
+                        "id": ent_id, 
+                        "label": ent_name.title(), 
+                        "type": "topic", 
+                        "val": min(global_counts[ent_name], 50)
+                    })
+                    added_topics.add(ent_id)
 
-        for entity_name, local_count in doc["entities"].items():
+                # Maak de verbinding
+                links.append({"source": doc["id"], "target": ent_id, "weight": count})
 
-            if entity_name not in valid_entities:
-                continue
+    with open(f"{output_dir}/relaties.json", "w", encoding="utf-8") as f:
+        json.dump({"nodes": nodes, "links": links}, f, indent=2, ensure_ascii=False)
 
-            ent_id = f"ent_{entity_name.replace(' ', '_')}"
-
-            global_count = global_counts[entity_name]
-
-            # onderwerp node
-            if ent_id not in added_entities:
-
-                nodes.append({
-                    "id": ent_id,
-                    "label": entity_name.title(),
-                    "type": "topic",
-
-                    # BELANGRIJK:
-                    # grootte van node in ForceGraph
-                    "val": min(global_count, 50),
-
-                    "count": global_count
-                })
-
-                added_entities.add(ent_id)
-
-            # verbinding document -> onderwerp
-            links.append({
-                "source": doc["id"],
-                "target": ent_id,
-
-                # dikkere lijnen bij vaker voorkomen
-                "weight": local_count,
-
-                "relation": "vermeldt"
-            })
-
-    result = {
-        "nodes": nodes,
-        "links": links
-    }
-
-    output_file = f"{output_dir}/relaties.json"
-
-    with open(output_file, "w", encoding="utf-8") as out:
-        json.dump(result, out, indent=2, ensure_ascii=False)
-
-    print(f"Klaar: {output_file}")
-
+    print(f"Gereed! Bestand opgeslagen in {output_dir}/relaties.json")
 
 if __name__ == "__main__":
-
     target_year = sys.argv[1] if len(sys.argv) > 1 else "2024"
-
     extract_entities(target_year)
