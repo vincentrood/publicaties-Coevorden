@@ -1,5 +1,4 @@
-name: Robust S3 → Hugo Markdown Sync
-
+name: s3 pdf documenten ophalen en website bouwen
 on:
   push:
     branches: [main]
