@@ -190,6 +190,27 @@
 
         .gerelateerde-zaken a:hover { color: var(--accent); }
 
+        .timeline {
+            border-left: 3px solid var(--primary);
+            padding-left: 20px;
+        }
+        
+        .timeline-item {
+            margin-bottom: 20px;
+            position: relative;
+        }
+        
+        .timeline-item::before {
+            content: "";
+            position: absolute;
+            left: -30px;
+            top: 5px;
+            width: 12px;
+            height: 12px;
+            background: var(--accent);
+            border-radius: 50%;
+        }
+
     </style>
 </head>
 <body>
@@ -243,13 +264,24 @@
             </div>
         </div>
 
-        {{/* TIJDLIJN SECTIE */}}
-        {{ if .Params.milestones }}
-        <div class="card">
-            <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
-            <div id="milestone-timeline" style="width: 100%; min-height: 300px;"></div>
+
+            {{ if .Params.milestones }}
+        <div class="timeline">
+          {{ range (.Params.milestones | groupByDate "2006-01-02") }}
+            <div class="timeline-item">
+              <div class="timeline-date">
+                {{ .Key }}
+              </div>
+              {{ range .Pages }}
+                <div class="timeline-event">
+                  {{ .Params.event }}
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
         </div>
         {{ end }}
+        
 
         {{/* GERELATEERDE ZAKEN */}}
         {{ if $zaak }}
@@ -289,77 +321,8 @@
         {{ .Content }}
     </div>
 
-    <!-- Scripts (Highcharts & AI) -->
-    <script src="https://code.highcharts.com/highcharts.js"></script>
-    <script src="https://code.highcharts.com/modules/timeline.js"></script>
 
     <script>
-          // ... (Tijdlijn script) ...
-                                  document.addEventListener('DOMContentLoaded', function () {
-                                    Highcharts.chart('milestone-timeline', {
-                                      chart: {
-                                        type: 'timeline',
-                                        inverted: true, // Zet op 'true' voor een verticale tijdlijn op mobiel
-                                        height: null
-                                      },
-                                      title: {
-                                        text: null
-                                      },
-                                      xAxis: {
-                                        type: 'datetime',
-                                        visible: true // De tijdsbalk onderaan helpt bij de oriëntatie
-                                      },
-                                      yAxis: {
-                                        visible: false
-                                      },
-                                      series: [{
-                                        dataLabels: {
-                                          allowOverlap: false,  // Belangrijk: voorkomt dat tekst over elkaar heen valt
-                                          alternate: true,      // Plaatst labels om en om boven en onder de lijn
-                                          distance: 30,         // Ruimte tussen de stip en het label
-                                          format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}',
-                                          style: {
-                                            textOutline: 'none',
-                                            fontSize: '12px'
-                                          }
-                                        },
-                                        marker: {
-                                          symbol: 'circle',
-                                          radius: 6
-                                        },
-                                        data: [
-                                          {{ range .Params.milestones }}
-                                          {
-                                            x: Date.parse("{{ .date }}"),
-                                            name: "{{ .date }}",
-                                            label: "{{ .event }}"
-                                          },
-                                          {{ end }}
-                                        ]
-                                      }],
-                                      // Optioneel: verbeteringen voor kleine schermen
-                                      responsive: {
-                                        rules: [{
-                                          condition: {
-                                            maxWidth: 600
-                                          },
-                                          chartOptions: {
-                                            chart: {
-                                              minheight: 200
-                                            },
-                                            series: [{
-                                              dataLabels: {
-                                                distance: 15,
-                                                style: {
-                                                  fontSize: '10px'
-                                                }
-                                              }
-                                            }]
-                                          }
-                                        }]
-                                      }
-                                    });
-                                  });
 
                                  // ... (De AI JS-logica ) ...
                                 const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
