@@ -309,17 +309,12 @@
                                         type: 'datetime',
                                         visible: true // De tijdsbalk onderaan helpt bij de oriëntatie
                                       },
-                                    plotOptions: {
-                                            series: {
-                                              minPointLength: 20
-                                            }
-                                          },
                                       yAxis: {
                                         visible: false
                                       },
                                       series: [{
                                         dataLabels: {
-                                          allowOverlap: true,  // Belangrijk: voorkomt dat tekst over elkaar heen valt
+                                          allowOverlap: false,  // Belangrijk: voorkomt dat tekst over elkaar heen valt
                                           alternate: true,      // Plaatst labels om en om boven en onder de lijn
                                           distance: 30,         // Ruimte tussen de stip en het label
                                           format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}',
