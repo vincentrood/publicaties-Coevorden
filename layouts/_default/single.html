@@ -313,17 +313,27 @@
                                         visible: false
                                       },
                                       series: [{
-                                        dataLabels: {
-                                          allowOverlap: true,  // Belangrijk: voorkomt dat tekst over elkaar heen valt
-                                          alternate: true,      // Plaatst labels om en om boven en onder de lijn
-                                          distance: 30,         // Ruimte tussen de stip en het label
-                                          format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}',
-                                          style: {
-                                            textOutline: 'none',
-                                            fontSize: '12px',
-                                            width: '200px'
-                                          }
+                                          dataLabels: {
+                                            allowOverlap: false, // Verander van true naar false
+                                            alternate: true,
+                                            distance: 40,        // Vergroot de afstand iets
+                                            padding: 5,
+                                            style: {
+                                                textOutline: 'none',
+                                                fontSize: '11px', // Iets kleiner font helpt ook
+                                                width: '120px'    // Forceert tekstomloop (wrapping)
+                                            },
+                                            // Voeg dit toe om te voorkomen dat tekst in elkaar grijpt
+                                            formatter: function() {
+                                                return `<div style="text-align: center;">
+                                                            <b>${Highcharts.dateFormat('%d-%m-%Y', this.x)}</b><br/>
+                                                            <span style="word-break: break-word;">${this.point.label}</span>
+                                                        </div>`;
+                                            },
+                                            useHTML: true 
                                         },
+                                          
+                        
                                         marker: {
                                           symbol: 'circle',
                                           radius: 6
