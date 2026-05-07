@@ -20,18 +20,22 @@ for (const file of files) {
 
   // 3. AI prompt
   const prompt = `
-Je krijgt markdown content.
+Je krijgt markdown content van een Woo-besluit.
 
 Maak:
 1. summary (1 zin, NL)
 2. milestones als JSON array met date + event
 
-Output STRICT JSON:
+STRIKTE REGELS:
+- Combineer identieke gebeurtenissen op dezelfde datum tot één mijlpaal.
+- Als er meerdere documenten zijn voor hetzelfde onderwerp op dezelfde datum, noem het onderwerp dan slechts één keer.
+- Sorteer de milestones chronologisch.
 
+Output STRICT JSON:
 {
   "summary": "...",
   "milestones": [
-    { "date": "YYYY-MM-DD", "event": "..." }
+    { "date": "DD-MM-YYYY", "event": "..." }
   ]
 }
 
