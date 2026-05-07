@@ -6,7 +6,7 @@ on:
       year:
         description: 'Welk jaartal moet verwerkt worden?'
         required: true
-        default: '2024'
+        default: '2025'
 
 jobs:
   build-relations:
