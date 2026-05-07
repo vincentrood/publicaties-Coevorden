@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "fs-extra": "^11.3.5",
-    "glob": "^13.0.6",
-    "gray-matter": "^4.0.3",
-    "openai": "^6.36.0"
-  }
-}
