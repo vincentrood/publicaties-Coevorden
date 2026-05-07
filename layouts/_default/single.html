@@ -314,15 +314,23 @@
                                       },
                                       series: [{
                                         dataLabels: {
-                                          allowOverlap: true,  // Belangrijk: voorkomt dat tekst over elkaar heen valt
-                                          alternate: true,      // Plaatst labels om en om boven en onder de lijn
-                                          distance: 30,         // Ruimte tussen de stip en het label
-                                          format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}',
+                                          allowOverlap: false,          // ⛔️ belangrijk: niet laten overlappen
+                                          alternate: true,
+                                          distance: 40,
+                                          padding: 6,
+                                          crop: false,
+                                          overflow: "justify",
+                                          useHTML: true,
                                           style: {
                                             textOutline: 'none',
                                             fontSize: '12px',
-                                          }
+                                            whiteSpace: 'normal',
+                                            wordBreak: 'break-word'
+                                          },
+                                          format: '<b>{point.x:%d-%m-%Y}</b><br>{point.label}'
                                         },
+
+                                          
                                         marker: {
                                           symbol: 'circle',
                                           radius: 6
