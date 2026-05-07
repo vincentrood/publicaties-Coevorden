@@ -35,7 +35,7 @@ Output STRICT JSON:
 {
   "summary": "...",
   "milestones": [
-    { "date": "DD-MM-YYYY", "event": "..." }
+    { "date": "YYYY-MM-DD", "event": "..." }
   ]
 }
 
