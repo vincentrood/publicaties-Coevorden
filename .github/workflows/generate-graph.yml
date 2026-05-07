@@ -1,0 +1,37 @@
+name: Generate Knowledge Graph Relations
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Welk jaartal moet verwerkt worden?'
+        required: true
+        default: '2024'
+
+jobs:
+  build-relations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install spacy python-frontmatter
+          python -m spacy download nl_core_news_lg
+
+      - name: Run NER Extraction
+        run: python scripts/generate_relations.py ${{ github.event.inputs.year }}
+
+      - name: Commit and Push relations.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/${{ github.event.inputs.year }}/relaties.json
+          git commit -m "Update relaties.json voor ${{ github.event.inputs.year }}" || echo "Geen wijzigingen"
+          git push
