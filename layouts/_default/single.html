@@ -2,237 +2,300 @@
 <html lang="nl">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <style>
+        :root {
+            --primary: #003057; /* Gemeente blauw */
+            --accent: #e6001a;  /* Gemeente rood */
+            --bg: #f4f7f6;
+            --white: #ffffff;
+        }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.5;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
             color: #333;
             margin: 0;
-            padding: 20px;
-            background-color: transparent;
+            padding: 0;
+            background-color: var(--bg);
         }
 
-        h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
-
-        .meta-info {
-            font-size: 0.85rem;
-            color: #666;
-            margin-bottom: 20px;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
-            font-style: italic;
-        }
-
-        .pdf-link-container {
-            margin: 20px 0;
-            padding: 20px;
-            border: 1px dashed #ccc;
-            background-color: rgba(0, 0, 0, 0.02);
+        /* Hero Header voor de titel van het document */
+        .doc-header {
+            background: var(--primary);
+            color: white;
+            padding: 2.5rem 1.5rem;
             text-align: center;
         }
 
-        .pdf-link-container a {
-            color: #0056b3;
-            text-decoration: underline;
-            font-size: 1.2em;
+        .doc-header h1 {
+            margin: 0;
+            font-size: 1.75rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        /* Container & Kaart-stijl */
+        .main-content {
+            max-width: 900px;
+            margin: -2rem auto 3rem auto;
+            padding: 0 15px;
+        }
+
+        .card {
+            background: var(--white);
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .meta-info {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+        }
+
+        /* Samenvatting styling */
+        .summary-box {
+            background: #fdfdfd;
+            border-left: 4px solid var(--accent);
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            font-style: italic;
+        }
+
+        /* PDF Knop */
+        .pdf-action {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+        .btn-pdf {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: var(--primary);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
             font-weight: bold;
+            transition: transform 0.2s, background 0.2s;
         }
 
-        .warning {
-            color: #777;
-            font-size: 0.8rem;
-            margin-top: 10px;
+        .btn-pdf:hover {
+            background: #004a85;
+            transform: translateY(-2px);
         }
 
-        .gerelateerde-zaken {
-            margin-top: 40px;
-            border-top: 2px solid #f5f5f5;
-            padding-top: 20px;
-        }
-
-        .gerelateerde-zaken h3 { font-size: 1.1rem; color: #444; }
-
-        ul { padding-left: 20px; }
-        li { margin-bottom: 10px; font-size: 0.95rem; }
-        li a { color: #0056b3; text-decoration: none; }
-        li a:hover { text-decoration: underline; }
-        small { color: #888; }
-
-
-
-        /* ai */
-
+        /* AI Chat Box */
         #ai-chat {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #e5e7eb;
+            background: #f9fafb;
+            display: flex;
+            flex-direction: column;
+            height: 500px;
+        }
 
-    min-height: 100px;
-    max-height: 85vh;
+        #chat-window {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
 
-    border: 1px solid #e5e7eb;
-    background: rgba(0,0,0,2%);
-    overflow: hidden;
-}
+        .msg {
+            max-width: 85%;
+            padding: 12px 16px;
+            border-radius: 18px;
+            font-size: 0.95rem;
+        }
 
-/* chat messages */
-#chat-window {
-    flex: 1;
-    padding: 15px;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
+        .user {
+            align-self: flex-end;
+            background: var(--primary);
+            color: white;
+            border-bottom-right-radius: 4px;
+        }
 
-/* message bubbles */
-.msg {
-    max-width: 75%;
-    padding: 10px 12px;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
+        .ai {
+            align-self: flex-start;
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-bottom-left-radius: 4px;
+        }
 
-.user {
-    align-self: flex-end;
-    background: #2563eb;
-    color: #fff;
-}
+        #input-bar {
+            display: flex;
+            padding: 1rem;
+            background: white;
+            border-top: 1px solid #eee;
+            gap: 10px;
+        }
 
-.ai {
-    align-self: flex-start;
-    background: #fff;
-    color: #111;
-    border: 1px solid #e5e7eb;
-}
+        #ai-question {
+            flex: 1;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 25px;
+            outline: none;
+        }
 
-/* input */
-#input-bar {
-    display: flex;
-    gap: 10px;
-    padding: 12px;
-    background: #fff;
-    border-top: 1px solid #e5e7eb;
-}
+        #ai-send-btn {
+            background: var(--accent);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+        }
 
-#ai-question {
-    flex: 1;
-    padding: 12px;
-    border: 1px solid #ddd;
-    outline: none;
-}
+        /* Tijdlijn & Gerelateerd */
+        .section-title {
+            font-size: 1.2rem;
+            border-bottom: 2px solid var(--primary);
+            display: inline-block;
+            margin-bottom: 1.5rem;
+            padding-bottom: 5px;
+        }
 
-#ai-question:focus {
-    border-color: #2563eb;
-}
+        .gerelateerde-zaken ul {
+            list-style: none;
+            padding: 0;
+        }
 
-#ai-send-btn {
-    padding: 12px 18px;
-    background: #2563eb;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-    font-weight: 500;
-}
+        .gerelateerde-zaken li {
+            padding: 10px;
+            border-bottom: 1px solid #f0f0f0;
+        }
 
-#ai-send-btn:disabled {
-    opacity: 0.6;
-    cursor: not-allowed;
-}
+        .gerelateerde-zaken a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
 
-/* typing */
-.typing {
-    font-style: italic;
-    opacity: 0.6;
-}
-        
+        .gerelateerde-zaken a:hover { color: var(--accent); }
+
     </style>
 </head>
 <body>
 
-    {{/* ---------------- SAFE DATA EXTRACTION ---------------- */}}
+    {{/* DATA EXTRACTION */}}
     {{ $maps := .Params.maps | default (slice) }}
-
-    {{ $jaar := "" }}
-    {{ $categorie := "" }}
-    {{ $zaak := "" }}
-
+    {{ $jaar := "" }}{{ $categorie := "" }}{{ $zaak := "" }}
     {{ if ge (len $maps) 1 }}{{ $jaar = index $maps 0 }}{{ end }}
     {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
     {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
 
-    {{/* Datum */}}
-    {{ $publicatiedatum := .Date.Format "02-01-2006" }}
+    <header class="doc-header">
+        <h1>{{ .Title }}</h1>
+    </header>
 
-    <h1>{{ .Title }}</h1>
+    <div class="main-content">
+        <div class="card">
+            <div class="meta-info">
+                <span><i class="bi bi-calendar3"></i> {{ $jaar }}</span>
+                {{ if $categorie }}<span>| <i class="bi bi-tag"></i> {{ $categorie }}</span>{{ end }}
+                {{ if $zaak }}<span>| <i class="bi bi-folder"></i> Zaak: {{ $zaak }}</span>{{ end }}
+            </div>
 
-                                    {{ with .Params.summary }}
-                                  <section class="summary">
-                                    <h2>Samenvatting</h2>
-                                    <p>{{ . }}</p>
-                                  </section>
-                                {{ end }}
+            {{ with .Params.summary }}
+            <div class="summary-box">
+                <strong><i class="bi bi-info-circle"></i> In het kort:</strong>
+                <p>{{ . }}</p>
+            </div>
+            {{ end }}
 
-    <div class="meta-info">
-      {{/*  {{ if .Date }}
-            <strong>Publicatiedatum:</strong> {{ $publicatiedatum }} <br>
-        {{ end }}   */}}
+            <div class="pdf-action">
+                {{ $full_path := .File.Path | default "" }}
+                {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
+                {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
+                {{ $base := .Site.Params.s3_url | default "" }}
+                {{ $pdf_url := printf "%s/%s" (strings.TrimSuffix "/" $base) $pdf_path }}
 
-        {{ if $jaar }}
-            <strong>Jaar:</strong> {{ $jaar }}
+                <a href="{{ $pdf_url }}" class="btn-pdf" target="_blank">
+                    <i class="bi bi-file-earmark-pdf"></i> Open Originele PDF
+                </a>
+            </div>
+
+            <!-- AI CHAT UNIT -->
+            <h3 class="section-title"><i class="bi bi-robot"></i> Vraag het de AI</h3>
+            <div id="ai-chat">
+                <div id="chat-window"></div>
+                <div id="input-bar">
+                    <input id="ai-question" type="text" placeholder="Stel een vraag over dit document..." />
+                    <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
+                </div>
+            </div>
+        </div>
+
+        {{/* TIJDLIJN SECTIE */}}
+        {{ if .Params.milestones }}
+        <div class="card">
+            <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
+            <div id="milestone-timeline" style="width: 100%; height: 400px;"></div>
+        </div>
         {{ end }}
 
-        {{ if $categorie }}
-            | <strong>Categorie:</strong> {{ $categorie }}
+        {{/* GERELATEERDE ZAKEN */}}
+        {{ if $zaak }}
+        <div class="card gerelateerde-zaken">
+            <h3 class="section-title"><i class="bi bi-link-45deg"></i> Documenten in dezelfde zaak</h3>
+            {{ $hasRelated := false }}
+            {{ range (where .Site.RegularPages "Section" "docs") }}
+                {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
+                    {{ $hasRelated = true }}
+                {{ end }}
+            {{ end }}
+
+            {{ if $hasRelated }}
+                <ul>
+                {{ range (where .Site.RegularPages "Section" "docs") }}
+                    {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
+                        <li>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            {{ if .Date }}<small class="text-muted">({{ .Date.Format "02-01-2006" }})</small>{{ end }}
+                        </li>
+                    {{ end }}
+                {{ end }}
+                </ul>
+            {{ else }}
+                <p>Geen andere documenten gevonden binnen deze zaak.</p>
+            {{ end }}
+        </div>
         {{ end }}
     </div>
 
-    {{/* ---------------- PDF LINK ---------------- */}}
-    <div class="pdf-link-container">
-        <p>Klik op de onderstaande link om het document te bekijken:</p>
-
-        {{ $full_path := .File.Path | default "" }}
-        {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
-        {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-
-        {{ $base := .Site.Params.s3_url | default "" }}
-        {{ $base := strings.TrimSuffix "/" $base }}
-        {{ $pdf_url := printf "%s/%s" $base $pdf_path }}
-
-        {{ if and $base $pdf_path }}
-            <a href="{{ $pdf_url }}" target="_blank" rel="noopener noreferrer">
-                Bekijk PDF: {{ .Title }}
-            </a>
-        {{ else }}
-            <p>PDF niet beschikbaar.</p>
-        {{ end }}
+    {{/* PAGEFIND HIDDEN DATA */}}
+    <div style="display:none;" data-pagefind-body>
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+        {{ if $jaar }}<span data-pagefind-filter="Jaar">{{ $jaar }}</span>{{ end }}
+        {{ if $categorie }}<span data-pagefind-filter="Categorie">{{ $categorie }}</span>{{ end }}
+        {{ if $zaak }}<span data-pagefind-filter="Zaak">{{ $zaak }}</span>{{ end }}
+        {{ .Content }}
     </div>
 
-    <div id="ai-chat">
-    <div id="chat-window"></div>
+    <!-- Scripts (Highcharts & AI) -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/timeline.js"></script>
 
-    <div id="input-bar">
-        <input id="ai-question" type="text" placeholder="Typ je bericht..." />
-        <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
-    </div>
-    </div>
-
-
-                            {{ if .Params.milestones }}
-                              <section class="timeline">
-                                <h2>Tijdlijn</h2>
-                            
-                                <!-- Container voor Highcharts met een gedefinieerde hoogte voor meer ruimte -->
-                                <div id="milestone-timeline" style="width: 100%; height: 500px; margin: 0 auto;"></div>
-                            
-                                <!-- Highcharts library -->
-                                <script src="https://code.highcharts.com/highcharts.js"></script>
-                                <script src="https://code.highcharts.com/modules/timeline.js"></script>
-                                <script src="https://code.highcharts.com/modules/accessibility.js"></script>
-                            
-                                <script>
+    <script>
+          // ... (Tijdlijn script) ...
                                   document.addEventListener('DOMContentLoaded', function () {
                                     Highcharts.chart('milestone-timeline', {
                                       chart: {
@@ -297,157 +360,95 @@
                                       }
                                     });
                                   });
-                                </script>
-                              </section>
-                            {{ end }}
-    
 
+                                 // ... (De AI JS-logica ) ...
+                                const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
+                                const MAX_CONTEXT = 50000;
+                                let chatHistory = [];
+                                
+                                // startbericht (UI ONLY, niet in AI context forceren)
+                                function initChat() {
+                                    addMessage("assistant", START_MESSAGE);
+                                }
+                                
+                                function addMessage(role, text) {
+                                    const chatWindow = document.getElementById('chat-window');
+                                
+                                    const msg = document.createElement('div');
+                                    msg.classList.add('msg', role === "user" ? "user" : "ai");
+                                    msg.innerText = text;
+                                
+                                    chatWindow.appendChild(msg);
+                                    chatWindow.scrollTop = chatWindow.scrollHeight;
+                                }
+                                
+                                async function sendMessage() {
+                                    const input = document.getElementById('ai-question');
+                                    const btn = document.getElementById('ai-send-btn');
+                                
+                                    const question = input.value.trim();
+                                    if (!question) return;
+                                
+                                    addMessage("user", question);
+                                    chatHistory.push({ role: "user", content: question });
+                                
+                                    input.value = "";
+                                    btn.disabled = true;
+                                    btn.innerText = "Bezig...";
+                                
+                                    const contentElement = document.querySelector('[data-pagefind-body]');
+                                    const pageContent = contentElement ? contentElement.innerText : "";
+                                
+                                    const typing = document.createElement('div');
+                                    typing.classList.add('msg', 'ai', 'typing');
+                                    typing.innerText = "AI is aan het typen...";
+                                    document.getElementById('chat-window').appendChild(typing);
+                                
+                                    try {
+                                        const controller = new AbortController();
+                                        const timeout = setTimeout(() => controller.abort(), 20000);
+                                
+                                        const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
+                                            method: 'POST',
+                                            headers: { 'Content-Type': 'application/json' },
+                                            signal: controller.signal,
+                                            body: JSON.stringify({
+                                                context: pageContent.slice(0, MAX_CONTEXT),
+                                                messages: chatHistory
+                                            })
+                                        });
+                                
+                                        clearTimeout(timeout);
+                                
+                                        const data = await response.json();
+                                        typing.remove();
+                                
+                                        if (!data?.answer) throw new Error("Ongeldige response");
+                                
+                                        addMessage("assistant", data.answer);
+                                        chatHistory.push({ role: "assistant", content: data.answer });
+                                
+                                    } catch (err) {
+                                        typing.remove();
+                                        addMessage("assistant", "❌ " + err.message);
+                                    } finally {
+                                        btn.disabled = false;
+                                        btn.innerText = "Verstuur";
+                                    }
+                                }
+                                
+                                document.getElementById('ai-question').addEventListener("keypress", e => {
+                                    if (e.key === "Enter") sendMessage();
+                                });
+                                    initChat();
 
-    {{/* ---------------- PAGEFIND INDEX ---------------- */}}
-    <div style="display:none;" data-pagefind-body>
-        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-
-    {{/*     {{ if .Date }}    <span data-pagefind-meta="Publicatiedatum">{{ $publicatiedatum }}</span>  {{ end }}  */}}
-
-        {{ if $jaar }}
-            <span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>
-        {{ end }}
-
-        {{ if $categorie }}
-            <span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>
-        {{ end }}
-
-        {{ if $zaak }}
-            <span data-pagefind-filter="Zaak" data-pagefind-meta="Zaak">{{ $zaak }}</span>
-        {{ end }}
-
-        {{ .Content }}
-    </div>
-
-    {{/* ---------------- GERELATEERDE ZAKEN ---------------- */}}
-    {{ if $zaak }}
-        <div class="gerelateerde-zaken">
-            <h3>Andere documenten in de zaak: {{ $zaak }}</h3>
-
-            {{ $hasRelated := false }}
-
-            {{ range (where .Site.RegularPages "Section" "docs") }}
-                {{ if and
-                    (ne .Permalink $.Permalink)
-                    (isset .Params "maps")
-                    (ge (len .Params.maps) 3)
-                    (eq (index .Params.maps 2) $zaak)
-                }}
-                    {{ $hasRelated = true }}
-                {{ end }}
-            {{ end }}
-
-            {{ if $hasRelated }}
-                <ul>
-                    {{ range (where .Site.RegularPages "Section" "docs") }}
-                        {{ if and
-                            (ne .Permalink $.Permalink)
-                            (isset .Params "maps")
-                            (ge (len .Params.maps) 3)
-                            (eq (index .Params.maps 2) $zaak)
-                        }}
-                            <li>
-                                <a href="{{ .Permalink }}">{{ .Title }}</a>
-                                {{ if .Date }}
-                                    <small>({{ .Date.Format "02-01-2006" }})</small>
-                                {{ end }}
-                            </li>
-                        {{ end }}
-                    {{ end }}
-                </ul>
-            {{ else }}
-                <p>Geen andere documenten gevonden.</p>
-            {{ end }}
-        </div>
-    {{ end }}
-
-
-    <script>
-const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
-const MAX_CONTEXT = 50000;
-let chatHistory = [];
-
-// startbericht (UI ONLY, niet in AI context forceren)
-function initChat() {
-    addMessage("assistant", START_MESSAGE);
-}
-
-function addMessage(role, text) {
-    const chatWindow = document.getElementById('chat-window');
-
-    const msg = document.createElement('div');
-    msg.classList.add('msg', role === "user" ? "user" : "ai");
-    msg.innerText = text;
-
-    chatWindow.appendChild(msg);
-    chatWindow.scrollTop = chatWindow.scrollHeight;
-}
-
-async function sendMessage() {
-    const input = document.getElementById('ai-question');
-    const btn = document.getElementById('ai-send-btn');
-
-    const question = input.value.trim();
-    if (!question) return;
-
-    addMessage("user", question);
-    chatHistory.push({ role: "user", content: question });
-
-    input.value = "";
-    btn.disabled = true;
-    btn.innerText = "Bezig...";
-
-    const contentElement = document.querySelector('[data-pagefind-body]');
-    const pageContent = contentElement ? contentElement.innerText : "";
-
-    const typing = document.createElement('div');
-    typing.classList.add('msg', 'ai', 'typing');
-    typing.innerText = "AI is aan het typen...";
-    document.getElementById('chat-window').appendChild(typing);
-
-    try {
-        const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), 20000);
-
-        const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            signal: controller.signal,
-            body: JSON.stringify({
-                context: pageContent.slice(0, MAX_CONTEXT),
-                messages: chatHistory
-            })
-        });
-
-        clearTimeout(timeout);
-
-        const data = await response.json();
-        typing.remove();
-
-        if (!data?.answer) throw new Error("Ongeldige response");
-
-        addMessage("assistant", data.answer);
-        chatHistory.push({ role: "assistant", content: data.answer });
-
-    } catch (err) {
-        typing.remove();
-        addMessage("assistant", "❌ " + err.message);
-    } finally {
-        btn.disabled = false;
-        btn.innerText = "Verstuur";
-    }
-}
-
-document.getElementById('ai-question').addEventListener("keypress", e => {
-    if (e.key === "Enter") sendMessage();
-});
-    initChat();
-</script>
+        
+        // Kleine update voor de start-melding:
+        function initChat() {
+            addMessage("assistant", "Hallo! Ik heb dit document gelezen. Heb je specifieke vragen over de inhoud?");
+        }
+        initChat();
+    </script>
 
 </body>
 </html>
