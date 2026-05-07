@@ -39,11 +39,11 @@ milestones:
     event: >-
       Vaststelling bestemmingsplan recreatiepark De Tilkampen met beperking
       permanente bewoning tot persoonsgebonden gedoogbeschikkingen
-  - date: 23-06-2011 tot 03-08-2011
+  - date: 23-06-2011
     event: >-
       Terinzagelegging voorontwerp bestemmingsplan Binnenveld met
       inspraakreacties
-  - date: 04-03-2014 tot 14-04-2014
+  - date: 04-03-2014
     event: >-
       Terinzagelegging ontwerp bestemmingsplan Binnenveld, Toenakkers en De
       Tilkampen met zienswijzen en ambtshalve aanpassingen
