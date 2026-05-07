@@ -1,8 +1,52 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","woo publicaties"]
-source: "2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-05-07
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - woo publicaties
+source: >-
+  2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-05-07T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op basis van een Woo-verzoek besloten om
+  documenten over Vitale Vakantieparken Coevorden gedeeltelijk openbaar te
+  maken, met uitzondering van persoonsgegevens, en heeft daarnaast
+  bestemmingsplannen voor diverse recreatieparken geactualiseerd waarbij
+  permanente bewoning grotendeels wordt beperkt tot persoonsgebonden
+  gedoogbeschikkingen.
+milestones:
+  - date: 22-12-2023
+    event: >-
+      Ontvangst Woo-verzoek Vitale Vakantieparken Coevorden en
+      ontvangstbevestiging met akkoord op samenvoeging verzoeken
+  - date: 18-01-2024
+    event: >-
+      Besluit op Woo-verzoek: gedeeltelijke openbaarmaking documenten over
+      Vitale Vakantieparken Coevorden met uitsluiting van persoonsgegevens
+  - date: 03-02-2015
+    event: >-
+      Vaststelling bestemmingsplan Bungalowpark Het Zuiderveld met regels tegen
+      permanente bewoning behalve persoonsgebonden gedoogbeschikkingen
+  - date: 03-02-2014
+    event: >-
+      Vaststelling bestemmingsplan recreatieterrein Binnenveld met beperking
+      permanente bewoning tot persoonsgebonden gedoogbeschikkingen
+  - date: 03-02-2015
+    event: >-
+      Vaststelling bestemmingsplan recreatieterrein Toenakkers met beperking
+      permanente bewoning tot persoonsgebonden gedoogbeschikkingen
+  - date: 03-02-2015
+    event: >-
+      Vaststelling bestemmingsplan recreatiepark De Tilkampen met beperking
+      permanente bewoning tot persoonsgebonden gedoogbeschikkingen
+  - date: 23-06-2011 tot 03-08-2011
+    event: >-
+      Terinzagelegging voorontwerp bestemmingsplan Binnenveld met
+      inspraakreacties
+  - date: 04-03-2014 tot 14-04-2014
+    event: >-
+      Terinzagelegging ontwerp bestemmingsplan Binnenveld, Toenakkers en De
+      Tilkampen met zienswijzen en ambtshalve aanpassingen
 ---
 
 Postadres:
