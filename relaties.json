@@ -1,0 +1,3141 @@
+{
+  "nodes": [
+    {
+      "id": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "type": "document",
+      "label": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
+    },
+    {
+      "id": "ent_kasteel_1",
+      "type": "FAC",
+      "label": "Kasteel 1"
+    },
+    {
+      "id": "ent_vvpc",
+      "type": "ORG",
+      "label": "VVPC"
+    },
+    {
+      "id": "ent_bungalowpark_wico",
+      "type": "FAC",
+      "label": "Bungalowpark Wico"
+    },
+    {
+      "id": "ent_rechtbank_noord-nederland",
+      "type": "ORG",
+      "label": "Rechtbank Noord-Nederland"
+    },
+    {
+      "id": "ent_woo",
+      "type": "ORG",
+      "label": "WOO"
+    },
+    {
+      "id": "ent_wico",
+      "type": "ORG",
+      "label": "Wico"
+    },
+    {
+      "id": "ent_bureau_voor_ruimte",
+      "type": "ORG",
+      "label": "Bureau voor ruimte"
+    },
+    {
+      "id": "ent_vrijetijd",
+      "type": "ORG",
+      "label": "Vrijetijd"
+    },
+    {
+      "id": "ent_oude_kraan_72",
+      "type": "FAC",
+      "label": "Oude Kraan 72"
+    },
+    {
+      "id": "ent_eigenaar/eigenaren",
+      "type": "ORG",
+      "label": "eigenaar/eigenaren"
+    },
+    {
+      "id": "ent_xic-px",
+      "type": "ORG",
+      "label": "xic-Px"
+    },
+    {
+      "id": "ent_c1l\\",
+      "type": "ORG",
+      "label": "C1L\\"
+    },
+    {
+      "id": "ent_rtr",
+      "type": "ORG",
+      "label": "rtr"
+    },
+    {
+      "id": "ent_-*v",
+      "type": "ORG",
+      "label": "-*v"
+    },
+    {
+      "id": "ent_zllll",
+      "type": "ORG",
+      "label": "ZLLLL"
+    },
+    {
+      "id": "ent_•va",
+      "type": "FAC",
+      "label": "•Va"
+    },
+    {
+      "id": "ent_kuierpad",
+      "type": "ORG",
+      "label": "Kuierpad"
+    },
+    {
+      "id": "ent_vvpd",
+      "type": "ORG",
+      "label": "VVPD"
+    },
+    {
+      "id": "ent_iii",
+      "type": "ORG",
+      "label": "III"
+    },
+    {
+      "id": "ent_haalbaar/kansrijk",
+      "type": "ORG",
+      "label": "haalbaar/kansrijk"
+    },
+    {
+      "id": "ent_koeverns_kompas",
+      "type": "ORG",
+      "label": "Koeverns Kompas"
+    },
+    {
+      "id": "ent_aanw",
+      "type": "ORG",
+      "label": "Aanw"
+    },
+    {
+      "id": "ent_bos",
+      "type": "ORG",
+      "label": "Bos"
+    },
+    {
+      "id": "ent_luchtfoto_wico",
+      "type": "FAC",
+      "label": "Luchtfoto Wico"
+    },
+    {
+      "id": "ent_hoorc-seen",
+      "type": "ORG",
+      "label": "Hoorc-Seen"
+    },
+    {
+      "id": "ent_ooste/nessei",
+      "type": "ORG",
+      "label": "Ooste/nessei"
+    },
+    {
+      "id": "ent_restaurant",
+      "type": "ORG",
+      "label": "Restaurant"
+    },
+    {
+      "id": "ent_luchtfoto_vossenhol",
+      "type": "FAC",
+      "label": "Luchtfoto Vossenhol"
+    },
+    {
+      "id": "ent_recreatiewaarde_van_het_gebied",
+      "type": "ORG",
+      "label": "Recreatiewaarde van het gebied"
+    },
+    {
+      "id": "ent_3>^r",
+      "type": "ORG",
+      "label": "3>^r"
+    },
+    {
+      "id": "ent_park_4",
+      "type": "FAC",
+      "label": "Park 4"
+    },
+    {
+      "id": "ent_luchtfoto_tilkampen",
+      "type": "FAC",
+      "label": "Luchtfoto Tilkampen"
+    },
+    {
+      "id": "ent_metooft",
+      "type": "ORG",
+      "label": "MetOOft"
+    },
+    {
+      "id": "ent_vve",
+      "type": "ORG",
+      "label": "VVE"
+    },
+    {
+      "id": "ent_coevordens",
+      "type": "ORG",
+      "label": "Coevordens"
+    },
+    {
+      "id": "ent_luchtfoto_zuiderveld",
+      "type": "FAC",
+      "label": "Luchtfoto Zuiderveld"
+    },
+    {
+      "id": "ent_luchtfoto_brinkskamp",
+      "type": "FAC",
+      "label": "Luchtfoto Brinkskamp"
+    },
+    {
+      "id": "ent_bungalowpark_het_zuiderveld",
+      "type": "FAC",
+      "label": "Bungalowpark Het Zuiderveld"
+    },
+    {
+      "id": "ent_sab_3",
+      "type": "ORG",
+      "label": "SAB 3"
+    },
+    {
+      "id": "ent_wabo",
+      "type": "ORG",
+      "label": "Wabo"
+    },
+    {
+      "id": "ent_sab_4",
+      "type": "ORG",
+      "label": "SAB 4"
+    },
+    {
+      "id": "ent_^>v’^",
+      "type": "ORG",
+      "label": "^>v’^"
+    },
+    {
+      "id": "ent_jfc",
+      "type": "ORG",
+      "label": "jfc"
+    },
+    {
+      "id": "ent_sab_5",
+      "type": "ORG",
+      "label": "SAB 5"
+    },
+    {
+      "id": "ent_sab",
+      "type": "ORG",
+      "label": "SAB"
+    },
+    {
+      "id": "ent_geeserveld",
+      "type": "ORG",
+      "label": "Geeserveld"
+    },
+    {
+      "id": "ent_sab_7",
+      "type": "ORG",
+      "label": "SAB 7"
+    },
+    {
+      "id": "ent_nota_ruimte",
+      "type": "ORG",
+      "label": "Nota Ruimte"
+    },
+    {
+      "id": "ent_delta",
+      "type": "FAC",
+      "label": "Delta"
+    },
+    {
+      "id": "ent_nationaal_belang",
+      "type": "ORG",
+      "label": "Nationaal belang"
+    },
+    {
+      "id": "ent_leefbaar_&_veilig",
+      "type": "ORG",
+      "label": "Leefbaar & veilig"
+    },
+    {
+      "id": "ent_sab_8",
+      "type": "ORG",
+      "label": "SAB 8"
+    },
+    {
+      "id": "ent_buislei-",
+      "type": "ORG",
+      "label": "Buislei-"
+    },
+    {
+      "id": "ent_gro-",
+      "type": "ORG",
+      "label": "Gro-"
+    },
+    {
+      "id": "ent_rsp",
+      "type": "ORG",
+      "label": "RSP"
+    },
+    {
+      "id": "ent_provinciaal_verkeers-_en",
+      "type": "ORG",
+      "label": "Provinciaal Verkeers- en"
+    },
+    {
+      "id": "ent_sab_10",
+      "type": "ORG",
+      "label": "SAB 10"
+    },
+    {
+      "id": "ent_ehs",
+      "type": "FAC",
+      "label": "EHS"
+    },
+    {
+      "id": "ent_sab_12",
+      "type": "ORG",
+      "label": "SAB 12"
+    },
+    {
+      "id": "ent_bed&breakfast-",
+      "type": "FAC",
+      "label": "Bed&Breakfast-"
+    },
+    {
+      "id": "ent_plopsa_indoor_coevorden",
+      "type": "ORG",
+      "label": "Plopsa Indoor Coevorden"
+    },
+    {
+      "id": "ent_sab_13",
+      "type": "ORG",
+      "label": "SAB 13"
+    },
+    {
+      "id": "ent_buitengewoon_platteland",
+      "type": "FAC",
+      "label": "Buitengewoon Platteland"
+    },
+    {
+      "id": "ent_sab_14",
+      "type": "ORG",
+      "label": "SAB 14"
+    },
+    {
+      "id": "ent_cie.",
+      "type": "ORG",
+      "label": "cie."
+    },
+    {
+      "id": "ent_sab_15",
+      "type": "ORG",
+      "label": "SAB 15"
+    },
+    {
+      "id": "ent_chi",
+      "type": "ORG",
+      "label": "CHI"
+    },
+    {
+      "id": "ent_veenontginningen",
+      "type": "ORG",
+      "label": "Veenontginningen"
+    },
+    {
+      "id": "ent_cultuurnota",
+      "type": "ORG",
+      "label": "Cultuurnota"
+    },
+    {
+      "id": "ent_sab_16",
+      "type": "ORG",
+      "label": "SAB 16"
+    },
+    {
+      "id": "ent_havezathe_de_klencke",
+      "type": "FAC",
+      "label": "Havezathe de Klencke"
+    },
+    {
+      "id": "ent_haalbaarheidson-",
+      "type": "ORG",
+      "label": "Haalbaarheidson-"
+    },
+    {
+      "id": "ent_sab_18",
+      "type": "ORG",
+      "label": "SAB 18"
+    },
+    {
+      "id": "ent_sab_19",
+      "type": "ORG",
+      "label": "SAB 19"
+    },
+    {
+      "id": "ent_euro-",
+      "type": "ORG",
+      "label": "Euro-"
+    },
+    {
+      "id": "ent_unie",
+      "type": "ORG",
+      "label": "Unie"
+    },
+    {
+      "id": "ent_sab_20",
+      "type": "ORG",
+      "label": "SAB 20"
+    },
+    {
+      "id": "ent_waterschap_rijn",
+      "type": "FAC",
+      "label": "Waterschap Rijn"
+    },
+    {
+      "id": "ent_nationaal_waterplan",
+      "type": "ORG",
+      "label": "Nationaal Waterplan"
+    },
+    {
+      "id": "ent_nationaal_waterplan_voor_de_ruimtelijke_aspecten",
+      "type": "ORG",
+      "label": "Nationaal Waterplan voor de ruimtelijke aspecten"
+    },
+    {
+      "id": "ent_nationaal_water-",
+      "type": "ORG",
+      "label": "Nationaal Water-"
+    },
+    {
+      "id": "ent_velt",
+      "type": "ORG",
+      "label": "Velt"
+    },
+    {
+      "id": "ent_sab_22",
+      "type": "ORG",
+      "label": "SAB 22"
+    },
+    {
+      "id": "ent_wvc",
+      "type": "ORG",
+      "label": "WVC"
+    },
+    {
+      "id": "ent_amk-terrein",
+      "type": "FAC",
+      "label": "AMK-terrein"
+    },
+    {
+      "id": "ent_sab_23",
+      "type": "ORG",
+      "label": "SAB 23"
+    },
+    {
+      "id": "ent_momo",
+      "type": "ORG",
+      "label": "MoMo"
+    },
+    {
+      "id": "ent_sab_24",
+      "type": "ORG",
+      "label": "SAB 24"
+    },
+    {
+      "id": "ent_verlengde_hoogeveense",
+      "type": "FAC",
+      "label": "Verlengde Hoogeveense"
+    },
+    {
+      "id": "ent_verlengde_hoogeveensche",
+      "type": "FAC",
+      "label": "Verlengde Hoogeveensche"
+    },
+    {
+      "id": "ent_natuur-",
+      "type": "ORG",
+      "label": "Natuur-"
+    },
+    {
+      "id": "ent_flora-",
+      "type": "FAC",
+      "label": "Flora-"
+    },
+    {
+      "id": "ent_europese_vogelrichtlijn",
+      "type": "ORG",
+      "label": "Europese Vogelrichtlijn"
+    },
+    {
+      "id": "ent_natura",
+      "type": "ORG",
+      "label": "Natura"
+    },
+    {
+      "id": "ent_vogel-",
+      "type": "FAC",
+      "label": "Vogel-"
+    },
+    {
+      "id": "ent_natura-2000",
+      "type": "FAC",
+      "label": "Natura-2000"
+    },
+    {
+      "id": "ent_vo-",
+      "type": "ORG",
+      "label": "Vo-"
+    },
+    {
+      "id": "ent_sab_26",
+      "type": "ORG",
+      "label": "SAB 26"
+    },
+    {
+      "id": "ent_anti-dubbeltelregel",
+      "type": "FAC",
+      "label": "anti-dubbeltelregel"
+    },
+    {
+      "id": "ent_sab_27",
+      "type": "ORG",
+      "label": "SAB 27"
+    },
+    {
+      "id": "ent_sab_28",
+      "type": "ORG",
+      "label": "SAB 28"
+    },
+    {
+      "id": "ent_groen",
+      "type": "ORG",
+      "label": "Groen"
+    },
+    {
+      "id": "ent_bu-",
+      "type": "ORG",
+      "label": "bu-"
+    },
+    {
+      "id": "ent_sab_29",
+      "type": "ORG",
+      "label": "SAB 29"
+    },
+    {
+      "id": "ent_sab_31",
+      "type": "ORG",
+      "label": "SAB 31"
+    },
+    {
+      "id": "ent_sab_32",
+      "type": "ORG",
+      "label": "SAB 32"
+    },
+    {
+      "id": "ent_atiewoningen",
+      "type": "ORG",
+      "label": "atiewoningen"
+    },
+    {
+      "id": "ent_reclamant",
+      "type": "ORG",
+      "label": "Reclamant"
+    },
+    {
+      "id": "ent_raad_van_state",
+      "type": "ORG",
+      "label": "Raad van State"
+    },
+    {
+      "id": "ent_gasterij_het_geeserveld",
+      "type": "FAC",
+      "label": "Gasterij het Geeserveld"
+    },
+    {
+      "id": "ent_ar-",
+      "type": "ORG",
+      "label": "ar-"
+    },
+    {
+      "id": "ent_sab_35",
+      "type": "ORG",
+      "label": "SAB 35"
+    },
+    {
+      "id": "ent_gasterij",
+      "type": "FAC",
+      "label": "Gasterij"
+    },
+    {
+      "id": "ent_estaurant",
+      "type": "ORG",
+      "label": "estaurant"
+    },
+    {
+      "id": "ent_-2015",
+      "type": "FAC",
+      "label": "-2015"
+    },
+    {
+      "id": "ent_t_binnenveld",
+      "type": "FAC",
+      "label": "t Binnenveld"
+    },
+    {
+      "id": "ent_plo",
+      "type": "ORG",
+      "label": "Plo"
+    },
+    {
+      "id": "ent_kamp",
+      "type": "FAC",
+      "label": "Kamp"
+    },
+    {
+      "id": "ent_’t_kuierpadtien",
+      "type": "FAC",
+      "label": "’t Kuierpadtien"
+    },
+    {
+      "id": "ent_sab_6",
+      "type": "ORG",
+      "label": "SAB 6"
+    },
+    {
+      "id": "ent_geeser_es",
+      "type": "ORG",
+      "label": "Geeser Es"
+    },
+    {
+      "id": "ent_2040",
+      "type": "FAC",
+      "label": "2040"
+    },
+    {
+      "id": "ent_nota_mobiliteit",
+      "type": "ORG",
+      "label": "Nota Mobiliteit"
+    },
+    {
+      "id": "ent_snelwegom-",
+      "type": "FAC",
+      "label": "Snelwegom-"
+    },
+    {
+      "id": "ent_sab_9",
+      "type": "ORG",
+      "label": "SAB 9"
+    },
+    {
+      "id": "ent_structuurvisie_coevorden",
+      "type": "ORG",
+      "label": "Structuurvisie Coevorden"
+    },
+    {
+      "id": "ent_hondsnjgt",
+      "type": "ORG",
+      "label": "HondsnjgT"
+    },
+    {
+      "id": "ent_ljl",
+      "type": "ORG",
+      "label": "LJL"
+    },
+    {
+      "id": "ent_v'\\",
+      "type": "ORG",
+      "label": "V'\\"
+    },
+    {
+      "id": "ent_kaderrichtlijn_water",
+      "type": "FAC",
+      "label": "Kaderrichtlijn Water"
+    },
+    {
+      "id": "ent_t_v",
+      "type": "ORG",
+      "label": "T V"
+    },
+    {
+      "id": "ent_es-",
+      "type": "ORG",
+      "label": "es-"
+    },
+    {
+      "id": "ent_klenckerweg",
+      "type": "FAC",
+      "label": "Klenckerweg"
+    },
+    {
+      "id": "ent_sab_25",
+      "type": "ORG",
+      "label": "SAB 25"
+    },
+    {
+      "id": "ent_barkmeerweg",
+      "type": "FAC",
+      "label": "Barkmeerweg"
+    },
+    {
+      "id": "ent_’t_kuierpadt",
+      "type": "FAC",
+      "label": "’t Kuierpadt"
+    },
+    {
+      "id": "ent_luchtfoto_toenakkers",
+      "type": "FAC",
+      "label": "Luchtfoto Toenakkers"
+    },
+    {
+      "id": "ent_gede-",
+      "type": "ORG",
+      "label": "Gede-"
+    },
+    {
+      "id": "ent_parkeervoorzie-",
+      "type": "ORG",
+      "label": "Parkeervoorzie-"
+    },
+    {
+      "id": "ent_park_de_toenakkers",
+      "type": "FAC",
+      "label": "Park de Toenakkers"
+    },
+    {
+      "id": "ent_sab_11",
+      "type": "ORG",
+      "label": "SAB 11"
+    },
+    {
+      "id": "ent_it=",
+      "type": "ORG",
+      "label": "iT="
+    },
+    {
+      "id": "ent_amk-terrein_ten_noord-_oosten",
+      "type": "FAC",
+      "label": "AMK-terrein ten noord- oosten"
+    },
+    {
+      "id": "ent_archeolo-",
+      "type": "ORG",
+      "label": "Archeolo-"
+    },
+    {
+      "id": "ent_middendorpstraat",
+      "type": "FAC",
+      "label": "Middendorpstraat"
+    },
+    {
+      "id": "ent_r%_m",
+      "type": "ORG",
+      "label": "r% M"
+    },
+    {
+      "id": "ent_middendorpsstraat",
+      "type": "FAC",
+      "label": "Middendorpsstraat"
+    },
+    {
+      "id": "ent_terrein_toenakkers",
+      "type": "FAC",
+      "label": "Terrein Toenakkers"
+    },
+    {
+      "id": "ent_de_tilkampen",
+      "type": "ORG",
+      "label": "De Tilkampen"
+    },
+    {
+      "id": "ent_jn_water",
+      "type": "ORG",
+      "label": "jn Water"
+    },
+    {
+      "id": "ent_sab_21",
+      "type": "ORG",
+      "label": "SAB 21"
+    },
+    {
+      "id": "ent_ou-",
+      "type": "FAC",
+      "label": "Ou-"
+    },
+    {
+      "id": "ent_oude_steeg",
+      "type": "FAC",
+      "label": "Oude Steeg"
+    },
+    {
+      "id": "ent_ministerie_van_infrastructuur_en_milieu",
+      "type": "ORG",
+      "label": "Ministerie van Infrastructuur en Milieu"
+    },
+    {
+      "id": "ent_n.v._nederlandse_gasunie",
+      "type": "ORG",
+      "label": "N.V. Nederlandse Gasunie"
+    },
+    {
+      "id": "ent_sab_32_domesta",
+      "type": "ORG",
+      "label": "SAB 32 Domesta"
+    }
+  ],
+  "links": [
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_kasteel_1",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_rechtbank_noord-nederland",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_woo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bureau_voor_ruimte",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vrijetijd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_oude_kraan_72",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_eigenaar/eigenaren",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_xic-px",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_c1l\\",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_rtr",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_-*v",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_zllll",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_•va",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_kuierpad",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_iii",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_haalbaar/kansrijk",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_koeverns_kompas",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_aanw",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bos",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_luchtfoto_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_hoorc-seen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ooste/nessei",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_restaurant",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_luchtfoto_vossenhol",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_recreatiewaarde_van_het_gebied",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_3>^r",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_park_4",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_luchtfoto_tilkampen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_metooft",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vve",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_coevordens",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_luchtfoto_zuiderveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_luchtfoto_brinkskamp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_het_zuiderveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_het_zuiderveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_3",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_4",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_^>v’^",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_jfc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_5",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_7",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nota_ruimte",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_delta",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_leefbaar_&_veilig",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_8",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buislei-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_rsp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_provinciaal_verkeers-_en",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_10",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_12",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bed&breakfast-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_plopsa_indoor_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_13",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buitengewoon_platteland",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_14",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cie.",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_15",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_chi",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_veenontginningen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cultuurnota",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_16",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_havezathe_de_klencke",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_haalbaarheidson-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_18",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_19",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_euro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_unie",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_20",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_waterschap_rijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan_voor_de_ruimtelijke_aspecten",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_water-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_22",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wvc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_23",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_momo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_24",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_verlengde_hoogeveense",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_verlengde_hoogeveensche",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natuur-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_europese_vogelrichtlijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natura",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vogel-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natura-2000",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vo-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_26",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_anti-dubbeltelregel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_27",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_28",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bu-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bungalowpark_het_zuiderveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_29",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_31",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_32",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_atiewoningen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_reclamant",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_raad_van_state",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gasterij_het_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ar-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_35",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_reclamant",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gasterij",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_raad_van_state",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_reclamant",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_raad_van_state",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_estaurant",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeserveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_-2015",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_t_binnenveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_3",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_plo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_kamp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_t_binnenveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_’t_kuierpadtien",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_4",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_5",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_6",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeser_es",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_7",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nota_ruimte",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_2040",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nota_mobiliteit",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_snelwegom-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_leefbaar_&_veilig",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_9",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_rsp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_provinciaal_verkeers-_en",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_10",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bed&breakfast-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_12",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_plopsa_indoor_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_structuurvisie_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_hondsnjgt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_13",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cie.",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buitengewoon_platteland",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_14",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_chi",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cultuurnota",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_15",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_veenontginningen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_havezathe_de_klencke",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_16",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_haalbaarheidson-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_18",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_19",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_euro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_unie",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_waterschap_rijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ljl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_v'\\",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_20",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan_voor_de_ruimtelijke_aspecten",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_water-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_kaderrichtlijn_water",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_22",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wvc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_t_v",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_momo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_es-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_klenckerweg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_25",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natuur-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_europese_vogelrichtlijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natura",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vogel-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vo-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_anti-dubbeltelregel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_27",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_t_binnenveld",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_3",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_barkmeerweg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_’t_kuierpadt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_4",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_luchtfoto_toenakkers",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gede-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_parkeervoorzie-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_6",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_park_de_toenakkers",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nota_ruimte",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_2040",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nota_mobiliteit",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_snelwegom-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_leefbaar_&_veilig",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buislei-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_9",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_rsp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_provinciaal_verkeers-_en",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_10",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_11",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_12",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bed&breakfast-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_plopsa_indoor_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_13",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_structuurvisie_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_it=",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buitengewoon_platteland",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_14",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cie.",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_15",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_chi",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_veenontginningen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_havezathe_de_klencke",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cultuurnota",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_16",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_haalbaarheidson-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_18",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_19",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_euro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_unie",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_waterschap_rijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_20",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan_voor_de_ruimtelijke_aspecten",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_water-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_kaderrichtlijn_water",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_22",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wvc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein_ten_noord-_oosten",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_archeolo-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_momo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_middendorpstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_24",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_es-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natuur-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_r%_m",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_25",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_europese_vogelrichtlijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natura",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vogel-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vo-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_anti-dubbeltelregel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_28",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_middendorpsstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bu-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_terrein_toenakkers",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_de_tilkampen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_de_tilkampen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_3",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_’t_kuierpadtien",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_4",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_5",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_7",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nota_ruimte",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_delta",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_leefbaar_&_veilig",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_8",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_belang",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buislei-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_gro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_rsp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_provinciaal_verkeers-_en",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_10",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ehs",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_12",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bed&breakfast-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_plopsa_indoor_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_13",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_structuurvisie_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_it=",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_buitengewoon_platteland",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_14",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cie.",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_15",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_chi",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_veenontginningen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_cultuurnota",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_16",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_havezathe_de_klencke",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_haalbaarheidson-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_18",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_19",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_20",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_euro-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_unie",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_waterschap_rijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan_voor_de_ruimtelijke_aspecten",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_waterplan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_nationaal_water-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_kaderrichtlijn_water",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_jn_water",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_21",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_velt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_22",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_wvc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_23",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_amk-terrein",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_momo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ou-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_es-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_oude_steeg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_geeser_es",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_oude_steeg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_oude_steeg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natuur-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_europese_vogelrichtlijn",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_natura",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vogel-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_flora-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_vo-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_anti-dubbeltelregel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_27",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_28",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_bu-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_ministerie_van_infrastructuur_en_milieu",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_n.v._nederlandse_gasunie",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.md",
+      "target": "ent_sab_32_domesta",
+      "relation": "vermeldt"
+    }
+  ]
+}
