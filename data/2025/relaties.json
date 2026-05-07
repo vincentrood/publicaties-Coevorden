@@ -1,0 +1,2015 @@
+{
+  "nodes": [
+    {
+      "id": "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.md",
+      "type": "document",
+      "label": "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees"
+    },
+    {
+      "id": "ent_gemeente_coevorden",
+      "type": "topic",
+      "label": "Gemeente Coevorden",
+      "count": 112
+    },
+    {
+      "id": "ent_@coevorden.nl",
+      "type": "topic",
+      "label": "@coevorden.nl",
+      "count": 96
+    },
+    {
+      "id": "ent_coevorden",
+      "type": "topic",
+      "label": "COEVORDEN",
+      "count": 16
+    },
+    {
+      "id": "ent_afdeling/team",
+      "type": "topic",
+      "label": "Afdeling/Team",
+      "count": 16
+    },
+    {
+      "id": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.md",
+      "type": "document",
+      "label": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand"
+    },
+    {
+      "id": "ent_gc_coevorden",
+      "type": "topic",
+      "label": "GC Coevorden",
+      "count": 30
+    },
+    {
+      "id": "ent_team_prestatiemanagement",
+      "type": "topic",
+      "label": "Team Prestatiemanagement",
+      "count": 14
+    },
+    {
+      "id": "ent_kamer_van_koophandel",
+      "type": "topic",
+      "label": "Kamer van Koophandel",
+      "count": 35
+    },
+    {
+      "id": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "type": "document",
+      "label": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven"
+    },
+    {
+      "id": "ent_enexis",
+      "type": "topic",
+      "label": "ENEXIS",
+      "count": 21
+    },
+    {
+      "id": "ent_schoonoord",
+      "type": "topic",
+      "label": "Schoonoord",
+      "count": 10
+    },
+    {
+      "id": "ent_rechtbank_noord-",
+      "type": "topic",
+      "label": "Rechtbank Noord-",
+      "count": 11
+    },
+    {
+      "id": "ent_€_enexis",
+      "type": "topic",
+      "label": "€ ENEXIS",
+      "count": 13
+    },
+    {
+      "id": "ent_coevorden.pdf",
+      "type": "topic",
+      "label": "Coevorden.pdf",
+      "count": 13
+    },
+    {
+      "id": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.md",
+      "type": "document",
+      "label": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees"
+    },
+    {
+      "id": "ent_dorpsstraat",
+      "type": "topic",
+      "label": "Dorpsstraat",
+      "count": 12
+    },
+    {
+      "id": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "type": "document",
+      "label": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen"
+    },
+    {
+      "id": "ent_sleen",
+      "type": "topic",
+      "label": "Sleen",
+      "count": 99
+    },
+    {
+      "id": "ent_brink",
+      "type": "topic",
+      "label": "Brink",
+      "count": 15
+    },
+    {
+      "id": "2025-06-30 Woo-verzoek meetdata overstorten rioolwater 1.md",
+      "type": "document",
+      "label": "2025-06-30 Woo-verzoek meetdata overstorten rioolwater 1"
+    },
+    {
+      "id": "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf.md",
+      "type": "document",
+      "label": "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf"
+    },
+    {
+      "id": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "type": "document",
+      "label": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden"
+    },
+    {
+      "id": "ent_europaweg",
+      "type": "topic",
+      "label": "Europaweg",
+      "count": 34
+    },
+    {
+      "id": "ent_pfas",
+      "type": "topic",
+      "label": "PFAS",
+      "count": 14
+    },
+    {
+      "id": "ent_groen",
+      "type": "topic",
+      "label": "Groen",
+      "count": 16
+    },
+    {
+      "id": "ent_rud_drenthe",
+      "type": "topic",
+      "label": "RUD Drenthe",
+      "count": 18
+    },
+    {
+      "id": "ent_antea_group",
+      "type": "topic",
+      "label": "Antea Group",
+      "count": 38
+    },
+    {
+      "id": "2025-10-30 Woo-verzoek uitspraak wethouder over transformatie 1.md",
+      "type": "document",
+      "label": "2025-10-30 Woo-verzoek uitspraak wethouder over transformatie 1"
+    },
+    {
+      "id": "ent_bungalowpark_wico",
+      "type": "topic",
+      "label": "Bungalowpark WICO",
+      "count": 46
+    },
+    {
+      "id": "ent_wico",
+      "type": "topic",
+      "label": "Wico",
+      "count": 26
+    },
+    {
+      "id": "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.md",
+      "type": "document",
+      "label": "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit"
+    },
+    {
+      "id": "ent_'t_hunebed",
+      "type": "topic",
+      "label": "'t Hunebed",
+      "count": 12
+    },
+    {
+      "id": "2025-03-18 Woo-verzoek beantwoording persvragen Brink 9, Sleen.md",
+      "type": "document",
+      "label": "2025-03-18 Woo-verzoek beantwoording persvragen Brink 9, Sleen"
+    },
+    {
+      "id": "2025-06-12 Woo-verzoek woonwagenbeleid.md",
+      "type": "document",
+      "label": "2025-06-12 Woo-verzoek woonwagenbeleid"
+    },
+    {
+      "id": "2025-06-26 Woo-verzoek integriteitsschendingen.md",
+      "type": "document",
+      "label": "2025-06-26 Woo-verzoek integriteitsschendingen"
+    },
+    {
+      "id": "ent_anders",
+      "type": "topic",
+      "label": "Anders",
+      "count": 37
+    },
+    {
+      "id": "ent_unie",
+      "type": "topic",
+      "label": "Unie",
+      "count": 29
+    },
+    {
+      "id": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "type": "document",
+      "label": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden"
+    },
+    {
+      "id": "ent_kropro_full",
+      "type": "topic",
+      "label": "KroPro Full",
+      "count": 18
+    },
+    {
+      "id": "ent_padeltotaal",
+      "type": "topic",
+      "label": "PadelTotaal",
+      "count": 28
+    },
+    {
+      "id": "ent_nordhornerstraat",
+      "type": "topic",
+      "label": "Nordhornerstraat",
+      "count": 17
+    },
+    {
+      "id": "ent_coevorder_tennisclub",
+      "type": "topic",
+      "label": "Coevorder Tennisclub",
+      "count": 11
+    },
+    {
+      "id": "ent_groep_n",
+      "type": "topic",
+      "label": "Groep N",
+      "count": 10
+    },
+    {
+      "id": "ent_kropro",
+      "type": "topic",
+      "label": "KroPro",
+      "count": 10
+    },
+    {
+      "id": "ent_id_panorama",
+      "type": "topic",
+      "label": "ID Panorama",
+      "count": 19
+    },
+    {
+      "id": "ent_kropor",
+      "type": "topic",
+      "label": "KroPor",
+      "count": 109
+    },
+    {
+      "id": "ent_@fischer.nl",
+      "type": "topic",
+      "label": "@fischer.nl",
+      "count": 10
+    },
+    {
+      "id": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "type": "document",
+      "label": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1"
+    },
+    {
+      "id": "ent_vve/cve",
+      "type": "topic",
+      "label": "VvE/CvE",
+      "count": 10
+    },
+    {
+      "id": "ent_bungalowpark_ermerzand",
+      "type": "topic",
+      "label": "Bungalowpark Ermerzand",
+      "count": 17
+    },
+    {
+      "id": "ent_gem/park",
+      "type": "topic",
+      "label": "Gem/Park",
+      "count": 11
+    },
+    {
+      "id": "ent_vvpd",
+      "type": "topic",
+      "label": "VVPD",
+      "count": 24
+    },
+    {
+      "id": "ent_vvpc",
+      "type": "topic",
+      "label": "VVPC",
+      "count": 19
+    },
+    {
+      "id": "ent_vakantieparken_drenthe",
+      "type": "topic",
+      "label": "Vakantieparken Drenthe",
+      "count": 19
+    },
+    {
+      "id": "2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden.md",
+      "type": "document",
+      "label": "2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden"
+    },
+    {
+      "id": "ent_wilhelminasingel",
+      "type": "topic",
+      "label": "Wilhelminasingel",
+      "count": 11
+    },
+    {
+      "id": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "type": "document",
+      "label": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees"
+    },
+    {
+      "id": "ent_vastgoed_&_infrastructuur",
+      "type": "topic",
+      "label": "Vastgoed & Infrastructuur",
+      "count": 16
+    },
+    {
+      "id": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "type": "document",
+      "label": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning"
+    },
+    {
+      "id": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "type": "document",
+      "label": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel"
+    },
+    {
+      "id": "ent_kiel",
+      "type": "topic",
+      "label": "Kiel",
+      "count": 200
+    },
+    {
+      "id": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "type": "document",
+      "label": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden"
+    },
+    {
+      "id": "ent_wabo",
+      "type": "topic",
+      "label": "Wabo",
+      "count": 31
+    },
+    {
+      "id": "ent_fortis",
+      "type": "topic",
+      "label": "Fortis",
+      "count": 16
+    },
+    {
+      "id": "ent_c.t.c.",
+      "type": "topic",
+      "label": "C.T.C.",
+      "count": 11
+    },
+    {
+      "id": "ent_rabobank",
+      "type": "topic",
+      "label": "Rabobank",
+      "count": 23
+    },
+    {
+      "id": "2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden.md",
+      "type": "document",
+      "label": "2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden"
+    },
+    {
+      "id": "ent_arsenaal",
+      "type": "topic",
+      "label": "Arsenaal",
+      "count": 37
+    },
+    {
+      "id": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "type": "document",
+      "label": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden"
+    },
+    {
+      "id": "ent_uretek",
+      "type": "topic",
+      "label": "Uretek",
+      "count": 13
+    },
+    {
+      "id": "ent_fugro",
+      "type": "topic",
+      "label": "Fugro",
+      "count": 50
+    },
+    {
+      "id": "2025-27-01 Woo-verzoek CPO Dalen.md",
+      "type": "document",
+      "label": "2025-27-01 Woo-verzoek CPO Dalen"
+    },
+    {
+      "id": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "type": "document",
+      "label": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen"
+    },
+    {
+      "id": "ent_oldenhoffstraat",
+      "type": "topic",
+      "label": "Oldenhoffstraat",
+      "count": 18
+    },
+    {
+      "id": "ent_ter_borghstraat",
+      "type": "topic",
+      "label": "Ter Borghstraat",
+      "count": 60
+    },
+    {
+      "id": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "type": "document",
+      "label": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan"
+    },
+    {
+      "id": "ent_br&vt",
+      "type": "topic",
+      "label": "BR&VT",
+      "count": 11
+    },
+    {
+      "id": "ent_quick_scan",
+      "type": "topic",
+      "label": "Quick Scan",
+      "count": 13
+    },
+    {
+      "id": "ent_revitaliseren",
+      "type": "topic",
+      "label": "Revitaliseren",
+      "count": 12
+    },
+    {
+      "id": "ent_brinkskamp",
+      "type": "topic",
+      "label": "Brinkskamp",
+      "count": 32
+    },
+    {
+      "id": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "type": "document",
+      "label": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3"
+    },
+    {
+      "id": "ent_tip.pdf",
+      "type": "topic",
+      "label": "Tip.pdf",
+      "count": 30
+    },
+    {
+      "id": "ent_nrvt",
+      "type": "topic",
+      "label": "NRVT",
+      "count": 16
+    },
+    {
+      "id": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "type": "document",
+      "label": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1"
+    },
+    {
+      "id": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "type": "document",
+      "label": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2"
+    },
+    {
+      "id": "ent_kanaal",
+      "type": "topic",
+      "label": "Kanaal",
+      "count": 11
+    },
+    {
+      "id": "ent_anterieure",
+      "type": "topic",
+      "label": "Anterieure",
+      "count": 10
+    },
+    {
+      "id": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "type": "document",
+      "label": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1"
+    },
+    {
+      "id": "ent_omgevingstafel",
+      "type": "topic",
+      "label": "Omgevingstafel",
+      "count": 18
+    },
+    {
+      "id": "ent_dijk",
+      "type": "topic",
+      "label": "Dijk",
+      "count": 25
+    },
+    {
+      "id": "ent_btex",
+      "type": "topic",
+      "label": "BTEX",
+      "count": 10
+    },
+    {
+      "id": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "type": "document",
+      "label": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2"
+    },
+    {
+      "id": "ent_edelmanboor",
+      "type": "topic",
+      "label": "Edelmanboor",
+      "count": 11
+    },
+    {
+      "id": "ent_gssd",
+      "type": "topic",
+      "label": "GSSD",
+      "count": 44
+    },
+    {
+      "id": "ent_boormeester",
+      "type": "topic",
+      "label": "Boormeester",
+      "count": 14
+    },
+    {
+      "id": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "type": "document",
+      "label": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3"
+    },
+    {
+      "id": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "type": "document",
+      "label": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2"
+    },
+    {
+      "id": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "type": "document",
+      "label": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1"
+    },
+    {
+      "id": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "type": "document",
+      "label": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1"
+    },
+    {
+      "id": "ent_werkgroep_toekomst",
+      "type": "topic",
+      "label": "Werkgroep Toekomst",
+      "count": 32
+    },
+    {
+      "id": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "type": "document",
+      "label": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2"
+    },
+    {
+      "id": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "type": "document",
+      "label": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1"
+    },
+    {
+      "id": "ent_bêste",
+      "type": "topic",
+      "label": "Bêste",
+      "count": 30
+    },
+    {
+      "id": "ent_beukenlaan",
+      "type": "topic",
+      "label": "Beukenlaan",
+      "count": 12
+    },
+    {
+      "id": "ent_rapportnummer",
+      "type": "topic",
+      "label": "RAPPORTNUMMER",
+      "count": 38
+    },
+    {
+      "id": "ent_prezero",
+      "type": "topic",
+      "label": "PreZero",
+      "count": 20
+    },
+    {
+      "id": "ent_marconiweg",
+      "type": "topic",
+      "label": "Marconiweg",
+      "count": 38
+    },
+    {
+      "id": "ent_@natuurbehoudsteenwijkerland.nl",
+      "type": "topic",
+      "label": "@natuurbehoudsteenwijkerland.nl",
+      "count": 44
+    },
+    {
+      "id": "ent_greenblocks",
+      "type": "topic",
+      "label": "GreenBlocks",
+      "count": 18
+    },
+    {
+      "id": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "type": "document",
+      "label": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2"
+    },
+    {
+      "id": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "type": "document",
+      "label": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1"
+    },
+    {
+      "id": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.md",
+      "type": "document",
+      "label": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2"
+    }
+  ],
+  "links": [
+    {
+      "source": "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.md",
+      "target": "ent_team_prestatiemanagement",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.md",
+      "target": "ent_kamer_van_koophandel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_enexis",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_kamer_van_koophandel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_schoonoord",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_€_enexis",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.md",
+      "target": "ent_enexis",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.md",
+      "target": "ent_dorpsstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "target": "ent_sleen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.md",
+      "target": "ent_brink",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_europaweg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_pfas",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_rud_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.md",
+      "target": "ent_antea_group",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-30 Woo-verzoek uitspraak wethouder over transformatie 1.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-30 Woo-verzoek uitspraak wethouder over transformatie 1.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.md",
+      "target": "ent_brink",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.md",
+      "target": "ent_'t_hunebed",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-18 Woo-verzoek beantwoording persvragen Brink 9, Sleen.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-12 Woo-verzoek woonwagenbeleid.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-12 Woo-verzoek woonwagenbeleid.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-12 Woo-verzoek woonwagenbeleid.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-26 Woo-verzoek integriteitsschendingen.md",
+      "target": "ent_anders",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-26 Woo-verzoek integriteitsschendingen.md",
+      "target": "ent_unie",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-26 Woo-verzoek integriteitsschendingen.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-26 Woo-verzoek integriteitsschendingen.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_kropro_full",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_padeltotaal",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_nordhornerstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_anders",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_coevorder_tennisclub",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_groep_n",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_kropro",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_id_panorama",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_kropor",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.md",
+      "target": "ent_@fischer.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_vve/cve",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_bungalowpark_ermerzand",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_gem/park",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_schoonoord",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden.md",
+      "target": "ent_wilhelminasingel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.md",
+      "target": "ent_vastgoed_&_infrastructuur",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_anders",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_'t_hunebed",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_kamer_van_koophandel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_sleen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_brink",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-01-31 Woo-verzoek wijziging horeca-exploitatievergunning.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_schoonoord",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_vastgoed_&_infrastructuur",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_nordhornerstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_coevorder_tennisclub",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_kamer_van_koophandel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_fortis",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_c.t.c.",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.md",
+      "target": "ent_rabobank",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_arsenaal",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_uretek",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_arsenaal",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_fugro",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.md",
+      "target": "ent_vastgoed_&_infrastructuur",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-27-01 Woo-verzoek CPO Dalen.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-27-01 Woo-verzoek CPO Dalen.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-27-01 Woo-verzoek CPO Dalen.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-27-01 Woo-verzoek CPO Dalen.md",
+      "target": "ent_kamer_van_koophandel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_anders",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_oldenhoffstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_ter_borghstraat",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_sleen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_sleen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_brink",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.md",
+      "target": "ent_rabobank",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_br&vt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_quick_scan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_afdeling/team",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_revitaliseren",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.md",
+      "target": "ent_brinkskamp",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_pfas",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_tip.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_schoonoord",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_nrvt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_schoonoord",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_rechtbank_noord-",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_tip.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_quick_scan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_pfas",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_nrvt",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_kanaal",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_anterieure",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_sleen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_omgevingstafel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_dijk",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_coevorden.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_rud_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_antea_group",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.md",
+      "target": "ent_btex",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "target": "ent_pfas",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "target": "ent_edelmanboor",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "target": "ent_btex",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "target": "ent_antea_group",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "target": "ent_gssd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.md",
+      "target": "ent_boormeester",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_kamer_van_koophandel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_tip.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_revitaliseren",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "target": "ent_gc_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "target": "ent_anterieure",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_bungalowpark_ermerzand",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_quick_scan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_anterieure",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_tip.pdf",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_bungalowpark_ermerzand",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_werkgroep_toekomst",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_schoonoord",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_werkgroep_toekomst",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_bungalowpark_wico",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_rud_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_bêste",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_beukenlaan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_rapportnummer",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_prezero",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_marconiweg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_@natuurbehoudsteenwijkerland.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.md",
+      "target": "ent_greenblocks",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_rud_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_bêste",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_beukenlaan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_wabo",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_rapportnummer",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_prezero",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_marconiweg",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_@natuurbehoudsteenwijkerland.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.md",
+      "target": "ent_greenblocks",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_quick_scan",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_enexis",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_gemeente_coevorden",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_anterieure",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_groen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_vvpd",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_vakantieparken_drenthe",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.md",
+      "target": "ent_pfas",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.md",
+      "target": "ent_@coevorden.nl",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.md",
+      "target": "ent_vvpc",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.md",
+      "target": "ent_sleen",
+      "relation": "vermeldt"
+    },
+    {
+      "source": "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.md",
+      "target": "ent_kiel",
+      "relation": "vermeldt"
+    }
+  ]
+}
