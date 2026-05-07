@@ -1,4 +1,4 @@
-name: Generate Knowledge Graph Relations
+name: Metagegevens toevoegen op basis van AI
 
 on:
   workflow_dispatch:
