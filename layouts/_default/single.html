@@ -265,20 +265,25 @@
         </div>
 
 
-            {{ if .Params.milestones }}
+        {{ if .Params.milestones }}
+        <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
         <div class="timeline">
-          {{ range (.Params.milestones | groupByDate "2006-01-02") }}
+            {{/* We sorteren de milestones op de 'date' key, aflopend (desc) */}}
+            {{ range sort .Params.milestones "date" "desc" }}
             <div class="timeline-item">
-              <div class="timeline-date">
-                {{ .Key }}
-              </div>
-              {{ range .Pages }}
-                <div class="timeline-event">
-                  {{ .Params.event }}
+                <div class="timeline-date">
+                    <strong>
+                        {{ if .date }}
+                            {{/* Formatteer de datum van YYYY-MM-DD naar DD-MM-YYYY */}}
+                            {{ (time .date).Format "02-01-2006" }}
+                        {{ end }}
+                    </strong>
                 </div>
-              {{ end }}
+                <div class="timeline-event">
+                    {{ .event }}
+                </div>
             </div>
-          {{ end }}
+            {{ end }}
         </div>
         {{ end }}
         
