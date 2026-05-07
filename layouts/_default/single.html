@@ -221,47 +221,82 @@
 
 
                             {{ if .Params.milestones }}
-                          <section class="timeline">
-                            <h2>Tijdlijn</h2>
-                        
-                            <!-- Container voor Highcharts -->
-                            <div id="milestone-timeline"></div>
-                        
-                            <!-- Highcharts library -->
-                            <script src="https://code.highcharts.com/highcharts.js"></script>
-                            <script src="https://code.highcharts.com/modules/timeline.js"></script>
-                        
-                            <script>
-                              document.addEventListener('DOMContentLoaded', function () {
-                                Highcharts.chart('milestone-timeline', {
-                                  chart: {
-                                    type: 'timeline'
-                                  },
-                                  title: {
-                                    text: null
-                                  },
-                                  xAxis: {
-                                    type: 'datetime'
-                                  },
-                                  yAxis: {
-                                    visible: false
-                                  },
-                                  series: [{
-                                    data: [
-                                      {{ range .Params.milestones }}
-                                      {
-                                        x: Date.parse("{{ .date }}"),
-                                        name: "{{ .date }}",
-                                        label: "{{ .event }}"
-                                      },
-                                      {{ end }}
-                                    ]
-                                  }]
+                            <section class="timeline">
+                              <h2>Tijdlijn</h2>
+                            
+                              <div id="milestone-timeline"></div>
+                            
+                              <script src="https://code.highcharts.com/highcharts.js"></script>
+                              <script src="https://code.highcharts.com/modules/timeline.js"></script>
+                            
+                              <script>
+                                document.addEventListener('DOMContentLoaded', function () {
+                            
+                                  Highcharts.chart('milestone-timeline', {
+                                    chart: {
+                                      type: 'timeline',
+                                      height: Math.max(400, {{ len .Params.milestones }} * 90)
+                                    },
+                            
+                                    title: {
+                                      text: null
+                                    },
+                            
+                                    xAxis: {
+                                      type: 'datetime',
+                                      visible: false
+                                    },
+                            
+                                    yAxis: {
+                                      visible: false
+                                    },
+                            
+                                    plotOptions: {
+                                      timeline: {
+                                        marker: {
+                                          symbol: 'circle',
+                                          radius: 6
+                                        },
+                                        dataLabels: {
+                                          allowOverlap: false,
+                                          style: {
+                                            textOverflow: 'wrap',
+                                            width: 220
+                                          }
+                                        }
+                                      }
+                                    },
+                            
+                                    series: [{
+                                      data: [
+                                        {{ range .Params.milestones }}
+                                        {
+                                          x: Date.parse("{{ .date }}"),
+                                          name: "{{ .date }}",
+                                          label: "{{ .event }}"
+                                        },
+                                        {{ end }}
+                                      ]
+                                    }]
+                            
+                                  });
+                            
                                 });
-                              });
-                            </script>
-                          </section>
-                        {{ end }}
+                              </script>
+                            </section>
+                            
+                            <style>
+                            #milestone-timeline {
+                              max-width: 900px;
+                              margin: 0 auto;
+                            }
+                            
+                            /* Extra ademruimte per item */
+                            .highcharts-timeline-series .highcharts-point {
+                              padding-bottom: 20px;
+                            }
+                            </style>
+                            {{ end }}
 
 
     {{/* ---------------- PAGEFIND INDEX ---------------- */}}
