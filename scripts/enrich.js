@@ -9,7 +9,7 @@ const openai = new OpenAI({
 });
 
 // 1. pak alle markdown files
-const files = globSync("docs/2024/*.md");
+const files = globSync("docs/2024//**/*.md");
 
 for (const file of files) {
   const raw = fs.readFileSync(file, "utf8");
