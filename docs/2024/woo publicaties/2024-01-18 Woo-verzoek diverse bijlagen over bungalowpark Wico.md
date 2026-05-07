@@ -1,8 +1,54 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","woo publicaties"]
-source: "2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-05-07
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - woo publicaties
+source: >-
+  2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-05-07T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op basis van een Woo-verzoek besloten om
+  documenten over Vitale Vakantieparken Coevorden gedeeltelijk openbaar te
+  maken, met uitzondering van persoonsgegevens, en heeft daarnaast
+  bestemmingsplannen voor diverse vakantieparken geactualiseerd waarbij
+  permanente bewoning grotendeels wordt beperkt tot persoonsgebonden
+  gedoogbeschikkingen.
+milestones:
+  - date: '2022-02-01'
+    event: >-
+      Rapport heroverweging toekomst en planning Vitale Vakantieparken Coevorden
+      opgesteld met beoordeling van toekomstscenario's voor diverse parken,
+      waaronder Bungalowpark Wico.
+  - date: '2015-02-03'
+    event: >-
+      Bestemmingsplan Bungalowpark Het Zuiderveld vastgesteld met regels tegen
+      permanente bewoning en behoud van recreatieve functies.
+  - date: '2015-02-03'
+    event: >-
+      Bestemmingsplan Oosterhesselen, Binnenveld vastgesteld met regels tegen
+      permanente bewoning en behoud van recreatieve functies.
+  - date: '2015-02-03'
+    event: >-
+      Bestemmingsplan Meppen, Toenakkers vastgesteld met regels tegen permanente
+      bewoning en behoud van recreatieve functies.
+  - date: '2015-02-03'
+    event: >-
+      Bestemmingsplan Gees, De Tilkampen vastgesteld met regels tegen permanente
+      bewoning en behoud van recreatieve functies.
+  - date: '2023-12-22'
+    event: >-
+      Ontvangst Woo-verzoek voor openbaarmaking documenten over Vitale
+      Vakantieparken Coevorden.
+  - date: '2023-12-22'
+    event: >-
+      Ontvangstbevestiging Woo-verzoek en akkoord op registratie als één
+      Woo-verzoek.
+  - date: '2024-01-18'
+    event: >-
+      Besluit op Woo-verzoek genomen: gedeeltelijke openbaarmaking van
+      documenten over Vitale Vakantieparken Coevorden met weglating van
+      persoonsgegevens.
 ---
 
 Postadres:
