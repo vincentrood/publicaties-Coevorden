@@ -17,8 +17,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install gray-matter openai glob fs-extra
-        run: npm install p-limit
+        run: npm install gray-matter openai glob fs-extra p-limit
 
       - name: Run enrichment script
         run: node scripts/enrich.js
