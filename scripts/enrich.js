@@ -10,7 +10,7 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 const MODEL = "gpt-4o-mini";
 const MAX_CONCURRENT = 1;
 const MAX_TOKENS_PER_REQUEST = 6000; // Veiligheidsmarge voor milestones
-const MAX_SUMMARY_TOKENS = 30000;    // Harde bovengrens voor de samenvatting stap
+const MAX_SUMMARY_TOKENS = 30000;    // Harde bovengrens voor de samenvatting
 
 /* ------------------ UTIL ------------------ */
 
@@ -36,11 +36,11 @@ async function withRetry(fn, retries = 5) {
       const isContext = err?.status === 400 || err?.message?.includes("maximum context length");
 
       if (isRateLimit) {
+        console.warn(`⏳ Rate limit geraakt. Wachten... (${i + 1}/${retries})`);
         await sleep(2000 * Math.pow(2, i));
         continue;
       }
       
-      // Als de context nog steeds te groot is ondanks chunking, stop voor dit blok
       if (isContext) {
         console.warn("⚠️ Context te groot, blok overgeslagen.");
         return null; 
@@ -82,6 +82,20 @@ function buildSafeChunks(blocks) {
 
   for (const block of blocks) {
     const t = estimateTokens(block);
+
+    // FIX: Als 1 blok extreem groot is (bijv. geen alinea-scheidingen in de PDF)
+    // Knippen we het hier geforceerd in kleinere stukken om crashes te voorkomen.
+    if (t > MAX_TOKENS_PER_REQUEST) {
+      let remainingText = block;
+      while (remainingText.length > 0) {
+        const sliceSize = MAX_TOKENS_PER_REQUEST * 4; // Max karakters per veilige chunk
+        const piece = remainingText.substring(0, sliceSize);
+        chunks.push([piece]);
+        remainingText = remainingText.substring(sliceSize);
+      }
+      continue;
+    }
+
     if (tokens + t > MAX_TOKENS_PER_REQUEST) {
       if (current.length) chunks.push(current);
       current = [block];
@@ -109,11 +123,10 @@ function extractSummaryBlocksSmart(text) {
     })
     .filter((p) => p.score > 0)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 30) // Pak de 30 meest relevante alinea's
+    .slice(0, 30)
     .map((p) => p.text)
     .join("\n\n");
 
-  // Harde knip om nooit over de 128k limiet te gaan
   if (estimateTokens(summaryText) > MAX_SUMMARY_TOKENS) {
     summaryText = summaryText.substring(0, MAX_SUMMARY_TOKENS * 4);
   }
@@ -173,7 +186,7 @@ async function processFile(file) {
     const { data, content } = matter(raw);
 
     if ((data.summary && data.summary.trim().length > 0) || (Array.isArray(data.milestones) && data.milestones.length > 0)) {
-      return;
+      return; // Skip al verwerkte bestanden
     }
 
     const blocks = extractRelevantBlocks(content);
@@ -190,7 +203,7 @@ async function processFile(file) {
     const MAX_CHUNKS_PER_FILE = 3;
 
     for (const chunk of chunks.slice(0, MAX_CHUNKS_PER_FILE)) {
-      await sleep(1000);
+      await sleep(1500); // Iets langere pauze om de Rate Limit (TPM) te sparen
       const result = await analyzeContent(chunk);
       if (result?.milestones?.length) {
         allMilestones.push(...result.milestones);
@@ -208,7 +221,7 @@ async function processFile(file) {
     console.log(`✅ Updated: ${file}`);
     
   } catch (err) {
-    console.error(`❌ Failed: ${file}`, err.message);
+    console.error(`❌ Failed: ${file} | Reden: ${err.message}`);
   }
 }
 
