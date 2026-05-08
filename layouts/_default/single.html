@@ -276,14 +276,14 @@
     {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
     {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
 
-    
+
     <header class="doc-header">
-        <div class="header-nav">
-            <a href="{{ .Site.Params.indexURL }}" class="btn-back">
-                <i class="bi bi-arrow-left"></i> Terug naar overzicht
-            </a>
-        </div>
-        <h1>{{ .Title }}</h1>
+    <div class="header-nav">
+        <a href="{{ .Site.Params.indexURL }}" class="btn-back" id="back-button">
+            <i class="bi bi-arrow-left"></i> Terug naar overzicht
+        </a>
+    </div>
+    <h1>{{ .Title }}</h1>
     </header>
 
     <div class="main-content">
@@ -469,6 +469,23 @@
                                     if (e.key === "Enter") sendMessage();
                                 });
                                     initChat();
+
+
+
+        document.getElementById('back-button').addEventListener('click', function(e) {
+    // Haal de URL op waar de bezoeker vandaan komt
+    const referrer = document.referrer;
+    // Haal de URL van je hoofdpagina op uit de Hugo variabele (via de href van de knop)
+    const indexURL = this.href;
+
+    // Controleer of de bezoeker inderdaad van jouw eigen site komt
+    // We kijken of de referrer de baseURL of de indexURL bevat
+    if (referrer && referrer.includes(window.location.hostname)) {
+        e.preventDefault(); // Stop de standaard link-actie
+        window.history.back(); // Ga één stap terug in de geschiedenis (behoudt zoekopdracht)
+    } 
+    // Als ze ergens anders vandaan komen, wordt de standaard href (indexURL) gebruikt
+});
 
         
     </script>
