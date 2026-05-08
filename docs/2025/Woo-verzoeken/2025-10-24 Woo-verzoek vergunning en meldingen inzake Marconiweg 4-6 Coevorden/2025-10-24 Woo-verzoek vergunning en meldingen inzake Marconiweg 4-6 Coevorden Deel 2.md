@@ -1,8 +1,61 @@
 ---
-title: "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2"
-maps: ["2025","Woo-verzoeken","2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden"]
-source: "2025/Woo-verzoeken/2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden/2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 2.pdf"
-date: 2026-05-08
+title: >-
+  2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden
+  Deel 2
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6
+    Coevorden
+source: >-
+  2025/Woo-verzoeken/2025-10-24 Woo-verzoek vergunning en meldingen inzake
+  Marconiweg 4-6 Coevorden/2025-10-24 Woo-verzoek vergunning en meldingen inzake
+  Marconiweg 4-6 Coevorden Deel 2.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  In 2025 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot vergunningen voor Marconiweg 4-6. Het verzoek is toegewezen, maar met
+  uitzondering van persoonsgegevens, en er zijn zienswijzen van belanghebbenden
+  gevraagd.
+milestones:
+  - date: '2020-12-01'
+    event: >-
+      Verandering van het bedrijf HDF Recycling, additioneel type brandstof voor
+      de stookinstallatie.
+  - date: '2021-10-14'
+    event: Akoestische inventarisatie uitgevoerd bij HDF Recycling.
+  - date: '2021-12-14'
+    event: Rapportage van akoestische inventarisatie afgerond.
+  - date: '2023-05-09'
+    event: Vraag over productie komende week vóór Hemelvaartsdag.
+  - date: '2023-05-12'
+    event: >-
+      Communicatie over het niet zinvol zijn van metingen door aanpassingen in
+      procesparameters.
+  - date: '2023-05-16'
+    event: ODRA voert stofmetingen uit aan de emissiepunten.
+  - date: '2023-06-27'
+    event: Last onder dwangsom opgelegd voor overschrijding emissienormen
+  - date: '2023-06-27'
+    event: >-
+      RUD Drenthe legt last onder dwangsom op voor overschrijding van de norm
+      voor Totaalstof.
+  - date: '2023-08-08'
+    event: Bezwaarschrift ingediend tegen last onder dwangsom
+  - date: '2023-08-08'
+    event: Bezwaarschrift ingediend tegen de opgelegde last onder dwangsom.
+  - date: '2024-10-27'
+    event: >-
+      Melding van ongewoon voorval (rookgas-condensor defect) bij Coevorden
+      Warmte.
+  - date: '2025-08-29'
+    event: Indiening Woo-verzoek voor Marconiweg 4-6
+  - date: '2025-10-09'
+    event: Zienswijze gevraagd aan belanghebbenden
+  - date: '2025-10-24'
+    event: Besluit op Woo-verzoek verzonden
+ai_processed_at: '2026-05-08T12:43:38.491Z'
 ---
 
 Postadres:
