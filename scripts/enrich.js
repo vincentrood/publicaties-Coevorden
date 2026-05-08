@@ -7,10 +7,10 @@ import pLimit from "p-limit";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-/* CONFIG */
+/* CONFIG (functioneel onveranderd) */
 const MODEL = "gpt-4o-mini";
-const MAX_CONCURRENT = 3;
-const MAX_TOKENS_PER_REQUEST = 6000; // safety cap
+const MAX_CONCURRENT = 1; // FIX: voorkomt TPM spikes (was 3)
+const MAX_TOKENS_PER_REQUEST = 6000;
 const TARGET_BLOCKS = 25;
 
 /* ------------------ UTIL ------------------ */
@@ -18,23 +18,48 @@ const TARGET_BLOCKS = 25;
 const sha = (content) =>
   crypto.createHash("sha256").update(content).digest("hex");
 
-// ruwe token schatting (1 token ≈ 4 chars)
 const estimateTokens = (text) => Math.ceil(text.length / 4);
 
 function normalizeDate(dateStr) {
-  // verwacht YYYY-MM-DD of probeert te repareren
   if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr;
   return null;
 }
 
+/* ------------------ RETRY WRAPPER (NEW) ------------------ */
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function withRetry(fn, retries = 4) {
+  let lastErr;
+
+  for (let i = 0; i < retries; i++) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastErr = err;
+
+      const isRateLimit =
+        err?.status === 429 || err?.message?.includes("Rate limit");
+
+      const isContext =
+        err?.message?.includes("maximum context length") ||
+        err?.status === 400;
+
+      if (isRateLimit || isContext) {
+        const backoff = 2000 * Math.pow(2, i);
+        await sleep(backoff);
+        continue;
+      }
+
+      throw err;
+    }
+  }
+
+  throw lastErr;
+}
+
 /* ------------------ CHUNKING ------------------ */
 
-/**
- * Slimmere extractie:
- * - werkt op paragrafen (niet regels)
- * - scoort relevantie
- * - behoudt context
- */
 function extractRelevantBlocks(text) {
   const ignore = /bezwaar en beroep|wettelijk kader|artikel 5\./i;
   const important =
@@ -61,7 +86,7 @@ function extractRelevantBlocks(text) {
   return scored.map((p) => p.text);
 }
 
-/* ------------------ TOKEN SAFE CHUNKING ------------------ */
+/* ------------------ SAFE CHUNKING (UNCHANGED LOGIC) ------------------ */
 
 function buildSafeChunks(blocks) {
   const chunks = [];
@@ -89,14 +114,15 @@ function buildSafeChunks(blocks) {
 /* ------------------ AI ------------------ */
 
 async function analyzeContent(textBlocks) {
-  const response = await openai.chat.completions.create({
-    model: MODEL,
-    temperature: 0,
-    response_format: { type: "json_object" },
-    messages: [
-      {
-        role: "system",
-        content: `
+  return withRetry(async () => {
+    const response = await openai.chat.completions.create({
+      model: MODEL,
+      temperature: 0,
+      response_format: { type: "json_object" },
+      messages: [
+        {
+          role: "system",
+          content: `
 Je bent een expert in Nederlandse Woo-dossiers.
 
 Taak:
@@ -105,11 +131,11 @@ Taak:
 - Gebruik altijd ISO datums (YYYY-MM-DD).
 - Negeer alles vóór 2020.
 - Als datum onzeker is: negeer het event.
-        `.trim(),
-      },
-      {
-        role: "user",
-        content: `
+          `.trim(),
+        },
+        {
+          role: "user",
+          content: `
 Geef STRICT JSON:
 {
   "summary": "max 2 zinnen",
@@ -120,12 +146,13 @@ Geef STRICT JSON:
 
 TEKST:
 ${textBlocks.join("\n\n")}
-        `.trim(),
-      },
-    ],
-  });
+          `.trim(),
+        },
+      ],
+    });
 
-  return JSON.parse(response.choices[0].message.content);
+    return JSON.parse(response.choices[0].message.content);
+  });
 }
 
 /* ------------------ CLEANING ------------------ */
@@ -167,8 +194,11 @@ async function processFile(file) {
     let allMilestones = [];
     let summary = "";
 
-    // per chunk analyseren (stabieler dan 1 mega-call)
-    for (const chunk of chunks.slice(0, 3)) {
+    const MAX_CHUNKS_PER_FILE = 2; // FIX: voorkomt context + TPM spikes
+
+    for (const chunk of chunks.slice(0, MAX_CHUNKS_PER_FILE)) {
+      await sleep(1200); // FIX: stabiliseert TPM usage
+
       const result = await analyzeContent(chunk);
 
       if (!summary && result.summary) {
