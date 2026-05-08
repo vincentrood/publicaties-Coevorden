@@ -1,8 +1,45 @@
 ---
-title: "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1"
-maps: ["2025","Woo-verzoeken","2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel"]
-source: "2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.pdf"
-date: 2026-05-04
+title: >-
+  2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel
+  Deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De
+    Kiel
+source: >-
+  2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel Deel 1.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2020-02-07'
+    event: Eerste gesprek over transformatie met gemeente en Taskforce VVP Drenthe.
+  - date: '2022-02-15'
+    event: >-
+      Vaststelling van de Deelstructuurvisie Transformatie recreatiewoningen
+      door de gemeenteraad.
+  - date: '2023-01-18'
+    event: >-
+      Waardeveranderingsrapportage voor de wijziging van bestemming van
+      recreatie naar wonen.
+  - date: '2024-10-22'
+    event: Vaststelling van het streefbeeld voor de transformatie van De Tip.
+  - date: '2025-06-05'
+    event: >-
+      Verzenddatum van de brief aan eigenaren over de voorwaarden voor de
+      bereikbaarheid van woningen.
+  - date: '2025-09-01'
+    event: Definitieve versie van het transformatieplan gepresenteerd.
+  - date: '2025-12-01'
+    event: Ingang van het nieuwe systeem van afvalinzameling.
+ai_hash: 9f38698cebdefa4ccdfa5b868a14a21ad133df8b1b12fa041ada0789f314f9bd
+ai_processed_at: '2026-05-08T10:14:20.761Z'
 ---
 
 Postadres: Gemeente

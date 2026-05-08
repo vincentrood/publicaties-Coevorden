@@ -1,8 +1,37 @@
 ---
-title: "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3"
-maps: ["2025","Woo-verzoeken","2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken"]
-source: "2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.pdf"
-date: 2026-05-04
+title: 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken
+source: >-
+  2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken Deel 3.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2020-01-01'
+    event: Start programma Vitale Vakantieparken Coevorden.
+  - date: '2023-01-01'
+    event: >-
+      Aankondiging van de transformatie van park De Tip naar permanente
+      bewoning.
+  - date: '2024-07-12'
+    event: Presentatie van het concept-streefbeeld aan de eigenaren.
+  - date: '2024-10-22'
+    event: Vaststelling van het streefbeeld door het college.
+  - date: '2024-11-11'
+    event: Vooroverleg over het TAM-omgevingsplan.
+  - date: '2025-01-01'
+    event: Start van de ondergrondse afvalinzameling voor het VvE-gedeelte.
+  - date: '2025-06-01'
+    event: Verwachte vaststelling van het TAM-omgevingsplan door de gemeenteraad.
+ai_hash: 0688b7dbd5ce2279648b64bb5c13c1e10e24086190bf0f1ea8c0edc8d2e3064f
+ai_processed_at: '2026-05-08T10:15:25.051Z'
 ---
 
 Aanvraagformulier

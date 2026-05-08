@@ -1,8 +1,50 @@
 ---
-title: "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2"
-maps: ["2025","Woo-verzoeken","2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel"]
-source: "2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.pdf"
-date: 2026-05-04
+title: >-
+  2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel
+  Deel 2
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De
+    Kiel
+source: >-
+  2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel Deel 2.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2020-01-24'
+    event: Eerste bijeenkomst over transformatie van De Tip met eigenaren.
+  - date: '2020-02-07'
+    event: Quick Scan Transformatie uitgevoerd om haalbaarheid te onderzoeken.
+  - date: '2021-09-14'
+    event: >-
+      Gemeenteraad Coevorden stelt beleidsnota Kader kostenverhaal en verevening
+      vast.
+  - date: '2022-03-01'
+    event: >-
+      Deelstructuurvisie transformatie recreatiewoningen vastgesteld door de
+      gemeenteraad.
+  - date: '2022-05-20'
+    event: >-
+      Bijeenkomst met woningeigenaren over waardebepaling en toetsing
+      Bouwbesluit.
+  - date: '2024-10-01'
+    event: >-
+      Streefbeeld transformatiepark De Tip vastgesteld door burgemeester en
+      wethouders.
+  - date: '2024-11-01'
+    event: Start van de uitwerking van het transformatieplan.
+  - date: '2025-09-23'
+    event: >-
+      Informatie over voortgang transformatieproces naar de gemeenteraad
+      gestuurd.
+ai_hash: c02392903086fb1558b2bb006132eb23f1685aa6a8c8c9e02569567f472059ab
+ai_processed_at: '2026-05-08T10:13:53.286Z'
 ---
 
 Voor een taxateur geldt dat deze de marktwaarde moet vaststellen op de

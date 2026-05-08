@@ -1,8 +1,22 @@
 ---
-title: "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.pdf"
-date: 2026-05-04
+title: 2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-07-17 Woo-verzoek correspondentie over Goringbos 11a
+  Gees.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2025-06-12'
+    event: Ontvangst Woo-verzoek
+  - date: '2025-07-16'
+    event: Verzenddatum besluit Woo-verzoek
+ai_hash: 2e1b3b5206b909e280acdf97b3a402921d864f19bd4e5a5938e8eded35e06c2b
+ai_processed_at: '2026-05-08T10:11:22.605Z'
 ---
 
 Gemeente

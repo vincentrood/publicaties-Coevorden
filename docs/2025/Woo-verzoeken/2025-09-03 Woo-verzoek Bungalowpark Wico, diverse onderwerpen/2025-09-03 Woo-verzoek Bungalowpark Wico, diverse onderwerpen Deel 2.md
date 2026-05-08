@@ -1,8 +1,47 @@
 ---
-title: "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2"
-maps: ["2025","Woo-verzoeken","2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen"]
-source: "2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.pdf"
-date: 2026-05-04
+title: '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2'
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen'
+source: >-
+  2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse
+  onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel
+  2.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2024-01-15'
+    event: Ontvangst van onderzoeksrapport van de werkgroep WICO.
+  - date: '2024-01-16'
+    event: >-
+      Beslissing om handhaving op te schorten tot na uitvoering van het
+      onderzoek door Bureau Ruimte en Vrije Tijd.
+  - date: '2024-01-30'
+    event: Reactie van het College van B&W op ontvangen brieven van grondeigenaren.
+  - date: '2024-02-05'
+    event: >-
+      Plaatsvervangend raadadviseur heeft gebeld met grondeigenaar over
+      ingezonden brief.
+  - date: '2024-02-27'
+    event: Raadsvergadering waarin ingekomen stukken besproken worden.
+  - date: '2024-05-28'
+    event: Uitvoering van de vitaliteitsscan door Bureau Ruimte en Vrije Tijd.
+  - date: '2024-07-10'
+    event: Ontvangst van het concept rapport van de vitaliteitsscan.
+  - date: '2024-09-06'
+    event: Bevestiging van toezending rapportage aan de gemeente.
+  - date: '2024-10-31'
+    event: Bijeenkomst met de werkgroep en de gemeente over de toekomst van het park.
+  - date: '2025-01-01'
+    event: Start van gesprekken met individuele bewoners over toekomstscenario's.
+  - date: '2025-06-01'
+    event: Deadline voor het maken van een keuze over de toekomst van het park.
+ai_hash: b4837cc3a1609edf8b337ceaa46368e6a15f4cc6b3c87f30f8f80f9096dc9723
+ai_processed_at: '2026-05-08T10:14:46.736Z'
 ---
 
 Gemeente Coevorden

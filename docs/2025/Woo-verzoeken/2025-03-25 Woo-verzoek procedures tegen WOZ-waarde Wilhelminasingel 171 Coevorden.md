@@ -1,8 +1,34 @@
 ---
-title: "2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden.pdf"
-date: 2026-05-04
+title: >-
+  2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171
+  Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-03-25 Woo-verzoek procedures tegen WOZ-waarde
+  Wilhelminasingel 171 Coevorden.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document beschrijft de afhandeling van een Woo-verzoek van Adelaar
+  Vastgoedontwikkeling BV met betrekking tot de WOZ-waarde van Wilhelminasingel
+  171 in Coevorden. Het verzoek is gedeeltelijk toegewezen, met uitzondering van
+  persoonsgegevens.
+milestones:
+  - date: '2023-01-31'
+    event: Aanslag gemeentelijke belastingen 2023 gedateerd.
+  - date: '2023-03-03'
+    event: Bezwaar ingediend tegen de aanslag WOZ/OZB 2023.
+  - date: '2023-04-24'
+    event: Bezwaar niet-ontvankelijk verklaard wegens ontbrekende motivering.
+  - date: '2025-01-20'
+    event: Betaalopdracht verzonden naar aanleiding van WOZ beroep.
+  - date: '2025-02-12'
+    event: Woo-verzoek ontvangen door de gemeente.
+  - date: '2025-03-28'
+    event: Besluit op het Woo-verzoek verzonden.
+ai_hash: 0a6ed1ec930798571c7acff857b5844e95e6f66a446246fadad618a0c753667b
+ai_processed_at: '2026-05-08T10:12:05.547Z'
 ---
 
 Gemeente

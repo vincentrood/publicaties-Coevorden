@@ -1,8 +1,47 @@
 ---
-title: "2025-06-26 Woo-verzoek integriteitsschendingen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-06-26 Woo-verzoek integriteitsschendingen.pdf"
-date: 2026-05-04
+title: 2025-06-26 Woo-verzoek integriteitsschendingen
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-06-26 Woo-verzoek integriteitsschendingen.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2023-01-12'
+    event: >-
+      Notulen overlegvergadering Ondernemingsraad, bespreking over een veilige
+      werkomgeving.
+  - date: '2023-03-18'
+    event: >-
+      Notulen overlegvergadering Ondernemingsraad, stijgende lijn van meldingen
+      besproken.
+  - date: '2023-04-14'
+    event: >-
+      Notulen overlegvergadering Ondernemingsraad, bespreking over de
+      zichtbaarheid van de vertrouwenspersoon.
+  - date: '2023-10-29'
+    event: >-
+      Advies van de Ondernemingsraad over de aanstelling van interne
+      vertrouwenspersonen.
+  - date: '2024-04-18'
+    event: >-
+      Advies over de aanstelling van interne vertrouwenspersonen gepresenteerd
+      aan de gemeentesecretaris.
+  - date: '2024-06-27'
+    event: CMT-advies over de rol van interne vertrouwenspersonen vastgesteld.
+  - date: '2024-09-12'
+    event: >-
+      Brief aan de Ondernemingsraad over het verzoek om advies voor interne
+      vertrouwenspersonen.
+  - date: '2025-04-25'
+    event: Ontvangst van Woo-verzoek door de gemeente Coevorden.
+  - date: '2025-06-26'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_hash: 0916d07b33bdc6369685708df377d87ee6755baf582b4240731c5aece3ff712c
+ai_processed_at: '2026-05-08T10:11:50.075Z'
 ---
 
 Gemeente

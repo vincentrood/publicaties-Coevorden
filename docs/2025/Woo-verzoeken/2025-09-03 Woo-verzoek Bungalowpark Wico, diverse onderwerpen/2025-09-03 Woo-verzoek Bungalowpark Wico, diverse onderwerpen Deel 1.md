@@ -1,8 +1,45 @@
 ---
-title: "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1"
-maps: ["2025","Woo-verzoeken","2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen"]
-source: "2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.pdf"
-date: 2026-05-04
+title: '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1'
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen'
+source: >-
+  2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse
+  onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel
+  1.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2025-01-14'
+    event: >-
+      Presentatie van het onderzoeksrapport door de Werkgroep Toekomst
+      Bungalowpark Wico aan de gemeenteraad.
+  - date: '2025-01-22'
+    event: >-
+      Gesprek tussen de gemeente Coevorden en de Werkgroep Toekomst Bungalowpark
+      Wico.
+  - date: '2025-02-06'
+    event: >-
+      Verzoek van de gemeente Coevorden om de handhaving van permanente bewoning
+      op Wico op te schorten.
+  - date: '2025-08-24'
+    event: Indiening Woo-verzoek door bewoners van Bungalowpark Wico.
+  - date: '2025-08-25'
+    event: Ontvangst van het Woo-verzoek door de gemeente Coevorden.
+  - date: '2025-09-03'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+  - date: '2025-12-19'
+    event: Kamerbrief van de minister over permanente bewoning op vakantieparken.
+  - date: '2025-12-23'
+    event: >-
+      Brief van de gemeente Coevorden over de handhaving van permanente
+      bewoning.
+ai_hash: 7e188a936f354bae07798dc386b41204d40dc51a7407840de3a067e833cd26f3
+ai_processed_at: '2026-05-08T10:15:11.462Z'
 ---
 
 Postadres: Gemeente

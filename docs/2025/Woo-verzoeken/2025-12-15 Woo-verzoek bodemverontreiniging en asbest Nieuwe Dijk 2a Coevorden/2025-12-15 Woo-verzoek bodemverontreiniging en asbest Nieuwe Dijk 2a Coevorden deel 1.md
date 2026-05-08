@@ -1,8 +1,40 @@
 ---
-title: "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1"
-maps: ["2025","Woo-verzoeken","2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden"]
-source: "2025/Woo-verzoeken/2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden/2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.pdf"
-date: 2026-05-04
+title: >-
+  2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden
+  deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a
+    Coevorden
+source: >-
+  2025/Woo-verzoeken/2025-12-15 Woo-verzoek bodemverontreiniging en asbest
+  Nieuwe Dijk 2a Coevorden/2025-12-15 Woo-verzoek bodemverontreiniging en asbest
+  Nieuwe Dijk 2a Coevorden deel 1.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2023-05-01'
+    event: Start van de procedure voor de aanvraag omgevingsvergunning.
+  - date: '2023-06-21'
+    event: Indiening van de QuickScan aanvraag voor nieuwbouw van bedrijfsunits.
+  - date: '2023-09-14'
+    event: Behandeling van het conceptverzoek in de Omgevingstafel.
+  - date: '2025-01-31'
+    event: Advies van de Omgevingsdienst Drenthe ontvangen.
+  - date: '2025-02-10'
+    event: Actualisatie bodemonderzoek uitgevoerd door Antea Group.
+  - date: '2025-02-17'
+    event: Communicatie over de beoordeling van bodemonderzoek en asbest.
+  - date: '2025-10-20'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2025-12-15'
+    event: Verzenddatum van de beslissing op het Woo-verzoek.
+ai_hash: f0828af94516f71e6889ec95f9c4831066df59135741332a57f4e5ed28d41a52
+ai_processed_at: '2026-05-08T10:13:09.545Z'
 ---
 
 Gemeente

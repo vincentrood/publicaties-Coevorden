@@ -1,8 +1,32 @@
 ---
-title: "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.pdf"
-date: 2026-05-04
+title: 2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC
+  Coevorden.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2022-02-28'
+    event: Aanvraag omgevingsvergunning ingediend door Coevorder Tennisclub C.T.C.
+  - date: '2023-09-29'
+    event: >-
+      Weigering omgevingsvergunning door het college van burgemeester en
+      wethouders.
+  - date: '2024-04-25'
+    event: 'Besluit op bezwaar, weigering omgevingsvergunning blijft in stand.'
+  - date: '2025-08-08'
+    event: >-
+      Rechtbank Noord-Nederland verklaart het beroep gegrond en vernietigt de
+      weigering.
+  - date: '2025-09-22'
+    event: 'Nieuwe beslissing op bezwaar, omgevingsvergunning wordt verleend.'
+ai_hash: ac39d48b2586982082d6b5b2e2f8b66bda1bce9b3a2ea8999c7ffeaabb35a664
+ai_processed_at: '2026-05-08T10:10:56.235Z'
 ---
 
 Postadres:

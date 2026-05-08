@@ -1,8 +1,34 @@
 ---
-title: "2025-27-01 Woo-verzoek CPO Dalen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-27-01 Woo-verzoek CPO Dalen.pdf"
-date: 2026-05-04
+title: 2025-27-01 Woo-verzoek CPO Dalen
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-27-01 Woo-verzoek CPO Dalen.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2023-07-31'
+    event: >-
+      Inschrijving van een document bij het Kadaster met betrekking tot
+      onroerende zaken.
+  - date: '2023-08-02'
+    event: Verbetering van een clerical error in een eerder ingeschreven document.
+  - date: '2024-01-16'
+    event: >-
+      Vaststelling van de intentieverklaring tussen de gemeente en de vereniging
+      Daler Starters.
+  - date: '2024-12-16'
+    event: Ontvangst van het Woo-verzoek door de gemeente Coevorden.
+  - date: '2025-01-20'
+    event: >-
+      Verzending van een e-mail met ruimtelijke kaders per locatie aan betrokken
+      partijen.
+  - date: '2025-01-27'
+    event: Verzenddatum van het besluit tot toewijzing van het Woo-verzoek.
+ai_hash: 3616d059317b0fa526003248dd2f6fb300190ad4d390d032dfc2b58cdda7bc02
+ai_processed_at: '2026-05-08T10:10:55.045Z'
 ---
 
 Gemeente

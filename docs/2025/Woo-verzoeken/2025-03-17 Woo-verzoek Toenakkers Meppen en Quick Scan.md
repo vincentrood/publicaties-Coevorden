@@ -1,8 +1,45 @@
 ---
-title: "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.pdf"
-date: 2026-05-04
+title: 2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2024-02-28'
+    event: >-
+      Definitieve vitaliteitsscan voor park Toenakkers opgeleverd door Bureau
+      voor Ruimte & Vrije Tijd.
+  - date: '2024-05-09'
+    event: >-
+      Raadsvergadering waarin toezegging wordt gedaan om de uitvoering van het
+      beleid voor vitale vakantieparken te toetsen.
+  - date: '2024-07-15'
+    event: >-
+      Besluit van het college om de vitaliteitsscans van de parken te delen met
+      de raad.
+  - date: '2024-09-12'
+    event: >-
+      Quick Scan transformatie park De Toenakkers uitgevoerd door Taskforce
+      Vitale Vakantieparken Drenthe.
+  - date: '2024-12-17'
+    event: >-
+      Informatieve brief naar de gemeenteraad over de opstart van de
+      revitaliseringstrajecten voor de parken.
+  - date: '2025-01-01'
+    event: >-
+      Start van het proces om samen met de eigenaren van de parken
+      toekomstplannen te ontwikkelen.
+  - date: '2025-12-31'
+    event: >-
+      Einddatum voor het opstellen van heldere afspraken en een toekomstplan
+      voor de parken.
+ai_hash: 5f1ec6067b11bdd2045850d46f6ec49ce4c0d4c1742fc9686331cc60160ac9c3
+ai_processed_at: '2026-05-08T10:12:21.505Z'
 ---
 
 Postadres:

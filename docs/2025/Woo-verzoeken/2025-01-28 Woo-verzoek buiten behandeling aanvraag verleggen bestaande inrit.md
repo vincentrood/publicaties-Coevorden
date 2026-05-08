@@ -1,8 +1,55 @@
 ---
-title: "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.pdf"
-date: 2026-05-04
+title: 2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-01-28 Woo-verzoek buiten behandeling aanvraag
+  verleggen bestaande inrit.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2020-07-25'
+    event: >-
+      Aanvraag omgevingsvergunning ontvangen voor het realiseren van een inrit
+      op Brink 11 te Sleen.
+  - date: '2020-10-26'
+    event: >-
+      Welstandscommissie adviseert dat het bouwplan voldoet aan redelijke eisen
+      van welstand.
+  - date: '2020-10-29'
+    event: >-
+      Burgemeester en wethouders besluiten om de gevraagde reguliere
+      omgevingsvergunning te verlenen.
+  - date: '2023-12-30'
+    event: >-
+      Aanvraag omgevingsvergunning ontvangen voor het verleggen van een
+      bestaande inrit op Brink 9a te Sleen.
+  - date: '2024-01-09'
+    event: >-
+      Verzoek gestuurd om de aanvraag aan te vullen voor de activiteit
+      inrit/uitweg.
+  - date: '2024-03-01'
+    event: Aanvraag voor de activiteit inrit/uitweg aangevuld.
+  - date: '2024-03-18'
+    event: Beslistermijn met 6 weken verlengd.
+  - date: '2024-04-02'
+    event: Informatie gegeven over voornemen tot weigering van de vergunning.
+  - date: '2024-05-17'
+    event: >-
+      Informatie gegeven over verdere behandeling van de aanvraag en verzoek om
+      aanvullende gegevens.
+  - date: '2024-09-12'
+    event: Besluit om de aanvraag buiten behandeling te stellen.
+  - date: '2024-11-29'
+    event: >-
+      Woo-verzoek ingediend door DVG Dienstverlening B.V. met betrekking tot
+      legesaanslag en besluitvorming.
+ai_hash: 15bc1714e9c9c02c4bdba364a4ac1eb89e7e4f9d94405ab0578c53f7a59d2aa8
+ai_processed_at: '2026-05-08T10:12:47.671Z'
 ---
 
 Gemeente

@@ -1,8 +1,35 @@
 ---
-title: "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.pdf"
-date: 2026-05-04
+title: '2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen'
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat,
+  Brink te Sleen.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van gebeurtenissen met
+  betrekking tot een Woo-dossier. De focus ligt op belangrijke processtappen
+  vanaf 2020.
+milestones:
+  - date: '2025-01-22'
+    event: Communicatie over de inrit bij Brink 9/9a.
+  - date: '2025-01-28'
+    event: Indiening Woo-verzoek door cliënt.
+  - date: '2025-01-29'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2025-03-05'
+    event: >-
+      Versturen van een e-mail over de voortgang van de werkzaamheden aan de
+      inrit.
+  - date: '2025-03-10'
+    event: >-
+      Versturen van een brief aan de cliënt over verlenging van de
+      beslistermijn.
+  - date: '2025-04-01'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_hash: f17d85f1f8567447e0f34895251d5abe165346cd0c4705951690057489daa8ca
+ai_processed_at: '2026-05-08T10:12:11.205Z'
 ---
 
 Gemeente

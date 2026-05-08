@@ -1,8 +1,42 @@
 ---
-title: "2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8 Coevorden.pdf"
-date: 2026-05-04
+title: >-
+  2025-03-12 Woo-verzoek correspondentie over sanering(splicht) Europaweg 8
+  Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-03-12 Woo-verzoek correspondentie over
+  sanering(splicht) Europaweg 8 Coevorden.pdf
+date: 2026-05-04T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2021-09-16'
+    event: >-
+      Verkennend bodemonderzoek uitgevoerd door Terra Agribusiness op Europaweg
+      8.
+  - date: '2023-04-21'
+    event: >-
+      Memo beoordeling bodemrapport voor de sanering van het perceel Europaweg
+      8.
+  - date: '2023-05-04'
+    event: Integraal advies over de bodemkwaliteit en sanering van Europaweg 8.
+  - date: '2024-02-13'
+    event: Deel van de documenten openbaar gemaakt in het kader van het Woo-verzoek.
+  - date: '2024-10-30'
+    event: Sloopmelding ingediend voor het verwijderen van asbest op Europaweg 8.
+  - date: '2024-11-04'
+    event: Advies van de Omgevingsdienst Drenthe over de sloopmelding voor asbest.
+  - date: '2024-12-13'
+    event: >-
+      Communicatie over de asbestverontreinigingen in de druppelzones op
+      Europaweg 8.
+  - date: '2025-01-10'
+    event: Vervolgcommunicatie over de sanering en betrokkenheid van de gemeente.
+ai_hash: adba0993ff81da0e21a4af1577e5e841aecbfbefe79901ef7109971ddad165a6
+ai_processed_at: '2026-05-08T10:12:29.420Z'
 ---
 
 Gemeente
