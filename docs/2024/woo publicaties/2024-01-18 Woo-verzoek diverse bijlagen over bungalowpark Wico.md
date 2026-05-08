@@ -7,49 +7,6 @@ source: >-
   2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
   Wico.pdf
 date: 2026-05-08T00:00:00.000Z
-summary: >-
-  Het Woo-dossier betreft de vaststelling en aanpassing van een bestemmingsplan
-  voor de gemeente Coevorden en Oosterhesselen, met specifieke aandacht voor
-  permanente bewoning van recreatieverblijven en archeologische aspecten. Het
-  proces omvatte meerdere terinzageleggingen, inspraakrondes en zienswijzen
-  tussen 2011 en 2014, resulterend in één ingediende zienswijze en de
-  uiteindelijke goedkeuring van beleidsregels en bestemmingsplannen door
-  gemeenteraad en Gedeputeerde Staten.
-milestones:
-  - date: '1996-10-08'
-    event: Bestemmingsplan gemeente Oosterhesselen vastgesteld door gemeenteraad
-  - date: '2004-11-09'
-    event: >-
-      Facet bestemmingsplan uniforme regeling recreatie woonverblijven
-      goedgekeurd door gemeenteraad Coevorden
-  - date: '2005-01-31'
-    event: >-
-      Facet bestemmingsplan uniforme regeling recreatie woonverblijven
-      goedgekeurd door Gedeputeerde Staten
-  - date: '2010-06-02'
-    event: Omgevingsvisie provincie Drenthe goedgekeurd
-  - date: '2010-08-17'
-    event: >-
-      Beleidsregels permanente bewoning recreatieverblijven vastgesteld door
-      college B&W gemeente Coevorden
-  - date: '2011-06-23'
-    event: Start terinzagelegging voorontwerp bestemmingsplan
-  - date: '2011-08-03'
-    event: >-
-      Einde terinzagelegging voorontwerp bestemmingsplan met ontvangst van twee
-      inspraakreacties
-  - date: '2014-03-04'
-    event: Start terinzagelegging ontwerpbestemmingsplan voor zienswijzen
-  - date: '2014-04-01'
-    event: Ontwerpbestemmingsplan ter inzage gelegd
-  - date: '2014-04-14'
-    event: >-
-      Einde terinzagelegging ontwerpbestemmingsplan zonder ingediende
-      zienswijzen
-  - date: '2014-05-12'
-    event: Einde inzagetermijn ontwerpbestemmingsplan; één zienswijze ingediend
-ai_hash: 3e4abc3c7695c67381afec41779822c5ecc93f5e8a38227b290dafd5981200a6
-ai_processed_at: '2026-05-08T08:58:44.048Z'
 ---
 
 Postadres:
