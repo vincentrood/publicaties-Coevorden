@@ -7,6 +7,153 @@ source: >-
   2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
   Wico.pdf
 date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het Woo-dossier behandelt de procedures en belangrijke datums met betrekking
+  tot de openbaarmaking van documenten en bezwaarschriften van de gemeente
+  Coevorden, met een focus op bestemmingsplannen en beleidsdocumenten voor
+  recreatieverblijven. Het resultaat omvat een overzicht van cruciale mijlpalen
+  en besluiten die de ontwikkeling en goedkeuring van deze plannen beïnvloeden.
+milestones:
+  - date: '1984-11-12'
+    event: >-
+      Vaststelling bestemmingsplan 'Zomerhuisjesterrein Toenakkers' door de
+      gemeenteraad
+  - date: '1985-06-04'
+    event: >-
+      Goedkeuring bestemmingsplan 'Zomerhuisjesterrein Toenakkers' door
+      Gedeputeerde Staten
+  - date: '1996-10-08'
+    event: Bestemmingplan goedgekeurd door de gemeenteraad van Oosterhesselen.
+  - date: '1996-10-08'
+    event: Vaststelling van het geldend bestemmingsplan gemeente Oosterhesselen.
+  - date: '2003-10-31'
+    event: >-
+      Deadline voor bewoners van recreatieverblijven om aan te tonen dat zij
+      voor deze datum woonden.
+  - date: '2004-11-09'
+    event: Bestemmingsplan goedgekeurd door de raad van de gemeente Coevorden.
+  - date: '2004-11-09'
+    event: >-
+      Goedkeuring van het facet bestemmingsplan uniforme regeling recreatie
+      woonverblijven door de raad van de gemeente Coevorden.
+  - date: '2004-11-09'
+    event: >-
+      Vaststelling facet bestemmingsplan uniforme regeling recreatie
+      woonverblijven door de gemeenteraad
+  - date: '2005-01-31'
+    event: Bestemmingsplan goedgekeurd door Gedeputeerde Staten.
+  - date: '2005-01-31'
+    event: Goedkeuring van het facet bestemmingsplan door Gedeputeerde Staten.
+  - date: '2005-01-31'
+    event: >-
+      Goedkeuring facet bestemmingsplan uniforme regeling recreatie
+      woonverblijven door Gedeputeerde Staten
+  - date: '2007-03-21'
+    event: >-
+      Datum waarop bewoners van recreatiewoningen op de hoogte hadden moeten
+      zijn van het voornemen van de gemeente.
+  - date: '2010-06-02'
+    event: Goedkeuring van de omgevingsvisie door de provincie Drenthe.
+  - date: '2010-08-17'
+    event: >-
+      Goedkeuring van de Beleidsregels permanente bewoning recreatieverblijven
+      door het college van burgemeester en wethouders van Coevorden.
+  - date: '2010-08-17'
+    event: >-
+      Vaststelling van de Beleidsregels permanente bewoning recreatieverblijven
+      door het college van burgemeester en wethouders.
+  - date: '2011-06-23'
+    event: Voorontwerp van het bestemmingsplan ligt ter inzage.
+  - date: '2011-06-23'
+    event: Voorontwerp bestemmingsplan ter inzage gelegd
+  - date: '2011-08-03'
+    event: >-
+      Einde van de termijn voor het indienen van reacties op het
+      voorontwerpbestemmingsplan.
+  - date: '2011-08-03'
+    event: Einde termijn voor reacties op het voorontwerp bestemmingsplan
+  - date: '2011-08-03'
+    event: Einde termijn voor inspraak op voorontwerp bestemmingsplan
+  - date: '2011-09-04'
+    event: 'Aanvullende reactie ingediend door reclamant, buiten termijn'
+  - date: '2012-01-01'
+    event: Inwerkingtreding van het gewijzigde Besluit ruimtelijke ordening (Bro).
+  - date: '2013-06-27'
+    event: Bestemmingsplan onherroepelijk geworden.
+  - date: '2014-02-03'
+    event: Datum van de beleidsnota recreatie en toerisme Oosterhesselen.
+  - date: '2014-03-04'
+    event: Start ter inzagelegging van het ontwerpbestemmingsplan
+  - date: '2014-03-04'
+    event: Ontwerpbestemmingsplan ter inzage gelegd
+  - date: '2014-04-01'
+    event: Ontwerpbestemmingsplan ter inzage gelegd
+  - date: '2014-04-01'
+    event: Start ter inzagelegging van het ontwerpbestemmingsplan.
+  - date: '2014-04-14'
+    event: Einde ter inzagelegging van het ontwerpbestemmingsplan
+  - date: '2014-04-14'
+    event: Einde termijn voor zienswijzen op ontwerpbestemmingsplan
+  - date: '2014-05-12'
+    event: Einde termijn voor zienswijzen op het ontwerpbestemmingsplan
+  - date: '2014-05-12'
+    event: Einde ter inzagelegging van het ontwerpbestemmingsplan.
+  - date: '2015-02-03'
+    event: Bestemmingsplan Zuiderveld reeds openbaar omgevingswet.overheid.nl
+  - date: '2015-02-03'
+    event: Bestemmingsplan Binnenveld reeds openbaar omgevingswet.overheid.nl
+  - date: '2015-02-03'
+    event: Bestemmingsplan Toenakkers reeds openbaar omgevingswet.overheid.nl
+  - date: '2015-02-03'
+    event: Bestemmingsplan Tilkampen reeds openbaar omgevingswet.overheid.nl
+  - date: '2015-02-03'
+    event: Toelichting Gemeente Coevorden over Bungalowpark Het Zuiderveld.
+  - date: '2015-02-03'
+    event: Toelichting gemeente Coevorden met projectnummer 100152
+  - date: '2020-01-01'
+    event: Start van Fase I van het programma Vitale Vakantieparken.
+  - date: '2022-01-01'
+    event: Ingang griffierechten voor beroepschrift
+  - date: '2022-01-01'
+    event: Rapport heroverweging opgesteld door het programmateam.
+  - date: '2023-04-01'
+    event: 'Verhuizing van de gemeente naar Oude Kraan 72, 6811 LL Arnhem.'
+  - date: '2023-07-12'
+    event: >-
+      MEMO van VVPC aan wethouder Stegen over de einddoelen in het
+      programmaplan.
+  - date: '2023-07-25'
+    event: Bijlage mail met opdracht toezegging VVPC
+  - date: '2023-07-25'
+    event: >-
+      Bijlage mail (opdracht toezegging VVPC) deels openbaar gem. Coevorden -
+      wethouder x
+  - date: '2023-07-25'
+    event: E-mail van VVPC aan wethouder Stegen over toezegging aan de raad
+  - date: '2023-07-26'
+    event: >-
+      Reactie van wethouder Stegen aan VVPC over de tussentijdse scan van het
+      beleid.
+  - date: '2023-08-02'
+    event: Bijlage mail met bestemmingsplan Zuiderveld
+  - date: '2023-08-02'
+    event: Bijlage mail met bestemmingsplan Binnenveld
+  - date: '2023-08-02'
+    event: Bijlage mail met bestemmingsplan Toenakkers
+  - date: '2023-08-02'
+    event: Bijlage mail met bestemmingsplan Tilkampen
+  - date: '2023-08-02'
+    event: >-
+      Mail van VVPC aan Ruimte en Vrijetijd over de parken en bijlage met
+      toelichting bestemmingsplannen.
+  - date: '2023-12-22'
+    event: Indiening Woo-verzoek
+  - date: '2023-12-22'
+    event: Indiening van drie nieuwe Woo-verzoeken
+  - date: '2024-01-18'
+    event: Besluit Woo-verzoek verzonden
+ai_hash: 6787365bcf892d0a21729f9980914af373c19799a0be59eaa5befc046b30ee4c
+ai_processed_at: '2026-05-08T09:31:54.135Z'
 ---
 
 Postadres:
