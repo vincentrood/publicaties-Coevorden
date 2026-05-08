@@ -345,7 +345,7 @@
                     {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
                         <li>
                             <a href="{{ .Permalink }}">{{ .Title }}</a>
-                            {{ if .Date }}<small class="text-muted">({{ .Date.Format "02-01-2006" }})</small>{{ end }}
+                          {{/*   {{ if .Date }}<small class="text-muted">({{ .Date.Format "02-01-2006" }})</small>{{ end }} */}}
                         </li>
                     {{ end }}
                 {{ end }}
