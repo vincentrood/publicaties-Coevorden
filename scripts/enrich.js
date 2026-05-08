@@ -198,7 +198,7 @@ async function processFile(file) {
 /* ------------------ MAIN ------------------ */
 
 async function main() {
-  const files = globSync("docs/2024/**/*.md");
+  const files = globSync("docs/2025/**/*.md");
   const limit = pLimit(MAX_CONCURRENT);
 
   await Promise.all(files.map((f) => limit(() => processFile(f))));
