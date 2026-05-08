@@ -7,6 +7,16 @@ source: >-
   2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
   Wico.pdf
 date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document bevat een chronologische tijdlijn van belangrijke gebeurtenissen
+  in een Woo-dossier. De focus ligt op processtappen vanaf 2020.
+milestones:
+  - date: '2023-12-22'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2024-01-18'
+    event: Besluit op het Woo-verzoek verzonden.
+ai_hash: 6787365bcf892d0a21729f9980914af373c19799a0be59eaa5befc046b30ee4c
+ai_processed_at: '2026-05-08T10:07:27.057Z'
 ---
 
 Postadres:
