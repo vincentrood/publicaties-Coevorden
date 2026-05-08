@@ -325,27 +325,7 @@
         </div>
 
 
-        {{ if .Params.milestones }}
-        <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
-        <div class="timeline">
-            {{/* We sorteren de milestones op de 'date' key, aflopend (desc) */}}
-            {{ range sort .Params.milestones "date" "desc" }}
-            <div class="timeline-item">
-                <div class="timeline-date">
-                    <strong>
-                        {{ if .date }}
-                            {{/* Formatteer de datum van YYYY-MM-DD naar DD-MM-YYYY */}}
-                            {{ (time .date).Format "02-01-2006" }}
-                        {{ end }}
-                    </strong>
-                </div>
-                <div class="timeline-event">
-                    {{ .event }}
-                </div>
-            </div>
-            {{ end }}
-        </div>
-        {{ end }}
+
         
 
         {{/* GERELATEERDE ZAKEN */}}
@@ -376,6 +356,32 @@
         </div>
         {{ end }}
     </div>
+
+
+
+        {{ if .Params.milestones }}
+        <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
+        <div class="timeline">
+            {{/* We sorteren de milestones op de 'date' key, aflopend (desc) */}}
+            {{ range sort .Params.milestones "date" "desc" }}
+            <div class="timeline-item">
+                <div class="timeline-date">
+                    <strong>
+                        {{ if .date }}
+                            {{/* Formatteer de datum van YYYY-MM-DD naar DD-MM-YYYY */}}
+                            {{ (time .date).Format "02-01-2006" }}
+                        {{ end }}
+                    </strong>
+                </div>
+                <div class="timeline-event">
+                    {{ .event }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
+    
 
     {{/* PAGEFIND HIDDEN DATA */}}
     <div style="display:none;" data-pagefind-body>
