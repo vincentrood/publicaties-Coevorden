@@ -1,8 +1,25 @@
 ---
-title: "2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1"
-maps: ["2025","Woo-verzoeken","2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden"]
-source: "2025/Woo-verzoeken/2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden/2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden Deel 1.pdf"
-date: 2026-05-08
+title: >-
+  2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6 Coevorden
+  Deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-10-24 Woo-verzoek vergunning en meldingen inzake Marconiweg 4-6
+    Coevorden
+source: >-
+  2025/Woo-verzoeken/2025-10-24 Woo-verzoek vergunning en meldingen inzake
+  Marconiweg 4-6 Coevorden/2025-10-24 Woo-verzoek vergunning en meldingen inzake
+  Marconiweg 4-6 Coevorden Deel 1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  In 2025 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot vergunningen voor Marconiweg 4-6, dat is toegewezen met enkele
+  uitzonderingen. Er zijn ook bezwaren ingediend tegen een opgelegde last onder
+  dwangsom vanwege overschrijding van emissienormen.
+milestones: []
+ai_processed_at: '2026-05-08T11:29:31.723Z'
 ---
 
 Postadres:

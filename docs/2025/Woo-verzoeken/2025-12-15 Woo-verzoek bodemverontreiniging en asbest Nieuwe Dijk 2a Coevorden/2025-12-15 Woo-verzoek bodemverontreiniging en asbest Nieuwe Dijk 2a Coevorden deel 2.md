@@ -1,8 +1,26 @@
 ---
-title: "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2"
-maps: ["2025","Woo-verzoeken","2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden"]
-source: "2025/Woo-verzoeken/2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden/2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 2.pdf"
-date: 2026-05-08
+title: >-
+  2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden
+  deel 2
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a
+    Coevorden
+source: >-
+  2025/Woo-verzoeken/2025-12-15 Woo-verzoek bodemverontreiniging en asbest
+  Nieuwe Dijk 2a Coevorden/2025-12-15 Woo-verzoek bodemverontreiniging en asbest
+  Nieuwe Dijk 2a Coevorden deel 2.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Op 5 september 2023 is een actualisatie van het bodemonderzoek uitgevoerd op
+  de locatie Nieuwe Dijk 2a te Coevorden, waarbij verontreinigingen met zware
+  metalen en organische verbindingen zijn vastgesteld. De verontreiniging is
+  voornamelijk gerelateerd aan historische bedrijfsactiviteiten en er wordt
+  aanbevolen aanvullend onderzoek uit te voeren voor toekomstige ontwikkelingen.
+milestones: []
+ai_processed_at: '2026-05-08T11:27:27.352Z'
 ---
 
 actualisatie bodemonderzoek

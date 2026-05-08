@@ -1,8 +1,20 @@
 ---
-title: "2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1.pdf"
-date: 2026-05-08
+title: 2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand in Erm 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-03-26 Woo-verzoek transformatie Bungalowpark Ermerzand
+  in Erm 1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 10 februari 2025 betreft de transformatie van Bungalowpark
+  Ermerzand in Erm naar permanente bewoning. De gemeente Coevorden heeft op 26
+  maart 2025 een besluit genomen om het verzoek gedeeltelijk toe te wijzen, met
+  enkele documenten die openbaar zijn gemaakt, maar ook met afwijzingen op
+  bepaalde punten.
+milestones: []
+ai_processed_at: '2026-05-08T11:26:53.973Z'
 ---
 
 Postadres: Gem eente
