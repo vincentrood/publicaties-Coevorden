@@ -1,8 +1,49 @@
 ---
-title: "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1"
-maps: ["2025","Woo-verzoeken","2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken"]
-source: "2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1.pdf"
-date: 2026-05-08
+title: 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken
+source: >-
+  2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken Deel 1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen voor informatie over de
+  transitie naar permanente bewoning op vakantieparken. Het verzoek is
+  toegewezen, met uitzondering van persoonsgegevens, en er zijn documenten
+  openbaar gemaakt die relevant zijn voor deze transitie.
+milestones:
+  - date: '2024-01-01'
+    event: 'Tarief OZB voor woningen vastgesteld op € 0,1390% van de WOZ-waarde.'
+  - date: '2024-03-05'
+    event: Notitie over streefbeeld en transformatieplan besproken.
+  - date: '2024-03-21'
+    event: 'Memo over afvalinzameling De Tip, gemeente neemt afvalinzameling over.'
+  - date: '2024-04-09'
+    event: Gesprek over de overdracht van gemeenschappelijk goed VvE 'Op de Kiel'.
+  - date: '2024-04-10'
+    event: Notitie groen gepresenteerd.
+  - date: '2024-05-28'
+    event: Planning transformatie De Tip versie gepresenteerd.
+  - date: '2024-07-12'
+    event: Presentatie streefbeeld aan eigenaren.
+  - date: '2024-12-17'
+    event: Tweede werkgroepsoverleg over transformatie.
+  - date: '2025-01-01'
+    event: Invoering van diftar voor afvalinzameling.
+  - date: '2025-03-18'
+    event: Overleg over voortgang transformatie.
+  - date: '2025-07-15'
+    event: Ontvangst Woo-verzoek
+  - date: '2025-07-21'
+    event: Verzoek om specificatie van het Woo-verzoek
+  - date: '2025-07-23'
+    event: Specificatie van de tijdsperiode van het verzoek ontvangen
+  - date: '2025-07-31'
+    event: Besluit op het Woo-verzoek verzonden
+ai_processed_at: '2026-05-08T11:37:01.899Z'
 ---
 
 Postadres:
