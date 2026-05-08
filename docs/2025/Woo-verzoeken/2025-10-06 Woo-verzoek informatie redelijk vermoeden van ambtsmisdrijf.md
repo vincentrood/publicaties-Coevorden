@@ -1,8 +1,26 @@
 ---
-title: "2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf.pdf"
-date: 2026-05-08
+title: 2025-10-06 Woo-verzoek informatie redelijk vermoeden van ambtsmisdrijf
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-10-06 Woo-verzoek informatie redelijk vermoeden van
+  ambtsmisdrijf.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving een Woo-verzoek op 10 augustus 2025 met
+  betrekking tot vermoedens van ambtsmisdrijven. Het verzoek werd gedeeltelijk
+  toegewezen, maar er zijn ook bezwaren en uitgestelde verstrekking van
+  informatie.
+milestones:
+  - date: '2025-08-10'
+    event: Ontvangst Woo-verzoek inzake ambtsmisdrijf
+  - date: '2025-09-05'
+    event: Mededeling aan verzoeker over zienswijzen van belanghebbenden
+  - date: '2025-10-06'
+    event: Verzenddatum van het besluit op het Woo-verzoek
+ai_hash: ac54e8b9c268ddbefc798444339626bbf528f2f2a65dbed043320a91d537d1bc
+ai_processed_at: '2026-05-08T10:36:56.409Z'
 ---
 
 Gemeente

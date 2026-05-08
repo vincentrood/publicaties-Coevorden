@@ -1,8 +1,47 @@
 ---
-title: "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2"
-maps: ["2025","Woo-verzoeken","2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen"]
-source: "2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2.pdf"
-date: 2026-05-08
+title: '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 2'
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen'
+source: >-
+  2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse
+  onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel
+  2.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden werkt aan de transformatie van Bungalowpark WICO van
+  recreatie naar permanente bewoning, met betrokkenheid van eigenaren en een
+  werkgroep. Er zijn diverse communicatie- en besluitvormingsprocessen gaande,
+  met aandacht voor wettelijke kaders en de belangen van alle betrokken
+  partijen.
+milestones:
+  - date: '2024-01-15'
+    event: Aankondiging dat de werkgroep met een eigen onderzoek komt.
+  - date: '2024-01-16'
+    event: >-
+      Beslissing genomen dat de opdracht voor Bureau Ruimte en Vrije Tijd van
+      kracht blijft.
+  - date: '2024-01-30'
+    event: Reactie vanuit College van B&W op ontvangen brief van grondeigenaar.
+  - date: '2024-02-05'
+    event: >-
+      Plaatsvervangend raadadviseur heeft gebeld met de verpachter over
+      ingezonden brief.
+  - date: '2024-02-27'
+    event: Raadsvergadering waarin ingekomen stukken besproken worden.
+  - date: '2024-05-28'
+    event: Onderzoek vitaliteitsscan door Bureau Ruimte en Vrije Tijd uitgevoerd.
+  - date: '2024-07-10'
+    event: Ontvangst van het concept rapport vitaliteitsscan.
+  - date: '2024-09-30'
+    event: Raadsinformatiebrief over huidige situatie opgesteld.
+  - date: '2025-01-01'
+    event: Start van gesprekken met individuele bewoners over toekomst van het park.
+  - date: '2025-06-01'
+    event: Deadline voor duidelijkheid over toekomstplan van het park.
+ai_hash: b4837cc3a1609edf8b337ceaa46368e6a15f4cc6b3c87f30f8f80f9096dc9723
+ai_processed_at: '2026-05-08T11:01:43.029Z'
 ---
 
 Gemeente Coevorden

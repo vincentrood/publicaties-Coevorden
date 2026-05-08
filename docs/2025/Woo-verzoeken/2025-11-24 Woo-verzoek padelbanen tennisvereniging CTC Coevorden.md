@@ -1,8 +1,36 @@
 ---
-title: "2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden.pdf"
-date: 2026-05-08
+title: 2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-11-24 Woo-verzoek padelbanen tennisvereniging CTC
+  Coevorden.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De Coevorder Tennisclub C.T.C. heeft een aanvraag ingediend voor het plaatsen
+  van twee padelbanen, maar de gemeente Coevorden heeft deze aanvraag geweigerd.
+  Na een rechtszaak heeft de rechtbank de gemeente opgedragen om de vergunning
+  alsnog te verlenen.
+milestones:
+  - date: '2022-02-28'
+    event: Aanvraag omgevingsvergunning ingediend door Coevorder Tennisclub C.T.C.
+  - date: '2023-09-29'
+    event: >-
+      Weigering omgevingsvergunning door het college van burgemeester en
+      wethouders.
+  - date: '2024-04-25'
+    event: Besluit op bezwaar van Coevorder Tennisclub C.T.C. blijft ongegrond.
+  - date: '2025-08-08'
+    event: >-
+      Rechtbank Noord-Nederland verklaart het beroep van Coevorder Tennisclub
+      C.T.C. gegrond.
+  - date: '2025-09-22'
+    event: >-
+      Nieuwe beslissing op bezwaar; omgevingsvergunning voor padelbanen wordt
+      verleend.
+ai_hash: ac39d48b2586982082d6b5b2e2f8b66bda1bce9b3a2ea8999c7ffeaabb35a664
+ai_processed_at: '2026-05-08T10:36:09.160Z'
 ---
 
 Postadres:

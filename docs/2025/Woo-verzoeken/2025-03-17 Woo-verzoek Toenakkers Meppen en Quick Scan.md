@@ -1,8 +1,48 @@
 ---
-title: "2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.pdf"
-date: 2026-05-08
+title: 2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-03-17 Woo-verzoek Toenakkers Meppen en Quick Scan.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een proces gestart voor de revitalisering van de
+  vakantieparken Toenakkers, de Brinkskamp en de Tilkampen. Dit proces omvat het
+  evalueren van de huidige situatie en het ontwikkelen van toekomstplannen voor
+  deze gebieden.
+milestones:
+  - date: '2024-01-19'
+    event: Gebiedsbezoek en evaluatie van de vitaliteitsscan voor park Toenakkers.
+  - date: '2024-02-28'
+    event: >-
+      Definitieve vitaliteitsscan voor Toenakkers opgeleverd door Bureau voor
+      Ruimte & Vrije Tijd.
+  - date: '2024-05-08'
+    event: Raadsexcursie over het programma Vitale Vakantieparken.
+  - date: '2024-07-15'
+    event: >-
+      Besluit van de gemeente om de vitaliteitsscans van de parken te delen met
+      de eigenaren.
+  - date: '2024-09-12'
+    event: >-
+      Quick Scan transformatie park De Toenakkers uitgevoerd door Taskforce
+      Vitale Vakantieparken Drenthe.
+  - date: '2024-12-17'
+    event: >-
+      Informatiebrief naar de gemeenteraad over de opstart van
+      revitaliseringstrajecten.
+  - date: '2025-01-01'
+    event: >-
+      Start van het proces voor het ontwikkelen van toekomstplannen voor de
+      parken.
+  - date: '2025-12-31'
+    event: >-
+      Einde van het kalenderjaar waarin heldere afspraken en een toekomstplan
+      moeten liggen.
+  - date: '2026-01-01'
+    event: Uitvoering van het toekomstplan voor de parken.
+ai_hash: 5f1ec6067b11bdd2045850d46f6ec49ce4c0d4c1742fc9686331cc60160ac9c3
+ai_processed_at: '2026-05-08T10:47:14.975Z'
 ---
 
 Postadres:

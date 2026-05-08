@@ -1,8 +1,30 @@
 ---
-title: "2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees.pdf"
-date: 2026-05-08
+title: 2025-16-09 Woo-verzoek metingen verkeersgedragingen Dorpsstraat Gees
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-16-09 Woo-verzoek metingen verkeersgedragingen
+  Dorpsstraat Gees.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Een inwoner van Gees diende op 7 september 2025 een Woo-verzoek in bij de
+  gemeente Coevorden voor informatie over verkeersmetingen. De gemeente besloot
+  op 16 september 2025 om het verzoek gedeeltelijk toe te wijzen en bepaalde
+  documenten openbaar te maken.
+milestones:
+  - date: '2025-09-07'
+    event: Inwoner dient Woo-verzoek in bij gemeente Coevorden.
+  - date: '2025-09-08'
+    event: Gemeente ontvangt het Woo-verzoek.
+  - date: '2025-09-14'
+    event: >-
+      Gemeente vraagt bevestiging of het verzoek als Woo-verzoek moet worden
+      behandeld.
+  - date: '2025-09-16'
+    event: Gemeente besluit om het Woo-verzoek gedeeltelijk toe te wijzen.
+ai_hash: f55fe748dcabacddd75020ed5cedc8bdb1fb2c1ec80a289d0289149e0d09a21d
+ai_processed_at: '2026-05-08T10:35:32.549Z'
 ---
 
 Mm: Gemeente

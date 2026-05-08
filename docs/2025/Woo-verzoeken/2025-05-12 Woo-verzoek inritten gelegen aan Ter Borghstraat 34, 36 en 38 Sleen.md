@@ -1,8 +1,42 @@
 ---
-title: "2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen.pdf"
-date: 2026-05-08
+title: '2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat 34, 36 en 38 Sleen'
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-05-12 Woo-verzoek inritten gelegen aan Ter Borghstraat
+  34, 36 en 38 Sleen.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft het proces van een Woo-verzoek ingediend door een
+  inwoner van Coevorden met betrekking tot de aanleg van inritten. Het verzoek
+  werd gedeeltelijk toegewezen, maar enkele documenten werden niet openbaar
+  gemaakt vanwege privacyredenen.
+milestones:
+  - date: '2025-01-09'
+    event: >-
+      Ontvangstbevestiging van de aanvraag omgevingsvergunning voor het
+      aanleggen van een inrit.
+  - date: '2025-01-21'
+    event: Verzoek om aanvullende gegevens voor de omgevingsvergunning.
+  - date: '2025-03-04'
+    event: >-
+      Deadline voor het indienen van ontbrekende gegevens voor de
+      omgevingsvergunning.
+  - date: '2025-04-01'
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: '2025-04-02'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2025-04-16'
+    event: >-
+      Telefonische bevestiging van de aanvrager dat documenten openbaar worden
+      gemaakt.
+  - date: '2025-05-12'
+    event: Verzenddatum van het Woo-besluit door de gemeente.
+  - date: '2025-05-12'
+    event: Besluit om het Woo-verzoek gedeeltelijk toe te wijzen.
+ai_hash: 82f1304723215cf429a84b1cdbac703374f1fd26fb41fdad3579d36c07d0c672
+ai_processed_at: '2026-05-08T10:41:44.086Z'
 ---
 
 Postadres:

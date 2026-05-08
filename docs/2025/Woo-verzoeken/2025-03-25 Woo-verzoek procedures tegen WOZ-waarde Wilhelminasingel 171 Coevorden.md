@@ -1,8 +1,36 @@
 ---
-title: "2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171 Coevorden.pdf"
-date: 2026-05-08
+title: >-
+  2025-03-25 Woo-verzoek procedures tegen WOZ-waarde Wilhelminasingel 171
+  Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-03-25 Woo-verzoek procedures tegen WOZ-waarde
+  Wilhelminasingel 171 Coevorden.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft de stappen van een Woo-verzoek en de daaropvolgende
+  afhandeling door de gemeente Coevorden met betrekking tot de WOZ-waarde van
+  een specifiek object. Het omvat de indiening van het verzoek, de beoordeling,
+  en de communicatie over de bezwaarschriften.
+milestones:
+  - date: '2023-01-31'
+    event: Aanslag gemeentelijke belastingen 2023 gedagtekend.
+  - date: '2023-03-03'
+    event: Bezwaar ingediend tegen de aanslag WOZ/OZB 2023.
+  - date: '2023-04-16'
+    event: >-
+      Melding dat bezwaarschrift niet ontvankelijk is vanwege ontbrekende
+      motivering.
+  - date: '2025-01-20'
+    event: Betaalopdracht verzonden naar aanleiding van WOZ beroep.
+  - date: '2025-02-12'
+    event: Woo-verzoek ontvangen door de gemeente.
+  - date: '2025-03-28'
+    event: Besluit genomen om het Woo-verzoek gedeeltelijk toe te wijzen.
+ai_hash: 0a6ed1ec930798571c7acff857b5844e95e6f66a446246fadad618a0c753667b
+ai_processed_at: '2026-05-08T10:46:53.815Z'
 ---
 
 Gemeente

@@ -1,8 +1,42 @@
 ---
-title: "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2"
-maps: ["2025","Woo-verzoeken","2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken"]
-source: "2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2.pdf"
-date: 2026-05-08
+title: 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 2
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken
+source: >-
+  2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken Deel 2.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De transformatie van recreatiepark De Tip in De Kiel naar een woonbestemming
+  is in volle gang, met als doel de kwaliteit van het gebied te verbeteren en de
+  biodiversiteit te verhogen. Belangrijke stappen zijn het opstellen van een
+  streefbeeld en het aanpassen van het omgevingsplan.
+milestones:
+  - date: '2023-01-18'
+    event: >-
+      Deskundige rapportage over waardeverandering door wijziging bestemming van
+      recreatie naar wonen.
+  - date: '2023-02-14'
+    event: Start van het transformatieproces voor De Tip.
+  - date: '2023-10-02'
+    event: Definitief streefbeeld transformatiepark De Tip vastgesteld.
+  - date: '2024-01-01'
+    event: Invoering van de Omgevingswet.
+  - date: '2024-02-01'
+    event: Start van de uitvoering van het transformatieplan.
+  - date: '2024-07-12'
+    event: Presentatie van het streefbeeld aan alle eigenaren.
+  - date: '2024-10-22'
+    event: Voorstel aan het college om het streefbeeld vast te stellen.
+  - date: '2024-12-03'
+    event: Bespreking van de verbeterde versie van de anterieure overeenkomst.
+  - date: '2025-01-01'
+    event: Ingang van de nieuwe afvalinzameling door de gemeente.
+ai_hash: d1d390a11c94c8a47042c097e7ca9e14bdb8327280996c326a03948a2914b0cb
+ai_processed_at: '2026-05-08T11:04:00.887Z'
 ---
 
 1 Monsterneming

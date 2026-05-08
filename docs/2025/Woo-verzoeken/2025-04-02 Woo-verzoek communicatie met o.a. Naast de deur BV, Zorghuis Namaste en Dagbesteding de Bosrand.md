@@ -1,8 +1,27 @@
 ---
-title: "2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis Namaste en Dagbesteding de Bosrand.pdf"
-date: 2026-05-08
+title: >-
+  2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur BV, Zorghuis
+  Namaste en Dagbesteding de Bosrand
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-04-02 Woo-verzoek communicatie met o.a. Naast de deur
+  BV, Zorghuis Namaste en Dagbesteding de Bosrand.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen en gedeeltelijk
+  toegewezen. Er zijn documenten beoordeeld en gepubliceerd, met uitzondering
+  van persoonsgegevens.
+milestones:
+  - date: '2025-02-24'
+    event: Ontvangst Woo-verzoek
+  - date: '2025-03-18'
+    event: Mededeling aan aanvrager over zienswijze
+  - date: '2025-04-02'
+    event: Verzenddatum besluit Woo-verzoek
+ai_hash: c9b1234dbdaf2b54b9b83c11cef9db549b5972811afefc3415fdf8d1c4b86c87
+ai_processed_at: '2026-05-08T10:41:54.073Z'
 ---
 
 Gemeente

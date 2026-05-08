@@ -1,8 +1,34 @@
 ---
-title: "2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3"
-maps: ["2025","Woo-verzoeken","2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken"]
-source: "2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3.pdf"
-date: 2026-05-08
+title: 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken Deel 3
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - 2025-07-31 Woo-verzoek transitie permanente bewoning op vakantieparken
+source: >-
+  2025/Woo-verzoeken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken/2025-07-31 Woo-verzoek transitie permanente bewoning op
+  vakantieparken Deel 3.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De transformatie van recreatiepark De Tip in De Kiel naar permanente bewoning
+  is in gang gezet, met als doel een woonbestemming voor alle percelen. Dit
+  proces omvat diverse stappen, waaronder het opstellen van een streefbeeld en
+  het aanpassen van het omgevingsplan.
+milestones:
+  - date: '2024-05-28'
+    event: Werkgroep bespreekt het concept-streefbeeld voor de transformatie.
+  - date: '2024-07-12'
+    event: Presentatie van het streefbeeld aan de eigenaren.
+  - date: '2024-10-22'
+    event: College van B&W van Coevorden stelt het streefbeeld vast.
+  - date: '2024-12-01'
+    event: Start van de uitwerking van het transformatieplan.
+  - date: '2025-01-01'
+    event: Ingang van het nieuwe inzamelsysteem voor afval.
+  - date: '2025-06-01'
+    event: Vaststelling van het TAM-omgevingsplan door de gemeenteraad.
+ai_hash: 0688b7dbd5ce2279648b64bb5c13c1e10e24086190bf0f1ea8c0edc8d2e3064f
+ai_processed_at: '2026-05-08T11:03:04.346Z'
 ---
 
 Aanvraagformulier

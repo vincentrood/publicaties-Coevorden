@@ -1,8 +1,29 @@
 ---
-title: "2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees.pdf"
-date: 2026-05-08
+title: 2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone buitengebied Gees
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-11-20 Woo-verzoek verkeersbesluit 60 km-uur zone
+  buitengebied Gees.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  In 2025 heeft de gemeente Coevorden een verkeersbesluit genomen voor de
+  intrekking van een 60 km/h zone in het buitengebied van Gees. Dit besluit werd
+  op 14 oktober 2025 ingetrokken en op 22 oktober 2025 gepubliceerd.
+milestones:
+  - date: '2025-10-14'
+    event: Intrekking van het verkeersbesluit 60 km/h zone.
+  - date: '2025-10-22'
+    event: Publicatie van de intrekking van het verkeersbesluit in het Gemeenteblad.
+  - date: '2025-10-26'
+    event: Indiening Woo-verzoek voor openbaarmaking van documenten.
+  - date: '2025-10-27'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2025-11-04'
+    event: Brief gestuurd naar verzoeker over opschorting van de termijn.
+ai_hash: 5c3d7dcad42958b48abcc2f9de558a2d984e4ecd30890c4989f9a52fc079d446
+ai_processed_at: '2026-05-08T10:36:30.982Z'
 ---
 
 Postadres:

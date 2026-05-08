@@ -1,8 +1,43 @@
 ---
-title: "2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1"
-maps: ["2025","Woo-verzoeken","2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden"]
-source: "2025/Woo-verzoeken/2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden/2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden deel 1.pdf"
-date: 2026-05-08
+title: >-
+  2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a Coevorden
+  deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-15 Woo-verzoek bodemverontreiniging en asbest Nieuwe Dijk 2a
+    Coevorden
+source: >-
+  2025/Woo-verzoeken/2025-12-15 Woo-verzoek bodemverontreiniging en asbest
+  Nieuwe Dijk 2a Coevorden/2025-12-15 Woo-verzoek bodemverontreiniging en asbest
+  Nieuwe Dijk 2a Coevorden deel 1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft de procedure en bevindingen met betrekking tot een
+  Woo-verzoek voor de locatie Nieuwe Dijk 2a te Coevorden, inclusief
+  bodemverontreiniging en asbest. Het verzoek is ingediend door Treanelka B.V.
+  en betreft de openbaarmaking van documenten met betrekking tot
+  bodemverontreiniging en asbest van 2024 tot 2025.
+milestones:
+  - date: '2023-01-31'
+    event: Advies van de Omgevingsdienst Drenthe ontvangen.
+  - date: '2023-06-21'
+    event: Indiening van de QuickScan aanvraag voor nieuwbouw van bedrijfsunits.
+  - date: '2023-09-05'
+    event: Actualisatie bodemonderzoek uitgevoerd door Antea Group.
+  - date: '2023-09-14'
+    event: Behandeling van het verzoek in de Omgevingstafel.
+  - date: '2025-02-17'
+    event: Communicatie over bodemonderzoek en asbestinventarisatie.
+  - date: '2025-07-09'
+    event: Locatie Nieuwe Dijk 2A bezocht voor inspectie.
+  - date: '2025-10-20'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2025-12-15'
+    event: Verzenddatum van de beslissing op het Woo-verzoek.
+ai_hash: f0828af94516f71e6889ec95f9c4831066df59135741332a57f4e5ed28d41a52
+ai_processed_at: '2026-05-08T10:50:30.729Z'
 ---
 
 Gemeente

@@ -1,8 +1,29 @@
 ---
-title: "2025-06-30 Woo-verzoek meetdata overstorten rioolwater 1"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-06-30 Woo-verzoek meetdata overstorten rioolwater 1.pdf"
-date: 2026-05-08
+title: 2025-06-30 Woo-verzoek meetdata overstorten rioolwater 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-06-30 Woo-verzoek meetdata overstorten rioolwater
+  1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Een Woo-verzoek is ingediend voor het openbaar maken van documenten met
+  betrekking tot rioolwateroverstorten. Het verzoek is afgewezen omdat er geen
+  documenten zijn aangetroffen.
+milestones:
+  - date: '2025-05-20'
+    event: Indiening Woo-verzoek bij Waterschap Drents Overijsselse Delta
+  - date: '2025-06-24'
+    event: Doorsturen van het Woo-verzoek naar de gemeente Coevorden
+  - date: '2025-06-24'
+    event: Ontvangst van het Woo-verzoek door de gemeente Coevorden
+  - date: '2025-06-30'
+    event: Verzenddatum van het besluit op het Woo-verzoek
+  - date: '2025-06-30'
+    event: Afwijzing van het Woo-verzoek wegens het ontbreken van documenten
+ai_hash: 118c0dc1ba879f3f0ba00450d83456cbf9301325cd04eb3d6eed7730bc0df4ee
+ai_processed_at: '2026-05-08T10:39:19.291Z'
 ---
 
 Gemeente

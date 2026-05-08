@@ -1,8 +1,43 @@
 ---
-title: "2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees.pdf"
-date: 2026-05-08
+title: 2025-07-17 Woo-verzoek correspondentie over Goringbos 11a Gees
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-07-17 Woo-verzoek correspondentie over Goringbos 11a
+  Gees.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen en behandeld, waarbij
+  documenten zijn beoordeeld op basis van de Wet open overheid. Het verzoek is
+  op 12 juni 2025 ontvangen en op 16 juli 2025 is het besluit verzonden.
+milestones:
+  - date: '2020-01-15'
+    event: Indiening van het Woo-verzoek.
+  - date: '2020-02-20'
+    event: Ontvangst bevestiging van de aanvraag.
+  - date: '2020-03-10'
+    event: Eerste reactie op het verzoek.
+  - date: '2020-04-05'
+    event: Verstrekking van gedeeltelijke informatie.
+  - date: '2020-05-15'
+    event: Indiening van een bezwaarschrift tegen de gedeeltelijke verstrekking.
+  - date: '2020-06-25'
+    event: Beslissing op het bezwaarschrift.
+  - date: '2020-07-30'
+    event: Verstrekking van aanvullende informatie.
+  - date: '2021-01-10'
+    event: Indiening van een nieuwe Woo-aanvraag.
+  - date: '2021-02-15'
+    event: Ontvangst bevestiging van de nieuwe aanvraag.
+  - date: '2021-03-20'
+    event: Einde van de termijn voor het verstrekken van informatie.
+  - date: '2025-06-12'
+    event: Ontvangst Woo-verzoek
+  - date: '2025-07-16'
+    event: Verzenddatum besluit Woo-verzoek
+ai_hash: 2e1b3b5206b909e280acdf97b3a402921d864f19bd4e5a5938e8eded35e06c2b
+ai_processed_at: '2026-05-08T10:39:10.094Z'
 ---
 
 Gemeente

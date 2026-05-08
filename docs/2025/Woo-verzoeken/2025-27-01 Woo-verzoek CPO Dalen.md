@@ -1,8 +1,35 @@
 ---
-title: "2025-27-01 Woo-verzoek CPO Dalen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-27-01 Woo-verzoek CPO Dalen.pdf"
-date: 2026-05-08
+title: 2025-27-01 Woo-verzoek CPO Dalen
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-27-01 Woo-verzoek CPO Dalen.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft de stappen en besluiten rondom een Woo-verzoek
+  ingediend bij de gemeente Coevorden. Het verzoek betreft informatie over de
+  bouw van woningen op specifieke percelen in Dalen.
+milestones:
+  - date: '2023-07-31'
+    event: Inschrijving van een document bij het Kadaster.
+  - date: '2023-08-02'
+    event: Verbetering van een clerical error in een eerder document.
+  - date: '2024-01-16'
+    event: >-
+      Vaststelling van de intentieverklaring tussen de gemeente en CPO Daler
+      Starters.
+  - date: '2024-05-28'
+    event: Versturen van ruimtelijke randvoorwaarden per locatie.
+  - date: '2024-07-22'
+    event: Versturen van ontwerpen voor de Thyakkerstraat.
+  - date: '2024-12-16'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2025-01-14'
+    event: Deadline voor het toezenden van de gevraagde informatie.
+  - date: '2025-01-27'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_hash: 3616d059317b0fa526003248dd2f6fb300190ad4d390d032dfc2b58cdda7bc02
+ai_processed_at: '2026-05-08T10:35:06.816Z'
 ---
 
 Gemeente

@@ -1,8 +1,42 @@
 ---
-title: "2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit.pdf"
-date: 2026-05-08
+title: 2025-01-28 Woo-verzoek buiten behandeling aanvraag verleggen bestaande inrit
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-01-28 Woo-verzoek buiten behandeling aanvraag
+  verleggen bestaande inrit.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft de stappen en besluiten rondom een Woo-verzoek van DVG
+  Dienstverlening B.V. met betrekking tot een omgevingsvergunning in Coevorden.
+  Het verzoek is ingediend om inzicht te krijgen in de besluitvorming en
+  legesnota's met betrekking tot de aanvraag voor het verleggen van een inrit.
+milestones:
+  - date: '2023-12-30'
+    event: >-
+      Aanvraag omgevingsvergunning ontvangen voor het verleggen van een
+      bestaande inrit.
+  - date: '2024-01-09'
+    event: Verzoek om aanvullende gegevens voor de aanvraag inrit/uitweg verstuurd.
+  - date: '2024-03-01'
+    event: Aanvraag voor de activiteit inrit/uitweg aangevuld.
+  - date: '2024-03-18'
+    event: Beslistermijn met 6 weken verlengd.
+  - date: '2024-04-02'
+    event: Informatie over voornemen tot weigering vergunning verstuurd.
+  - date: '2024-04-17'
+    event: Zienswijze van de aanvrager ontvangen.
+  - date: '2024-05-17'
+    event: Informatie over verdere behandeling van de aanvraag verstuurd.
+  - date: '2024-08-19'
+    event: Deadline voor het indienen van aanvullende gegevens verstreken.
+  - date: '2024-09-12'
+    event: Besluit buiten behandeling stellen aanvraag verstuurd.
+  - date: '2024-11-29'
+    event: Woo-verzoek ingediend door DVG Dienstverlening B.V.
+ai_hash: 15bc1714e9c9c02c4bdba364a4ac1eb89e7e4f9d94405ab0578c53f7a59d2aa8
+ai_processed_at: '2026-05-08T10:48:07.741Z'
 ---
 
 Gemeente

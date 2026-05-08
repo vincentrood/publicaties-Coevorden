@@ -1,8 +1,47 @@
 ---
-title: "2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1"
-maps: ["2025","Woo-verzoeken","2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen"]
-source: "2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1.pdf"
-date: 2026-05-08
+title: '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel 1'
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - '2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen'
+source: >-
+  2025/Woo-verzoeken/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse
+  onderwerpen/2025-09-03 Woo-verzoek Bungalowpark Wico, diverse onderwerpen Deel
+  1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van de bewoners van Bungalowpark Wico leidde tot een besluit
+  van de gemeente Coevorden om bepaalde documenten openbaar te maken, maar ook
+  tot onvrede over de communicatie en besluitvorming. De situatie rondom het
+  park blijft complex door de combinatie van permanente bewoning en recreatief
+  gebruik, met een toekomst die nog onzeker is.
+milestones:
+  - date: '2025-01-14'
+    event: >-
+      Presentatie van het onderzoeksrapport door de Werkgroep Toekomst
+      Bungalowpark Wico aan de gemeenteraad.
+  - date: '2025-01-16'
+    event: Bespreking van de toekomst van Bungalowpark Wico in de raadsvergadering.
+  - date: '2025-02-06'
+    event: >-
+      Verzoek van de gemeente Coevorden om de werkgroep te betrekken bij de
+      vitaliteitsscan.
+  - date: '2025-02-22'
+    event: >-
+      Overleg tussen de gemeente en de werkgroep over de toekomstplannen voor
+      het park.
+  - date: '2025-06-01'
+    event: Start van de vitaliteitsscan door Bureau Ruimte en Vrije Tijd.
+  - date: '2025-06-30'
+    event: Oplevering van het adviesrapport door Bureau Ruimte en Vrije Tijd.
+  - date: '2025-08-24'
+    event: Indiening Woo-verzoek door bewoners van Bungalowpark Wico.
+  - date: '2025-08-25'
+    event: Ontvangst van het Woo-verzoek door de gemeente Coevorden.
+  - date: '2025-09-03'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_hash: 7e188a936f354bae07798dc386b41204d40dc51a7407840de3a067e833cd26f3
+ai_processed_at: '2026-05-08T11:02:35.105Z'
 ---
 
 Postadres: Gemeente

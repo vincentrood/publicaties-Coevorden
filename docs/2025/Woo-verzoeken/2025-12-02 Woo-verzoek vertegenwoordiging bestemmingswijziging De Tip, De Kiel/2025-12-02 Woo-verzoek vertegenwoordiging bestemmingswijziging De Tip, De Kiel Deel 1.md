@@ -1,8 +1,47 @@
 ---
-title: "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1"
-maps: ["2025","Woo-verzoeken","2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel"]
-source: "2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 1.pdf"
-date: 2026-05-08
+title: >-
+  2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel
+  Deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De
+    Kiel
+source: >-
+  2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel Deel 1.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het transformatieproces van De Tip in De Kiel betreft de wijziging van
+  recreatieve bestemmingen naar permanente woonbestemmingen, met als doel de
+  kwaliteit en biodiversiteit van het gebied te verbeteren. Dit proces omvat
+  verschillende stappen, waaronder het opstellen van een transformatieplan en
+  het vastleggen van afspraken tussen de gemeente en de eigenaren.
+milestones:
+  - date: '2020-02-07'
+    event: >-
+      Gesprek tussen gemeente-ambtenaren en Taskforce VVP Drenthe over de
+      transformatie.
+  - date: '2021-09-15'
+    event: >-
+      Vaststelling van het kader voor kostenverhaal en verevening binnen het
+      programma Vitale Vakantieparken.
+  - date: '2022-02-15'
+    event: >-
+      Vaststelling van de Deelstructuurvisie Transformatie recreatiewoningen
+      door de gemeenteraad.
+  - date: '2024-10-22'
+    event: Vaststelling van het streefbeeld voor de transformatie van De Tip.
+  - date: '2025-06-01'
+    event: >-
+      Start van de uitvoering van het transformatieplan en de bijbehorende
+      maatregelen.
+  - date: '2025-12-31'
+    event: Invoering van het nieuwe systeem van afvalinzameling in De Tip.
+ai_hash: 9f38698cebdefa4ccdfa5b868a14a21ad133df8b1b12fa041ada0789f314f9bd
+ai_processed_at: '2026-05-08T10:52:01.023Z'
 ---
 
 Postadres: Gemeente

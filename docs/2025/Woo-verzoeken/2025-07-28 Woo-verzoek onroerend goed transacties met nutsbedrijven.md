@@ -1,8 +1,41 @@
 ---
-title: "2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven.pdf"
-date: 2026-05-08
+title: 2025-07-28 Woo-verzoek onroerend goed transacties met nutsbedrijven
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-07-28 Woo-verzoek onroerend goed transacties met
+  nutsbedrijven.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft het proces van een Woo-verzoek ingediend door
+  Treanelka BV aan de gemeente Coevorden, met betrekking tot
+  onroerendgoedtransacties. Het verzoek werd gedeeltelijk toegewezen, met enkele
+  documenten die openbaar zijn gemaakt en andere die zijn geweigerd op basis van
+  uitzonderingsgronden.
+milestones:
+  - date: '2025-06-12'
+    event: Indiening Woo-verzoek door Treanelka BV.
+  - date: '2025-06-13'
+    event: Ontvangst van het Woo-verzoek door de gemeente Coevorden.
+  - date: '2025-06-24'
+    event: Bevestiging van ontvangst van het Woo-verzoek.
+  - date: '2025-06-25'
+    event: Specificatie van het verzoek door Treanelka BV.
+  - date: '2025-07-01'
+    event: Verlenging van de beslistermijn met twee weken.
+  - date: '2025-07-14'
+    event: >-
+      Opschorting van de beslistermijn vanwege documenten met betrekking tot
+      derden.
+  - date: '2025-07-28'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+  - date: '2025-07-28'
+    event: Besluit om het Woo-verzoek gedeeltelijk toe te wijzen.
+  - date: '2025-07-28'
+    event: Publicatie van het besluit en de documenten op de website van de gemeente.
+ai_hash: 9a90d2287b1bfc94ef97bce2b5f37f6fcab294a427696f04dec1a2fabaa41481
+ai_processed_at: '2026-05-08T10:38:47.829Z'
 ---
 
 Postadres:

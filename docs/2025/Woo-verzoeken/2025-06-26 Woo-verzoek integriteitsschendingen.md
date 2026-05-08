@@ -1,8 +1,40 @@
 ---
-title: "2025-06-26 Woo-verzoek integriteitsschendingen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-06-26 Woo-verzoek integriteitsschendingen.pdf"
-date: 2026-05-08
+title: 2025-06-26 Woo-verzoek integriteitsschendingen
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-06-26 Woo-verzoek integriteitsschendingen.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen en gedeeltelijk
+  toegewezen. Er zijn verschillende stappen ondernomen om
+  integriteitsschendingen te onderzoeken en de sociale veiligheid binnen de
+  organisatie te verbeteren.
+milestones:
+  - date: '2023-01-12'
+    event: >-
+      Notulen overlegvergadering Ondernemingsraad, bespreking over sociale
+      veiligheid.
+  - date: '2023-03-01'
+    event: 'Jaarverslag vertrouwenspersoon 2023, stijging in meldingen.'
+  - date: '2023-04-14'
+    event: >-
+      Notulen overlegvergadering Ondernemingsraad, bespreking over meldingen
+      vertrouwenspersoon.
+  - date: '2024-01-18'
+    event: >-
+      Notulen overlegvergadering Ondernemingsraad, bespreking over
+      integriteitskwesties.
+  - date: '2024-09-12'
+    event: Brief aan OR over verzoek om advies interne vertrouwenspersoon.
+  - date: '2024-10-29'
+    event: OR adviseert positief op voorgenomen besluit interne vertrouwenspersoon.
+  - date: '2025-04-25'
+    event: Verzenddatum besluit Woo-verzoek aan melder.
+  - date: '2025-06-26'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_hash: 0916d07b33bdc6369685708df377d87ee6755baf582b4240731c5aece3ff712c
+ai_processed_at: '2026-05-08T10:39:55.916Z'
 ---
 
 Gemeente

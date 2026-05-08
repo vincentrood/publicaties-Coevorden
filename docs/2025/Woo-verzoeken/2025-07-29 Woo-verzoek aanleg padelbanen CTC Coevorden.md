@@ -1,8 +1,44 @@
 ---
-title: "2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.pdf"
-date: 2026-05-08
+title: 2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: 2025/Woo-verzoeken/2025-07-29 Woo-verzoek aanleg padelbanen CTC Coevorden.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit dossier betreft een Woo-verzoek van de Coevorder Tennisclub voor de aanleg
+  van twee padelbanen, dat door de gemeente Coevorden gedeeltelijk is
+  toegewezen. De gemeente heeft de omgevingsvergunning voor de aanleg geweigerd,
+  wat heeft geleid tot een beroepsprocedure.
+milestones:
+  - date: '2022-02-28'
+    event: >-
+      Aanvraag omgevingsvergunning ingediend door Coevorder Tennisclub voor twee
+      padelbanen.
+  - date: '2023-09-29'
+    event: Besluit van de gemeente Coevorden om de omgevingsvergunning te weigeren.
+  - date: '2023-10-25'
+    event: >-
+      Pro forma bezwaar ingediend door Coevorder Tennisclub tegen het besluit
+      van 29 september 2023.
+  - date: '2023-12-20'
+    event: Aanvulling van de bezwaargronden door Coevorder Tennisclub.
+  - date: '2024-02-28'
+    event: Hoorzitting van de bezwaarschriftencommissie over het bezwaar.
+  - date: '2024-04-03'
+    event: >-
+      Advies van de bezwaarschriftencommissie om het bezwaar gegrond te
+      verklaren.
+  - date: '2024-04-25'
+    event: >-
+      Beslissing op bezwaar van de gemeente om het bezwaar ongegrond te
+      verklaren.
+  - date: '2024-06-10'
+    event: Beroep ingesteld door Coevorder Tennisclub tegen de beslissing op bezwaar.
+  - date: '2024-07-25'
+    event: Verweerschrift van de gemeente Coevorden inzake het beroep.
+ai_hash: c6004b9556c0b99b17cebb28de6745c101c9fcf12167d1d4a6b1ce5793a28365
+ai_processed_at: '2026-05-08T10:38:09.265Z'
 ---
 
 Gemeente

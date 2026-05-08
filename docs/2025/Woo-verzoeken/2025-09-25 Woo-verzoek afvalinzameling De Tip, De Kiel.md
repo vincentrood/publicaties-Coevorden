@@ -1,8 +1,34 @@
 ---
-title: "2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.pdf"
-date: 2026-05-08
+title: '2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel'
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: '2025/Woo-verzoeken/2025-09-25 Woo-verzoek afvalinzameling De Tip, De Kiel.pdf'
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft het proces van een Woo-verzoek van de eigenaren van
+  Bungalowpark De Tip in Coevorden, met betrekking tot afvalinzameling en de
+  bijbehorende besluitvorming. Het proces omvat verschillende stappen van
+  indiening, besluitvorming en communicatie tussen de gemeente en de VvE.
+milestones:
+  - date: '2025-08-23'
+    event: Indiening Woo-verzoek door de eigenaren van De Tip.
+  - date: '2025-08-27'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2025-09-11'
+    event: Gemeente vraagt belanghebbenden om bezwaar tegen openbaarmaking.
+  - date: '2025-09-25'
+    event: Besluit van de gemeente om het Woo-verzoek (deels) toe te wijzen.
+  - date: '2025-10-02'
+    event: Communicatie over de wijze van openbaarmaking van de documenten.
+  - date: '2025-10-03'
+    event: Keuze voor afvalinzameling De Tip besproken.
+  - date: '2025-12-04'
+    event: Afspraakbevestiging voor overleg over afvalinzameling.
+  - date: '2026-01-01'
+    event: Start van de gemeentelijke afvalinzameling op De Tip.
+ai_hash: 639b8eb663cf6bc4a931e8515a0826bf77b796a31569370ce47748aa5aa8c513
+ai_processed_at: '2026-05-08T10:37:31.649Z'
 ---
 
 Telefoon 14 0524

@@ -1,8 +1,24 @@
 ---
-title: "2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden.pdf"
-date: 2026-05-08
+title: 2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming Arsenaal te Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-06-10 Woo-verzoek onderzoeksrapport scheurvorming
+  Arsenaal te Coevorden.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op 14 mei 2025 een Woo-verzoek ontvangen en op 10
+  juni 2025 een besluit genomen om de documenten deels openbaar te maken.
+  Persoonsgegevens zijn onleesbaar gemaakt en de documenten worden via een
+  beveiligde e-mail verstrekt.
+milestones:
+  - date: '2025-05-14'
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: '2025-06-10'
+    event: Besluit genomen door de gemeente om het Woo-verzoek deels toe te wijzen.
+ai_hash: 640a4dd4dff92ed7be3421e7a852e0236379b2b6444724bf0de4ffd1f53a10bb
+ai_processed_at: '2026-05-08T10:41:10.324Z'
 ---
 
 Gemeente

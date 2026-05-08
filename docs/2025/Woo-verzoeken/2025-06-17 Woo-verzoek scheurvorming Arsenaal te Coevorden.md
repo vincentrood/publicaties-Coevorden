@@ -1,8 +1,43 @@
 ---
-title: "2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden.pdf"
-date: 2026-05-08
+title: 2025-06-17 Woo-verzoek scheurvorming Arsenaal te Coevorden
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-06-17 Woo-verzoek scheurvorming Arsenaal te
+  Coevorden.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van het Stedelijk Museum Coevorden betreft de scheurvorming in
+  het Arsenaal. De gemeente Coevorden heeft het verzoek ontvangen en een besluit
+  genomen over de openbaarmaking van documenten.
+milestones:
+  - date: '2025-01-09'
+    event: Gesprek over de huidige stand van zaken en de aanpak voor herstel.
+  - date: '2025-01-23'
+    event: Tweede gesprek over de voortgang en de planning.
+  - date: '2025-02-07'
+    event: Derde gesprek over de uitvoering van de sonderingen.
+  - date: '2025-03-10'
+    event: Start van de sonderingen.
+  - date: '2025-03-20'
+    event: Einde van de sonderingen.
+  - date: '2025-04-02'
+    event: Bespreking van de resultaten van de sonderingen.
+  - date: '2025-04-23'
+    event: Vervolg bespreking over de uitvoering van herstelmaatregelen.
+  - date: '2025-05-13'
+    event: Indiening Woo-verzoek door Stedelijk Museum Coevorden.
+  - date: '2025-05-17'
+    event: Versturen van brief met verlenging beslistermijn.
+  - date: '2025-05-21'
+    event: Start van de herstelwerkzaamheden.
+  - date: '2025-06-16'
+    event: Besluit op het Woo-verzoek genomen.
+  - date: '2025-06-17'
+    event: Verzenddatum van het besluit aan de verzoeker.
+ai_hash: b2cf50977574a96f33d7914191fc661d72ee658bae6b3f8d5bf80f509837a2a7
+ai_processed_at: '2026-05-08T10:40:36.535Z'
 ---
 
 Postadres:

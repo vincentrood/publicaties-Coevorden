@@ -1,8 +1,29 @@
 ---
-title: "2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen"
-maps: ["2025","Woo-verzoeken"]
-source: "2025/Woo-verzoeken/2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen.pdf"
-date: 2026-05-08
+title: '2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat, Brink te Sleen'
+maps:
+  - '2025'
+  - Woo-verzoeken
+source: >-
+  2025/Woo-verzoeken/2025-04-01 Woo-verzoek vervanging riool Menso Altingstraat,
+  Brink te Sleen.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Dit document beschrijft het proces van een Woo-verzoek ingediend door een
+  cliënt van de gemeente Coevorden met betrekking tot rioolvervanging en
+  straatwerk. Het besluit om het verzoek gedeeltelijk toe te wijzen en de
+  documenten openbaar te maken, is genomen na een inventarisatie en beoordeling
+  van de documenten.
+milestones:
+  - date: '2025-01-28'
+    event: Indiening Woo-verzoek door cliënt.
+  - date: '2025-01-29'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2025-03-10'
+    event: Versturen van een brief aan de cliënt met verlenging van de beslistermijn.
+  - date: '2025-04-01'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_hash: f17d85f1f8567447e0f34895251d5abe165346cd0c4705951690057489daa8ca
+ai_processed_at: '2026-05-08T10:42:29.509Z'
 ---
 
 Gemeente

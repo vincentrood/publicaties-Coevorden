@@ -1,8 +1,47 @@
 ---
-title: "2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2"
-maps: ["2025","Woo-verzoeken","2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel"]
-source: "2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel Deel 2.pdf"
-date: 2026-05-08
+title: >-
+  2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De Kiel
+  Deel 2
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - >-
+    2025-12-02 Woo-verzoek vertegenwoordiging bestemmingswijziging De Tip, De
+    Kiel
+source: >-
+  2025/Woo-verzoeken/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel/2025-12-02 Woo-verzoek vertegenwoordiging
+  bestemmingswijziging De Tip, De Kiel Deel 2.pdf
+date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het transformatieproces van vakantiepark De Tip in De Kiel naar een
+  woonfunctie omvat verschillende fasen, waarbij de gemeente en eigenaren
+  samenwerken om de huidige situatie te verbeteren en aan te passen aan de
+  nieuwe bestemming. Dit proces is gericht op het creëren van een kwalitatieve
+  impuls en het waarborgen van de belangen van alle betrokken partijen.
+milestones:
+  - date: '2020-01-24'
+    event: Eerste bijeenkomst over transformatie van De Tip.
+  - date: '2020-02-07'
+    event: Quick Scan Transformatie uitgevoerd.
+  - date: '2021-09-14'
+    event: >-
+      Beleidsnota Kader kostenverhaal en verevening voor transformatie
+      vakantieparken vastgesteld.
+  - date: '2022-03-01'
+    event: >-
+      Deelstructuurvisie transformatie recreatiewoningen gemeente Coevorden
+      vastgesteld.
+  - date: '2022-05-20'
+    event: Bijeenkomst woningeigenaren bestemmingsplangebied De Tip.
+  - date: '2024-10-01'
+    event: Streefbeeld transformatiepark De Tip vastgesteld.
+  - date: '2025-02-16'
+    event: Uitnodiging voor deelname aan werkgroep transformatie De Tip verstuurd.
+  - date: '2025-09-23'
+    event: Informatie over voortgang transformatieproces naar gemeenteraad gestuurd.
+ai_hash: c02392903086fb1558b2bb006132eb23f1685aa6a8c8c9e02569567f472059ab
+ai_processed_at: '2026-05-08T10:51:15.657Z'
 ---
 
 Voor een taxateur geldt dat deze de marktwaarde moet vaststellen op de
