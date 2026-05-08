@@ -7,11 +7,10 @@ import pLimit from "p-limit";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-/* CONFIG (functioneel onveranderd) */
+/* CONFIG */
 const MODEL = "gpt-4o-mini";
-const MAX_CONCURRENT = 1; // FIX: voorkomt TPM spikes (was 3)
+const MAX_CONCURRENT = 1;
 const MAX_TOKENS_PER_REQUEST = 6000;
-const TARGET_BLOCKS = 25;
 
 /* ------------------ UTIL ------------------ */
 
@@ -25,11 +24,11 @@ function normalizeDate(dateStr) {
   return null;
 }
 
-/* ------------------ RETRY WRAPPER (NEW) ------------------ */
+/* ------------------ RETRY WRAPPER ------------------ */
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function withRetry(fn, retries = 4) {
+async function withRetry(fn, retries = 5) {
   let lastErr;
 
   for (let i = 0; i < retries; i++) {
@@ -46,8 +45,7 @@ async function withRetry(fn, retries = 4) {
         err?.status === 400;
 
       if (isRateLimit || isContext) {
-        const backoff = 2000 * Math.pow(2, i);
-        await sleep(backoff);
+        await sleep(2000 * Math.pow(2, i));
         continue;
       }
 
@@ -86,8 +84,6 @@ function extractRelevantBlocks(text) {
   return scored.map((p) => p.text);
 }
 
-/* ------------------ SAFE CHUNKING (UNCHANGED LOGIC) ------------------ */
-
 function buildSafeChunks(blocks) {
   const chunks = [];
   let current = [];
@@ -111,6 +107,50 @@ function buildSafeChunks(blocks) {
   return chunks;
 }
 
+/* ------------------ SUMMARY (IMPROVED SEMANTIC VERSION) ------------------ */
+
+function scoreForSummary(block) {
+  let score = 0;
+  const lower = block.toLowerCase();
+
+  if (/besluit|beslissing|toegekend|afgewezen|verlengd|gegrond|ongegrond/.test(lower)) {
+    score += 5;
+  }
+
+  if (/aanvraag|verzoek|reactie|zienswijze|document|onderzoek|rapport/.test(lower)) {
+    score += 3;
+  }
+
+  if (/college|burgemeester|gemeente|bestuurlijk|afdeling/.test(lower)) {
+    score += 2;
+  }
+
+  if (/artikel|awob|woo artikel|wettelijk kader/.test(lower)) {
+    score -= 3;
+  }
+
+  if (block.length > 200) {
+    score += 1;
+  }
+
+  return score;
+}
+
+function extractSummaryBlocksSmart(text) {
+  const paragraphs = text.split(/\n\s*\n/);
+
+  return paragraphs
+    .map((p) => ({
+      text: p.trim(),
+      score: scoreForSummary(p),
+    }))
+    .filter((p) => p.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 20)
+    .map((p) => p.text)
+    .join("\n\n");
+}
+
 /* ------------------ AI ------------------ */
 
 async function analyzeContent(textBlocks) {
@@ -127,10 +167,10 @@ Je bent een expert in Nederlandse Woo-dossiers.
 
 Taak:
 - Extraheer een chronologische tijdlijn van gebeurtenissen.
-- Alleen echte processtappen (geen herhaling of juridische boilerplate).
-- Gebruik altijd ISO datums (YYYY-MM-DD).
-- Negeer alles vóór 2020.
-- Als datum onzeker is: negeer het event.
+- Alleen echte processtappen.
+- Gebruik ISO datums (YYYY-MM-DD).
+- Negeer vóór 2020.
+- Onzekere datums negeren.
           `.trim(),
         },
         {
@@ -194,16 +234,21 @@ async function processFile(file) {
     let allMilestones = [];
     let summary = "";
 
-    const MAX_CHUNKS_PER_FILE = 2; // FIX: voorkomt context + TPM spikes
+    const MAX_CHUNKS_PER_FILE = 2;
+
+    /* ------------------ SUMMARY FIRST (GLOBAL CONTEXT) ------------------ */
+
+    const summaryText = extractSummaryBlocksSmart(content);
+
+    const summaryResult = await analyzeContent([summaryText]);
+    summary = summaryResult.summary || "";
+
+    /* ------------------ MILESTONES (UNCHANGED LOGIC) ------------------ */
 
     for (const chunk of chunks.slice(0, MAX_CHUNKS_PER_FILE)) {
-      await sleep(1200); // FIX: stabiliseert TPM usage
+      await sleep(1200);
 
       const result = await analyzeContent(chunk);
-
-      if (!summary && result.summary) {
-        summary = result.summary;
-      }
 
       if (result.milestones?.length) {
         allMilestones.push(...result.milestones);
@@ -228,7 +273,7 @@ async function processFile(file) {
 /* ------------------ MAIN ------------------ */
 
 async function main() {
-  const files = globSync("docs/2025/**/*.md");
+  const files = globSync("docs/2024/**/*.md");
   const limit = pLimit(MAX_CONCURRENT);
 
   await Promise.all(files.map((f) => limit(() => processFile(f))));
