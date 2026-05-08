@@ -482,7 +482,7 @@ async function processFile(file) {
 */
 
 async function main() {
-  const files = globSync("docs/**/*.md");
+  const files = globSync("docs/2024/**/*.md");
 
   const limit = pLimit(MAX_CONCURRENT);
 
