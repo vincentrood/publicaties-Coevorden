@@ -1,5 +1,4 @@
 baseURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/'
-indexURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/index.html'
 languageCode = 'nl-nl'
 title = 'PDF Zoekmachine'
 theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
@@ -7,6 +6,7 @@ uglyURLs = true
 
 [params]
   s3_url = "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/"
+  indexURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/index.html'
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
