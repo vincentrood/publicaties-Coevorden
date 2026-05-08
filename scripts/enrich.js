@@ -10,72 +10,73 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 /* CONFIG */
 const MODEL = "gpt-4o-mini";
 const MAX_CONCURRENT = 1;
-const MAX_TOKENS_PER_REQUEST = 6000;
+// We verlagen dit naar 15.000 om ruim onder de limieten te blijven en kosten te sparen
+const MAX_TOKENS_PER_REQUEST = 15000; 
 
 /* ------------------ UTIL ------------------ */
 
 const sha = (content) =>
   crypto.createHash("sha256").update(content).digest("hex");
 
-const estimateTokens = (text) => Math.ceil(text.length / 4);
+// Iets conservatievere schatting (3 karakters per token voor NL tekst)
+const estimateTokens = (text) => Math.ceil(text.length / 3);
 
 function normalizeDate(dateStr) {
   if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr;
   return null;
 }
 
-/* ------------------ RETRY WRAPPER ------------------ */
-
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function withRetry(fn, retries = 5) {
-  let lastErr;
+/* ------------------ RETRY WRAPPER ------------------ */
 
+async function withRetry(fn, retries = 3) {
+  let lastErr;
   for (let i = 0; i < retries; i++) {
     try {
       return await fn();
     } catch (err) {
       lastErr = err;
-
-      const isRateLimit =
-        err?.status === 429 || err?.message?.includes("Rate limit");
-
-      const isContext =
-        err?.message?.includes("maximum context length") ||
-        err?.status === 400;
-
-      if (isRateLimit || isContext) {
-        await sleep(2000 * Math.pow(2, i));
+      const isRateLimit = err?.status === 429 || err?.message?.includes("Rate limit");
+      if (isRateLimit) {
+        const wait = 5000 * Math.pow(2, i);
+        console.log(`⚠️ Rate limit. Wachten voor ${wait}ms...`);
+        await sleep(wait);
         continue;
       }
-
       throw err;
     }
   }
-
   throw lastErr;
 }
 
-/* ------------------ CHUNKING ------------------ */
+/* ------------------ CHUNKING & CLEANING ------------------ */
+
+function getSafeParagraphs(text) {
+  // Splits op dubbele enters, maar filter ook extreem lange lappen tekst zonder witregel
+  return text.split(/\n\s*\n/).flatMap(p => {
+    if (p.length > 10000) {
+        // Forceer split bij reusachtige blokken om 400 errors te voorkomen
+        return p.match(/.{1,10000}/g) || [p];
+    }
+    return p;
+  });
+}
 
 function extractRelevantBlocks(text) {
   const ignore = /bezwaar en beroep|wettelijk kader|artikel 5\./i;
-  const important =
-    /woo|besluit|verzoek|publicatie|termijn|afgehandeld|vastgesteld|toegekend|verlengd/i;
-  const date =
-    /\d{1,2}[-/\s](jan|feb|maa|apr|mei|jun|jul|aug|sep|okt|nov|dec|[0-9]{1,2})[-/\s]\d{4}/i;
+  const important = /woo|besluit|verzoek|publicatie|termijn|afgehandeld|vastgesteld|toegekend|verlengd/i;
+  const date = /\d{1,2}[-/\s](jan|feb|maa|apr|mei|jun|jul|aug|sep|okt|nov|dec|[0-9]{1,2})[-/\s]\d{4}/i;
 
-  const paragraphs = text.split(/\n\s*\n/);
+  const paragraphs = getSafeParagraphs(text);
 
   const scored = paragraphs
     .map((p) => {
       let score = 0;
-
       if (ignore.test(p)) score -= 5;
       if (important.test(p)) score += 3;
       if (date.test(p)) score += 5;
       if (p.length > 80) score += 1;
-
       return { text: p.trim(), score };
     })
     .filter((p) => p.score > 0)
@@ -91,69 +92,46 @@ function buildSafeChunks(blocks) {
 
   for (const block of blocks) {
     const t = estimateTokens(block);
-
     if (tokens + t > MAX_TOKENS_PER_REQUEST) {
-      chunks.push(current);
-      current = [];
-      tokens = 0;
+      if (current.length) chunks.push(current);
+      current = [block];
+      tokens = t;
+    } else {
+      current.push(block);
+      tokens += t;
     }
-
-    current.push(block);
-    tokens += t;
   }
-
   if (current.length) chunks.push(current);
-
   return chunks;
 }
 
-/* ------------------ SUMMARY (IMPROVED SEMANTIC VERSION) ------------------ */
-
-function scoreForSummary(block) {
-  let score = 0;
-  const lower = block.toLowerCase();
-
-  if (/besluit|beslissing|toegekend|afgewezen|verlengd|gegrond|ongegrond/.test(lower)) {
-    score += 5;
-  }
-
-  if (/aanvraag|verzoek|reactie|zienswijze|document|onderzoek|rapport/.test(lower)) {
-    score += 3;
-  }
-
-  if (/college|burgemeester|gemeente|bestuurlijk|afdeling/.test(lower)) {
-    score += 2;
-  }
-
-  if (/artikel|awob|woo artikel|wettelijk kader/.test(lower)) {
-    score -= 3;
-  }
-
-  if (block.length > 200) {
-    score += 1;
-  }
-
-  return score;
-}
-
 function extractSummaryBlocksSmart(text) {
-  const paragraphs = text.split(/\n\s*\n/);
-
-  return paragraphs
-    .map((p) => ({
-      text: p.trim(),
-      score: scoreForSummary(p),
-    }))
+  const paragraphs = getSafeParagraphs(text);
+  
+  const scored = paragraphs
+    .map((p) => {
+      let score = 0;
+      const lower = p.toLowerCase();
+      if (/besluit|beslissing|toegekend|afgewezen|verlengd/.test(lower)) score += 5;
+      if (/aanvraag|verzoek|zienswijze/.test(lower)) score += 3;
+      if (p.length > 200) score += 1;
+      return { text: p.trim(), score };
+    })
     .filter((p) => p.score > 0)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 20)
-    .map((p) => p.text)
-    .join("\n\n");
+    .slice(0, 15); // Pak de top 15 meest relevante paragrafen
+
+  return scored.map(p => p.text).join("\n\n");
 }
 
 /* ------------------ AI ------------------ */
 
-async function analyzeContent(textBlocks) {
+async function analyzeContent(textBlocks, isSummaryTask = false) {
+  const combinedText = Array.isArray(textBlocks) ? textBlocks.join("\n\n") : textBlocks;
+  
+  // Failsafe: als de tekst nog steeds te groot is, hard inkorten
+  const safeText = combinedText.slice(0, MAX_TOKENS_PER_REQUEST * 3);
+
   return withRetry(async () => {
     const response = await openai.chat.completions.create({
       model: MODEL,
@@ -162,58 +140,27 @@ async function analyzeContent(textBlocks) {
       messages: [
         {
           role: "system",
-          content: `
-Je bent een expert in Nederlandse Woo-dossiers.
-
-Taak:
-- Extraheer een chronologische tijdlijn van gebeurtenissen.
-- Alleen echte processtappen.
-- Gebruik ISO datums (YYYY-MM-DD).
-- Negeer vóór 2020.
-- Onzekere datums negeren.
-          `.trim(),
+          content: "Je bent een expert in Nederlandse Woo-dossiers. Extraheer informatie in STRICT JSON formaat."
         },
         {
           role: "user",
           content: `
-Geef STRICT JSON:
+Taak: ${isSummaryTask ? "Schrijf een samenvatting van max 2 zinnen." : "Extraheer een chronologische tijdlijn (YYYY-MM-DD) van processtappen vanaf 2020."}
+
+JSON Structuur:
 {
-  "summary": "max 2 zinnen",
-  "milestones": [
-    { "date": "YYYY-MM-DD", "event": "kort en concreet" }
-  ]
+  "summary": "string",
+  "milestones": [ { "date": "YYYY-MM-DD", "event": "string" } ]
 }
 
 TEKST:
-${textBlocks.join("\n\n")}
-          `.trim(),
-        },
+${safeText}`
+        }
       ],
     });
 
     return JSON.parse(response.choices[0].message.content);
   });
-}
-
-/* ------------------ CLEANING ------------------ */
-
-function cleanMilestones(milestones) {
-  const seen = new Set();
-
-  return milestones
-    .map((m) => ({
-      date: normalizeDate(m.date),
-      event: m.event?.trim(),
-    }))
-    .filter((m) => m.date && m.event)
-    .filter((m) => parseInt(m.date.slice(0, 4)) >= 2020)
-    .filter((m) => {
-      const id = `${m.date}-${m.event.toLowerCase()}`;
-      if (seen.has(id)) return false;
-      seen.add(id);
-      return true;
-    })
-    .sort((a, b) => a.date.localeCompare(b.date));
 }
 
 /* ------------------ FILE PROCESSING ------------------ */
@@ -226,56 +173,53 @@ async function processFile(file) {
     const hash = sha(content);
     if (data.ai_hash === hash) return;
 
+    // 1. Samenvatting genereren op basis van slimme selectie
+    const summaryInput = extractSummaryBlocksSmart(content);
+    const summaryResult = await analyzeContent(summaryInput, true);
+    
+    // 2. Milestones genereren via chunking
     const blocks = extractRelevantBlocks(content);
-    if (blocks.length === 0) return;
-
     const chunks = buildSafeChunks(blocks);
-
     let allMilestones = [];
-    let summary = "";
 
-    const MAX_CHUNKS_PER_FILE = 2;
-
-    /* ------------------ SUMMARY FIRST (GLOBAL CONTEXT) ------------------ */
-
-    const summaryText = extractSummaryBlocksSmart(content);
-
-    const summaryResult = await analyzeContent([summaryText]);
-    summary = summaryResult.summary || "";
-
-    /* ------------------ MILESTONES (UNCHANGED LOGIC) ------------------ */
-
-    for (const chunk of chunks.slice(0, MAX_CHUNKS_PER_FILE)) {
-      await sleep(1200);
-
-      const result = await analyzeContent(chunk);
-
-      if (result.milestones?.length) {
-        allMilestones.push(...result.milestones);
-      }
+    // Verwerk max 3 chunks om kosten en context te bewaken
+    for (const chunk of chunks.slice(0, 3)) {
+      const result = await analyzeContent(chunk, false);
+      if (result.milestones) allMilestones.push(...result.milestones);
     }
 
-    const cleaned = cleanMilestones(allMilestones);
+    // Schoonmaken
+    const seen = new Set();
+    const cleanedMilestones = allMilestones
+      .map(m => ({ date: normalizeDate(m.date), event: m.event?.trim() }))
+      .filter(m => m.date && m.event && parseInt(m.date.slice(0, 4)) >= 2020)
+      .filter(m => {
+        const id = `${m.date}-${m.event.toLowerCase()}`;
+        if (seen.has(id)) return false;
+        seen.add(id);
+        return true;
+      })
+      .sort((a, b) => a.date.localeCompare(b.date));
 
-    data.summary = summary;
-    data.milestones = cleaned;
+    // Update data
+    data.summary = summaryResult.summary || "";
+    data.milestones = cleanedMilestones;
     data.ai_hash = hash;
     data.ai_processed_at = new Date().toISOString();
 
     fs.writeFileSync(file, matter.stringify(content, data));
+    console.log(`✅ Verwerkt: ${file}`);
 
-    console.log(`✅ Updated: ${file}`);
   } catch (err) {
-    console.error(`❌ Failed: ${file}`, err.message);
+    console.error(`❌ Fout bij ${file}:`, err.message);
   }
 }
 
-/* ------------------ MAIN ------------------ */
-
 async function main() {
   const files = globSync("docs/2025/**/*.md");
+  console.log(`Start met verwerken van ${files.length} bestanden...`);
+  
   const limit = pLimit(MAX_CONCURRENT);
-
   await Promise.all(files.map((f) => limit(() => processFile(f))));
 
   console.log("Gereed.");
