@@ -29,17 +29,13 @@ const MAX_CONCURRENT = 3;
 */
 
 const WOO_PATTERNS = [
-  /\bwoo[- ]?verzoek\b/i, /\bverzoek ingediend\b/i, /\baanvraag ingediend\b/i,
-  /\bindienen\b/i, /\bverzoek ontvangen\b/i, /\bbesluit\b/i, /\bprimair besluit\b/i,
-  /\bdefinitief besluit\b/i, /\bdeelbesluit\b/i, /\bbesloten\b/i, /\bpublicatie\b/i,
-  /\bgepubliceerd\b/i, /\bopenbaar gemaakt\b/i, /\bopenbaarmaking\b/i, /\bverlengd\b/i,
-  /\bverdaging\b/i, /\buitstel\b/i, /\btermijn\b/i, /\bbezwaar\b/i, /\bberoep\b/i,
-  /\bvoorziening\b/i, /\bklacht\b/i, /\bjuridische procedure\b/i, /\bdocumenten verstrekt\b/i,
-  /\bdocumenten openbaar\b/i, /\bstukken verstrekt\b/i, /\binformatie verstrekt\b/i,
-  /\bgeweigerd\b/i, /\bafgewezen\b/i, /\bgedeeltelijk toegewezen\b/i, /\btoegewezen\b/i,
-  /\bonderzoek\b/i, /\bintern onderzoek\b/i, /\bevaluatie\b/i, /\bzienswijze\b/i,
-  /\breactie\b/i, /\bmededeling\b/i, /\bbrief\b/i, /\bartikel\b/i, /\bwoo\b/i, /\bwob\b/i,
-  /\bafgesloten\b/i, /\barchivering\b/i, /\bdossier gesloten\b/i,
+  /\bwoo[- ]?verzoek\b/i, /\bindiening\b/i, /\bontvangstbevestiging\b/i,
+  /\bbesluit\b/i, /\bdeelbesluit\b/i, /\bprimair besluit\b/i, /\bbeslissing\b/i,
+  /\bopenbaarmaking\b/i, /\bpublicatie\b/i, 
+  /\bverdaagd\b/i, /\bverlenging\b/i, /\buitstel\b/i,
+  /\bbezwaarschrift\b/i, /\bbezwaar\b/i, /\bberoep\b/i, /\bhoger beroep\b/i,
+  /\buitspraak\b/i, /\bvoorlopige voorziening\b/i,
+  /\bdossier gesloten\b/i, /\bafgehandeld\b/i
 ];
 
 const DATE_PATTERNS = [
@@ -121,24 +117,30 @@ async function analyzeChunk(chunk) {
     messages: [
       {
         role: "system",
-        content: "Je bent een data-extractor die gespecialiseerd is in Nederlandse Woo-dossiers. Antwoord ALTIJD in pure JSON."
+        content: "Je bent een data-extractor gespecialiseerd in Nederlandse Woo-dossiers. Antwoord ALTIJD in pure JSON."
       },
       {
         role: "user",
         content: `
-Analyseer de tekst op belangrijke mijlpalen (indiening, besluit, publicatie, bezwaar, etc.).
-Haal datums (YYYY-MM-DD) en een korte beschrijving op. 
-Als een datum ontbreekt, sla de mijlpaal over.
+Analyseer de tekst op de belangrijkste juridische mijlpalen van dit Woo-traject.
+Focus uitsluitend op:
+1. Formele indiening van het verzoek.
+2. Besluiten (primair, deelbesluiten, beslissing op bezwaar).
+3. Termijnwijzigingen (verdaging/uitstel).
+4. Juridische stappen (bezwaarschrift, beroep, uitspraak).
+5. Feitelijke openbaarmaking van documenten.
+
+NEGEER: reguliere correspondentie, interne doorgeleidingen, ontvangstbevestigingen van tussenstappen of herinneringen, tenzij deze de status van het dossier fundamenteel wijzigen.
 
 OUTPUT FORMAT:
 {
   "summary": "korte samenvatting van deze chunk",
   "milestones": [
-    { "date": "YYYY-MM-DD", "event": "beschrijving" }
+    { "date": "DD-MM-YYYY", "event": "bondige beschrijving van de kerngebeurtenis" }
   ]
 }
 
-TEKST:
+TEKST OM TE ANALYSEREN:
 ${chunk}`
       }
     ],
@@ -180,6 +182,7 @@ async function generateFinalSummary(partialSummaries, milestones) {
 
 function dedupeMilestones(items) {
   const map = new Map();
+  
   for (const item of items) {
     if (!item.date || !item.event) continue;
     const key = `${item.date}-${item.event.toLowerCase().trim()}`;
@@ -187,7 +190,17 @@ function dedupeMilestones(items) {
       map.set(key, { date: item.date, event: item.event.trim() });
     }
   }
-  return [...map.values()].sort((a, b) => a.date.localeCompare(b.date));
+
+  return [...map.values()].sort((a, b) => {
+    // Splits de DD-MM-YYYY om een date object te maken voor de sortering
+    const [dayA, monthA, yearA] = a.date.split('-').map(Number);
+    const [dayB, monthB, yearB] = b.date.split('-').map(Number);
+    
+    const dateA = new Date(yearA, monthA - 1, dayA);
+    const dateB = new Date(yearB, monthB - 1, dayB);
+    
+    return dateA - dateB;
+  });
 }
 
 async function processFile(file) {
