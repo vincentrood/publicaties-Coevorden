@@ -212,6 +212,60 @@
             border-radius: 50%;
         }
 
+
+        /* Terug-knop Styling */
+.header-nav {
+    max-width: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.btn-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.9rem;
+    padding: 8px 16px;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 20px;
+    transition: all 0.2s;
+    background: rgba(255,255,255,0.1);
+}
+
+.btn-back:hover {
+    background: rgba(255,255,255,0.2);
+    border-color: white;
+    transform: translateX(-3px);
+}
+
+/* Desktop positionering: zwevend links */
+@media (min-width: 768px) {
+    .doc-header {
+        position: relative;
+    }
+    .header-nav {
+        position: absolute;
+        left: 2rem;
+        top: 50%;
+        transform: translateY(-50%);
+        margin: 0;
+    }
+}
+
+/* Mobiel positionering: boven de titel */
+@media (max-width: 767px) {
+    .header-nav {
+        margin-bottom: 1.5rem;
+        text-align: center;
+    }
+    .doc-header {
+        padding: 1.5rem 1rem;
+    }
+}
+
     </style>
 </head>
 <body>
@@ -223,7 +277,13 @@
     {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
     {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
 
+    
     <header class="doc-header">
+        <div class="header-nav">
+            <a href="{{ .Site.Params.indexURL }}" class="btn-back">
+                <i class="bi bi-arrow-left"></i> Terug naar overzicht
+            </a>
+        </div>
         <h1>{{ .Title }}</h1>
     </header>
 
