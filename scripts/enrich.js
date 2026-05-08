@@ -9,7 +9,8 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 /* CONFIG */
 const MODEL = "gpt-4o-mini";
 const MAX_CONCURRENT = 1;
-const MAX_TOKENS_PER_REQUEST = 6000;
+const MAX_TOKENS_PER_REQUEST = 6000; // Veiligheidsmarge voor milestones
+const MAX_SUMMARY_TOKENS = 30000;    // Harde bovengrens voor de samenvatting stap
 
 /* ------------------ UTIL ------------------ */
 
@@ -20,9 +21,9 @@ function normalizeDate(dateStr) {
   return null;
 }
 
-/* ------------------ RETRY WRAPPER ------------------ */
-
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/* ------------------ RETRY WRAPPER ------------------ */
 
 async function withRetry(fn, retries = 5) {
   let lastErr;
@@ -32,11 +33,17 @@ async function withRetry(fn, retries = 5) {
     } catch (err) {
       lastErr = err;
       const isRateLimit = err?.status === 429 || err?.message?.includes("Rate limit");
-      const isContext = err?.message?.includes("maximum context length") || err?.status === 400;
+      const isContext = err?.status === 400 || err?.message?.includes("maximum context length");
 
-      if (isRateLimit || isContext) {
+      if (isRateLimit) {
         await sleep(2000 * Math.pow(2, i));
         continue;
+      }
+      
+      // Als de context nog steeds te groot is ondanks chunking, stop voor dit blok
+      if (isContext) {
+        console.warn("⚠️ Context te groot, blok overgeslagen.");
+        return null; 
       }
       throw err;
     }
@@ -44,7 +51,7 @@ async function withRetry(fn, retries = 5) {
   throw lastErr;
 }
 
-/* ------------------ CHUNKING ------------------ */
+/* ------------------ CHUNKING & FILTERING ------------------ */
 
 function extractRelevantBlocks(text) {
   const ignore = /bezwaar en beroep|wettelijk kader|artikel 5\./i;
@@ -76,44 +83,48 @@ function buildSafeChunks(blocks) {
   for (const block of blocks) {
     const t = estimateTokens(block);
     if (tokens + t > MAX_TOKENS_PER_REQUEST) {
-      chunks.push(current);
-      current = [];
-      tokens = 0;
+      if (current.length) chunks.push(current);
+      current = [block];
+      tokens = t;
+    } else {
+      current.push(block);
+      tokens += t;
     }
-    current.push(block);
-    tokens += t;
   }
   if (current.length) chunks.push(current);
   return chunks;
 }
 
-/* ------------------ SUMMARY SMART EXTRACT ------------------ */
-
-function scoreForSummary(block) {
-  let score = 0;
-  const lower = block.toLowerCase();
-  if (/besluit|beslissing|toegekend|afgewezen|verlengd|gegrond|ongegrond/.test(lower)) score += 5;
-  if (/aanvraag|verzoek|reactie|zienswijze|document|onderzoek|rapport/.test(lower)) score += 3;
-  if (/college|burgemeester|gemeente|bestuurlijk|afdeling/.test(lower)) score += 2;
-  if (/artikel|awob|woo artikel|wettelijk kader/.test(lower)) score -= 3;
-  if (block.length > 200) score += 1;
-  return score;
-}
-
 function extractSummaryBlocksSmart(text) {
   const paragraphs = text.split(/\n\s*\n/);
-  return paragraphs
-    .map((p) => ({ text: p.trim(), score: scoreForSummary(p) }))
+  let summaryText = paragraphs
+    .map((p) => {
+      let score = 0;
+      const lower = p.toLowerCase();
+      if (/besluit|beslissing|toegekend|afgewezen|verlengd|gegrond|ongegrond/.test(lower)) score += 5;
+      if (/aanvraag|verzoek|reactie|zienswijze|document|onderzoek|rapport/.test(lower)) score += 3;
+      if (/college|burgemeester|gemeente|bestuurlijk|afdeling/.test(lower)) score += 2;
+      if (p.length > 200) score += 1;
+      return { text: p.trim(), score };
+    })
     .filter((p) => p.score > 0)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 20)
+    .slice(0, 30) // Pak de 30 meest relevante alinea's
     .map((p) => p.text)
     .join("\n\n");
+
+  // Harde knip om nooit over de 128k limiet te gaan
+  if (estimateTokens(summaryText) > MAX_SUMMARY_TOKENS) {
+    summaryText = summaryText.substring(0, MAX_SUMMARY_TOKENS * 4);
+  }
+  return summaryText;
 }
 
 /* ------------------ AI ------------------ */
 
 async function analyzeContent(textBlocks) {
+  if (!textBlocks || textBlocks.length === 0) return null;
+  
   return withRetry(async () => {
     const response = await openai.chat.completions.create({
       model: MODEL,
@@ -126,7 +137,7 @@ async function analyzeContent(textBlocks) {
         },
         {
           role: "user",
-          content: `Geef STRICT JSON:\n{\n  "summary": "max 2 zinnen",\n  "milestones": [{ "date": "YYYY-MM-DD", "event": "kort" }]\n}\n\nTEKST:\n${textBlocks.join("\n\n")}`,
+          content: `Geef STRICT JSON:\n{\n  "summary": "max 2 zinnen",\n  "milestones": [{ "date": "YYYY-MM-DD", "event": "kort" }]\n}\n\nTEKST:\n${Array.isArray(textBlocks) ? textBlocks.join("\n\n") : textBlocks}`,
         },
       ],
     });
@@ -161,46 +172,36 @@ async function processFile(file) {
     const raw = fs.readFileSync(file, "utf8");
     const { data, content } = matter(raw);
 
-    // CHECK: Heeft het bestand al een summary OF milestones?
-    const hasSummary = data.summary && data.summary.trim().length > 0;
-    const hasMilestones = Array.isArray(data.milestones) && data.milestones.length > 0;
-
-    if (hasSummary || hasMilestones) {
-      // console.log(`⏭️ Skipping (already processed): ${file}`);
+    if ((data.summary && data.summary.trim().length > 0) || (Array.isArray(data.milestones) && data.milestones.length > 0)) {
       return;
     }
 
     const blocks = extractRelevantBlocks(content);
     if (blocks.length === 0) return;
 
-    const chunks = buildSafeChunks(blocks);
-    let allMilestones = [];
-    let summary = "";
-
-    const MAX_CHUNKS_PER_FILE = 2;
-
     // --- SUMMARY ---
-    const summaryText = extractSummaryBlocksSmart(content);
-    const summaryResult = await analyzeContent([summaryText]);
-    summary = summaryResult.summary || "";
+    const summaryInput = extractSummaryBlocksSmart(content);
+    const summaryResult = await analyzeContent(summaryInput);
+    const summary = summaryResult?.summary || "";
 
     // --- MILESTONES ---
+    const chunks = buildSafeChunks(blocks);
+    let allMilestones = [];
+    const MAX_CHUNKS_PER_FILE = 3;
+
     for (const chunk of chunks.slice(0, MAX_CHUNKS_PER_FILE)) {
-      await sleep(1200);
+      await sleep(1000);
       const result = await analyzeContent(chunk);
-      if (result.milestones?.length) {
+      if (result?.milestones?.length) {
         allMilestones.push(...result.milestones);
       }
     }
 
     const cleaned = cleanMilestones(allMilestones);
 
-    // Update frontmatter
     data.summary = summary;
     data.milestones = cleaned;
     data.ai_processed_at = new Date().toISOString();
-    
-    // Verwijder ai_hash indien die nog per ongeluk in het object zat
     delete data.ai_hash;
 
     fs.writeFileSync(file, matter.stringify(content, data));
