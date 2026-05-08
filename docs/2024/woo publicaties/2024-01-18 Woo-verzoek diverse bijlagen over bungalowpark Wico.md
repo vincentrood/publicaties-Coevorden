@@ -7,6 +7,151 @@ source: >-
   2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
   Wico.pdf
 date: 2026-05-08T00:00:00.000Z
+summary: >-
+  Het Woo-dossier betreft de procedure voor de openbaarmaking van documenten en
+  de juridische stappen rondom bestemmingsplannen en beleidsregels in de
+  gemeente Coevorden. Het resultaat omvat de indiening van Woo-verzoeken,
+  besluitvorming over openbaarmaking, en de mogelijkheid tot bezwaar en beroep
+  tegen deze besluiten.
+milestones:
+  - date: 03-02-2015
+    event: >-
+      Bestemmingsplannen Zuiderveld, Binnenveld, Toenakkers en Tilkampen zijn
+      reeds openbaar gemaakt.
+  - date: 25-07-2023
+    event: >-
+      Deel openbaarmaking van documenten met betrekking tot de opdracht
+      toezegging VVPC.
+  - date: 22-12-2023
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: 18-01-2024
+    event: 'Besluit op het Woo-verzoek, gedeeltelijke toewijzing van documenten.'
+  - date: 18-01-2024
+    event: >-
+      Mogelijkheid tot indienen van een bezwaarschrift tegen het besluit binnen
+      zes weken.
+  - date: 18-01-2024
+    event: Documenten worden openbaar gemaakt via beveiligde e-mail en op de website.
+  - date: Onbekend
+    event: >-
+      Verzoek tot openbaarmaking kan worden afgewezen met een uitdrukkelijke
+      motivering.
+  - date: Onbekend
+    event: >-
+      Mogelijkheid tot indienen van een bezwaarschrift tegen besluiten van de
+      gemeente Coevorden.
+  - date: DD-MM-YYYY
+    event: >-
+      Indiening van het bezwaarschrift moet binnen zes weken na de datum van
+      verzending van het besluit plaatsvinden.
+  - date: DD-MM-YYYY
+    event: >-
+      Ontvangstbevestiging van het bezwaarschrift wordt verzonden aan de
+      indiener.
+  - date: DD-MM-YYYY
+    event: >-
+      Onafhankelijke commissie hoort de indiener en brengt advies uit aan het
+      bestuursorgaan.
+  - date: DD-MM-YYYY
+    event: Bestuursorgaan neemt beslissing op het bezwaarschrift.
+  - date: DD-MM-YYYY
+    event: >-
+      Mogelijkheid tot rechtstreeks beroep bij de bestuursrechter wordt
+      beschreven.
+  - date: 12-11-1984
+    event: >-
+      Vaststelling van het bestemmingsplan 'Zomerhuisjesterrein Toenakkers' door
+      de gemeenteraad.
+  - date: 04-06-1985
+    event: >-
+      Goedkeuring van het bestemmingsplan 'Zomerhuisjesterrein Toenakkers' door
+      Gedeputeerde Staten.
+  - date: 08-10-1996
+    event: >-
+      Vaststelling van het geldende bestemmingsplan door de gemeenteraad van
+      Oosterhesselen.
+  - date: 09-11-2004
+    event: Goedkeuring van het bestemmingsplan door de gemeenteraad van Coevorden.
+  - date: 09-11-2004
+    event: >-
+      Goedkeuring van het facet bestemmingsplan uniforme regeling recreatie
+      woonverblijven door de gemeenteraad van Coevorden.
+  - date: 09-11-2004
+    event: >-
+      Vaststelling van het facet bestemmingsplan uniforme regeling recreatie
+      woonverblijven door de gemeenteraad.
+  - date: 31-01-2005
+    event: Goedkeuring van het bestemmingsplan door Gedeputeerde Staten.
+  - date: 31-01-2005
+    event: Goedkeuring van het facet bestemmingsplan door Gedeputeerde Staten.
+  - date: 31-01-2005
+    event: >-
+      Goedkeuring van het facet bestemmingsplan uniforme regeling recreatie
+      woonverblijven door Gedeputeerde Staten.
+  - date: 02-06-2010
+    event: Goedkeuring van de omgevingsvisie door de provincie Drenthe.
+  - date: 17-08-2010
+    event: >-
+      Vaststelling van de Beleidsregels permanente bewoning recreatieverblijven
+      door het college.
+  - date: 17-08-2010
+    event: >-
+      Invoering van de Beleidsregels permanente bewoning recreatieverblijven
+      door het college van burgemeester en wethouders van Coevorden.
+  - date: 03-08-2011
+    event: >-
+      Terinzagelegging van het voorontwerp bestemmingsplan van 23 juni tot 3
+      augustus 2011.
+  - date: 04-09-2011
+    event: >-
+      Reclamant diende een aanvullende reactie in, maar deze werd buiten de
+      termijn ingediend en niet in behandeling genomen.
+  - date: 27-06-2013
+    event: Onherroepelijkheid van het bestemmingsplan voor Gasterij Het Geeserveld.
+  - date: 04-03-2014
+    event: Ontwerpbestemmingsplan ter inzage gelegd voor zienswijzen.
+  - date: 01-04-2014
+    event: >-
+      Het ontwerpbestemmingsplan heeft ter inzage gelegen van 1 april tot en met
+      12 mei 2014; er werd één zienswijze ingediend.
+  - date: 14-04-2014
+    event: >-
+      Einde van de termijn voor het indienen van zienswijzen over het
+      ontwerpbestemmingsplan.
+  - date: 14-04-2014
+    event: Einde termijn voor indienen zienswijzen op het ontwerpbestemmingsplan.
+  - date: 12-07-2023
+    event: >-
+      MEMO van VVPC aan wethouder Stegen met verzoek om het rapport
+      heroverweging uit 2022.
+  - date: 12-07-2023
+    event: Memo over uitvoering toezegging raad inzake Vitale Vakantieparken.
+  - date: 25-07-2023
+    event: >-
+      E-mail van VVPC aan wethouder Stegen met verzoek om documenten over
+      toezegging aan de raad.
+  - date: 26-07-2023
+    event: >-
+      Reactie van wethouder Stegen op de e-mail van VVPC met opmerkingen over de
+      formulering van de toezegging.
+  - date: 02-08-2023
+    event: >-
+      E-mail van VVPC aan Ruimte en Vrijetijd met verzoek om documenten over de
+      parken.
+  - date: 02-08-2023
+    event: >-
+      Indiening Woo-verzoek voor de toelichting bestemmingsplan Bungalowpark
+      Wico.
+  - date: 22-12-2023
+    event: >-
+      Indiening van drie nieuwe Woo-verzoeken door een burger aan de Gemeente
+      Coevorden.
+  - date: Onbekend
+    event: >-
+      Beroep van reclamant tegen het nieuwe bestemmingsplan werd ongegrond
+      verklaard.
+ai_hash: 6787365bcf892d0a21729f9980914af373c19799a0be59eaa5befc046b30ee4c
+ai_processed_at: '2026-05-08T09:43:27.665Z'
 ---
 
 Postadres:
