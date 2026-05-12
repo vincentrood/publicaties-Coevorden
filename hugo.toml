@@ -1,5 +1,5 @@
 baseURL = 'https://publicaties-coevorden-site.s3.eu-north-1.amazonaws.com/'
-languageCode = 'nl-nl'
+locale = "nl-nl"
 title = 'PDF Zoekmachine'
 theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
 uglyURLs = true
