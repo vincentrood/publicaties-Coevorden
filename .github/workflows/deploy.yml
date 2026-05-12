@@ -128,7 +128,7 @@ jobs:
           export BUCKET_NAME
           export SYNC_FOLDER
 
-          cat s3_list.txt | xargs -I {} -P 4 bash -c 'process_file "$@"' _ {}
+          tr '\n' '\0' < s3_list.txt | xargs -0 -I {} -P 4 bash -c 'process_file "$1"' _ {}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
