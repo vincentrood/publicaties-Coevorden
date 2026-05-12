@@ -1,23 +1,8 @@
 ---
-title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
-maps:
-  - '2024'
-  - woo publicaties
-source: >-
-  2024/woo publicaties/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
-  Wico.pdf
-date: 2026-05-08T00:00:00.000Z
-summary: >-
-  Dit Woo-dossier betreft een verzoek om openbaarmaking van documenten met
-  betrekking tot Vitale Vakantieparken Coevorden. Het verzoek is op 22 december
-  2023 ingediend en het besluit is op 18 januari 2024 verzonden.
-milestones:
-  - date: '2023-12-22'
-    event: Ontvangst Woo-verzoek van Vitale Vakantieparken Coevorden.
-  - date: '2024-01-18'
-    event: Besluit Woo-verzoek verzonden aan aanvrager.
-ai_hash: 3e4abc3c7695c67381afec41779822c5ecc93f5e8a38227b290dafd5981200a6
-ai_processed_at: '2026-05-08T10:29:46.552Z'
+title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
+maps: ["2024","Woo-verzoeken"]
+source: "2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
+date: 2026-05-12
 ---
 
 Postadres:
