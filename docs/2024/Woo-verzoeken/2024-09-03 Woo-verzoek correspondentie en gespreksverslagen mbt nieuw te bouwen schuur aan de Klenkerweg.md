@@ -1,8 +1,68 @@
 ---
-title: "2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt nieuw te bouwen schuur aan de Klenkerweg"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt nieuw te bouwen schuur aan de Klenkerweg.pdf"
-date: 2026-05-12
+title: >-
+  2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt nieuw te
+  bouwen schuur aan de Klenkerweg
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen
+  mbt nieuw te bouwen schuur aan de Klenkerweg.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen met betrekking tot de
+  aanvraag voor de bouw van een schuur aan de Klenkerweg. Het verzoek is
+  toegewezen, maar persoonsgegevens zijn weggelakt om de privacy te waarborgen.
+milestones:
+  - date: '2023-07-01'
+    event: Ontvangstbevestiging quickscan aanvraag
+  - date: '2023-07-20'
+    event: Indiening Quickscan voor uitbreiding bebouwing en extra inrit.
+  - date: '2023-07-27'
+    event: Reactie quickscan ontvangen
+  - date: '2023-11-13'
+    event: Aanvraag voor het bouwen van een schuur ingediend.
+  - date: '2023-12-19'
+    event: Aanvraag voor omgevingsvergunning ontvangen.
+  - date: '2024-01-08'
+    event: Verzoek om aanvullende gegevens ontvangen
+  - date: '2024-01-16'
+    event: Verzoek om aanvullende gegevens verzonden.
+  - date: '2024-01-16'
+    event: Aanvraag voor vergunning wordt ingediend.
+  - date: '2024-01-18'
+    event: Positief advies ontvangen voor de aanvraag.
+  - date: '2024-01-18'
+    event: Aanvullende informatie AIM-melding verzonden
+  - date: '2024-01-30'
+    event: Reactie op verzoek om aanvullende gegevens verzonden
+  - date: '2024-01-31'
+    event: Bespreking met omwonenden over bezwaren.
+  - date: '2024-02-05'
+    event: Locatiebezoek gepland met betrokkenen.
+  - date: '2024-02-08'
+    event: Vervolgvragen ontvangen van vergunningverlener
+  - date: '2024-02-19'
+    event: Ontvangstbevestiging van melding Activiteitenbesluit.
+  - date: '2024-02-21'
+    event: Advies van Het Oversticht ontvangen.
+  - date: '2024-02-27'
+    event: Bevestiging dat er geen bezwaren zijn tegen de uitbreiding.
+  - date: '2024-03-28'
+    event: Bespreking over de uitweg gepland.
+  - date: '2024-04-04'
+    event: Aanvrager trekt verzoek voor aanleg van nieuwe inrit in.
+  - date: '2024-07-23'
+    event: Woo-verzoek ingediend.
+  - date: '2024-07-23'
+    event: WOB verzoek ingediend
+  - date: '2024-08-10'
+    event: Schriftelijk WOB verzoek verzonden
+  - date: '2024-08-12'
+    event: Bevestiging van ontvangst WOB verzoek
+  - date: '2024-09-03'
+    event: Besluit op Woo-verzoek verzonden.
+ai_processed_at: '2026-05-12T07:27:46.761Z'
 ---
 
 Gemeente

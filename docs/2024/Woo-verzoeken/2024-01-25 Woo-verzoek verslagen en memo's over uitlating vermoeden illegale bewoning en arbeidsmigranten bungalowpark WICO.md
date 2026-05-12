@@ -1,8 +1,44 @@
 ---
-title: "2024-01-25 Woo-verzoek verslagen en memo's over uitlating vermoeden illegale bewoning en arbeidsmigranten bungalowpark WICO"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-25 Woo-verzoek verslagen en memo's over uitlating vermoeden illegale bewoning en arbeidsmigranten bungalowpark WICO.pdf"
-date: 2026-05-12
+title: >-
+  2024-01-25 Woo-verzoek verslagen en memo's over uitlating vermoeden illegale
+  bewoning en arbeidsmigranten bungalowpark WICO
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-25 Woo-verzoek verslagen en memo's over uitlating
+  vermoeden illegale bewoning en arbeidsmigranten bungalowpark WICO.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2023 en 2024 heeft de gemeente Coevorden een Woo-verzoek ontvangen en
+  behandeld met betrekking tot documenten over illegale bewoning en verhuur op
+  vakantieparken. Het verzoek werd gedeeltelijk toegewezen, met uitzondering van
+  persoonsgegevens, en leidde tot een besluit dat op 25 januari 2024 werd
+  verzonden.
+milestones:
+  - date: '2020-07-01'
+    event: Uitvoeringsplan en fase I voor vakantieparken in Coevorden gepresenteerd.
+  - date: '2020-07-01'
+    event: Bungalowpark Ermerzand beoordeeld voor transformatie naar wonen met zorg.
+  - date: '2020-07-01'
+    event: Christelijk vakantiepark De Wolfskuylen verkocht aan nieuwe eigenaar.
+  - date: '2020-07-01'
+    event: Elders Recreatie en Bungalowverhuur wil terug naar recreatie.
+  - date: '2020-07-01'
+    event: >-
+      Recreatiepark Ermerstrand en Molecaten Park Kuierpad beoordeeld voor
+      hoogwaardige recreatie.
+  - date: '2023-12-21'
+    event: Indiening Woo-verzoek door de heer H.
+  - date: '2023-12-22'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2023-12-27'
+    event: Versturen van ontvangstbevestiging aan de verzoeker.
+  - date: '2024-01-09'
+    event: Termijn voor besluit wordt met 2 weken verlengd.
+  - date: '2024-01-25'
+    event: Besluit Woo-verzoek verzonden aan de verzoeker.
+ai_processed_at: '2026-05-12T07:37:04.652Z'
 ---
 
 Postadres:

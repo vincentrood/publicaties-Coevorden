@@ -1,8 +1,38 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-05-12
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Op 22 december 2023 heeft een Woo-verzoek plaatsgevonden om documenten van
+  Vitale Vakantieparken Coevorden en wethouder Stegen openbaar te maken. Op 18
+  januari 2024 is er een besluit genomen om het verzoek gedeeltelijk toe te
+  wijzen en bepaalde documenten openbaar te maken, met uitzondering van
+  persoonsgegevens.
+milestones:
+  - date: '2021-01-01'
+    event: Start programma Vitale Vakantieparken Coevorden.
+  - date: '2022-02-01'
+    event: Rapport heroverweging opgesteld door programmateam.
+  - date: '2022-02-01'
+    event: Herbeoordeling toekomst parken en planning afgerond
+  - date: '2023-07-04'
+    event: >-
+      Toezegging gedaan in raadsvergadering om einddoelen van 17 parken te laten
+      beoordelen.
+  - date: '2023-07-12'
+    event: MEMO van VVPC aan wethouder Stegen over uitvoering toezegging.
+  - date: '2023-08-02'
+    event: Mail van VVPC aan Ruimte en Vrijetijd over bestemmingsplannen.
+  - date: '2023-12-22'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-01-18'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-05-12T07:38:07.141Z'
 ---
 
 Postadres:

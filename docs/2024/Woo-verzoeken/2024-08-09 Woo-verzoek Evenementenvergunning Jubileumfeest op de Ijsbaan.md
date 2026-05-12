@@ -1,8 +1,52 @@
 ---
-title: "2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan.pdf"
-date: 2026-05-12
+title: 2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest
+  op de Ijsbaan.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een evenementenvergunning verleend voor het
+  60-jarig jubileumfeest 'Oranjefeest' van de Christelijke Sportvereniging
+  Coevorden, dat plaatsvindt op 15 juni 2024. De vergunning omvat ook
+  ontheffingen voor geluidshinder en het schenken van zwak-alcoholhoudende
+  dranken.
+milestones:
+  - date: '2023-12-13'
+    event: Aanvraag evenementenvergunning ontvangen door gemeente Coevorden.
+  - date: '2024-02-05'
+    event: Definitieve goedkeuring van de evenementenvergunning.
+  - date: '2024-06-10'
+    event: Start opbouw Oranjefeest
+  - date: '2024-06-10'
+    event: Start opbouw van het evenement.
+  - date: '2024-06-12'
+    event: Opbouw festival terrein begint
+  - date: '2024-06-13'
+    event: Inrichting tent en terrein
+  - date: '2024-06-14'
+    event: Voorbereidingen voor festival
+  - date: '2024-06-15'
+    event: Oranjefeest georganiseerd
+  - date: '2024-06-15'
+    event: Festival gaat open
+  - date: '2024-06-15'
+    event: Optredens en activiteiten tijdens het festival
+  - date: '2024-06-15'
+    event: Oranjefeest vindt plaats.
+  - date: '2024-06-16'
+    event: Afbouw en schoonmaak van het terrein
+  - date: '2024-06-17'
+    event: Start afbouw Oranjefeest
+  - date: '2024-06-17'
+    event: Afbouw van het evenement.
+  - date: '2024-07-21'
+    event: Ontvangst Woo-verzoek over Oranjefeest
+  - date: '2024-08-09'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-05-12T07:29:53.508Z'
 ---
 
 Gemeente

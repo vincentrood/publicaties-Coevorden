@@ -1,8 +1,71 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 3
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Dit document biedt een kwaliteits- en afwegingskader voor gemeenten die
+  overwegen om wonen toe te staan op vakantieparken. Het richt zich op de
+  integrale afweging van economische, sociale, ruimtelijke en
+  veiligheidsaspecten rondom vakantieparken in Nederland.
+milestones:
+  - date: '2020-01-01'
+    event: Start van het kwaliteits- en afwegingskader voor vakantieparken.
+  - date: '2020-01-01'
+    event: >-
+      Introductie van het Klavertje Vier model voor integrale aanpak van
+      vakantieparken.
+  - date: '2020-01-01'
+    event: >-
+      Gemeenten worden aangemoedigd om afwegingen te maken over wonen op
+      vakantieparken.
+  - date: '2020-01-01'
+    event: Stappenplan gepresenteerd voor het maken van afwegingen en vervolgstappen.
+  - date: '2020-01-01'
+    event: Start van de discussie over permanente bewoning op vakantieparken.
+  - date: '2020-01-01'
+    event: >-
+      Start van de analyse van de woningmarkt en de impact van vakantieparken op
+      sociale problematiek.
+  - date: '2020-06-01'
+    event: Eerste analyses van de impact op de lokale economie en werkgelegenheid.
+  - date: '2020-06-01'
+    event: >-
+      Onderzoek naar de effectiviteit van tijdelijke versus permanente bewoning
+      op vakantieparken.
+  - date: '2021-03-01'
+    event: >-
+      Onderzoek naar de effectiviteit van tijdelijke woonruimte voor
+      spoedzoekers.
+  - date: '2021-03-01'
+    event: >-
+      Evaluatie van de samenwerking tussen gemeenten en eigenaren voor
+      transformatieprocessen.
+  - date: '2021-09-01'
+    event: Evaluatie van de kwaliteit van woningen op vakantieparken.
+  - date: '2022-02-01'
+    event: Regionale afstemming over woningbouwcontingent en woningbouwafspraken.
+  - date: '2022-09-01'
+    event: >-
+      Publicatie van richtlijnen voor het beheer en de transformatie van
+      vakantieparken.
+  - date: '2022-11-01'
+    event: Publicatie van richtlijnen voor het beheer van vakantieparken.
+  - date: '2023-01-01'
+    event: >-
+      Implementatie van nieuwe beleidsmaatregelen voor de huisvesting van
+      kwetsbare groepen op vakantieparken.
+  - date: '2023-05-01'
+    event: Implementatie van nieuwe beleidsmaatregelen voor permanente bewoning.
+ai_processed_at: '2026-05-12T07:44:07.438Z'
 ---
 
 3

@@ -1,8 +1,25 @@
 ---
-title: "2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden en benzinestations of brandstofverkooppunten"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden en benzinestations of brandstofverkooppunten.pdf"
-date: 2026-05-12
+title: >-
+  2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden en benzinestations
+  of brandstofverkooppunten
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-24 Woo-verzoek contracten tussen gemeente Coevoden
+  en benzinestations of brandstofverkooppunten.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Op 4 januari 2024 heeft Fastned B.V. een Woo-verzoek ingediend bij de gemeente
+  Coevorden voor informatie over afspraken tussen de gemeente en
+  tankstation-locaties op gemeentegrond. Het verzoek is op 24 januari 2024
+  toegewezen, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2024-01-04'
+    event: Ontvangst Woo-verzoek van Fastned B.V.
+  - date: '2024-01-24'
+    event: Besluit tot openbaarmaking van documenten
+ai_processed_at: '2026-05-12T07:37:47.510Z'
 ---
 
 m Gemeente

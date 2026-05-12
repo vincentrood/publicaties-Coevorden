@@ -1,8 +1,25 @@
 ---
-title: "2024-07-03 Woo-verzoek Subsidie zomerfeest in Schoonoord"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-03 Woo-verzoek Subsidie zomerfeest in Schoonoord.pdf"
-date: 2026-05-12
+title: 2024-07-03 Woo-verzoek Subsidie zomerfeest in Schoonoord
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-03 Woo-verzoek Subsidie zomerfeest in
+  Schoonoord.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Op 4 juni 2024 ontving de gemeente Coevorden een Woo-verzoek om informatie
+  over subsidies voor het Zomerfeest in Schoonoord 2023. Het verzoek werd
+  afgewezen omdat er geen subsidie was verstrekt en er geen documenten
+  beschikbaar waren.
+milestones:
+  - date: '2024-06-04'
+    event: Ontvangst Woo-verzoek over subsidie Zomerfeest Schoonoord 2023.
+  - date: '2024-06-25'
+    event: Verzenddatum van het afwijzingsbesluit.
+  - date: '2024-07-03'
+    event: Officiële verzenddatum van het afwijzingsbesluit.
+ai_processed_at: '2026-05-12T07:31:17.359Z'
 ---
 
 Gemeente

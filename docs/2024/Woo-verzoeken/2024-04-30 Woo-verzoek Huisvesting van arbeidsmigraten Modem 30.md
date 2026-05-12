@@ -1,8 +1,40 @@
 ---
-title: "2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30.pdf"
-date: 2026-05-12
+title: 2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten
+  Modem 30.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen voor de huisvesting van
+  arbeidsmigranten op de locatie Modem 30. Het verzoek is gedeeltelijk
+  toegewezen, maar er zijn beperkingen vanwege de bescherming van
+  persoonsgegevens en de beoordeling van de documenten op basis van de Wet open
+  overheid.
+milestones:
+  - date: '2021-06-30'
+    event: 'Vaststelling bestemmingsplan ''Bedrijventerreinen Stad, Coevorden''.'
+  - date: '2021-07-06'
+    event: Vaststelling bestemmingsplan 'Kleine windturbines gemeente Coevorden'.
+  - date: '2023-03-09'
+    event: Overleg met gemeente Coevorden over huisvesting arbeidsmigranten.
+  - date: '2023-03-10'
+    event: Pand Modem 30 verkocht.
+  - date: '2023-03-13'
+    event: Afspraak gemaakt voor overleg over mogelijkheden huisvesting.
+  - date: '2024-02-08'
+    event: >-
+      Aanvraag vergunning ingediend voor tijdelijke huisvesting
+      arbeidsmigranten.
+  - date: '2024-03-18'
+    event: Ontvangst Woo-verzoek over Modem 30.
+  - date: '2024-04-12'
+    event: Mededeling aan belanghebbenden voor zienswijze.
+  - date: '2024-04-30'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_processed_at: '2026-05-12T07:33:09.385Z'
 ---
 
 Gemeente

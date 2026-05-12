@@ -1,8 +1,35 @@
 ---
-title: "2024-08-19 Woo-verzoek correspondentie huisvesting arbeidsmigranten Wilhelminasingel"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-19 Woo-verzoek correspondentie huisvesting arbeidsmigranten Wilhelminasingel.pdf"
-date: 2026-05-12
+title: >-
+  2024-08-19 Woo-verzoek correspondentie huisvesting arbeidsmigranten
+  Wilhelminasingel
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-19 Woo-verzoek correspondentie huisvesting
+  arbeidsmigranten Wilhelminasingel.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In juni 2024 ontving de gemeente Coevorden een Woo-verzoek met betrekking tot
+  documenten over de huisvesting van arbeidsmigranten. Na een uitgebreide
+  zoekslag werden enkele documenten openbaar gemaakt, met uitzondering van
+  persoonsgegevens.
+milestones:
+  - date: '2024-06-19'
+    event: Ontvangst Woo-verzoek over huisvesting arbeidsmigranten.
+  - date: '2024-06-26'
+    event: >-
+      Voorstel tot afwijzing van het verzoek vanwege geen aangetroffen
+      documenten.
+  - date: '2024-07-17'
+    event: Beslistermijn verlengd met twee weken.
+  - date: '2024-07-18'
+    event: >-
+      Beslistermijn opgeschort voor vier weken om zienswijze van derden op te
+      vragen.
+  - date: '2024-08-19'
+    event: Besluit Woo-verzoek en gedeeltelijke openbaarmaking van documenten.
+ai_processed_at: '2026-05-12T07:28:57.011Z'
 ---
 
 Postadres:

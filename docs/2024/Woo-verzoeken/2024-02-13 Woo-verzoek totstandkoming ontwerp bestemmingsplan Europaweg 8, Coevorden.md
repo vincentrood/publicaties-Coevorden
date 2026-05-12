@@ -1,8 +1,61 @@
 ---
-title: "2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8, Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8,
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-13 Woo-verzoek totstandkoming ontwerp
+  bestemmingsplan Europaweg 8, Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 11 januari 2024 betreft de openbaarmaking van documenten
+  met betrekking tot het ontwerpbestemmingsplan Europaweg 8 in Coevorden. Het
+  verzoek is gedeeltelijk toegewezen, met uitzondering van persoonsgegevens, en
+  de documenten worden openbaar gemaakt op de gemeentelijke website.
+milestones:
+  - date: '2020-01-01'
+    event: Verwacht nieuwe RvR beleid in eerste kwartaal 2020.
+  - date: '2020-05-19'
+    event: Overleg met Commissie Ruimtelijke Kwaliteit over Europaweg 8.
+  - date: '2020-07-07'
+    event: Contact over alternatieve plannen voor Europaweg 8.
+  - date: '2020-09-02'
+    event: Aangepaste tekening voor Europaweg 8 ingediend.
+  - date: '2020-09-14'
+    event: >-
+      Bespreking van het aangepaste plan in vergadering van ruimtelijke
+      ordening.
+  - date: '2021-06-09'
+    event: Aanvraag voor archeologisch onderzoek voor bestemmingsplan Europaweg 8.
+  - date: '2021-12-22'
+    event: Concept bestemmingsplan Europaweg 8 ingediend.
+  - date: '2021-12-22'
+    event: Conceptbestemmingsplan Europaweg 8 is gereed.
+  - date: '2021-12-27'
+    event: Verzoek om gegevens van aanvrager voor correct vastleggen van de aanvraag.
+  - date: '2021-12-27'
+    event: Aanvraaggegevens van de aanvrager(s) worden opgevraagd.
+  - date: '2022-01-04'
+    event: Opmerkingen op het concept ontwerpbestemmingsplan worden verzonden.
+  - date: '2022-01-25'
+    event: Gesprek gepland om opmerkingen over het bestemmingsplan te bespreken.
+  - date: '2022-02-15'
+    event: Documenten ter volledigheid voor het dossier worden verzonden.
+  - date: '2022-02-16'
+    event: >-
+      Bevestiging dat een nota voor betaling van legeskosten zal worden
+      verzonden.
+  - date: '2024-01-11'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-01-17'
+    event: Bevestiging van het Woo-verzoek
+  - date: '2024-01-23'
+    event: Mededeling aan aanvrager over zienswijze van belanghebbenden
+  - date: '2024-02-13'
+    event: Verzenddatum van het besluit Woo-verzoek
+ai_processed_at: '2026-05-12T07:34:44.282Z'
 ---
 
 Gemeente

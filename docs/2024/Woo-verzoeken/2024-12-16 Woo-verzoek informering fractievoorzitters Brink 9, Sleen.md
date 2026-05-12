@@ -1,8 +1,22 @@
 ---
-title: "2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen.pdf"
-date: 2026-05-12
+title: '2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen'
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-12-16 Woo-verzoek informering fractievoorzitters Brink
+  9, Sleen.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen en toegewezen, waarbij
+  bepaalde persoonsgegevens zijn weggelakt. Het besluit en de documenten worden
+  openbaar gemaakt op de gemeentelijke website.
+milestones:
+  - date: '2024-01-02'
+    event: Indiening Woo-verzoek door MD EN.
+  - date: '2024-12-16'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_processed_at: '2026-05-12T07:23:51.325Z'
 ---
 
 Gemeente

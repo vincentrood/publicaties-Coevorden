@@ -1,8 +1,65 @@
 ---
-title: "2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van Karabas op bungalowpark WICO"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van Karabas op bungalowpark WICO.pdf"
-date: 2026-05-12
+title: >-
+  2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van
+  Karabas op bungalowpark WICO
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-25 Woo-verzoek documenten omtrent voormalig
+  restaurant de Markies van Karabas op bungalowpark WICO.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2023 heeft de gemeente Coevorden een Woo-verzoek ontvangen voor de
+  openbaarmaking van documenten met betrekking tot het voormalige restaurant de
+  Markies van Karabas. Het besluit om het verzoek gedeeltelijk toe te wijzen
+  werd op 25 januari 2024 genomen, waarbij enkele documenten openbaar zijn
+  gemaakt met uitzondering van persoonsgegevens en concurrentiegevoelige
+  informatie.
+milestones:
+  - date: '2021-04-13'
+    event: Aanvraag vooroverleg ingediend door 12WAT architecten.
+  - date: '2021-04-19'
+    event: >-
+      Gemeente Coevorden bevestigt ontvangst en vraagt om aanvullende
+      informatie.
+  - date: '2021-04-25'
+    event: Ingevuld vragenformulier voor het vooroverleg verzonden.
+  - date: '2021-06-16'
+    event: >-
+      Navraag gedaan naar de status van de aanvraag, bijna 2 maanden na
+      indiening.
+  - date: '2023-03-08'
+    event: Brief over toekomst bungalowpark Wico verstuurd aan eigenaren en bewoners.
+  - date: '2023-03-13'
+    event: >-
+      Gesprek met eigenaar horecapand De Markies over ontwikkelplan voor 8
+      recreatiewoningen.
+  - date: '2023-03-16'
+    event: Mail ontvangen met samenvatting van gesprek van 20 februari 2023.
+  - date: '2023-05-17'
+    event: >-
+      Tweede gesprek met adviseur van de eigenaar over mogelijkheden op het
+      park.
+  - date: '2023-09-15'
+    event: Gesprek met Adore Vastgoed over toekomstvisie voor De Markies.
+  - date: '2023-12-14'
+    event: Indiening Woo-verzoek
+  - date: '2023-12-15'
+    event: Ontvangst Woo-verzoek door gemeente
+  - date: '2023-12-19'
+    event: Ontvangst Woo-verzoek met verzoek om documentatie over het project.
+  - date: '2024-01-04'
+    event: Verzending van een update over de ontwikkelingen van De Markies.
+  - date: '2024-01-09'
+    event: Brief verzonden met verlenging beslistermijn
+  - date: '2024-01-10'
+    event: Brief verzonden naar belanghebbenden voor zienswijze
+  - date: '2024-01-24'
+    event: Uiterste datum voor zienswijze van belanghebbenden
+  - date: '2024-01-25'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-05-12T07:37:30.243Z'
 ---
 
 Postadres:

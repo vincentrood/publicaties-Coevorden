@@ -1,8 +1,59 @@
 ---
-title: "2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's Ganzenparadijs"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's Ganzenparadijs.pdf"
-date: 2026-05-12
+title: >-
+  2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's
+  Ganzenparadijs
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-06-03 Woo-verzoek correspondentie en
+  handhavingsverzoek Akka's Ganzenparadijs.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een handhavingsverzoek ontvangen van cliënten
+  tegen Stichting Akka's Ganzenparadijs, die in strijd met het bestemmingsplan
+  handelt. Er zijn verschillende besluiten en procedures geweest, waaronder een
+  beroep wegens niet tijdig beslissen op het handhavingsverzoek.
+milestones:
+  - date: '2020-08-13'
+    event: Aanvraag omgevingsvergunning ingediend door vergunninghouder.
+  - date: '2021-02-26'
+    event: Omgevingsvergunning van rechtswege verleend.
+  - date: '2021-03-31'
+    event: 'Besluit omgevingsvergunning verleend, later herroepen.'
+  - date: '2021-09-28'
+    event: >-
+      Herroeping van het besluit van 31 maart 2021 en toevoeging van
+      voorschriften aan de vergunning.
+  - date: '2023-09-11'
+    event: >-
+      Zitting in de rechtbank te Groningen; besluiten van 28 september 2021 en 4
+      oktober 2021 ingetrokken.
+  - date: '2023-09-15'
+    event: Verzoek tot handhavend optreden ingediend door cliënten.
+  - date: '2023-09-15'
+    event: Verzoek tot handhavend optreden ingediend door ARAG namens cliënten.
+  - date: '2023-11-09'
+    event: College meldt dat er geen besluit kan worden genomen binnen de termijn.
+  - date: '2023-11-09'
+    event: >-
+      College verlengt beslistermijn met 15 weken, tot uiterlijk 23 februari
+      2024.
+  - date: '2023-12-12'
+    event: >-
+      Ingebrekestelling verzonden; cliënten stellen college in gebreke wegens
+      overschrijding van de beslistermijn.
+  - date: '2024-02-23'
+    event: Uiterste datum voor besluit op verzoek handhavend optreden.
+  - date: '2024-03-15'
+    event: Beroep ingediend wegens niet tijdig beslissen door het college.
+  - date: '2024-04-22'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-05-02'
+    event: Mededeling aan belanghebbenden over zienswijze
+  - date: '2024-06-03'
+    event: Verzending besluit Woo-verzoek
+ai_processed_at: '2026-05-12T07:32:07.208Z'
 ---
 
 An

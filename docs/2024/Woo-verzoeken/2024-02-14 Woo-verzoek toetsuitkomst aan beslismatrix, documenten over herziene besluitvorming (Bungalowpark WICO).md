@@ -1,8 +1,43 @@
 ---
-title: "2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over herziene besluitvorming (Bungalowpark WICO)"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over herziene besluitvorming (Bungalowpark WICO).pdf"
-date: 2026-05-12
+title: >-
+  2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over
+  herziene besluitvorming (Bungalowpark WICO)
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix,
+  documenten over herziene besluitvorming (Bungalowpark WICO).pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot documenten over de herbeoordeling van vakantieparken. Het verzoek is
+  gedeeltelijk toegewezen, waarbij enkele documenten openbaar zijn gemaakt, maar
+  persoonsgegevens zijn weggelakt.
+milestones:
+  - date: '2021-01-01'
+    event: >-
+      Vaststelling van de beslismatrix Vitale Vakantie Parken Coevorden door het
+      college.
+  - date: '2021-01-01'
+    event: Beslismatrix wordt ter informatie toegezonden aan betrokkenen.
+  - date: '2021-01-14'
+    event: >-
+      Vaststelling van de beslismatrix Vitale Vakantie Parken Coevorden door het
+      college.
+  - date: '2021-01-31'
+    event: >-
+      Informatieve raadsbrief over de beslismatrix verzonden aan de
+      gemeenteraad.
+  - date: '2021-02-08'
+    event: 'Mail verzonden met beslismatrix, deels openbaar.'
+  - date: '2024-01-23'
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: '2024-01-24'
+    event: Ontvangstbevestiging van het Woo-verzoek.
+  - date: '2024-02-14'
+    event: 'Besluit op het Woo-verzoek, gedeeltelijke toewijzing van documenten.'
+ai_processed_at: '2026-05-12T07:34:08.244Z'
 ---
 
 Gemeente

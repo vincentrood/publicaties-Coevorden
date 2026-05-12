@@ -1,8 +1,43 @@
 ---
-title: "2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over Wilhelminasingel 171, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over Wilhelminasingel 171, Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over
+  Wilhelminasingel 171, Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle
+  over Wilhelminasingel 171, Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen van Adelaar
+  Vastgoedontwikkeling BV voor documenten met betrekking tot de locatie
+  Wilhelminasingel 171. Het verzoek is gedeeltelijk toegewezen, met uitzondering
+  van persoonsgegevens en persoonlijke beleidsopvattingen.
+milestones:
+  - date: '2021-04-23'
+    event: Indiening van het ontwerp voor model 2/3
+  - date: '2021-04-30'
+    event: Indiening van de aanvraag voor het bouwproject
+  - date: '2021-04-30'
+    event: Indiening van ontwerpen voor model 3 perspectieven
+  - date: '2021-05-04'
+    event: Ontvangstbevestiging van de gemeente Coevorden voor het vooroverleg
+  - date: '2021-05-12'
+    event: RO-front overleg over het appartementencomplex
+  - date: '2021-06-22'
+    event: Ontvangst van integraal advies van de Regionale Uitvoeringsdienst Drenthe
+  - date: '2022-04-19'
+    event: Nieuwe aanvraag ontvangen voor het project
+  - date: '2023-12-09'
+    event: Indiening Woo-verzoek door Adelaar Vastgoedontwikkeling BV.
+  - date: '2023-12-12'
+    event: Ontvangst van het Woo-verzoek door de gemeente Coevorden.
+  - date: '2024-01-30'
+    event: 'Besluit genomen op het Woo-verzoek, gedeeltelijk toegewezen.'
+  - date: '2024-02-14'
+    event: Verstrekking van de documenten na afloop van de bezwaartermijn.
+ai_processed_at: '2026-05-12T07:36:38.937Z'
 ---
 
 Gemeente

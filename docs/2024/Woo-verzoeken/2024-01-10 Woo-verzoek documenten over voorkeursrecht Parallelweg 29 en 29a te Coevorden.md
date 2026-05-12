@@ -1,8 +1,55 @@
 ---
-title: "2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-10 Woo-verzoek documenten over voorkeursrecht
+  Parallelweg 29 en 29a te Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op 26 oktober 2020 een voorkeursrecht gevestigd op
+  verschillende percelen in het gebied Holwert Midden, met als doel de regie
+  over de ontwikkeling van dit gebied te versterken. Op 29 november 2023 is er
+  een Woo-verzoek ingediend voor documenten met betrekking tot dit
+  voorkeursrecht, waarop op 10 januari 2024 een beslissing is genomen om het
+  verzoek toe te wijzen, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2020-10-26'
+    event: College vestigt voorlopig voorkeursrecht op percelen in Holwert Midden.
+  - date: '2020-10-28'
+    event: Voorlopige aanwijzing van percelen in Holwert Midden door het college.
+  - date: '2020-12-08'
+    event: Raad bestendigt het voorlopige voorkeursrecht.
+  - date: '2020-12-11'
+    event: Publicatie van het aanwijzingsbesluit in de Staatscourant.
+  - date: '2021-01-22'
+    event: >-
+      Einde van de termijn voor het indienen van bezwaarschriften tegen het
+      besluit.
+  - date: '2021-04-19'
+    event: Gemeente ontvangt aanbiedingen voor aankoop van percelen.
+  - date: '2021-05-17'
+    event: College adviseert om in beginsel bereid te zijn tot aankoop van percelen.
+  - date: '2021-05-25'
+    event: >-
+      Besluit van burgemeester en wethouders over de aanbieding van gronden na
+      vestiging van het voorkeursrecht.
+  - date: '2021-06-01'
+    event: >-
+      Vaststelling van de besluitenlijst van de vergadering van burgemeester en
+      wethouders.
+  - date: '2021-06-01'
+    event: >-
+      Deadline voor college om besluit te nemen over aankoop van aangeboden
+      percelen.
+  - date: '2023-11-29'
+    event: Ontvangst Woo-verzoek over documenten van de gemeente.
+  - date: '2024-01-10'
+    event: Beslissing om het Woo-verzoek toe te wijzen.
+ai_processed_at: '2026-05-12T07:39:39.310Z'
 ---
 
 Gemeente

@@ -1,8 +1,76 @@
 ---
-title: "2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe.pdf"
-date: 2026-05-12
+title: 2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek ZKA-rapport vitaliteit
+  verblijfssector Drenthe.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft een burger een Woo-verzoek ingediend bij de gemeente Coevorden
+  voor het openbaar maken van documenten, waaronder een ZKA-rapport en bijlagen
+  van een raadsvoorstel uit 2020. De gemeente heeft het verzoek gedeeltelijk
+  toegewezen en de documenten deels openbaar gemaakt, terwijl andere documenten
+  al eerder openbaar waren gemaakt.
+milestones:
+  - date: '2020-01-01'
+    event: Start van de evaluatie van recreatieparken in Drenthe.
+  - date: '2020-01-01'
+    event: >-
+      Secundo park heeft 50 eenheden, met een meerderheid recreatieve
+      bestemming.
+  - date: '2020-01-01'
+    event: >-
+      Zuiderveld park richt zich op vakantievierende medemensen met een aandeel
+      van 25% recreatieve verblijven.
+  - date: '2020-01-15'
+    event: Beoordeling van Het Vossehol in Schoonoord.
+  - date: '2020-01-20'
+    event: Beoordeling van Molecaten Park Kuierpad in Wezuperbrug.
+  - date: '2020-01-25'
+    event: Beoordeling van Vekabo-recreatiecentrum Rijmaaran in Schoonoord.
+  - date: '2020-02-01'
+    event: Beoordeling van Toenakkers in Meppen.
+  - date: '2020-02-05'
+    event: Beoordeling van De Bronzen Emmer in Meppen.
+  - date: '2020-02-10'
+    event: Beoordeling van Park De Kamp in Gees.
+  - date: '2020-02-15'
+    event: Beoordeling van De Wolfskuylen in Gees.
+  - date: '2020-02-20'
+    event: Beoordeling van Ermerstrand in Erm.
+  - date: '2020-02-25'
+    event: Beoordeling van Ermerzand in Erm.
+  - date: '2020-03-01'
+    event: Beoordeling van De Tip in Schoonoord.
+  - date: '2020-03-05'
+    event: Beoordeling van Wico in Schoonoord.
+  - date: '2020-03-10'
+    event: Beoordeling van Primo en Secundo in Erm.
+  - date: '2020-10-20'
+    event: 'Raadsvoorstel RV #1628 door dhr. Stegen.'
+  - date: '2021-01-01'
+    event: Secundo park wordt uitgedaagd om een verhuurexploitatieplan in te dienen.
+  - date: '2021-01-01'
+    event: >-
+      Zuiderveld park heeft een actief verhuurbeleid met 25% participatie van
+      eigenaren.
+  - date: '2022-01-01'
+    event: >-
+      Gemeente wordt aangespoord om handhavend op te treden tegen permanente
+      bewoning in Zuiderveld.
+  - date: '2023-01-01'
+    event: >-
+      Beide parken hebben behoefte aan investeringen en verbeteringen in
+      kwaliteit en voorzieningen.
+  - date: '2024-08-16'
+    event: Indiening Woo-verzoek door MD.
+  - date: '2024-08-19'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2024-09-03'
+    event: Besluit op Woo-verzoek verzonden.
+ai_processed_at: '2026-05-12T07:28:20.659Z'
 ---
 
 Postadres:

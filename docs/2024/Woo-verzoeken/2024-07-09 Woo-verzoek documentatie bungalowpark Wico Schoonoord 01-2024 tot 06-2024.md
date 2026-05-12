@@ -1,8 +1,67 @@
 ---
-title: "2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot 06-2024"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot 06-2024.pdf"
-date: 2026-05-12
+title: >-
+  2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot
+  06-2024
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-09 Woo-verzoek documentatie bungalowpark Wico
+  Schoonoord 01-2024 tot 06-2024.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft een burger een Woo-verzoek ingediend bij de gemeente Coevorden
+  voor documenten met betrekking tot bungalowpark Wico. Het verzoek leidde tot
+  een proces van communicatie en besluitvorming over de openbaarmaking van
+  informatie, inclusief een vitaliteitsscan van het park.
+milestones:
+  - date: '2020-07-01'
+    event: Beoordeling van vakantiepark Ermerstrand en andere parken.
+  - date: '2023-05-09'
+    event: >-
+      Wethouder Stegen heeft toezeggingen gedaan over het onderzoek naar
+      Bungalowpark Wico.
+  - date: '2023-12-21'
+    event: WOO verzoek ingediend inzake bungalowpark Wico.
+  - date: '2024-01-16'
+    event: Commissaievergadering over bungalowpark Wico.
+  - date: '2024-01-16'
+    event: >-
+      Commissievergadering waarin de toekomst van Bungalowpark Wico wordt
+      besproken.
+  - date: '2024-01-18'
+    event: Besluit om onderzoek naar bungalowpark Wico uit te voeren.
+  - date: '2024-01-21'
+    event: >-
+      Grondeigenaren van Wico geven schriftelijke reactie op
+      commissievergadering.
+  - date: '2024-01-21'
+    event: >-
+      Eigenaren van Bungalowpark Wico sturen een schriftelijke reactie naar de
+      gemeente.
+  - date: '2024-01-22'
+    event: >-
+      Reacties van grondeigenaren worden toegevoegd aan de agenda voor
+      raadsvergadering.
+  - date: '2024-01-22'
+    event: Gemeente bevestigt ontvangst van de reactie van de eigenaren.
+  - date: '2024-01-30'
+    event: Gemeente Coevorden stuurt een reactie op de brief van de eigenaren.
+  - date: '2024-02-02'
+    event: Eigenaren van Bungalowpark Wico reageren op de brief van de gemeente.
+  - date: '2024-02-27'
+    event: Raadsvergadering waarin de reacties van de eigenaren worden besproken.
+  - date: '2024-05-30'
+    event: Indiening Woo-verzoek over bungalowpark Wico.
+  - date: '2024-06-04'
+    event: Ontvangstbevestiging van het Woo-verzoek gestuurd.
+  - date: '2024-06-18'
+    event: Verzoek om specificatie van het tweede punt van het verzoek.
+  - date: '2024-06-25'
+    event: Verzenddatum van verdagingsbrief wegens omvang verzoek.
+  - date: '2024-07-09'
+    event: Besluit op het Woo-verzoek verzonden.
+ai_processed_at: '2026-05-12T07:31:08.095Z'
 ---
 
 Postadres:

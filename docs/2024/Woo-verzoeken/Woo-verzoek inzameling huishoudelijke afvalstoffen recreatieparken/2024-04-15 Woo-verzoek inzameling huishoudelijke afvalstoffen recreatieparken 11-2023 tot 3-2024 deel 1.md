@@ -1,8 +1,54 @@
 ---
-title: "2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 1"
-maps: ["2024","Woo-verzoeken","Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken"]
-source: "2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 1.pdf"
-date: 2026-05-12
+title: >-
+  2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+  11-2023 tot 3-2024 deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+source: >-
+  2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken 11-2023 tot 3-2024 deel 1.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de inzameling van huishoudelijke afvalstoffen bij recreatieparken. Het
+  verzoek is gedeeltelijk toegewezen, waarbij relevante documenten zijn openbaar
+  gemaakt, met uitzondering van persoonsgegevens en concurrentiegevoelige
+  informatie.
+milestones:
+  - date: '2023-01-01'
+    event: >-
+      Inwerkingtreding van de Omgevingswet en de Wet kwaliteitsborging voor het
+      bouwen.
+  - date: '2023-08-29'
+    event: >-
+      College stemt in met nieuwe categorie 'recreatiewoningen' in
+      afvalstoffenheffing.
+  - date: '2023-08-29'
+    event: >-
+      College stemt in met nieuwe categorie 'recreatiewoningen' in de
+      afvalstoffenheffing.
+  - date: '2023-10-10'
+    event: Voorstel van burgemeester en wethouders over belastingverordeningen.
+  - date: '2023-11-07'
+    event: Raad besluit over belastingverordeningen 2024.
+  - date: '2023-11-08'
+    event: WOO-verzoek ingediend voor informatie over afvalstoffenbeleid.
+  - date: '2024-01-01'
+    event: Inwerkingtreding van de nieuwe afvalstoffenverordening.
+  - date: '2024-02-27'
+    event: Raad van de gemeente Coevorden stelt de afvalstoffenverordening 2024 vast.
+  - date: '2024-03-04'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2024-04-15'
+    event: Verzending van het besluit en documenten naar aanvrager.
+  - date: '2024-07-01'
+    event: >-
+      Start van de gemeentelijke inzameling van huishoudelijk afval bij
+      recreatiewoningen.
+ai_processed_at: '2026-05-12T07:41:21.275Z'
 ---
 
 Postadres:

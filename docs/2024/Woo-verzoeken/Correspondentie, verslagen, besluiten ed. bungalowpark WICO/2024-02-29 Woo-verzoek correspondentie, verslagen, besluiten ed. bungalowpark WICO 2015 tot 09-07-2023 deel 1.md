@@ -1,8 +1,83 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 1"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 1.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 1.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 9 juli 2023 betreft de openbaarmaking van documenten met
+  betrekking tot het WICO-dossier. De gemeente Coevorden heeft op 29 februari
+  2024 besloten om het verzoek gedeeltelijk toe te wijzen, met uitzondering van
+  persoonsgegevens en concurrentiegevoelige informatie.
+milestones:
+  - date: '2020-01-14'
+    event: Nieuwe inschrijvingen januari 2020
+  - date: '2020-03-30'
+    event: Inschrijvingen recreatiewoningen
+  - date: '2021-01-06'
+    event: >-
+      Beoordeling inschrijvingen vakantieparken aan mogelijkheid
+      gedoogbeschikking
+  - date: '2021-02-22'
+    event: BAG objecten registratielijst
+  - date: '2021-06-01'
+    event: Nota ondersteuning ihkv Naober
+  - date: '2022-06-28'
+    event: Opnamerapport handhaving
+  - date: '2022-10-21'
+    event: Mail over projectopdracht Wico
+  - date: '2023-01-17'
+    event: Aangepaste versie memo Wico
+  - date: '2023-04-05'
+    event: E-mail over communicatieplan Wico
+  - date: '2023-04-18'
+    event: Punten voor overleg over bijeenkomst
+  - date: '2023-05-24'
+    event: Informatiebijeenkomst Wico
+  - date: '2023-05-25'
+    event: Aanmeldingen voor bewonersavond
+  - date: '2023-05-30'
+    event: Uitnodiging informatiebijeenkomst
+  - date: '2023-06-10'
+    event: Brief aan raad over VVPC Wico
+  - date: '2023-06-26'
+    event: Beantwoording vragen aan raad
+  - date: '2023-07-09'
+    event: Indiening Woo-verzoek om openbaarmaking WICO-dossier
+  - date: '2023-07-17'
+    event: >-
+      Verzoeker stemt in met verkorting van de opgevraagde periode naar
+      2015-2023
+  - date: '2023-07-21'
+    event: Reactie van werkgroep op nieuwsbrief
+  - date: '2023-07-24'
+    event: Gesprek met bewoners
+  - date: '2023-08-14'
+    event: Mail over vervolg aanpak Wico
+  - date: '2023-09-05'
+    event: Definitieve Q&A over Wico
+  - date: '2023-10-03'
+    event: Verzonden en afgeleverde brief Wico
+  - date: '2023-10-07'
+    event: Raadsbesluit gemeente Coevorden
+  - date: '2023-11-05'
+    event: Vervolg communicatie over Wico
+  - date: '2023-12-03'
+    event: Brief aan bewoners over Wico
+  - date: '2023-12-05'
+    event: Gemeente vraagt betrokkenen om zienswijze op voorgenomen openbaarmaking
+  - date: '2023-12-19'
+    event: Deadline voor indienen zienswijzen door betrokkenen
+  - date: '2024-02-29'
+    event: Besluit Woo-verzoek verzonden aan verzoeker
+ai_processed_at: '2026-05-12T07:45:06.969Z'
 ---
 
 Postadres:

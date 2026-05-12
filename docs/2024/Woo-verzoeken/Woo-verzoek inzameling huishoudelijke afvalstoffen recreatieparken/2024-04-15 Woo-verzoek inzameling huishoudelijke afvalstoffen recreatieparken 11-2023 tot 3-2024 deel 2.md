@@ -1,8 +1,44 @@
 ---
-title: "2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 2"
-maps: ["2024","Woo-verzoeken","Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken"]
-source: "2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 2.pdf"
-date: 2026-05-12
+title: >-
+  2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+  11-2023 tot 3-2024 deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+source: >-
+  2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken 11-2023 tot 3-2024 deel 2.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De Afvalstoffenverordening gemeente Coevorden 2024 regelt de inzameling van
+  huishoudelijke afvalstoffen, met specifieke aandacht voor recreatiewoningen op
+  park Zuiderveld. De gemeente heeft besloten om de inzameling op dit park
+  tijdelijk stop te zetten tot er overleg heeft plaatsgevonden over de
+  inzamelmethodiek.
+milestones:
+  - date: '2021-03-01'
+    event: Bijlage 3/4 bij VNG ledenbrief gepubliceerd.
+  - date: '2021-03-01'
+    event: Publicatie van de VNG ledenbrief met richtlijnen voor afvalstoffenbeheer.
+  - date: '2022-11-08'
+    event: >-
+      Raadsbesluit tot intrekking van de 'Verordening afvalstoffenheffing
+      Coevorden 2023'.
+  - date: '2023-11-07'
+    event: >-
+      Vaststelling van de ontwerp-afvalstoffenverordening gemeente Coevorden
+      2024.
+  - date: '2023-11-20'
+    event: Start ter inzagelegging van de ontwerp-afvalstoffenverordening.
+  - date: '2024-01-01'
+    event: Inwerkingtreding van de 'Verordening afvalstoffenheffing Coevorden 2024'.
+  - date: '2025-01-01'
+    event: >-
+      Inwerkingtreding van nieuwe regels voor gescheiden inzameling van textiel
+      en gevaarlijke afvalstoffen.
+ai_processed_at: '2026-05-12T07:40:43.402Z'
 ---
 
 Artikel 10 Vermindering extra container voor medisch afval

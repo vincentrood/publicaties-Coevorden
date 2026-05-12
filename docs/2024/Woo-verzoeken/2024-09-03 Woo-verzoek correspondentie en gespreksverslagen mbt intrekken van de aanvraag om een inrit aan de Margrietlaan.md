@@ -1,8 +1,27 @@
 ---
-title: "2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van de aanvraag om een inrit aan de Margrietlaan"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van de aanvraag om een inrit aan de Margrietlaan.pdf"
-date: 2026-05-12
+title: >-
+  2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van
+  de aanvraag om een inrit aan de Margrietlaan
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen
+  mbt intrekken van de aanvraag om een inrit aan de Margrietlaan.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de intrekking van een aanvraag voor een inrit op de Margrietlaan. Het
+  verzoek is toegewezen, met uitzondering van persoonsgegevens, en de documenten
+  worden openbaar gemaakt op de website van de gemeente.
+milestones:
+  - date: '2024-07-22'
+    event: Indiening Woo-verzoek over intrekking aanvraag inrit Margrietlaan.
+  - date: '2024-09-03'
+    event: >-
+      Besluit genomen om Woo-verzoek toe te wijzen, documenten openbaar te
+      maken.
+ai_processed_at: '2026-05-12T07:27:52.404Z'
 ---
 
 Gemeente

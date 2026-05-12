@@ -1,8 +1,25 @@
 ---
-title: "2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken Bungalowpark Het Zuiderveld"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken Bungalowpark Het Zuiderveld.pdf"
-date: 2026-05-12
+title: >-
+  2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken Bungalowpark Het
+  Zuiderveld
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-25 Woo-verzoek Vergunningen vrijstaande bouwwerken
+  Bungalowpark Het Zuiderveld.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Een Woo-verzoek is ingediend voor de openbaarmaking van vergunningen voor
+  bouwwerken op bungalowpark Het Zuiderveld. Het verzoek is op 12 juli 2024
+  ontvangen en op 25 juli 2024 geheel toegewezen, met uitzondering van
+  persoonsgegevens.
+milestones:
+  - date: '2024-07-12'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-07-25'
+    event: Besluit tot openbaarmaking van documenten
+ai_processed_at: '2026-05-12T07:29:58.874Z'
 ---
 
 Postadres:

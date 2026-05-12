@@ -1,8 +1,30 @@
 ---
-title: "2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake lichtmastreclame en rotondereclame gemeente Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake lichtmastreclame en rotondereclame gemeente Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake
+  lichtmastreclame en rotondereclame gemeente Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-05 Woo-verzoek concessies, afspraken en contracten
+  inzake lichtmastreclame en rotondereclame gemeente Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Reclanet Holding BV heeft op 15 november 2023 een WOO-verzoek ingediend bij de
+  gemeente Coevorden voor informatie over concessies voor lichtmastreclame en
+  rotonde-reclame. De gemeente heeft op 5 februari 2024 gereageerd met
+  informatie over bestaande contracten en beleidskeuzes met betrekking tot
+  lichtreclame.
+milestones:
+  - date: '2023-11-15'
+    event: >-
+      Reclanet Holding BV dient WOO-verzoek in voor informatie over concessies
+      lichtmastreclame en rotonde-reclame.
+  - date: '2024-02-05'
+    event: >-
+      Gemeente Coevorden reageert op WOO-verzoek met informatie over contracten
+      en beleidskeuzes.
+ai_processed_at: '2026-05-12T07:35:57.243Z'
 ---
 
 1

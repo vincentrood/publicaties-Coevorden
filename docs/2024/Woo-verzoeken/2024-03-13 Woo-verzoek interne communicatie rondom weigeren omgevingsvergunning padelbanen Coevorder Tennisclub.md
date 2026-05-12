@@ -1,8 +1,66 @@
 ---
-title: "2024-03-13 Woo-verzoek interne communicatie rondom weigeren omgevingsvergunning padelbanen Coevorder Tennisclub"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-03-13 Woo-verzoek interne communicatie rondom weigeren omgevingsvergunning padelbanen Coevorder Tennisclub.pdf"
-date: 2026-05-12
+title: >-
+  2024-03-13 Woo-verzoek interne communicatie rondom weigeren
+  omgevingsvergunning padelbanen Coevorder Tennisclub
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-03-13 Woo-verzoek interne communicatie rondom weigeren
+  omgevingsvergunning padelbanen Coevorder Tennisclub.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een omgevingsvergunning verleend voor de aanleg
+  van padelbanen door de Coevorder Tennisclub, na een Woo-verzoek om interne
+  communicatie over de vergunning. Er zijn zorgen over geluidsoverlast van de
+  padelbanen, wat leidt tot gesprekken met omwonenden en het college over
+  mogelijke maatwerkvoorschriften.
+milestones:
+  - date: '2020-01-01'
+    event: Toename van padelspelers in Nederland door Covid-19.
+  - date: '2021-12-01'
+    event: Verontrustende meldingen over geluidshinder van padelbanen bij de NSG.
+  - date: '2022-11-04'
+    event: >-
+      Gemeente trekt vergunning voor vier padelbanen bij Larense LTC in vanwege
+      geluidsoverlast.
+  - date: '2022-11-08'
+    event: >-
+      Tennisclub Vrouwenpolder ziet af van aanleg padelbaan door vrees voor
+      halvering ledenbestand.
+  - date: '2022-12-12'
+    event: Buurtbewoners vragen om gesprek met gemeente over padelbanen.
+  - date: '2022-12-15'
+    event: >-
+      Gemeente bevestigt dat vergunningverlening moet voldoen aan wet- en
+      regelgeving.
+  - date: '2022-12-15'
+    event: >-
+      Tennisclub UT Zierikzee besluit padelbanen op andere locatie aan te
+      leggen.
+  - date: '2023-01-05'
+    event: >-
+      Publicatie over geluidsnormen overschreden door padelbanen in andere
+      gemeenten.
+  - date: '2023-01-13'
+    event: Gesprek tussen gemeente en buurtbewoners over zorgen over geluidsoverlast.
+  - date: '2023-02-06'
+    event: Gemeente Coevorden verleent omgevingsvergunning voor twee padelbanen.
+  - date: '2023-02-08'
+    event: >-
+      B&W Coevorden bespreekt aanvragen voor padelbanen en de noodzaak van
+      akoestisch onderzoek.
+  - date: '2023-02-21'
+    event: >-
+      B&W Coevorden besluit om aanvragen voor padelbanen te bespreken met
+      verenigingen.
+  - date: '2024-01-15'
+    event: Indiening Woo-verzoek door Fortis Sagittarius.
+  - date: '2024-03-13'
+    event: >-
+      Besluit op het Woo-verzoek, documenten worden openbaar gemaakt met
+      uitzondering van persoonsgegevens.
+ai_processed_at: '2026-05-12T07:33:47.241Z'
 ---
 
 Gemeente

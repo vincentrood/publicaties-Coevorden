@@ -1,8 +1,48 @@
 ---
-title: "2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2"
-maps: ["2024","Woo-verzoeken","2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2.pdf"
-date: 2026-05-12
+title: 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark
+  Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Het transformatieproces van Bungalowpark Ermerzand naar een woonbestemming is
+  in volle gang, met betrokkenheid van de gemeente Coevorden en de eigenaren. De
+  gesprekken zijn gericht op het waarborgen van permanente bewoning en het
+  verbeteren van de waarde van de woningen.
+milestones:
+  - date: '2021-04-09'
+    event: Conceptversie van de transformatie naar woonpark gepresenteerd.
+  - date: '2023-06-09'
+    event: Overleg tussen opdrachtgever en betrokken partijen over de transformatie.
+  - date: '2023-08-18'
+    event: >-
+      Onderzoek naar bouwbesluit voor mogelijke transformatie naar permanente
+      bewoning gestart.
+  - date: '2023-10-25'
+    event: Deskundigenrapport over waardeverandering na bestemmingsplanwijziging.
+  - date: '2023-11-10'
+    event: >-
+      Verslag van de vergadering met mededelingen over de
+      transformatiecommissie.
+  - date: '2023-11-28'
+    event: >-
+      Mail gestuurd naar de voorzitter van de VvE met opmerkingen over het
+      waarderapport.
+  - date: '2023-12-09'
+    event: Themabijeenkomst over de transformatie.
+  - date: '2024-01-19'
+    event: Verslag van de vergadering met updates over afval en bouwbesluit.
+  - date: '2024-02-01'
+    event: >-
+      Nieuwsbrief verzonden met updates over de transformatie en betrokkenheid
+      van eigenaren.
+  - date: '2024-03-01'
+    event: Q&A sessie gehouden over de transformatie en betrokkenheid van eigenaren.
+ai_processed_at: '2026-05-12T07:45:30.688Z'
 ---
 
 concept versie 9-4-2021 CVE

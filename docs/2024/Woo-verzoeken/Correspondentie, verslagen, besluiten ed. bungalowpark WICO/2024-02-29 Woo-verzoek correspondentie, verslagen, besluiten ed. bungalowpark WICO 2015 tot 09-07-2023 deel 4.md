@@ -1,8 +1,62 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 4"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 4.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 4
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 4.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een beleid ontwikkeld voor de handhaving van
+  permanente bewoning van recreatiewoningen, met als doel de recreatieve functie
+  van deze woningen te waarborgen. Dit beleid omvat onder andere de voorwaarden
+  voor persoonsgebonden en tijdelijke gedoogbeschikkingen, en de aanpak van
+  handhaving bij overtredingen.
+milestones:
+  - date: '2020-03-30'
+    event: Start van de gesprekken over tijdelijke huisvesting in recreatiewoningen.
+  - date: '2020-10-20'
+    event: Raadsvergadering over Vitale Vakantie Parken Coevorden.
+  - date: '2021-01-01'
+    event: Start van het programma Vitale Vakantie Parken Coevorden.
+  - date: '2021-04-07'
+    event: >-
+      Eerste bijeenkomst met eigenaren van Zuiderveld over toekomstbestendig
+      plan.
+  - date: '2021-12-06'
+    event: Eerste contactmoment met eigenaren over woningaanbod.
+  - date: '2021-12-31'
+    event: Einde van de eerste fase van het programma.
+  - date: '2022-01-01'
+    event: Start van de tweede fase van het programma.
+  - date: '2022-01-06'
+    event: Tweede contactmoment met eigenaren over woningaanbod.
+  - date: '2022-02-02'
+    event: Melding van verhuizing van een bewoner naar een nieuwe woning.
+  - date: '2022-03-22'
+    event: 'Informatie-ophaaldag op Primo, Secundo en Ermerstrand.'
+  - date: '2022-05-15'
+    event: ALV voor eigenaren van Ermerzand over transformatie naar wonen.
+  - date: '2022-06-01'
+    event: Raadsexcursie met rondleiding en bespreking van de stand van zaken.
+  - date: '2023-04-28'
+    event: >-
+      Advies College van burgemeester en wethouders over VTH-beleidsplan
+      2023-2027 vastgesteld.
+  - date: '2023-05-23'
+    event: >-
+      Besluit van B & W om VTH-beleidsplan 2023-2027, VTH-jaarverslag 2022 en
+      VTH-uitvoeringsprogramma 2023 vast te stellen.
+  - date: '2023-12-31'
+    event: Einddatum van het VTH-beleidsplan 2023-2027.
+  - date: '2024-12-31'
+    event: Einde van het programma Vitale Vakantie Parken Coevorden.
+ai_processed_at: '2026-05-12T07:43:34.419Z'
 ---
 
 Voorlegger PFO

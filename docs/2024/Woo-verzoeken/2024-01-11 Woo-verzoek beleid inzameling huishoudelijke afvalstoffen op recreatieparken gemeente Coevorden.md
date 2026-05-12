@@ -1,8 +1,51 @@
 ---
-title: "2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op recreatieparken gemeente Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op recreatieparken gemeente Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op
+  recreatieparken gemeente Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-11 Woo-verzoek beleid inzameling huishoudelijke
+  afvalstoffen op recreatieparken gemeente Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen over het beleid voor de
+  inzameling van huishoudelijk afval op recreatieparken. Het verzoek is
+  gedeeltelijk toegewezen, waarbij documenten zijn vrijgegeven met uitzondering
+  van persoonsgegevens en concurrentiegevoelige informatie.
+milestones:
+  - date: '2020-06-23'
+    event: >-
+      Gemeenteraad bespreekt verstrekken milieu pas voor permanente bewoners van
+      recreatiewoningen.
+  - date: '2020-06-29'
+    event: >-
+      Concept opzet advies van de RUD ontvangen over de status van
+      vakantieparken.
+  - date: '2020-07-01'
+    event: Begin van de periode waarover informatie is opgevraagd.
+  - date: '2021-01-07'
+    event: >-
+      Advies van het college om afvalstoffenheffing toe te wijzen voor
+      recreatieparken waar huishoudelijk afval vrijkomt.
+  - date: '2023-01-04'
+    event: >-
+      Interne afstemming en communicatie over de beoordeling van
+      recreatieparken.
+  - date: '2023-01-16'
+    event: Start onderzoek naar milieupassen voor vakantieparken.
+  - date: '2023-02-01'
+    event: Verzoek om informatie over milieupassen voor vakantieparken.
+  - date: '2023-02-15'
+    event: Overzicht van adressen van vakantieparken verzonden.
+  - date: '2023-11-08'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2023-11-29'
+    event: Informatie over een belanghebbende en zienswijze is gedeeld.
+  - date: '2024-01-11'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-05-12T07:39:02.048Z'
 ---
 
 Gemeente

@@ -1,8 +1,22 @@
 ---
-title: "2024-07-09 Woo-verzoek klachten Boheems Paradijs"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-09 Woo-verzoek klachten Boheems Paradijs.pdf"
-date: 2026-05-12
+title: 2024-07-09 Woo-verzoek klachten Boheems Paradijs
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-07-09 Woo-verzoek klachten Boheems Paradijs.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen en afgewezen met
+  betrekking tot klachten over het Boheems Paradijs. Het verzoek werd afgewezen
+  omdat het document onleesbaar werd na het lakken van persoonsgegevens.
+milestones:
+  - date: '2024-06-13'
+    event: Ontvangst Woo-verzoek over klachten Boheems Paradijs.
+  - date: '2024-07-01'
+    event: Besluit genomen om het Woo-verzoek af te wijzen.
+  - date: '2024-07-09'
+    event: Verzenddatum van het afwijzingsbesluit.
+ai_processed_at: '2026-05-12T07:30:28.458Z'
 ---
 
 Gemeente

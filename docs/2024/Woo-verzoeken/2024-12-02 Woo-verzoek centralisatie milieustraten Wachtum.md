@@ -1,8 +1,76 @@
 ---
-title: "2024-12-02 Woo-verzoek centralisatie milieustraten Wachtum"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-02 Woo-verzoek centralisatie milieustraten Wachtum.pdf"
-date: 2026-05-12
+title: 2024-12-02 Woo-verzoek centralisatie milieustraten Wachtum
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-12-02 Woo-verzoek centralisatie milieustraten
+  Wachtum.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2023 heeft de gemeente Coevorden besloten om een haalbaarheidsonderzoek uit
+  te voeren naar de nieuwbouw van een gemeentewerf in combinatie met een
+  milieustraat op een centrale locatie. Dit besluit is ingegeven door de
+  noodzaak tot verduurzaming en optimalisatie van de afvalinzameling en
+  -verwerking in de gemeente.
+milestones:
+  - date: '2020-01-21'
+    event: >-
+      Instemming met onderzoek naar toekomstbestendige organisatie in openbare
+      ruimte.
+  - date: '2020-01-21'
+    event: >-
+      Start extern onderzoek naar toekomstbestendige organisatie in de openbare
+      ruimte.
+  - date: '2020-09-16'
+    event: Rapport Onderzoek Openbare Ruimte Coevorden
+  - date: '2020-12-31'
+    event: >-
+      Oplevering van de rapportage met aanbevelingen van
+      Buitenorganisatieadvies.
+  - date: '2021-03-02'
+    event: Instemming met aanbevelingen uit rapport en routekaart.
+  - date: '2021-03-02'
+    event: College stemt in met de aanbevelingen uit het rapport.
+  - date: '2022-03-29'
+    event: Instemming met toekomstbeeld en verdere invulling.
+  - date: '2022-03-29'
+    event: >-
+      College stemt in met het toekomstbeeld van de organisatie in de openbare
+      ruimte.
+  - date: '2022-04-01'
+    event: Eerste verkenning stikstof PFAS-problematiek bij de provincie
+  - date: '2022-12-10'
+    event: >-
+      College neemt kennis van de invulling van de uitvoerende taken van de
+      buitendienst.
+  - date: '2023-01-01'
+    event: Overgang naar servicegerichte werkwijze in de openbare ruimte.
+  - date: '2023-01-10'
+    event: >-
+      Kennisname van de invulling van uitvoerende taken en instemming met
+      onderzoek naar gemeentewerf.
+  - date: '2023-01-31'
+    event: >-
+      Gemeenteraad stemt in met onderzoek naar haalbaarheid gemeentewerf en
+      milieustraat.
+  - date: '2023-02-21'
+    event: Eerste verkenning bij de provincie over samenwerking en infrastructuur
+  - date: '2023-07-01'
+    event: >-
+      IJkmoment voor formatie en functiebeschrijvingen van medewerkers van de
+      buitendienst.
+  - date: '2024-09-12'
+    event: Ontvangst Woo-verzoek over haalbaarheidsonderzoek milieustraten.
+  - date: '2024-10-18'
+    event: >-
+      Presentatie van het haalbaarheidsonderzoek nieuwbouw gemeentewerf en
+      milieustraat
+  - date: '2024-12-02'
+    event: >-
+      Besluit tot toewijzing van het Woo-verzoek en openbaarmaking van
+      documenten.
+ai_processed_at: '2026-05-12T07:25:54.657Z'
 ---
 
 Gemeente

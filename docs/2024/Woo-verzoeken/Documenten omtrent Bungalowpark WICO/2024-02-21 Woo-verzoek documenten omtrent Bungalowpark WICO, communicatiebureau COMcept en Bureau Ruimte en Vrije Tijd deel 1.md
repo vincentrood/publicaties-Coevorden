@@ -1,8 +1,90 @@
 ---
-title: "2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1"
-maps: ["2024","Woo-verzoeken","Documenten omtrent Bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO,
+  communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Documenten omtrent Bungalowpark WICO
+source: >-
+  2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek
+  documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau
+  Ruimte en Vrije Tijd deel 1.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 25 augustus 2023 betreft de openbaarmaking van documenten
+  over de communicatie tussen de gemeente Coevorden en verschillende bureaus met
+  betrekking tot Bungalowpark Wico. Het besluit op het verzoek werd op 21
+  februari 2024 genomen, waarbij sommige documenten gedeeltelijk openbaar zijn
+  gemaakt en andere zijn afgewezen.
+milestones:
+  - date: '2022-11-30'
+    event: Overleg verlengen
+  - date: '2022-12-14'
+    event: Communicatiesessie Wico
+  - date: '2022-12-21'
+    event: Info gesprek voorbereiding raadsessie VVPC
+  - date: '2023-01-25'
+    event: Voorbereiding raadsessie VVPC - voorjaar 2023
+  - date: '2023-02-06'
+    event: Communicatieplannen VVP Coevorden
+  - date: '2023-03-01'
+    event: Start verlenging communicatieadviseur voor Vitale Vakantieparken
+  - date: '2023-03-08'
+    event: Geanonimiseerde brief eigenaren/bewoners Wico
+  - date: '2023-03-29'
+    event: Mail aan advocaat Wico
+  - date: '2023-04-17'
+    event: Informatie bijeenkomst
+  - date: '2023-05-01'
+    event: Informatiebijeenkomsten voor eigenaren/bewoners Wico
+  - date: '2023-05-08'
+    event: Check Q&A
+  - date: '2023-05-25'
+    event: Bewonersavond
+  - date: '2023-06-28'
+    event: Aanpassingen Q&A Wico
+  - date: '2023-07-01'
+    event: Nieuwsbrief Wico naar grond- en huiseigenaren
+  - date: '2023-07-12'
+    event: Nieuwsbrief Wico
+  - date: '2023-08-10'
+    event: Aankondiging schouw bungalowpark Wico
+  - date: '2023-08-25'
+    event: Indiening Woo-verzoek door burger
+  - date: '2023-08-29'
+    event: Ontvangstbevestiging Woo-verzoek verzonden
+  - date: '2023-09-01'
+    event: >-
+      Nieuwsbrief voor bewoners, eigenaren en verhuurders Primo, Secundo en
+      Ermerstrand
+  - date: '2023-09-08'
+    event: Uitnodiging voor gesprek verzonden
+  - date: '2023-09-10'
+    event: Burger geeft aan geen gesprek te willen
+  - date: '2023-09-19'
+    event: Brief verzonden over verlenging beslistermijn
+  - date: '2023-09-25'
+    event: Burger weigert verlenging beslistermijn
+  - date: '2023-09-26'
+    event: Reactie aanpassingen websiteteksten
+  - date: '2023-10-16'
+    event: Aangepaste tekst hofnet
+  - date: '2023-10-24'
+    event: Aangepaste tekst VVPC hofnet
+  - date: '2023-10-30'
+    event: Reactie College BW mail juli werkgroep Wico
+  - date: '2023-11-01'
+    event: Einddatum verlenging beslistermijn
+  - date: '2023-11-02'
+    event: Ingebrekestelling door burger
+  - date: '2023-12-31'
+    event: Einddatum voor oplevering toekomstplan Wico
+  - date: '2024-02-14'
+    event: Tweede ingebrekestelling door burger
+  - date: '2024-02-21'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-05-12T07:42:54.930Z'
 ---
 
 Gemeente

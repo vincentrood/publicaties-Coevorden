@@ -1,8 +1,46 @@
 ---
-title: "2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm.pdf"
-date: 2026-05-12
+title: 2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-28 Woo-verzoek omgevingsvergunning inrit
+  Horstingerend 2 Achterste Erm.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de aanleg van een inrit op het adres Horstingerend 2, Achterste Erm. Het
+  verzoek leidde tot een stillegging van de werkzaamheden wegens het ontbreken
+  van een omgevingsvergunning en de mogelijkheid tot het opleggen van een
+  dwangsom.
+milestones:
+  - date: '2024-07-09'
+    event: >-
+      Controle uitgevoerd op Horstingerend 2, stillegging van werkzaamheden
+      opgelegd.
+  - date: '2024-07-09'
+    event: >-
+      Controle uitgevoerd door toezichthouder; illegale aanlegwerkzaamheden
+      vastgesteld.
+  - date: '2024-07-09'
+    event: Aanvraag voor omgevingsvergunning ingediend.
+  - date: '2024-07-09'
+    event: Aanvraag omgevingsvergunning ingediend.
+  - date: '2024-07-10'
+    event: >-
+      Besluit tot stillegging van de aanlegwerkzaamheden met last onder dwangsom
+      verzonden.
+  - date: '2024-07-10'
+    event: Besluit tot stilleggen van de werkzaamheden verzonden.
+  - date: '2024-07-30'
+    event: Communicatie over intrekken bezwaar afhankelijk van vergunningverlening.
+  - date: '2024-08-08'
+    event: Ontvangst Woo-verzoek met zaaknummer 44745-2024.
+  - date: '2024-08-28'
+    event: >-
+      Besluit genomen over het Woo-verzoek en documenten gedeeltelijk openbaar
+      gemaakt.
+ai_processed_at: '2026-05-12T07:28:47.808Z'
 ---
 
 Uw gegevens

@@ -1,8 +1,25 @@
 ---
-title: "2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen.pdf"
-date: 2026-05-12
+title: 2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-11-08 Woo-verzoek besluit invorderen dwangsom
+  zonnepanelen.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Op 9 oktober 2024 heeft een WOO-verzoek betrekking op het besluit tot
+  invordering van een dwangsom van €2.000,- ingediend bij de gemeente Coevorden.
+  Het verzoek is gedeeltelijk toegewezen, maar niet alle gevraagde documenten
+  konden openbaar worden gemaakt vanwege privacyredenen.
+milestones:
+  - date: '2024-08-12'
+    event: 'Besluit tot invordering van een dwangsom van €2.000,- verzonden.'
+  - date: '2024-10-09'
+    event: WOO-verzoek ingediend door DVG Dienstverlening BV.
+  - date: '2024-11-08'
+    event: Besluit op WOO-verzoek verzonden.
+ai_processed_at: '2026-05-12T07:26:01.409Z'
 ---
 
 nie Gemeente

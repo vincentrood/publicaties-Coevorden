@@ -1,8 +1,54 @@
 ---
-title: "2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1"
-maps: ["2024","Woo-verzoeken","2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1.pdf"
-date: 2026-05-12
+title: 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark
+  Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  In 2024 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de transitie naar permanente bewoning op Bungalowpark Ermerzand. Het
+  verzoek is toegewezen en documenten zijn deels openbaar gemaakt, met
+  uitzondering van persoonsgegevens en vertrouwelijke bedrijfsinformatie.
+milestones:
+  - date: '2020-03-27'
+    event: Quickscan definitief Ermerzand
+  - date: '2021-04-15'
+    event: Beschrijving juridische situatie Ermerzand
+  - date: '2021-09-25'
+    event: Themabijeenkomst Ermerzand
+  - date: '2022-01-05'
+    event: Brief vragen Gemeente Coevorden en Provincie Drenthe
+  - date: '2022-07-13'
+    event: Opzet brief uitgangspunten transformatie
+  - date: '2022-08-29'
+    event: Opzet brief uitgangspunten transformatie opm park
+  - date: '2023-01-01'
+    event: Einde erfpachtovereenkomst voor het terrein van Ermerzand.
+  - date: '2023-01-25'
+    event: Afsprakenbrief Ermerzand definitief
+  - date: '2023-10-28'
+    event: QA Ermerzand
+  - date: '2023-11-02'
+    event: Inloopbijeenkomst Ermerzand
+  - date: '2023-12-09'
+    event: Uitnodiging Ermerzand
+  - date: '2024-07-03'
+    event: Indiening Woo-verzoek
+  - date: '2024-07-10'
+    event: Verzoek om specificatie van het Woo-verzoek
+  - date: '2024-07-12'
+    event: Reactie op specificatieverzoek
+  - date: '2024-07-22'
+    event: Verlenging beslistermijn
+  - date: '2024-08-13'
+    event: Informatie over zienswijzen
+  - date: '2024-09-03'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-05-12T07:46:02.317Z'
 ---
 
 Postadres:

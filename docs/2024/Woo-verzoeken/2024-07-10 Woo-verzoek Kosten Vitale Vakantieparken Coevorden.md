@@ -1,8 +1,27 @@
 ---
-title: "2024-07-10 Woo-verzoek Kosten Vitale Vakantieparken Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-10 Woo-verzoek Kosten Vitale Vakantieparken Coevorden.pdf"
-date: 2026-05-12
+title: 2024-07-10 Woo-verzoek Kosten Vitale Vakantieparken Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-10 Woo-verzoek Kosten Vitale Vakantieparken
+  Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 27 mei 2024 betreft de openbaarmaking van documenten over
+  het beleid voor vitale vakantieparken in Coevorden. Het verzoek is
+  gedeeltelijk toegewezen, maar enkele documenten zijn niet beschikbaar gesteld
+  omdat ze niet zijn aangetroffen.
+milestones:
+  - date: '2024-05-27'
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: '2024-05-28'
+    event: Ontvangstbevestiging van het Woo-verzoek door de gemeente.
+  - date: '2024-06-26'
+    event: Versturen van een ontvangstbevestiging en verdagingsbrief.
+  - date: '2024-07-10'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-05-12T07:30:19.477Z'
 ---
 
 Postadres:

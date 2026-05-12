@@ -1,8 +1,82 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 2"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 2.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 2.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De communicatie rondom bungalowpark Wico in Coevorden betreft de beëindiging
+  van permanente bewoning en de ontwikkeling van een toekomstplan voor het park.
+  Er zijn verschillende gesprekken en correspondentie geweest tussen de
+  gemeente, bewoners en betrokken partijen over de handhaving en de toekomst van
+  het park.
+milestones:
+  - date: '2023-04-21'
+    event: >-
+      Inwoner van Schoonoord dient een vraag in bij de gemeente Coevorden over
+      permanente bewoning op bungalowpark Wico.
+  - date: '2023-04-26'
+    event: Beantwoording raadsvragen CDA over bungalowpark Wico op agenda PFO.
+  - date: '2023-04-28'
+    event: Afspraak bevestigd voor gesprek op 16 mei 2023.
+  - date: '2023-05-01'
+    event: Informatie over woongeschiedenis en gedoogbeschikking wordt gedeeld.
+  - date: '2023-05-02'
+    event: Gemeente Coevorden vraagt om inschrijvingen op een adres.
+  - date: '2023-05-03'
+    event: Afspraak voor gesprek over Bungalowpark Wico wordt afgezegd.
+  - date: '2023-05-08'
+    event: Bevestiging van een gesprek met betrokkenen over bungalowpark Wico.
+  - date: '2023-05-09'
+    event: >-
+      Gemeente Coevorden nodigt een bewoner uit voor een persoonlijk gesprek op
+      bungalowpark Wico.
+  - date: '2023-05-10'
+    event: Persoonlijk gesprek gepland met bewoners van bungalowpark Wico.
+  - date: '2023-05-10'
+    event: Conceptbrief aan huurders van Bungalowpark Wico wordt opgesteld.
+  - date: '2023-05-11'
+    event: Vervolgafspraak gepland voor verdere bespreking.
+  - date: '2023-05-24'
+    event: Gemeente Coevorden houdt informatiebijeenkomsten voor bungalow-eigenaren.
+  - date: '2023-05-24'
+    event: >-
+      Informatiebijeenkomsten voor huurders van Bungalowpark Wico worden
+      gehouden.
+  - date: '2023-06-01'
+    event: >-
+      Een bewoner geeft aan beschikbaar te zijn voor een gesprek na de
+      vakantieperiode.
+  - date: '2023-06-01'
+    event: Afspraak voor gesprek over woning wordt gepland.
+  - date: '2023-06-26'
+    event: Concept memo over uitstellen handhaving op park Wico wordt gedeeld.
+  - date: '2023-06-28'
+    event: >-
+      Besluit om handhaving op illegale bewoning uit te stellen tot 1 september
+      2023.
+  - date: '2023-07-07'
+    event: >-
+      Gemeente Coevorden heeft een constructief gesprek met de werkgroep van
+      bungalowpark Wico.
+  - date: '2023-07-20'
+    event: >-
+      Een bewoner bevestigt deelname aan het onderzoek naar recreatiekansen op
+      bungalowpark Wico.
+  - date: '2023-08-01'
+    event: >-
+      Start van het onderzoek naar de vitaliteit van bungalowpark Wico door
+      Bureau Ruimte en Vrije Tijd.
+  - date: '2023-09-01'
+    event: Eerste onderzoeksresultaten van de vitaliteitsscan worden verwacht.
+ai_processed_at: '2026-05-12T07:44:38.216Z'
 ---
 
 1

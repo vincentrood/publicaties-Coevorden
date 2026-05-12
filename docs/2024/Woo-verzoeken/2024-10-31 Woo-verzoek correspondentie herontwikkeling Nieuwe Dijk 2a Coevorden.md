@@ -1,8 +1,50 @@
 ---
-title: "2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-10-31 Woo-verzoek correspondentie herontwikkeling
+  Nieuwe Dijk 2a Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen voor de openbaarmaking
+  van documenten met betrekking tot de herontwikkeling van Nieuwe Dijk 2a. Het
+  college heeft besloten om de documenten openbaar te maken, met uitzondering
+  van persoonsgegevens, en heeft een positief standpunt ingenomen over de
+  nieuwbouw van bedrijfsunits op de locatie.
+milestones:
+  - date: '2023-06-21'
+    event: Indiening QuickScan aanvraag voor nieuwbouw bedrijfsunits Nieuwe Dijk 2a.
+  - date: '2023-06-21'
+    event: Aanvraag voor QuickScan ingediend voor nieuwbouw bedrijfsunits.
+  - date: '2023-06-21'
+    event: Bute Development vraagt om een Quickscan voor de omgevingsvergunning.
+  - date: '2023-07-04'
+    event: Ontvangstbevestiging van de conceptaanvraag.
+  - date: '2023-09-14'
+    event: Behandeling van het verzoek op de Omgevingstafel.
+  - date: '2023-09-14'
+    event: Extra omgevingstafel bijeenkomst over de aanvraag.
+  - date: '2023-11-30'
+    event: Advies van de Omgevingstafel met aandachtspunten.
+  - date: '2024-01-31'
+    event: >-
+      Advies college van burgemeester en wethouders over het principebesluit
+      voor nieuwbouw.
+  - date: '2024-03-28'
+    event: Pers toont interesse in het collegebesluit over de nieuwe bedrijfsunits.
+  - date: '2024-10-07'
+    event: Ontvangst van Woo-verzoek door de gemeente.
+  - date: '2024-10-16'
+    event: Belanghebbenden aangeschreven voor zienswijze.
+  - date: '2024-10-31'
+    event: >-
+      Besluit tot openbaarmaking van documenten met uitzondering van
+      persoonsgegevens.
+ai_processed_at: '2026-05-12T07:26:56.473Z'
 ---
 
 Bostadhes:

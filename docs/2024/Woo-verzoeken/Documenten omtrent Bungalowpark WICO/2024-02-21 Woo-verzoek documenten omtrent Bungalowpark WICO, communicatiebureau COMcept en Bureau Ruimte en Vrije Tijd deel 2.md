@@ -1,8 +1,70 @@
 ---
-title: "2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2"
-maps: ["2024","Woo-verzoeken","Documenten omtrent Bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO,
+  communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Documenten omtrent Bungalowpark WICO
+source: >-
+  2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek
+  documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau
+  Ruimte en Vrije Tijd deel 2.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Het programma Vitale Vakantieparken Coevorden richt zich op het revitaliseren
+  van vakantieparken, met een focus op het beëindigen van permanente bewoning en
+  het terugbrengen naar recreatief gebruik. De communicatie met eigenaren en
+  huurders is essentieel voor het opstellen van toekomstplannen en het
+  waarborgen van transparantie in het proces.
+milestones:
+  - date: '2022-06-19'
+    event: Besluitvorming actieprogramma in Gedeputeerde Staten
+  - date: '2022-06-21'
+    event: Overleg gemeentesecretarissen over actieprogramma
+  - date: '2022-06-29'
+    event: Website voor vitale vakantieparken in ontwikkeling
+  - date: '2022-07-01'
+    event: Handreiking permanente bewoning uitgedeeld aan ondernemers
+  - date: '2022-09-01'
+    event: Informatiebijeenkomst voor ondernemers over actieprogramma
+  - date: '2022-09-01'
+    event: Informatiebijeenkomst voor VvE's over actieprogramma
+  - date: '2023-01-01'
+    event: Start uitvoeringsteams
+  - date: '2023-03-20'
+    event: Gesprek met eigenaren park Wico over toekomstplan
+  - date: '2023-03-22'
+    event: Tip geplaatst voor programmateam VVPC.
+  - date: '2023-05-02'
+    event: Bespreking over online tool voor aanmeldingen voor bijeenkomsten.
+  - date: '2023-05-04'
+    event: >-
+      Start van het verzamelen van vragen van bewoners en eigenaren van park
+      Wico.
+  - date: '2023-05-08'
+    event: Voorstel voor indeling bewonersbijeenkomsten voor park Wico.
+  - date: '2023-05-12'
+    event: Conceptbrief aan huurders park Wico voorbereid
+  - date: '2023-05-15'
+    event: Conceptbrief aan huurders van park Wico opgesteld.
+  - date: '2023-05-23'
+    event: Aanmeldingen voor bewonersbijeenkomsten op 24 en 31 mei.
+  - date: '2023-06-08'
+    event: Aanvulling van Q&A en nieuwsbrief voor eigenaren en huurders.
+  - date: '2023-06-14'
+    event: Aanpassingen gemaakt in Q&A en nieuwsbrief voor WICO.
+  - date: '2023-08-09'
+    event: Kennismaking met VVE in Drijber en bespreking van communicatie
+  - date: '2023-10-16'
+    event: Aangepaste tekst voor Hofnet intranetpagina over Vitale Vakantieparken.
+  - date: '2023-10-17'
+    event: Gemeenteraad besluit over beantwoording van mail van werkgroep WICO.
+  - date: '2023-10-20'
+    event: Verzending van de aangepaste tekst voor Hofnet.
+  - date: '2024-01-01'
+    event: Start van onderzoek naar de vitaliteit van bungalowpark WICO.
+ai_processed_at: '2026-05-12T07:41:49.623Z'
 ---
 
 1

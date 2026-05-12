@@ -1,8 +1,64 @@
 ---
-title: "2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk 2a Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk 2a Coevorden.pdf"
-date: 2026-05-12
+title: >-
+  2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk
+  2a Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-08 Woo-verzoek correspondentie met Powerfield
+  Wormer over Nieuwe Dijk 2a Coevorden.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  Powerfield Netherlands B.V. heeft een aanvraag ingediend voor een
+  omgevingsvergunning voor de aanleg van een elektriciteit opslagsysteem aan de
+  Nieuwe Dijk 2A te Coevorden. De aanvraag omvat een ontheffing voor
+  soortenbescherming en een vooronderzoek naar ontplofbare oorlogsresten in het
+  projectgebied.
+milestones:
+  - date: '2020-09-14'
+    event: Initial release candidate for next-generation Megapack specification.
+  - date: '2020-09-30'
+    event: First version of specification for limited external release.
+  - date: '2020-10-02'
+    event: Fixed a broken cross-reference link.
+  - date: '2020-11-25'
+    event: Rating update.
+  - date: '2021-02-02'
+    event: Rating update.
+  - date: '2021-02-23'
+    event: Updated product mass projection and RTE.
+  - date: '2021-03-05'
+    event: Updated product long-term RTE.
+  - date: '2021-03-30'
+    event: Slightly increased unit width and updated ratings.
+  - date: '2021-04-06'
+    event: Product name officially changed to Megapack 2.
+  - date: '2021-04-16'
+    event: Ratings and mass update.
+  - date: '2021-05-04'
+    event: Ratings update and new language in inverter section.
+  - date: '2022-02-21'
+    event: PowerField memo regarding the Electricity Storage System.
+  - date: '2022-10-20'
+    event: Aanvraag ontheffing Wnb ingediend door Powerfields Netherlands B.V.
+  - date: '2022-11-24'
+    event: Aanvraag omgevingsvergunning ingediend door Powerfield Netherlands B.V.
+  - date: '2022-11-30'
+    event: >-
+      Ontvangstbevestiging aanvraag omgevingsvergunning verzonden door gemeente
+      Coevorden.
+  - date: '2023-01-01'
+    event: Ontheffing verleend met voorwaarden voor ecologische zorgplicht.
+  - date: '2023-02-24'
+    event: Besluit en bijlagen van zaak Z2022-016907 gedownload door @mug.nl.
+  - date: '2023-03-29'
+    event: Ontheffing soortenbescherming verleend aan Powerfield Netherlands B.V.
+  - date: '2023-03-29'
+    event: >-
+      Besluit van Gedeputeerde Staten van Drenthe inzake ontheffing op basis van
+      de Wet natuurbescherming.
+ai_processed_at: '2026-05-12T07:35:50.775Z'
 ---
 
 $'(/$$5 9$67*2('217:,..(/,1* %9

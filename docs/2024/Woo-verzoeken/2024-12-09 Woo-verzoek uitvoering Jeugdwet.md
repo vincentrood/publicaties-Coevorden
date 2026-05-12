@@ -1,8 +1,59 @@
 ---
-title: "2024-12-09 Woo-verzoek uitvoering Jeugdwet"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-09 Woo-verzoek uitvoering Jeugdwet.pdf"
-date: 2026-05-12
+title: 2024-12-09 Woo-verzoek uitvoering Jeugdwet
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-12-09 Woo-verzoek uitvoering Jeugdwet.pdf
+date: 2026-05-12T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen op 14 november 2024,
+  waarin om openbaarmaking van documenten met betrekking tot de Jeugdwet wordt
+  gevraagd. Het verzoek is gedeeltelijk toegewezen, waarbij enkele documenten
+  openbaar zijn gemaakt met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2020-01-01'
+    event: Start van de visie op jeugd in Coevorden
+  - date: '2020-01-01'
+    event: Identificatie van de noodzaak voor verandering in de jeugdhulpketen
+  - date: '2020-01-01'
+    event: Ontwikkeling van vier actielijnen voor de komende jaren
+  - date: '2020-01-01'
+    event: Focus op versterking van opvoed- en opgroeiklimaat
+  - date: '2020-01-01'
+    event: Versterking van preventie en vroegsignalering
+  - date: '2020-01-01'
+    event: Verbetering van toegang tot jeugdhulp
+  - date: '2020-01-01'
+    event: Verbetering van ketensamenwerking rondom het kind en gezin
+  - date: '2020-12-01'
+    event: >-
+      Start van het programma 'Kansrijk Opgroeien' om intergenerationele armoede
+      te doorbreken.
+  - date: '2020-12-01'
+    event: Vaststelling van het beleidsplan 'Samen voor een gezonder Coevorden'.
+  - date: '2020-12-01'
+    event: Publicatie van het Rekenkamerrapport 'De jeugdzorg in Coevorden'.
+  - date: '2021-01-01'
+    event: >-
+      Begin van de regionale samenwerking in de jeugdhulp met 11 andere
+      gemeenten in Drenthe.
+  - date: '2021-01-01'
+    event: >-
+      Oprichting van het Dashboard Sociaal Domein voor betere
+      informatievoorziening.
+  - date: '2021-01-01'
+    event: >-
+      Implementatie van de Drentse Verwijsindex voor betere samenwerking tussen
+      hulpverleners.
+  - date: '2022-01-01'
+    event: Opstellen van de hervormingsagenda Jeugd 2022-2028.
+  - date: '2024-10-22'
+    event: Voorstel voor de verordening jeugdhulp gemeente Coevorden 2025.
+  - date: '2024-11-14'
+    event: Ontvangst Woo-verzoek
+  - date: '2024-12-09'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-05-12T07:24:49.997Z'
 ---
 
 Gemeente
