@@ -210,25 +210,4 @@ Startpagina van de website. Laadt Pagefind dynamisch op basis van jaarselectie e
 | `MODEL` | `enrich.js` (hardcoded) | OpenAI-model (`gpt-4o-mini`) |
 | `MAX_CONCURRENT` | `enrich.js` (hardcoded) | Aantal gelijktijdige AI-verzoeken (standaard: 1) |
 
----
 
-## 7. Bekende beperkingen en aandachtspunten <a name="beperkingen"></a>
-
-### Beveiliging
-- De CustomGPT API-sleutel staat plaintext in `index.html`. Omdat dit een publieke pagina is, is dit een risico als de sleutel toegangscontrole biedt. Overweeg de sleutel te proxyen via een serverloze functie (bijv. Cloudflare Worker).
-
-### Onderhoudbaarheid
-- De jaarmap `2024` is hardcoded in `enrich.js` en zou een omgevingsvariabele moeten zijn (zoals in `deploy.yml`).
-- Er ontbreekt een `package.json` in de repository, waardoor `npm install` altijd de nieuwste packageversies installeert. Dit kan stilletjes compatibiliteitsproblemen veroorzaken.
-- De workflow heet `generate-graph.yml` maar doet AI-verrijking — de naam is misleidend.
-
-### Foutafhandeling
-- `pdftotext` heeft geen expliciete foutafhandeling: corrupte of versleutelde PDF's resulteren in een leeg Markdown-bestand zonder waarschuwing.
-- Als de Pagefind-bestanden niet laadbaar zijn (S3 tijdelijk niet bereikbaar), ziet de gebruiker een lege `div` zonder foutmelding.
-
-### Schaalbaarheid
-- De `--delete`-optie bij S3-sync is destructief: een verkeerde configuratie kan publieke bestanden wissen. Overweeg een dry-run stap vóór de daadwerkelijke sync.
-- Bij grote aantallen documenten kan de AI-verrijking lang duren door `MAX_CONCURRENT = 1` en de ingebouwde pauzes ter bescherming van de rate limit.
-
-### Toegankelijkheid
-- De jaar-selectiepills in `index.html` zijn `<div>`-elementen met `onclick`. Gebruik `<button>`-elementen voor correcte toetsenbordnavigatie en schermlezersondersteuning.
