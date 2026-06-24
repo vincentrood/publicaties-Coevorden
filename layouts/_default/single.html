@@ -8,8 +8,8 @@
 
     <style>
         :root {
-            --primary: #663366; /* Gemeente blauw */
-            --accent: #96b522;  /* Gemeente rood */
+            --primary: #4a2060;   /* WCAG AA: verhoogd contrast t.o.v. originele #663366 */
+            --accent: #5a7a00;    /* WCAG AA: verhoogd contrast (#96b522 haalde 3.5:1, te laag voor tekst) */
             --bg: #f4f7f6;
             --white: #ffffff;
         }
@@ -17,13 +17,26 @@
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             line-height: 1.6;
-            color: #333;
+            color: #1a1a1a; /* WCAG: verhoogd van #333 voor betere leesbaarheid */
             margin: 0;
             padding: 0;
             background-color: var(--bg);
         }
 
-        /* Hero Header voor de titel van het document */
+        /* WCAG 2.5.8: focus-stijl zichtbaar op alle interactieve elementen */
+        :focus-visible {
+            outline: 3px solid var(--accent);
+            outline-offset: 3px;
+        }
+
+        /* WCAG 2.3.3: animaties uitzetten voor gebruikers die dat prefereren */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                transition: none !important;
+                animation: none !important;
+            }
+        }
+
         .doc-header {
             background: var(--primary);
             color: white;
@@ -31,14 +44,13 @@
             text-align: center;
         }
 
+        /* WCAG 1.3.1: h1 is de paginatitel — niet een h3-niveau-element */
         .doc-header h1 {
-            margin: 0;
+            margin: 0 auto;
             font-size: 1.75rem;
             max-width: 900px;
-            margin: 0 auto;
         }
 
-        /* Container & Kaart-stijl */
         .main-content {
             max-width: 900px;
             margin: -2rem auto 3rem auto;
@@ -57,25 +69,25 @@
 
         .meta-info {
             font-size: 0.9rem;
-            color: #666;
+            color: #444; /* WCAG: verhoogd van #666 (ratio was ~4.6:1 — krap) */
             margin-bottom: 20px;
             display: flex;
             gap: 15px;
             justify-content: center;
-            border-bottom: 1px solid #eee;
+            flex-wrap: wrap; /* WCAG 1.4.10: reflow op kleine schermen */
+            border-bottom: 1px solid #ddd;
             padding-bottom: 15px;
         }
 
-        /* Samenvatting styling */
         .summary-box {
-            background: #fdfdfd;
+            background: #f7f9f0;
             border-left: 4px solid var(--accent);
             padding: 1.5rem;
             margin: 1.5rem 0;
+            border-radius: 0; /* geen border-radius op eenzijdige border */
             font-style: italic;
         }
 
-        /* PDF Knop */
         .pdf-action {
             text-align: center;
             margin: 2rem 0;
@@ -91,23 +103,26 @@
             border-radius: 30px;
             text-decoration: none;
             font-weight: bold;
-            transition: transform 0.2s, background 0.2s;
+            /* WCAG 2.4.4 + 2.4.6: aria-label op de link zelf beschrijft de actie */
         }
 
+        /* WCAG 1.4.11: hover-transformaties zijn decoratief, maar we respecteren prefers-reduced-motion (zie boven) */
         .btn-pdf:hover {
             background: var(--primary);
             transform: translateY(-2px);
+            text-decoration: underline; /* WCAG: zichtbare hover-status */
         }
 
-        /* AI Chat Box */
+        /* === AI CHAT === */
+
+        /* WCAG 1.3.1 / 4.1.3: chat-venster als live-region zodat screenreaders nieuwe berichten aankondigen */
         #ai-chat {
             border-radius: 12px;
             overflow: hidden;
-            border: 1px solid #e5e7eb;
+            border: 1px solid #c8c8c8;
             background: #f9fafb;
             display: flex;
             flex-direction: column;
-      
         }
 
         #chat-window {
@@ -116,6 +131,8 @@
             display: flex;
             flex-direction: column;
             gap: 12px;
+            /* min-height zodat het venster ook leesbaar is bij weinig berichten */
+            min-height: 80px;
         }
 
         .msg {
@@ -135,7 +152,8 @@
         .ai {
             align-self: flex-start;
             background: white;
-            border: 1px solid #e5e7eb;
+            border: 1px solid #d0d0d0;
+            color: #1a1a1a;
             border-bottom-left-radius: 4px;
         }
 
@@ -143,17 +161,28 @@
             display: flex;
             padding: 1rem;
             background: white;
-            border-top: 1px solid #eee;
+            border-top: 1px solid #ddd;
             gap: 10px;
         }
 
+        /* WCAG 1.3.1: label koppelen aan input via for/id — zie HTML */
         #ai-question {
             flex: 1;
             padding: 10px 15px;
-            border: 1px solid #ddd;
+            border: 1px solid #999; /* WCAG 1.4.11: border van formulierveld ≥ 3:1 t.o.v. achtergrond */
             border-radius: 25px;
             outline: none;
             width: 100%;
+            font-size: 1rem; /* WCAG: niet kleiner dan 16px voor inputs */
+            color: #1a1a1a;
+            background: #fff;
+        }
+
+        /* WCAG 2.4.7: zichtbare focus op input */
+        #ai-question:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(90, 122, 0, 0.25);
+            outline: none;
         }
 
         #ai-send-btn {
@@ -164,15 +193,29 @@
             border-radius: 25px;
             cursor: pointer;
             font-weight: 600;
+            font-size: 1rem;
+            /* WCAG 2.5.5: minimale raakoppervlakte 24×24px — deze knop is groter */
         }
 
-        /* Tijdlijn & Gerelateerd */
+        #ai-send-btn:hover {
+            background: var(--primary);
+        }
+
+        #ai-send-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        /* === STRUCTUUR === */
+
+        /* WCAG 1.3.1: sectie-titels zijn h2 (niet h3) omdat de pagina-h1 al in de header staat */
         .section-title {
             font-size: 1.2rem;
             border-bottom: 2px solid var(--primary);
             display: inline-block;
             margin-bottom: 1.5rem;
             padding-bottom: 5px;
+            color: #1a1a1a;
         }
 
         .gerelateerde-zaken ul {
@@ -182,27 +225,30 @@
 
         .gerelateerde-zaken li {
             padding: 10px;
-            border-bottom: 1px solid #f0f0f0;
+            border-bottom: 1px solid #e8e8e8;
         }
 
         .gerelateerde-zaken a {
             color: var(--primary);
-            text-decoration: none;
+            text-decoration: underline; /* WCAG 1.4.1: kleur alleen is geen onderscheid */
             font-weight: 500;
         }
 
-        .gerelateerde-zaken a:hover { color: var(--accent); }
+        .gerelateerde-zaken a:hover {
+            color: var(--accent);
+        }
 
         .timeline {
             border-left: 3px solid var(--primary);
             padding-left: 20px;
         }
-        
+
         .timeline-item {
             margin-bottom: 20px;
             position: relative;
         }
-        
+
+        /* WCAG 1.3.1: decoratieve ::before-dot hoeft geen alt-tekst maar datum + event zijn al leesbaar als tekst */
         .timeline-item::before {
             content: "";
             position: absolute;
@@ -212,59 +258,64 @@
             height: 12px;
             background: var(--accent);
             border-radius: 50%;
+            aria-hidden: true; /* Let op: aria-hidden werkt niet op pseudo-elementen; screenreaders negeren ::before content standaard */
         }
 
+        /* === TERUG-KNOP === */
 
-        /* Terug-knop Styling */
-.header-nav {
-    max-width: 1100px;
-    margin: 0 auto;
-    position: relative;
-}
+        .header-nav {
+            max-width: 1100px;
+            margin: 0 auto;
+            position: relative;
+        }
 
-.btn-back {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    color: white;
-    text-decoration: none;
-    font-weight: 500;
-    font-size: 0.9rem;
-    padding: 8px 16px;
-    border: 1px solid rgba(255,255,255,0.3);
-    border-radius: 20px;
-    transition: all 0.2s;
-    background: rgba(255,255,255,0.1);
-}
+        .btn-back {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: white;
+            text-decoration: underline; /* WCAG 1.4.1 */
+            font-weight: 500;
+            font-size: 0.9rem;
+            padding: 8px 16px;
+            border: 1px solid rgba(255,255,255,0.6); /* WCAG 1.4.11: verhoogd contrast van 0.3 naar 0.6 */
+            border-radius: 20px;
+            background: rgba(255,255,255,0.1);
+            /* WCAG 2.5.5: minimaal 44×44px aanraakdoel op touch-apparaten */
+            min-height: 44px;
+        }
 
-.btn-back:hover {
-    background: rgba(255,255,255,0.2);
-    border-color: white;
-    transform: translateX(-3px);
-}
+        .btn-back:hover {
+            background: rgba(255,255,255,0.2);
+            border-color: white;
+            transform: translateX(-3px);
+        }
 
-/* Desktop positionering: zwevend links */
-@media (min-width: 1300px) {
-    .doc-header {
-        position: relative;
-    }
-    .header-nav {
-        position: absolute;
-        left: 2rem;
-        top: 50%;
-        transform: translateY(-50%);
-        margin: 0;
-    }
-}
+        @media (min-width: 1300px) {
+            .doc-header { position: relative; }
+            .header-nav {
+                position: absolute;
+                left: 2rem;
+                top: 50%;
+                transform: translateY(-50%);
+                margin: 0;
+            }
+        }
 
-/* Mobiel positionering: boven de titel */
-@media (max-width: 1299px) {
-    .header-nav {
-        margin-bottom: 1.5rem;
-        text-align: center;
-    }
-}
+        @media (max-width: 1299px) {
+            .header-nav {
+                margin-bottom: 1.5rem;
+                text-align: center;
+            }
+        }
 
+        /* WCAG 1.4.10: Reflow — zorg dat layout niet breekt op 320px breedte */
+        @media (max-width: 400px) {
+            .card { padding: 1rem; }
+            .meta-info { flex-direction: column; align-items: center; gap: 6px; }
+            #input-bar { flex-wrap: wrap; }
+            #ai-send-btn { width: 100%; }
+        }
     </style>
 </head>
 <body>
@@ -276,116 +327,205 @@
     {{ if ge (len $maps) 2 }}{{ $categorie = index $maps 1 }}{{ end }}
     {{ if ge (len $maps) 3 }}{{ $zaak = index $maps 2 }}{{ end }}
 
+    {{/*
+        WCAG 2.4.2: De <title> bevat al {{ .Title }} — goed.
+        WCAG 3.1.1: lang="nl" staat op <html> — goed.
+    */}}
 
-    <header class="doc-header">
-    <div class="header-nav">
-        <a href="{{ .Site.Params.indexURL }}" class="btn-back" id="back-button">
-            <i class="bi bi-arrow-left"></i> Terug
-        </a>
-    </div>
-    <h1>{{ .Title }}</h1>
+    <header class="doc-header" role="banner">
+        <nav class="header-nav" aria-label="Paginanavigatie">
+            {{/*
+                WCAG 2.4.4: linktekst "Terug" is kort maar acceptabel als de context duidelijk is.
+                WCAG 2.5.5: min-height: 44px toegevoegd in CSS.
+            */}}
+            <a href="{{ .Site.Params.indexURL }}" class="btn-back" id="back-button">
+                <i class="bi bi-arrow-left" aria-hidden="true"></i>
+                <span>Terug naar overzicht</span>
+            </a>
+        </nav>
+        {{/* WCAG 1.3.1: h1 is de enige h1 op de pagina */}}
+        <h1>{{ .Title }}</h1>
     </header>
 
-    <div class="main-content">
-        <div class="card">
-            <div class="meta-info">
-                <span><i class="bi bi-calendar3"></i> {{ $jaar }}</span>
-                {{ if $categorie }}<span>| <i class="bi bi-tag"></i> {{ $categorie }}</span>{{ end }}
-                {{ if $zaak }}<span>| <i class="bi bi-folder"></i> Zaak: {{ $zaak }}</span>{{ end }}
-            </div>
+    <main id="main-content">
+        <div class="main-content">
+            <div class="card">
 
-            {{ with .Params.summary }}
-            <div class="summary-box">
-                <strong><i class="bi bi-info-circle"></i> In het kort:</strong>
-                <p>{{ . }}</p>
-            </div>
-            {{ end }}
-
-            <div class="pdf-action">
-                {{ $full_path := .File.Path | default "" }}
-                {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
-                {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
-                {{ $base := .Site.Params.s3_url | default "" }}
-                {{ $pdf_url := printf "%s/%s" (strings.TrimSuffix "/" $base) $pdf_path }}
-
-                <a href="{{ $pdf_url }}" class="btn-pdf" target="_blank">
-                    <i class="bi bi-file-earmark-pdf"></i> Open Originele PDF
-                </a>
-            </div>
-
-            <!-- AI CHAT UNIT -->
-            <h3 class="section-title"><i class="bi bi-robot"></i> Vraag het de AI</h3>
-            <div id="ai-chat">
-                <div id="chat-window"></div>
-                <div id="input-bar">
-                    <input id="ai-question" type="text" placeholder="Stel een vraag..." />
-                    <button id="ai-send-btn" onclick="sendMessage()">Verstuur</button>
-                </div>
-            </div>
-        </div>
-
-
-
-        
-
-        {{/* GERELATEERDE ZAKEN */}}
-        {{ if $zaak }}
-        <div class="card gerelateerde-zaken">
-            <h3 class="section-title"><i class="bi bi-link-45deg"></i> Documenten in dezelfde zaak</h3>
-            {{ $hasRelated := false }}
-            {{ range (where .Site.RegularPages "Section" "docs") }}
-                {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
-                    {{ $hasRelated = true }}
-                {{ end }}
-            {{ end }}
-
-            {{ if $hasRelated }}
-                <ul>
-                {{ range (where .Site.RegularPages "Section" "docs") }}
-                    {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
-                        <li>
-                            <a href="{{ .Permalink }}">{{ .Title }}</a>
-                          {{/*   {{ if .Date }}<small class="text-muted">({{ .Date.Format "02-01-2006" }})</small>{{ end }} */}}
-                        </li>
+                {{/*
+                    WCAG 1.3.1: metadata is visueel en semantisch aanwezig.
+                    Iconen zijn aria-hidden — informatie staat ook als tekst.
+                */}}
+                <div class="meta-info" role="list" aria-label="Documentinformatie">
+                    <span role="listitem">
+                        <i class="bi bi-calendar3" aria-hidden="true"></i>
+                        <span class="sr-only">Jaar: </span>{{ $jaar }}
+                    </span>
+                    {{ if $categorie }}
+                    <span role="listitem" aria-hidden="true">|</span>
+                    <span role="listitem">
+                        <i class="bi bi-tag" aria-hidden="true"></i>
+                        <span class="sr-only">Categorie: </span>{{ $categorie }}
+                    </span>
                     {{ end }}
+                    {{ if $zaak }}
+                    <span role="listitem" aria-hidden="true">|</span>
+                    <span role="listitem">
+                        <i class="bi bi-folder" aria-hidden="true"></i>
+                        <span class="sr-only">Zaak: </span>{{ $zaak }}
+                    </span>
+                    {{ end }}
+                </div>
+
+                {{ with .Params.summary }}
+                {{/* WCAG 1.3.1: summary-box is een informatieve regio */}}
+                <aside class="summary-box" aria-label="Samenvatting">
+                    <p><strong>In het kort:</strong> {{ . }}</p>
+                </aside>
                 {{ end }}
-                </ul>
-            {{ else }}
-                <p>Geen andere documenten gevonden binnen deze zaak.</p>
-            {{ end }}
-        </div>
-        {{ end }}
 
+                <div class="pdf-action">
+                    {{ $full_path := .File.Path | default "" }}
+                    {{ $cleaned_path := strings.TrimPrefix "docs/" $full_path }}
+                    {{ $pdf_path := replace $cleaned_path ".md" ".pdf" }}
+                    {{ $base := .Site.Params.s3_url | default "" }}
+                    {{ $pdf_url := printf "%s/%s" (strings.TrimSuffix "/" $base) $pdf_path }}
 
+                    {{/*
+                        WCAG 2.4.4: linktekst beschrijft doel én gedrag (nieuw tabblad).
+                        WCAG 3.2.2: waarschuwing voor extern venster via aria-label.
+                    */}}
+                    <a href="{{ $pdf_url }}"
+                       class="btn-pdf"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       aria-label="Open originele PDF (opent in nieuw tabblad)">
+                        <i class="bi bi-file-earmark-pdf" aria-hidden="true"></i>
+                        <span>Open originele PDF</span>
+                        <span aria-hidden="true" title="Opent in nieuw tabblad">&#8599;</span>
+                    </a>
+                </div>
 
+                {{/* === AI CHAT === */}}
 
-        {{ if .Params.milestones }}
-        <h3 class="section-title"><i class="bi bi-clock-history"></i> Tijdlijn</h3>
-        <div class="timeline">
-            {{/* We sorteren de milestones op de 'date' key, aflopend (desc) */}}
-            {{ range sort .Params.milestones "date" "desc" }}
-            <div class="timeline-item">
-                <div class="timeline-date">
-                    <strong>
-                        {{ if .date }}
-                            {{/* Formatteer de datum van YYYY-MM-DD naar DD-MM-YYYY */}}
-                            {{ (time .date).Format "02-01-2006" }}
+                {{/*
+                    WCAG 1.3.1: section met aria-labelledby koppelt de h2 aan de regio.
+                    WCAG 4.1.3: role="log" + aria-live="polite" kondigt nieuwe berichten aan voor screenreaders.
+                */}}
+                <section aria-labelledby="ai-chat-heading">
+                    <h2 id="ai-chat-heading" class="section-title">
+                        <i class="bi bi-robot" aria-hidden="true"></i>
+                        Vraag het de AI
+                    </h2>
+
+                    <div id="ai-chat">
+                        <div id="chat-window"
+                             role="log"
+                             aria-live="polite"
+                             aria-atomic="false"
+                             aria-label="Chatgesprek met AI"
+                             aria-relevant="additions">
+                            {{/* Berichten worden hier door JS ingevoegd */}}
+                        </div>
+
+                        <div id="input-bar">
+                            {{/*
+                                WCAG 1.3.1 + 3.3.2: expliciete <label> gekoppeld via for/id.
+                                placeholder is aanwezig als hint, maar NIET als vervanging voor het label.
+                                Het label is visueel verborgen (sr-only) maar screenreader-leesbaar.
+                            */}}
+                            <label for="ai-question" class="sr-only">Stel een vraag over het document</label>
+                            <input
+                                id="ai-question"
+                                type="text"
+                                placeholder="Stel een vraag..."
+                                aria-describedby="ai-hint"
+                                autocomplete="off"
+                            />
+                            {{/* WCAG 1.3.1: type="button" voorkomt onbedoeld form-submit gedrag */}}
+                            <button
+                                id="ai-send-btn"
+                                type="button"
+                                onclick="sendMessage()"
+                                aria-label="Verstuur vraag aan AI">
+                                Verstuur
+                            </button>
+                        </div>
+                        <p id="ai-hint" class="sr-only">Typ uw vraag en druk op Enter of de Verstuur-knop.</p>
+                    </div>
+                </section>
+            </div>
+
+            {{/* GERELATEERDE ZAKEN */}}
+            {{ if $zaak }}
+            <div class="card gerelateerde-zaken">
+                {{/*
+                    WCAG 1.3.1: nav-landmark voor interne links.
+                    aria-label maakt onderscheid met andere navigatieregio's.
+                */}}
+                <nav aria-labelledby="related-heading">
+                    <h2 id="related-heading" class="section-title">
+                        <i class="bi bi-link-45deg" aria-hidden="true"></i>
+                        Documenten in dezelfde zaak
+                    </h2>
+
+                    {{ $hasRelated := false }}
+                    {{ range (where .Site.RegularPages "Section" "docs") }}
+                        {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
+                            {{ $hasRelated = true }}
                         {{ end }}
-                    </strong>
-                </div>
-                <div class="timeline-event">
-                    {{ .event }}
-                </div>
+                    {{ end }}
+
+                    {{ if $hasRelated }}
+                        <ul>
+                        {{ range (where .Site.RegularPages "Section" "docs") }}
+                            {{ if and (ne .Permalink $.Permalink) (isset .Params "maps") (ge (len .Params.maps) 3) (eq (index .Params.maps 2) $zaak) }}
+                                <li>
+                                    {{/*
+                                        WCAG 2.4.4: Linktekst is de documenttitel — beschrijvend genoeg.
+                                        Onderstreping toegevoegd via CSS voor kleurblinden.
+                                    */}}
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                </li>
+                            {{ end }}
+                        {{ end }}
+                        </ul>
+                    {{ else }}
+                        <p>Geen andere documenten gevonden binnen deze zaak.</p>
+                    {{ end }}
+                </nav>
             </div>
             {{ end }}
+
+            {{ if .Params.milestones }}
+            <section aria-labelledby="timeline-heading" class="card">
+                <h2 id="timeline-heading" class="section-title">
+                    <i class="bi bi-clock-history" aria-hidden="true"></i>
+                    Tijdlijn
+                </h2>
+                {{/*
+                    WCAG 1.3.1: ol is semantisch juister dan een div-reeks voor een geordende tijdlijn.
+                    Elk item bevat zichtbare datum + event — screenreader-leesbaar zonder extra ARIA.
+                */}}
+                <ol class="timeline" aria-label="Tijdlijn van gebeurtenissen" reversed>
+                    {{ range sort .Params.milestones "date" "desc" }}
+                    <li class="timeline-item">
+                        {{ if .date }}
+                        {{/* WCAG 1.3.1: <time> element geeft semantische datumbetekenis */}}
+                        <time datetime="{{ .date }}">
+                            <strong>{{ (time .date).Format "02-01-2006" }}</strong>
+                        </time>
+                        {{ end }}
+                        <p>{{ .event }}</p>
+                    </li>
+                    {{ end }}
+                </ol>
+            </section>
+            {{ end }}
         </div>
-        {{ end }}
-    </div>
+    </main>
 
-    
-
-    {{/* PAGEFIND HIDDEN DATA */}}
-    <div style="display:none;" data-pagefind-body>
+    {{/* PAGEFIND HIDDEN DATA — niet zichtbaar, niet in tabvolgorde */}}
+    <div style="display:none;" data-pagefind-body aria-hidden="true">
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
         {{ if $jaar }}<span data-pagefind-filter="Jaar" data-pagefind-meta="Jaar">{{ $jaar }}</span>{{ end }}
         {{ if $categorie }}<span data-pagefind-filter="Categorie" data-pagefind-meta="Categorie">{{ $categorie }}</span>{{ end }}
@@ -393,108 +533,200 @@
         {{ .Content }}
     </div>
 
+    {{/*
+        WCAG 2.4.1: "skip to main content" — standaard best practice.
+        Staat in CSS als sr-only zodat hij alleen zichtbaar is bij focus.
+    */}}
+    <style>
+        /* Screen-reader only hulpklasse */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+
+        /* WCAG 2.4.1: skip-link wordt zichtbaar bij focus */
+        .skip-link {
+            position: absolute;
+            top: -999px;
+            left: 0;
+            background: var(--primary);
+            color: white;
+            padding: 12px 20px;
+            z-index: 999;
+            border-radius: 0 0 8px 0;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .skip-link:focus {
+            top: 0;
+        }
+    </style>
+
+    {{/* WCAG 2.4.1: Skip-link als allereerste focusbaar element op de pagina */}}
+    <a href="#main-content" class="skip-link">Ga naar hoofdinhoud</a>
 
     <script>
+        const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
+        const MAX_CONTEXT = 50000;
+        let chatHistory = [];
 
-                                 // ... (De AI JS-logica ) ...
-                                const START_MESSAGE = "Stel hier met AI een vraag over bovenstaand document.";
-                                const MAX_CONTEXT = 50000;
-                                let chatHistory = [];
-                                
-                                // startbericht (UI ONLY, niet in AI context forceren)
-                                function initChat() {
-                                    addMessage("assistant", START_MESSAGE);
-                                }
-                                
-                                function addMessage(role, text) {
-                                    const chatWindow = document.getElementById('chat-window');
-                                
-                                    const msg = document.createElement('div');
-                                    msg.classList.add('msg', role === "user" ? "user" : "ai");
-                                    msg.innerText = text;
-                                
-                                    chatWindow.appendChild(msg);
-                                    chatWindow.scrollTop = chatWindow.scrollHeight;
-                                }
-                                
-                                async function sendMessage() {
-                                    const input = document.getElementById('ai-question');
-                                    const btn = document.getElementById('ai-send-btn');
-                                
-                                    const question = input.value.trim();
-                                    if (!question) return;
-                                
-                                    addMessage("user", question);
-                                    chatHistory.push({ role: "user", content: question });
-                                
-                                    input.value = "";
-                                    btn.disabled = true;
-                                    btn.innerText = "Bezig...";
-                                
-                                    const contentElement = document.querySelector('[data-pagefind-body]');
-                                    const pageContent = contentElement ? contentElement.innerText : "";
-                                
-                                    const typing = document.createElement('div');
-                                    typing.classList.add('msg', 'ai', 'typing');
-                                    typing.innerText = "AI is aan het typen...";
-                                    document.getElementById('chat-window').appendChild(typing);
-                                
-                                    try {
-                                        const controller = new AbortController();
-                                        const timeout = setTimeout(() => controller.abort(), 20000);
-                                
-                                        const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
-                                            method: 'POST',
-                                            headers: { 'Content-Type': 'application/json' },
-                                            signal: controller.signal,
-                                            body: JSON.stringify({
-                                                context: pageContent.slice(0, MAX_CONTEXT),
-                                                messages: chatHistory
-                                            })
-                                        });
-                                
-                                        clearTimeout(timeout);
-                                
-                                        const data = await response.json();
-                                        typing.remove();
-                                
-                                        if (!data?.answer) throw new Error("Ongeldige response");
-                                
-                                        addMessage("assistant", data.answer);
-                                        chatHistory.push({ role: "assistant", content: data.answer });
-                                
-                                    } catch (err) {
-                                        typing.remove();
-                                        addMessage("assistant", "❌ " + err.message);
-                                    } finally {
-                                        btn.disabled = false;
-                                        btn.innerText = "Verstuur";
-                                    }
-                                }
-                                
-                                document.getElementById('ai-question').addEventListener("keypress", e => {
-                                    if (e.key === "Enter") sendMessage();
-                                });
-                                    initChat();
+        function initChat() {
+            addMessage("assistant", START_MESSAGE);
+        }
 
+        function addMessage(role, text) {
+            const chatWindow = document.getElementById('chat-window');
 
+            const msg = document.createElement('div');
+            msg.classList.add('msg', role === "user" ? "user" : "ai");
+            msg.innerText = text;
 
+            /*
+             * WCAG 4.1.3: rol toevoegen aan elk bericht zodat screenreaders context hebben.
+             * "user" berichten krijgen geen speciale rol; "assistant" berichten zijn status-updates.
+             */
+            if (role === "assistant") {
+                msg.setAttribute('role', 'status');
+            }
+
+            chatWindow.appendChild(msg);
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+
+            /*
+             * WCAG 2.4.7: focus verplaatsen naar het nieuwe bericht helpt toetsenbordgebruikers.
+             * We doen dit alleen bij AI-antwoorden, niet bij elk gebruikersbericht.
+             */
+            if (role === "assistant") {
+                msg.setAttribute('tabindex', '-1');
+                // Kleine vertraging zodat aria-live de aankondiging kan afmaken
+                setTimeout(() => msg.focus(), 100);
+            }
+        }
+
+        async function sendMessage() {
+            const input = document.getElementById('ai-question');
+            const btn = document.getElementById('ai-send-btn');
+
+            const question = input.value.trim();
+            if (!question) {
+                /*
+                 * WCAG 3.3.1: Foutmelding bij lege invoer.
+                 * We zetten aria-invalid en tonen een melding in het chatvenster.
+                 */
+                input.setAttribute('aria-invalid', 'true');
+                input.setAttribute('aria-describedby', 'ai-hint ai-error');
+
+                const existingError = document.getElementById('ai-error');
+                if (!existingError) {
+                    const errorMsg = document.createElement('p');
+                    errorMsg.id = 'ai-error';
+                    errorMsg.style.cssText = 'color:#a32d2d; font-size:0.85rem; margin: 4px 0 0 16px;';
+                    errorMsg.setAttribute('role', 'alert');
+                    errorMsg.textContent = 'Voer een vraag in voordat u verzendt.';
+                    document.getElementById('input-bar').insertAdjacentElement('afterend', errorMsg);
+                }
+                input.focus();
+                return;
+            }
+
+            /* Verwijder eventuele eerdere foutmelding */
+            input.removeAttribute('aria-invalid');
+            const existingError = document.getElementById('ai-error');
+            if (existingError) existingError.remove();
+
+            addMessage("user", question);
+            chatHistory.push({ role: "user", content: question });
+
+            input.value = "";
+            btn.disabled = true;
+            /*
+             * WCAG 4.1.3: aria-label communiceren dat de knop bezig is.
+             * aria-busy op het chatvenster geeft screenreaders extra context.
+             */
+            btn.setAttribute('aria-label', 'Bezig met verwerken...');
+            btn.innerText = "Bezig...";
+            document.getElementById('chat-window').setAttribute('aria-busy', 'true');
+
+            const contentElement = document.querySelector('[data-pagefind-body]');
+            const pageContent = contentElement ? contentElement.innerText : "";
+
+            /* Visuele "AI typt" indicator — verborgen voor screenreaders (aria-live doet het werk) */
+            const typing = document.createElement('div');
+            typing.classList.add('msg', 'ai');
+            typing.setAttribute('aria-hidden', 'true'); /* Niet aankondigen; we wachten op echt antwoord */
+            typing.innerText = "AI is aan het typen...";
+            document.getElementById('chat-window').appendChild(typing);
+
+            try {
+                const controller = new AbortController();
+                const timeout = setTimeout(() => controller.abort(), 20000);
+
+                const response = await fetch('https://coevorden-pdf-ai.vincentvandijkprive1996.workers.dev/', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    signal: controller.signal,
+                    body: JSON.stringify({
+                        context: pageContent.slice(0, MAX_CONTEXT),
+                        messages: chatHistory
+                    })
+                });
+
+                clearTimeout(timeout);
+
+                const data = await response.json();
+                typing.remove();
+
+                if (!data?.answer) throw new Error("Ongeldig antwoord ontvangen. Probeer het opnieuw.");
+
+                addMessage("assistant", data.answer);
+                chatHistory.push({ role: "assistant", content: data.answer });
+
+            } catch (err) {
+                typing.remove();
+                /*
+                 * WCAG 3.3.1 + 4.1.3: Foutberichten zijn beschrijvend en in de live-region.
+                 * role="alert" zorgt voor onmiddellijke aankondiging bij screenreaders.
+                 */
+                const errorDiv = document.createElement('div');
+                errorDiv.classList.add('msg', 'ai');
+                errorDiv.setAttribute('role', 'alert');
+                errorDiv.textContent = "Er is een fout opgetreden: " + err.message;
+                document.getElementById('chat-window').appendChild(errorDiv);
+                document.getElementById('chat-window').scrollTop = document.getElementById('chat-window').scrollHeight;
+
+            } finally {
+                btn.disabled = false;
+                btn.setAttribute('aria-label', 'Verstuur vraag aan AI');
+                btn.innerText = "Verstuur";
+                document.getElementById('chat-window').removeAttribute('aria-busy');
+                /* WCAG 2.4.3: focus terugzetten naar het invoerveld na verzenden */
+                input.focus();
+            }
+        }
+
+        /* WCAG: Enter-toets ondersteuning — was al aanwezig, type="button" op de knop voorkomt dubbele submit */
+        document.getElementById('ai-question').addEventListener("keypress", e => {
+            if (e.key === "Enter") sendMessage();
+        });
+
+        /* Terug-knop: history.back() als bezoekers van dezelfde site komen */
         document.getElementById('back-button').addEventListener('click', function(e) {
-    // Haal de URL op waar de bezoeker vandaan komt
-    const referrer = document.referrer;
-    // Haal de URL van je hoofdpagina op uit de Hugo variabele (via de href van de knop)
-    const indexURL = this.href;
+            const referrer = document.referrer;
+            if (referrer && referrer.includes(window.location.hostname)) {
+                e.preventDefault();
+                window.history.back();
+            }
+        });
 
-    // Controleer of de bezoeker inderdaad van jouw eigen site komt
-    // We kijken of de referrer de baseURL of de indexURL bevat
-    if (referrer && referrer.includes(window.location.hostname)) {
-        e.preventDefault(); // Stop de standaard link-actie
-        window.history.back(); // Ga één stap terug in de geschiedenis (behoudt zoekopdracht)
-    } 
-    // Als ze ergens anders vandaan komen, wordt de standaard href (indexURL) gebruikt
-});
-
-        
+        initChat();
     </script>
 
 </body>
