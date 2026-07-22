@@ -119,13 +119,7 @@ jobs:
                 printf -- "---\n\n"
               } > "$md_path"
 
-              page_count=$(pdfinfo "$tmpfile" 2>/dev/null | awk '/^Pages:/ {print $2}')
-                page_count=${page_count:-1}
-                
-                for ((p=1; p<=page_count; p++)); do
-                  printf "\n## Pagina %d\n\n" "$p" >> "$md_path"
-                  pdftotext -raw -f "$p" -l "$p" "$tmpfile" - | tr -d '\000' >> "$md_path"
-                done
+              pdftotext -raw "$tmpfile" - | tr -d '\000' >> "$md_path"
             fi
             rm -f "$tmpfile"
           }
