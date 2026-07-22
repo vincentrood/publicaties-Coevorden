@@ -1,54 +1,8 @@
 ---
-title: 2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2
-maps:
-  - '2025'
-  - Woo-verzoeken
-  - 2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1
-source: >-
-  2025/Woo-verzoeken/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en
-  De Kiel deel 1/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De
-  Kiel deel 2.pdf
-date: 2026-05-08T00:00:00.000Z
-summary: >-
-  De transformatie van Recreatiepark De Tip in De Kiel naar een woongebied is in
-  gang gezet, waarbij eigenaren de mogelijkheid krijgen om hun recreatiewoningen
-  permanent te bewonen. Dit proces omvat verschillende stappen, waaronder het
-  opstellen van een transformatieplan en het vaststellen van een bestemmingsplan
-  door de gemeente Coevorden.
-milestones:
-  - date: '2020-01-01'
-    event: Start programma Vitale Vakantieparken Coevorden.
-  - date: '2022-09-12'
-    event: >-
-      Overleg op gemeentehuis Coevorden tussen taxateur, overkoepelend
-      taxatieregisseur en opdrachtgevers.
-  - date: '2022-10-07'
-    event: Datum van opdracht en waardepeildatum.
-  - date: '2022-11-24'
-    event: Ondertekening opdracht door opdrachtgever 1.
-  - date: '2022-11-25'
-    event: Ondertekening opdracht door opdrachtgever 2 en 3.
-  - date: '2023-01-18'
-    event: >-
-      Deskundige rapportage over waardeverandering door wijziging bestemming van
-      recreatie naar wonen.
-  - date: '2023-02-16'
-    event: Ondertekening van de deskundige rapportage door de controlerend taxateur.
-  - date: '2023-03-11'
-    event: Verzending van agenda en stukken voor overleg over transformatieplan.
-  - date: '2024-07-12'
-    event: Presentatie concept streefbeeld aan eigenaren.
-  - date: '2024-07-12'
-    event: Concept streefbeeld gepresenteerd aan de achterban.
-  - date: '2024-07-18'
-    event: Omgeving uitgenodigd om kennis te nemen van de transformatieplannen.
-  - date: '2024-10-22'
-    event: Definitieve vaststelling streefbeeld door college.
-  - date: '2024-10-22'
-    event: Definitieve streefbeeld vastgesteld door het college.
-  - date: '2024-11-11'
-    event: Stukken voor TAM-omgevingsplan verstuurd naar overlegpartners.
-ai_processed_at: '2026-05-08T11:38:18.582Z'
+title: "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2"
+maps: ["2025","Woo-verzoeken","2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel"]
+source: "2025/Woo-verzoeken/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 2.pdf"
+date: 2026-07-22
 ---
 
 september Fip
