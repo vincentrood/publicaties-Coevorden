@@ -1,8 +1,22 @@
 ---
-title: "2023-08-03 Woo-verzoek documentatie WOZ"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-03 Woo-verzoek documentatie WOZ.pdf"
-date: 2026-07-22
+title: 2023-08-03 Woo-verzoek documentatie WOZ
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-08-03 Woo-verzoek documentatie WOZ.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Een Woo-verzoek is ingediend door Bartels Consultancy B.V. voor openbaarmaking
+  van documenten met betrekking tot de WOZ. Het verzoek is op 3 augustus 2023
+  afgewezen met verwijzing naar artikel 40 van de WOZ.
+milestones:
+  - date: '2023-07-27'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2023-08-02'
+    event: Verzending van de afwijzingsbrief door de gemeente.
+  - date: '2023-08-21'
+    event: Deadline voor het ontvangen van informatie volgens de wettelijke termijn.
+ai_processed_at: '2026-07-22T09:31:26.638Z'
 ---
 
 -r:.

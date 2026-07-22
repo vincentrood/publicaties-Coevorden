@@ -1,8 +1,40 @@
 ---
-title: "2023-07-10 Woo-verzoek communicatie tussen verzoeker en medewerker gemeente Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-07-10 Woo-verzoek communicatie tussen verzoeker en medewerker gemeente Coevorden.pdf"
-date: 2026-07-22
+title: >-
+  2023-07-10 Woo-verzoek communicatie tussen verzoeker en medewerker gemeente
+  Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-07-10 Woo-verzoek communicatie tussen verzoeker en
+  medewerker gemeente Coevorden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen op 18 juni 2023, waarin
+  om informatie en geluidsbestanden wordt gevraagd. Het verzoek is gedeeltelijk
+  toegewezen, waarbij de geluidsopname is afgewezen omdat deze niet is gemaakt,
+  maar relevante e-mails zijn openbaar gemaakt met uitzondering van
+  persoonsgegevens.
+milestones:
+  - date: '2023-05-22'
+    event: Aanvraag alcoholvergunning ingediend door aanvrager.
+  - date: '2023-06-09'
+    event: E-mail van gemeente over status alcoholvergunning aanvraag.
+  - date: '2023-06-12'
+    event: E-mailwisseling over alcoholvergunning en benodigde documenten.
+  - date: '2023-06-13'
+    event: Telefoongesprek tussen aanvrager en gemeente over alcoholvergunning.
+  - date: '2023-06-13'
+    event: Aanvraag geluidsbestand van telefonisch gesprek.
+  - date: '2023-06-15'
+    event: Brief van gemeente over belverbod aan aanvrager.
+  - date: '2023-06-15'
+    event: Brief verzonden met kenmerk 34196-2023.
+  - date: '2023-06-18'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2023-07-10'
+    event: Verzenddatum besluit Woo-verzoek.
+ai_processed_at: '2026-07-22T09:32:06.319Z'
 ---
 
 A

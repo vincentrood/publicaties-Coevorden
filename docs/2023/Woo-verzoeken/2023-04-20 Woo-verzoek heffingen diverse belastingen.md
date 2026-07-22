@@ -1,8 +1,24 @@
 ---
-title: "2023-04-20 Woo-verzoek heffingen diverse belastingen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-20 Woo-verzoek heffingen diverse belastingen.pdf"
-date: 2026-07-22
+title: 2023-04-20 Woo-verzoek heffingen diverse belastingen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-04-20 Woo-verzoek heffingen diverse belastingen.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft gereageerd op een WOO-verzoek met informatie over
+  belastingheffingen en bezwaarschriften van 2018 tot 2023. Er zijn geen
+  heffingen opgelegd in de jaren 2018 tot en met 2023 voor bepaalde belastingen.
+milestones:
+  - date: '2023-03-14'
+    event: >-
+      Verzoek om informatie op basis van de Wet Open Overheid ingediend door
+      Juridisch adviesbureau Local Tax.
+  - date: '2023-04-04'
+    event: Verdagingsbrief verstuurd per post naar de aanvrager.
+  - date: '2023-04-20'
+    event: Beantwoording van het WOO-verzoek verzonden door de gemeente Coevorden.
+ai_processed_at: '2026-07-22T09:33:19.277Z'
 ---
 
 1

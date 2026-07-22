@@ -1,8 +1,36 @@
 ---
-title: "2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden.pdf"
-date: 2026-07-22
+title: 2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-05-04 Woo-verzoek vergunningen waterglijbanen
+  Coevorden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2023 heeft de gemeente Coevorden een Woo-verzoek ontvangen van Richard
+  Rolink voor informatie over waterglijbanen. Het verzoek is toegewezen en de
+  bijbehorende documenten zijn op 4 mei 2023 verzonden.
+milestones:
+  - date: '2020-01-01'
+    event: Bouwvergunning verleend voor waterglijbaan op Holtweg 9 te Gees.
+  - date: '2020-01-01'
+    event: Advies van bouw- en woningtoezicht goedgekeurd.
+  - date: '2020-01-01'
+    event: Advies van de welstandskomissie goedgekeurd.
+  - date: '2020-10-28'
+    event: Besluit tot verlening van bouwvergunning voor zwembaduitbreiding in Dalen.
+  - date: '2021-11-11'
+    event: >-
+      Verlening van omgevingsvergunning voor uitbreiding van zwembad Landal
+      Aelderholt met glijbaantoren.
+  - date: '2023-03-24'
+    event: Ontvangst Woo-verzoek van Richard Rolink.
+  - date: '2023-04-20'
+    event: Verlenging beslistermijn van het Woo-verzoek met 2 weken.
+  - date: '2023-05-04'
+    event: Besluit genomen en documenten verzonden aan Richard Rolink.
+ai_processed_at: '2026-07-22T09:32:56.836Z'
 ---
 
 1

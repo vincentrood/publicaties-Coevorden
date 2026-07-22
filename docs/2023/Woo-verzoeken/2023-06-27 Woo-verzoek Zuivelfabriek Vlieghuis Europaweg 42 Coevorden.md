@@ -1,8 +1,56 @@
 ---
-title: "2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42 Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42 Coevorden.pdf"
-date: 2026-07-22
+title: 2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42 Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42
+  Coevorden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2023 heeft een Woo-verzoek plaatsgevonden met betrekking tot de
+  Zuivelfabriek A-ware in Coevorden, waarbij informatie over
+  opleveringscontroles is opgevraagd. Na een aantal uitstelperiodes is besloten
+  om de gevraagde informatie gedeeltelijk openbaar te maken, met uitzondering
+  van persoonsgegevens en persoonlijke beleidsopvattingen.
+milestones:
+  - date: '2020-01-01'
+    event: Geen aanpassing van de zuivering zonder NB vergunning
+  - date: '2020-01-01'
+    event: Melding moet gedaan worden over afvalwaterafvoer
+  - date: '2020-01-01'
+    event: Handhaving op naleving van de regels aangekondigd
+  - date: '2020-01-01'
+    event: Afvalwaterproductie moet mogelijk verminderd worden
+  - date: '2021-01-01'
+    event: >-
+      Melding over verlenging van de voorfabriek en realisatie van een
+      utility-plein.
+  - date: '2023-03-29'
+    event: Opleveringscontrole uitgevoerd door RUD Drenthe.
+  - date: '2023-04-12'
+    event: Verslag van de bespreking over afvalwaterbeheer toegevoegd aan de zaak.
+  - date: '2023-04-20'
+    event: Digitale ondertekening van het controle rapport.
+  - date: '2023-04-27'
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: '2023-05-05'
+    event: >-
+      Telefoongesprek tussen aanvrager en RUD Drenthe over specifieke
+      documenten.
+  - date: '2023-05-16'
+    event: Bevestiging van ontvangst van het Woo-verzoek en uitstel van beoordeling.
+  - date: '2023-06-01'
+    event: Beoordeling van het verzoek verder uitgesteld.
+  - date: '2023-06-21'
+    event: Zienswijze ingediend door de advocaat van de derde-belanghebbende.
+  - date: '2023-06-27'
+    event: Besluit tot gedeeltelijke openbaarmaking van de gevraagde informatie.
+  - date: '2023-07-13'
+    event: Verzending van de documenten naar de aanvrager.
+  - date: '2023-10-27'
+    event: Vervolgcommunicatie over het Woo-verzoek.
+ai_processed_at: '2026-07-22T09:32:29.853Z'
 ---
 
 Postadres:

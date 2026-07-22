@@ -1,8 +1,45 @@
 ---
-title: "2023-11-09 Woo-verzoek weigeren omgevingsvergunning padelbanen Coevorder Tennisclub te Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-11-09 Woo-verzoek weigeren omgevingsvergunning padelbanen Coevorder Tennisclub te Coevorden.pdf"
-date: 2026-07-22
+title: >-
+  2023-11-09 Woo-verzoek weigeren omgevingsvergunning padelbanen Coevorder
+  Tennisclub te Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-11-09 Woo-verzoek weigeren omgevingsvergunning
+  padelbanen Coevorder Tennisclub te Coevorden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen voor inzage in
+  documenten met betrekking tot de weigering van een omgevingsvergunning voor
+  padelbanen. Het verzoek is gedeeltelijk toegewezen, maar informatie over
+  alternatieve locaties is niet beschikbaar gesteld.
+milestones:
+  - date: '2021-10-20'
+    event: Eerste rapportage over geluidemissie van padelbanen.
+  - date: '2022-02-28'
+    event: >-
+      Aanvraag omgevingsvergunning voor padelbanen ingediend door Coevorder
+      Tennisclub.
+  - date: '2022-12-20'
+    event: Aanvullende reactie op opmerkingen RUD Drenthe over akoestisch onderzoek.
+  - date: '2023-09-26'
+    event: Weigering omgevingsvergunning voor padelbanen door gemeente Coevorden.
+  - date: '2023-09-26'
+    event: Ontvangst van het bezwaarschrift met zaaknummer 50330-2023.
+  - date: '2023-09-26'
+    event: Geluidmetingen uitgevoerd voor padelbanen in Coevorden.
+  - date: '2023-09-29'
+    event: Verzenddatum van het besluit tot weigering omgevingsvergunning.
+  - date: '2023-09-29'
+    event: Verzending van het besluit waartegen het bezwaar is gericht.
+  - date: '2023-09-29'
+    event: Rapportage van geluidemissie en impact op omgeving gepresenteerd.
+  - date: '2023-10-09'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2023-11-09'
+    event: Beslissing op het Woo-verzoek verzonden.
+ai_processed_at: '2026-07-22T09:29:04.159Z'
 ---
 
 Gemeente

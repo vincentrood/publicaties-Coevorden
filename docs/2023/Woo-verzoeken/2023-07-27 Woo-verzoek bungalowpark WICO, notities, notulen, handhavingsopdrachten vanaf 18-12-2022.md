@@ -1,8 +1,66 @@
 ---
-title: "2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen, handhavingsopdrachten vanaf 18-12-2022"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen, handhavingsopdrachten vanaf 18-12-2022.pdf"
-date: 2026-07-22
+title: >-
+  2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen,
+  handhavingsopdrachten vanaf 18-12-2022
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-07-27 Woo-verzoek bungalowpark WICO, notities,
+  notulen, handhavingsopdrachten vanaf 18-12-2022.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 17 april 2023 betreft informatie over bungalowpark Wico in
+  Coevorden. De gemeente heeft het verzoek behandeld en op 27 juli 2023 een
+  besluit genomen over de openbaarmaking van documenten.
+milestones:
+  - date: '2023-01-01'
+    event: Toezichthouder vraagt naar verblijf in recreatieobject.
+  - date: '2023-01-01'
+    event: Persoon geeft doel van verblijf aan.
+  - date: '2023-01-01'
+    event: Toezichthouder vraagt naar huur- of eigendomstatus.
+  - date: '2023-01-01'
+    event: Informatie over aantal personen in het object verzameld.
+  - date: '2023-01-01'
+    event: Toezichthouder vraagt naar motorvoertuigen en kentekens.
+  - date: '2023-01-01'
+    event: Kosten en betaalwijze voor het recreatieobject besproken.
+  - date: '2023-01-01'
+    event: Inschrijving in de basisregistratie personen (BRP) gecontroleerd.
+  - date: '2023-01-01'
+    event: Werkstatus en woon-werkverkeer van de persoon vastgesteld.
+  - date: '2023-01-01'
+    event: Informatie over arbeidsvoorwaarden en loon verzameld.
+  - date: '2023-01-09'
+    event: Eerste voorstel aanpak park Wico gepresenteerd.
+  - date: '2023-01-16'
+    event: Communicatieplan besproken.
+  - date: '2023-01-20'
+    event: Afspraak gemaakt voor gesprek op 20 februari.
+  - date: '2023-02-20'
+    event: Gesprek met eigenaren over toekomst park Wico.
+  - date: '2023-03-08'
+    event: Aankondiging toekomst bungalowpark Wico verstuurd.
+  - date: '2023-03-13'
+    event: Eerste gesprek met eigenaar horecapand over ontwikkelplan.
+  - date: '2023-04-17'
+    event: Ontvangst Woo-verzoek
+  - date: '2023-05-09'
+    event: Verlenging behandeltermijn met twee weken
+  - date: '2023-05-25'
+    event: Brief over opschorting behandeltermijn vanwege zienswijzeronde
+  - date: '2023-06-15'
+    event: Uiterste datum voor belanghebbenden om zienswijze in te dienen
+  - date: '2023-07-05'
+    event: Informatie over vertraging van het Woo-verzoek
+  - date: '2023-07-10'
+    event: Ontvangst van één reactie op zienswijzeverzoeken
+  - date: '2023-07-27'
+    event: Besluit over het Woo-verzoek verzonden
+  - date: '2023-08-11'
+    event: Deadline voor belanghebbenden om bezwaar te maken tegen openbaarmaking
+ai_processed_at: '2026-07-22T09:31:47.252Z'
 ---
 
 Postadres:

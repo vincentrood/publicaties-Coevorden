@@ -1,8 +1,30 @@
 ---
-title: "2023-09-05 Woo-verzoek verkiezingsuitslag dorpsbudget Schoonoord 2022"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-09-05 Woo-verzoek verkiezingsuitslag dorpsbudget Schoonoord 2022.pdf"
-date: 2026-07-22
+title: 2023-09-05 Woo-verzoek verkiezingsuitslag dorpsbudget Schoonoord 2022
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-09-05 Woo-verzoek verkiezingsuitslag dorpsbudget
+  Schoonoord 2022.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Er zijn verschillende communicatie-uitwisselingen geweest tussen de
+  gebiedscoördinator van de Gemeente Coevorden en een inwoner over het
+  dorpsbudget van Schoonoord en de verkiezingsuitslag van 2022. De gemeente
+  stelt dat zij geen informatie kan verstrekken over de stemming, aangezien
+  dorpsbelangen vrij zijn in hun procedure.
+milestones:
+  - date: '2023-08-23'
+    event: Inwoner dient WOO-verzoek in over verkiezing dorpsbudget Schoonoord 2022.
+  - date: '2023-09-05'
+    event: >-
+      Gemeente Coevorden reageert op WOO-verzoek en geeft aan geen informatie te
+      hebben ontvangen van dorpsbelangen.
+  - date: '2023-11-21'
+    event: >-
+      Gebiedscoördinator meldt dat er een goed gesprek heeft plaatsgevonden met
+      de heer na de eerdere communicatie.
+ai_processed_at: '2026-07-22T09:30:47.771Z'
 ---
 
 1

@@ -1,8 +1,69 @@
 ---
-title: "2023-11-27 Woo-verzoek documenten over tussentijdse scan beleid programma Vitale Vakantieparken"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-11-27 Woo-verzoek documenten over tussentijdse scan beleid programma Vitale Vakantieparken.pdf"
-date: 2026-07-22
+title: >-
+  2023-11-27 Woo-verzoek documenten over tussentijdse scan beleid programma
+  Vitale Vakantieparken
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-11-27 Woo-verzoek documenten over tussentijdse scan
+  beleid programma Vitale Vakantieparken.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2023 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de uitvoering van het programma Vitale Vakantieparken. Dit leidde tot een
+  eerste en tweede deelbesluit over de openbaarmaking van documenten, waarbij
+  geheimhouding op bepaalde informatie werd opgeheven.
+milestones:
+  - date: '2020-01-01'
+    event: Start van het programma Vitale Vakantieparken Coevorden.
+  - date: '2020-10-01'
+    event: Definitieve versie van het programmacontract VVPC goedgekeurd.
+  - date: '2023-05-09'
+    event: >-
+      Toezegging aan de gemeenteraad over tussentijdse scan Vitale
+      Vakantieparken.
+  - date: '2023-05-09'
+    event: >-
+      Toezegging gedaan om een tussentijdse scan van het beleid voor vitale
+      vakantieparken uit te voeren.
+  - date: '2023-06-20'
+    event: Statusupdate over de uitkomsten van de QuickScan voor bungalowpark WICO.
+  - date: '2023-07-11'
+    event: Screenshot gemaakt van de toezegging over de tussentijdse scan.
+  - date: '2023-07-25'
+    event: Bespreking van de opdrachtformulering voor de tussentijdse scan.
+  - date: '2023-07-27'
+    event: >-
+      Verzoek om kostenopgave voor de uitvoering van de opdracht voor herijking
+      van de einddoelen.
+  - date: '2023-08-01'
+    event: >-
+      Herinnering voor het verstrekken van informatie over de betrokken
+      vakantieparken.
+  - date: '2023-08-02'
+    event: Overleg over de uitvoering van de scan en de betrokken parken.
+  - date: '2023-08-23'
+    event: Indiening Woo-verzoek voor openbaarmaking van documenten.
+  - date: '2023-08-23'
+    event: >-
+      WOO-verzoek ingediend voor informatie over het onderzoek naar bungalowpark
+      WICO.
+  - date: '2023-10-20'
+    event: Gemeenteraad bekrachtigt geheimhouding op documenten.
+  - date: '2023-10-24'
+    event: E-mail naar verzoeker over splitsing van het verzoek in twee besluiten.
+  - date: '2023-11-07'
+    event: >-
+      College besluit om gemeenteraad voor te stellen geheimhouding op te
+      heffen.
+  - date: '2023-11-21'
+    event: Eerste deelbesluit Woo-verzoek verzonden.
+  - date: '2023-12-12'
+    event: Gemeenteraad besluit om geheimhouding op te heffen.
+  - date: '2023-12-21'
+    event: Tweede deelbesluit Woo-verzoek verzonden.
+ai_processed_at: '2026-07-22T09:28:40.016Z'
 ---
 
 Postadres:

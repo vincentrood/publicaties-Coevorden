@@ -1,8 +1,20 @@
 ---
-title: "2023-04-20 Woo-verzoek inzet cameratoezicht"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-20 Woo-verzoek inzet cameratoezicht.pdf"
-date: 2026-07-22
+title: 2023-04-20 Woo-verzoek inzet cameratoezicht
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-04-20 Woo-verzoek inzet cameratoezicht.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Een Woo-verzoek is ingediend door Simpel Zodiak voor informatie over
+  cameratoezicht in Coevorden. Het verzoek is op 9 maart 2023 ontvangen en op 20
+  april 2023 afgewezen omdat er momenteel geen cameratoezicht is in de gemeente.
+milestones:
+  - date: '2023-03-09'
+    event: Simpel Zodiak dient Woo-verzoek in voor informatie over cameratoezicht.
+  - date: '2023-04-20'
+    event: Gemeente Coevorden wijst het Woo-verzoek af.
+ai_processed_at: '2026-07-22T09:33:12.687Z'
 ---
 
 Postadres:

@@ -1,8 +1,25 @@
 ---
-title: "2023-04-18 Woo-verzoek rapportages bedrijfsbezoek"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-18 Woo-verzoek rapportages bedrijfsbezoek.pdf"
-date: 2026-07-22
+title: 2023-04-18 Woo-verzoek rapportages bedrijfsbezoek
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-04-18 Woo-verzoek rapportages bedrijfsbezoek.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Op 22 maart 2023 heeft een burger een Woo-verzoek ingediend bij de gemeente
+  Coevorden voor documenten met betrekking tot een controle op 20 maart 2023. Op
+  18 april 2023 heeft de gemeente besloten om de gevraagde informatie openbaar
+  te maken, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2023-03-20'
+    event: Controle door gemeente Coevorden op aanwezigheid van arbeidsmigranten.
+  - date: '2023-03-22'
+    event: Burger dient Woo-verzoek in voor documenten over controle.
+  - date: '2023-04-18'
+    event: >-
+      Gemeente besluit om gevraagde informatie openbaar te maken, met
+      uitzondering van persoonsgegevens.
+ai_processed_at: '2026-07-22T09:33:32.738Z'
 ---
 
 Gemeente

@@ -1,8 +1,46 @@
 ---
-title: "2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te Sleen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te Sleen.pdf"
-date: 2026-07-22
+title: >-
+  2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te
+  Sleen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-10-25 Woo-verzoek documenten over klachten en
+  handhaving Brink 9 en 9a te Sleen.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2023 zijn er verschillende Woo-verzoeken en handhavingsverzoeken ingediend
+  met betrekking tot de groepsaccommodatie aan de Brink 9 te Sleen, die leiden
+  tot juridische procedures en communicatie tussen de gemeente Coevorden en de
+  betrokken partijen. De gemeente heeft op deze verzoeken gereageerd, maar er
+  zijn ook klachten over de afhandeling en de ervaren overlast door omwonenden.
+milestones:
+  - date: '2020-11-09'
+    event: Vaststelling bestemmingsplan Kernen.
+  - date: '2022-09-05'
+    event: >-
+      Gesprek tussen eigenaren Brink 9 en gemeente over vergunningen en klachten
+      van buren.
+  - date: '2023-07-06'
+    event: Indiening handhavingsverzoek tegen overtredingen op perceel Brink 9.
+  - date: '2023-07-12'
+    event: Ontvangstbevestiging handhavingsverzoek door gemeente.
+  - date: '2023-07-31'
+    event: Controle door toezichthouder op perceel Brink 9.
+  - date: '2023-08-01'
+    event: Toezichthouder bevestigt dat er geen hotel wordt uitgebaat.
+  - date: '2023-08-09'
+    event: Afwijzing handhavingsverzoek door gemeente.
+  - date: '2023-08-21'
+    event: Indiening Woo-verzoek door ondernemer.
+  - date: '2023-09-10'
+    event: Deadline voor het opheffen van overtredingen van zonnepanelen.
+  - date: '2023-10-08'
+    event: Ontvangst van zienswijze van een belanghebbende tegen openbaarmaking.
+  - date: '2023-10-25'
+    event: Besluit van de gemeente Coevorden op het Woo-verzoek.
+ai_processed_at: '2026-07-22T09:29:56.234Z'
 ---
 
 1
