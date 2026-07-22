@@ -11,6 +11,7 @@ const MODEL = "gpt-4o-mini";
 const MAX_CONCURRENT = 1;
 const MAX_TOKENS_PER_REQUEST = 6000; // Veiligheidsmarge voor milestones
 const MAX_SUMMARY_TOKENS = 30000;    // Harde bovengrens voor de samenvatting
+const DOC_YEAR = process.env.DOC_YEAR || "2024";
 
 /* ------------------ UTIL ------------------ */
 
@@ -228,7 +229,7 @@ async function processFile(file) {
 /* ------------------ MAIN ------------------ */
 
 async function main() {
-  const files = globSync("docs/2024/**/*.md");
+  const files = globSync(`docs/${DOC_YEAR}/**/*.md`);
   const limit = pLimit(MAX_CONCURRENT);
 
   await Promise.all(files.map((f) => limit(() => processFile(f))));
