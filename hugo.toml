@@ -5,7 +5,7 @@ theme = [] # We gebruiken geen zwaar thema, we maken het zelf simpel.
 uglyURLs = true
 
 [params]
-  s3_url = "https://publicaties-coevorden.s3.eu-north-1.amazonaws.com/"
+  s3_url = "https://d3jow2udcm31b0.cloudfront.net/"
   indexURL = 'https://d3jow2udcm31b0.cloudfront.net/index.html'
 
 [outputs]
