@@ -1,8 +1,65 @@
 ---
-title: "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1"
-maps: ["2025","Woo-verzoeken","2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel"]
-source: "2025/Woo-verzoeken/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1.pdf"
-date: 2026-07-22
+title: 2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 1
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - 2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel
+source: >-
+  2025/Woo-verzoeken/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en
+  De Kiel/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel
+  deel 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 10 februari 2025 betreft de transformatie van Bungalowpark
+  De Tip in De Kiel naar permanente bewoning. De gemeente Coevorden heeft het
+  verzoek gedeeltelijk toegewezen en documenten openbaar gemaakt, met
+  uitzondering van vertrouwelijke informatie en persoonsgegevens.
+milestones:
+  - date: '2020-01-01'
+    event: Start van de transformatie van Bungalowpark De Tip in De Kiel.
+  - date: '2024-02-10'
+    event: >-
+      Definitief streefbeeld transformatiepark De Tip gepresenteerd aan
+      eigenaren.
+  - date: '2024-05-29'
+    event: Communicatie over groene randen rondom De Tip en De Eeke.
+  - date: '2024-07-12'
+    event: >-
+      Informatieavond voor eigenaren over de voorgenomen transitie
+      bestemmingsplan.
+  - date: '2024-09-10'
+    event: Provincie geeft aandachtspunten voor het streefbeeld De Tip.
+  - date: '2024-10-15'
+    event: Informatiebijeenkomst over streefbeeld transformatiepark De Tip.
+  - date: '2024-10-22'
+    event: >-
+      College van B&W stelt het streefbeeld voor transformatie van recreatiepark
+      De Tip vast.
+  - date: '2024-11-01'
+    event: Kansen voor verbetering van biodiversiteit gepresenteerd.
+  - date: '2024-12-01'
+    event: Presentatie van het transformatieplan en ontwerp-TAM aan eigenaren.
+  - date: '2025-01-01'
+    event: Verwerking van opmerkingen en ondertekening van overeenkomsten.
+  - date: '2025-02-10'
+    event: Indiening Woo-verzoek voor documenten over de transformatie.
+  - date: '2025-02-13'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2025-03-05'
+    event: Verlenging van de beslistermijn met twee weken.
+  - date: '2025-03-26'
+    event: >-
+      Opschorting van de termijn vanwege documenten die betrekking hebben op
+      derden.
+  - date: '2025-04-02'
+    event: Tweede opschorting van de termijn vanwege meer documenten over derden.
+  - date: '2025-04-16'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+  - date: '2025-06-01'
+    event: Voorstel voor vaststelling van de ontwerp-TAM aan de gemeenteraad.
+  - date: '2025-06-30'
+    event: 'Vaststelling van het bestemmingsplan in de raad, voor het zomerreces.'
+ai_processed_at: '2026-07-22T09:20:27.170Z'
 ---
 
 Postadres: Gemeente

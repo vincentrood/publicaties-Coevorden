@@ -1,8 +1,60 @@
 ---
-title: "2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3"
-maps: ["2025","Woo-verzoeken","2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel"]
-source: "2025/Woo-verzoeken/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3.pdf"
-date: 2026-07-22
+title: 2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel deel 3
+maps:
+  - '2025'
+  - Woo-verzoeken
+  - 2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel
+source: >-
+  2025/Woo-verzoeken/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en
+  De Kiel/2025-04-16 Woo-verzoek transformatie Bungalowpark De Tip en De Kiel
+  deel 3.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een taxatieopdracht gegeven voor het vakantiepark
+  De Tip, waarbij de bestemming van recreatie naar permanente bewoning wordt
+  gewijzigd. Dit proces omvat diverse rapportages en inspecties van de
+  infrastructuur en riolering, met als doel de waardeverandering van de percelen
+  vast te leggen.
+milestones:
+  - date: '2022-08-25'
+    event: >-
+      Rekening voor uitgevoerde werkzaamheden voor inventarisatie van De Tip
+      verzonden.
+  - date: '2022-09-12'
+    event: >-
+      Overleg op gemeentehuis Coevorden tussen taxateur, taxatieregisseur en
+      opdrachtgevers.
+  - date: '2022-10-07'
+    event: Datum van opdracht en waardepeildatum.
+  - date: '2022-10-07'
+    event: Waardepeildatum voor de waardeverandering vastgesteld.
+  - date: '2022-11-24'
+    event: Overeenkomst voor taxatie van Recreatiepark De Tip getekend.
+  - date: '2022-11-24'
+    event: Ondertekening opdracht door opdrachtgever 1.
+  - date: '2022-11-25'
+    event: Ondertekening opdracht door opdrachtgever 2.
+  - date: '2023-01-18'
+    event: Deskundige rapportage over waardeverandering opgeleverd.
+  - date: '2023-02-16'
+    event: Addendum op de deskundige rapportage opgeleverd.
+  - date: '2023-02-16'
+    event: Addendum gemaakt op het rapport.
+  - date: '2023-02-16'
+    event: >-
+      Addendum op deskundige rapportage over perceels- en persoonsgebonden
+      beschikkingen.
+  - date: '2023-04-13'
+    event: Communicatie over voortgang taxatie en ziekte van kandidaat makelaar.
+  - date: '2023-04-30'
+    event: Eindrapport van de taxatie aangevraagd door gemeente.
+  - date: '2023-05-01'
+    event: Aangepaste rapportage van de taxatie opgeleverd.
+  - date: '2023-05-01'
+    event: Wijzigingen in rapportage doorgevoerd.
+  - date: '2023-05-01'
+    event: Deskundigenrapport over waardeverandering ondertekend.
+ai_processed_at: '2026-07-22T09:19:47.671Z'
 ---
 
 Gemeente Coevorden
