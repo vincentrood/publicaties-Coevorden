@@ -11,7 +11,7 @@ const MODEL = "gpt-5.4-mini";
 const MAX_CONCURRENT = 1;
 const MAX_TOKENS_PER_REQUEST = 6000; // Veiligheidsmarge voor milestones
 const MAX_SUMMARY_TOKENS = 30000;    // Harde bovengrens voor de samenvatting
-const DOC_YEAR = process.env.DOC_YEAR || "2024";
+const DOC_YEAR = process.env.DOC_YEAR || "2023";
 
 /* ------------------ UTIL ------------------ */
 
