@@ -1,8 +1,57 @@
 ---
-title: "2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen, handhavingsopdrachten vanaf 18-12-2022"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen, handhavingsopdrachten vanaf 18-12-2022.pdf"
-date: 2026-07-23
+title: >-
+  2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen,
+  handhavingsopdrachten vanaf 18-12-2022
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-07-27 Woo-verzoek bungalowpark WICO, notities,
+  notulen, handhavingsopdrachten vanaf 18-12-2022.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-04-17 een Woo-verzoek over bungalowpark
+  Wico/Vitale Vakantieparken en verlengde de behandeltermijn op 2023-05-09. Op
+  2023-07-27 volgde het besluit: deels openbaarmaking, deels anonimisering en
+  uitgestelde openbaarmaking voor een deel van de documenten.
+milestones:
+  - date: '2023-03-08'
+    event: Brief aan bewoners/eigenaren over park Wico verzonden
+  - date: '2023-03-20'
+    event: Verzoek om informatie over factsheet/rapport Wico
+  - date: '2023-03-20'
+    event: >-
+      Gemeente vraagt RO/juridisch advies over permanente bewoning dienstwoning
+      Slenerweg 83
+  - date: '2023-03-22'
+    event: Gesprek over park Wico gevoerd
+  - date: '2023-03-24'
+    event: Verzoek om gesprek over brief Wico ingediend
+  - date: '2023-03-27'
+    event: Gesprekken op het park gepland/uitgevoerd
+  - date: '2023-04-03'
+    event: >-
+      Verzoek om kopie gespreksformulier en onderbouwing terugkeer naar
+      recreatie
+  - date: '2023-04-05'
+    event: >-
+      Gemeente verstrekt toelichting: beleid blijft recreatie, huidige
+      bestemming wijzigt niet
+  - date: '2023-04-13'
+    event: Verzoek om formulering over handhaving te herzien
+  - date: '2023-04-15'
+    event: Woo-verzoek ingediend
+  - date: '2023-04-20'
+    event: >-
+      Samenvatting gesprek: permanente bewoning wordt beëindigd en toekomstplan
+      volgt
+  - date: '2023-05-09'
+    event: Behandeltermijn verlengd
+  - date: '2023-05-25'
+    event: Behandeltermijn opgeschort wegens zienswijzeronde
+  - date: '2023-07-27'
+    event: Besluit op Woo-verzoek genomen
+ai_processed_at: '2026-07-23T11:23:40.843Z'
 ---
 
 Postadres:

@@ -1,8 +1,24 @@
 ---
-title: "2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden.pdf"
-date: 2026-07-23
+title: 2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-05-04 Woo-verzoek vergunningen waterglijbanen
+  Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De Woo-aanvraag is op 2023-03-24 ingediend en de beslistermijn is op
+  2023-04-20 met 2 weken verlengd. Op 2023-05-04 is het verzoek toegewezen en
+  zijn de gevraagde documenten per e-mail verstrekt.
+milestones:
+  - date: '2023-03-24'
+    event: Woo-verzoek ingediend
+  - date: '2023-04-20'
+    event: Beslistermijn verlengd met 2 weken
+  - date: '2023-05-04'
+    event: Besluit op Woo-verzoek genomen en verzonden
+ai_processed_at: '2026-07-23T11:24:09.251Z'
 ---
 
 1

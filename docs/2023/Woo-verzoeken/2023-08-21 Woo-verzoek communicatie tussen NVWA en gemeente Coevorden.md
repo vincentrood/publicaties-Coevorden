@@ -1,8 +1,27 @@
 ---
-title: "2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente Coevorden.pdf"
-date: 2026-07-23
+title: 2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente
+  Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2023-07-24 is een Woo-verzoek ingediend bij de gemeente Coevorden over
+  correspondentie met de NVWA. Op 2023-08-17 is dit verzoek toegewezen en zijn
+  de gevraagde documenten deels openbaar gemaakt, met uitzondering van
+  persoonsgegevens.
+milestones:
+  - date: '2023-07-24'
+    event: Woo-verzoek ingediend
+  - date: '2023-08-17'
+    event: >-
+      Besluit: verzoek toegewezen en documenten openbaar gemaakt met
+      uitzonderingen
+  - date: '2023-08-21'
+    event: Besluit verzonden
+ai_processed_at: '2026-07-23T11:23:06.426Z'
 ---
 
 Gemeente

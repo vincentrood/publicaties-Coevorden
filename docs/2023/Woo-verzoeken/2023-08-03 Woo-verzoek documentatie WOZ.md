@@ -1,8 +1,21 @@
 ---
-title: "2023-08-03 Woo-verzoek documentatie WOZ"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-03 Woo-verzoek documentatie WOZ.pdf"
-date: 2026-07-23
+title: 2023-08-03 Woo-verzoek documentatie WOZ
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-08-03 Woo-verzoek documentatie WOZ.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2023-07-27 diende Bartels Consultancy B.V. een Woo-verzoek in bij de
+  gemeente Coevorden over WOZ-gerelateerde documenten en informatie. Op
+  2023-08-03 wees de gemeente het verzoek af en gaf aan dat voor een deel
+  artikel 40 WOZ voorgaat op de Woo; bezwaar was mogelijk binnen zes weken.
+milestones:
+  - date: '2023-07-27'
+    event: Woo-verzoek ingediend
+  - date: '2023-08-03'
+    event: 'Besluit: verzoek afgewezen'
+ai_processed_at: '2026-07-23T11:23:10.293Z'
 ---
 
 -r:.

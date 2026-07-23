@@ -1,8 +1,55 @@
 ---
-title: "2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te Sleen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te Sleen.pdf"
-date: 2026-07-23
+title: >-
+  2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te
+  Sleen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-10-25 Woo-verzoek documenten over klachten en
+  handhaving Brink 9 en 9a te Sleen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2022 dienden omwonenden een handhavingsverzoek in over overlast en strijdig
+  gebruik van Brink 9 te Sleen; de gemeente wees dit op 2022-12-05 af en stelde
+  dat het gebruik als groepsaccommodatie was toegestaan, terwijl voor de
+  glijbaan geen handhaving nodig was wegens zicht op legalisatie. In 2023
+  volgden nieuwe handhavingsverzoeken over hotelgebruik en zonnepanelen; op
+  2023-08-09 wees de gemeente het hotelverzoek af en op 2023-08-21 kondigde zij
+  voor de zonnepanelen een last onder dwangsom aan, waarna op 2023-10-25 een
+  Woo-besluit volgde over gedeeltelijke openbaarmaking van documenten.
+milestones:
+  - date: '2022-06-16'
+    event: handhavingsverzoek over overlast Brink 9 ingediend
+  - date: '2022-06-23'
+    event: ontvangstbevestiging handhavingsverzoek
+  - date: '2022-11-04'
+    event: ingebrekestelling wegens niet tijdig beslissen
+  - date: '2022-11-16'
+    event: beroep niet tijdig beslissen ingesteld
+  - date: '2022-11-17'
+    event: beroep niet tijdig beslissen ingesteld
+  - date: '2022-12-05'
+    event: 'besluit op handhavingsverzoek: afgewezen'
+  - date: '2023-05-11'
+    event: aanschrijving glijbaan zonder omgevingsvergunning
+  - date: '2023-07-06'
+    event: handhavingsverzoek over hotelgebruik Brink 9 ingediend
+  - date: '2023-07-13'
+    event: >-
+      ontvangstbevestiging handhavingsverzoek en doorzending onderdeel
+      hygiënecode
+  - date: '2023-07-18'
+    event: handhavingsverzoek over zonnepanelen ingediend
+  - date: '2023-08-09'
+    event: 'besluit op handhavingsverzoek hotelgebruik: afgewezen'
+  - date: '2023-08-21'
+    event: voornemen last onder dwangsom zonnepanelen
+  - date: '2023-08-21'
+    event: Woo-verzoek ingediend
+  - date: '2023-10-25'
+    event: besluit op Woo-verzoek
+ai_processed_at: '2026-07-23T11:21:46.621Z'
 ---
 
 1

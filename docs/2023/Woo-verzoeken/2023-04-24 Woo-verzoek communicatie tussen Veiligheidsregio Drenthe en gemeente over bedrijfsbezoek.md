@@ -1,8 +1,25 @@
 ---
-title: "2023-04-24 Woo-verzoek communicatie tussen Veiligheidsregio Drenthe en gemeente over bedrijfsbezoek"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-24 Woo-verzoek communicatie tussen Veiligheidsregio Drenthe en gemeente over bedrijfsbezoek.pdf"
-date: 2026-07-23
+title: >-
+  2023-04-24 Woo-verzoek communicatie tussen Veiligheidsregio Drenthe en
+  gemeente over bedrijfsbezoek
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-04-24 Woo-verzoek communicatie tussen Veiligheidsregio
+  Drenthe en gemeente over bedrijfsbezoek.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-03-24 een Woo-verzoek over communicatie
+  tussen de VRD en de gemeente over de groepsaccommodatie. Op 2023-04-24 is het
+  verzoek toegewezen en zijn twee documenten openbaar gemaakt, met weglakking
+  van persoonsgegevens.
+milestones:
+  - date: '2023-03-24'
+    event: Woo-verzoek ingediend en ontvangen
+  - date: '2023-04-24'
+    event: 'Besluit: Woo-verzoek toegewezen'
+ai_processed_at: '2026-07-23T11:24:18.914Z'
 ---
 
 * Gemeente
