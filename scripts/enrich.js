@@ -70,7 +70,7 @@ function extractRelevantBlocks(text) {
       if (p.length > 80) score += 1;
       return { text: p.trim(), score };
     })
-    .filter((p) => p.score > 0)
+    .filter((p) => p.score > 5)
     .sort((a, b) => b.score - a.score);
 
   return scored.map((p) => p.text);
