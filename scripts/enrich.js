@@ -147,7 +147,7 @@ async function analyzeContent(textBlocks) {
       messages: [
         {
           role: "system",
-          content: "Je bent een expert in Nederlandse Woo-dossiers. Taak: Extraheer een chronologische tijdlijn en samenvatting. Laat gebeurtenissen weg die niet relevant zijn aan de Wet Open Overheid. Gebruik ISO datums (YYYY-MM-DD). Negeer vóór 2020.",
+          content: "Je bent een expert in Nederlandse Woo-dossiers. Taak: Extraheer een chronologische tijdlijn en samenvatting. Neem alleen kerngebeurtenissen op: indiening aanvraag, besluit, bezwaar/beroep, uitspraak, verlenging, intrekking. Laat proceduregebeurtenissen zoals ontvangstbevestigingen, interne herinneringen en correspondentie zonder inhoudelijke wijziging weg. Gebruik ISO datums (YYYY-MM-DD). Negeer vóór 2020.",
         },
         {
           role: "user",
