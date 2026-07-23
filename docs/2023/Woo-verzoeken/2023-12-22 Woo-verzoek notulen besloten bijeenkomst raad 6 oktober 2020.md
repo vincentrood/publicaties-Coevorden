@@ -1,8 +1,29 @@
 ---
-title: "2023-12-22 Woo-verzoek notulen besloten bijeenkomst raad 6 oktober 2020"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-12-22 Woo-verzoek notulen besloten bijeenkomst raad 6 oktober 2020.pdf"
-date: 2026-07-22
+title: 2023-12-22 Woo-verzoek notulen besloten bijeenkomst raad 6 oktober 2020
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-12-22 Woo-verzoek notulen besloten bijeenkomst raad 6
+  oktober 2020.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Op 19 december 2023 ontving de gemeente Coevorden een Woo-verzoek voor de
+  notulen van een besloten vergadering van 6 oktober 2020. Het conceptverslag
+  van deze vergadering wordt openbaar gemaakt, aangezien er geen vastgesteld
+  verslag beschikbaar is.
+milestones:
+  - date: '2020-10-06'
+    event: Besloten vergadering over Vitale Vakantie Parken Coevorden.
+  - date: '2020-11-03'
+    event: >-
+      Vaststelling van het conceptverslag in de volgende vergadering is niet
+      gebeurd.
+  - date: '2023-12-19'
+    event: Ontvangst van Woo-verzoek door gemeente Coevorden.
+  - date: '2023-12-22'
+    event: Verzenddatum van het besluit over het Woo-verzoek.
+ai_processed_at: '2026-07-23T06:57:09.045Z'
 ---
 
 Postadres:

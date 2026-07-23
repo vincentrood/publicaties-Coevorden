@@ -1,8 +1,28 @@
 ---
-title: "2023-06-18 Woo-verzoek contacten ambtenaar"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-06-18 Woo-verzoek contacten ambtenaar.pdf"
-date: 2026-07-22
+title: 2023-06-18 Woo-verzoek contacten ambtenaar
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-06-18 Woo-verzoek contacten ambtenaar.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen op 18 juni 2023, waarin
+  om informatie en geluidsopnames wordt gevraagd. Het verzoek is gedeeltelijk
+  toegewezen en gedeeltelijk afgewezen, waarbij de gemeente de relevante e-mails
+  heeft verstrekt, maar geen geluidsopname kon leveren omdat deze niet is
+  gemaakt.
+milestones:
+  - date: '2023-06-09'
+    event: E-mails verzonden tussen teams over alcoholvergunning.
+  - date: '2023-06-13'
+    event: E-mails verzonden met betrekking tot het belverbod en alcoholvergunning.
+  - date: '2023-06-15'
+    event: Brief verzonden met betrekking tot het handhavingsverzoek.
+  - date: '2023-06-18'
+    event: Ontvangst Woo-verzoek van Richard Rolink.
+  - date: '2023-07-10'
+    event: Besluit Woo-verzoek gedeeltelijk toegekend en gedeeltelijk afgewezen.
+ai_processed_at: '2026-07-23T07:01:14.128Z'
 ---
 
 A

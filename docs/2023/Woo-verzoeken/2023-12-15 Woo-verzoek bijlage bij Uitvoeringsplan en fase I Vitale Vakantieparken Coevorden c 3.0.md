@@ -1,8 +1,60 @@
 ---
-title: "2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase I Vitale Vakantieparken Coevorden c 3.0"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase I Vitale Vakantieparken Coevorden c 3.0.pdf"
-date: 2026-07-22
+title: >-
+  2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase I Vitale
+  Vakantieparken Coevorden c 3.0
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase
+  I Vitale Vakantieparken Coevorden c 3.0.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek van 9 mei 2023 om openbaarmaking van de Bijlage
+  Uitvoeringsplan Vitale Vakantieparken Coevorden is toegewezen na het opheffen
+  van de geheimhouding door de gemeenteraad op 12 december 2023. Het college
+  heeft een dwangsom van €5.600,- vastgesteld wegens het niet tijdig beslissen
+  op het verzoek.
+milestones:
+  - date: '2020-07-01'
+    event: >-
+      Beoordeling van vakantieparken in Coevorden met focus op recreatieve
+      kwaliteit en toekomstperspectief.
+  - date: '2020-10-13'
+    event: College besluit geheimhouding op te leggen op het document.
+  - date: '2020-10-20'
+    event: Gemeenteraad bekrachtigt de geheimhouding.
+  - date: '2020-10-20'
+    event: >-
+      Raadsvergadering over Vitale Vakantie Parken Coevorden met voorstellen
+      voor beleid en uitvoering.
+  - date: '2021-01-01'
+    event: >-
+      Start van de uitvoering van het programma voor Vitale Vakantie Parken met
+      inhuur van projectleider.
+  - date: '2022-12-31'
+    event: >-
+      Einde van de beschikbaar gestelde middelen voor de inhuur van personele
+      capaciteit.
+  - date: '2023-05-09'
+    event: Woo-verzoek ingediend door de heer en mevrouw.
+  - date: '2023-05-15'
+    event: Ontvangst van het Woo-verzoek bevestigd.
+  - date: '2023-06-20'
+    event: Verdagingsbrief verzonden aan de verzoeker.
+  - date: '2023-07-23'
+    event: Ingebrekestelling ontvangen wegens uitblijven van een besluit.
+  - date: '2023-07-24'
+    event: Reactie op de ingebrekestelling verzonden.
+  - date: '2023-11-07'
+    event: >-
+      College besluit om gemeenteraad voor te stellen geheimhouding op te
+      heffen.
+  - date: '2023-12-12'
+    event: Gemeenteraad besluit geheimhouding op te heffen.
+  - date: '2023-12-15'
+    event: Besluit op het Woo-verzoek verzonden en document openbaar gemaakt.
+ai_processed_at: '2026-07-23T06:57:23.578Z'
 ---
 
 Postadres:

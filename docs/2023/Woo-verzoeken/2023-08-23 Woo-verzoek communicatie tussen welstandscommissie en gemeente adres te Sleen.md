@@ -1,8 +1,32 @@
 ---
-title: "2023-08-23 Woo-verzoek communicatie tussen welstandscommissie en gemeente adres te Sleen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-23 Woo-verzoek communicatie tussen welstandscommissie en gemeente adres te Sleen.pdf"
-date: 2026-07-22
+title: >-
+  2023-08-23 Woo-verzoek communicatie tussen welstandscommissie en gemeente
+  adres te Sleen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-08-23 Woo-verzoek communicatie tussen
+  welstandscommissie en gemeente adres te Sleen.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen op 22 augustus 2023,
+  waarin om communicatie met de welstandscommissie wordt gevraagd. Het verzoek
+  is op 23 augustus 2023 toegewezen, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2023-07-27'
+    event: Handhavingsverzoek voor zonnepanelen op Brink 9 ingediend.
+  - date: '2023-08-16'
+    event: Eerste communicatie over legalisatieverzoek en termijnen.
+  - date: '2023-08-17'
+    event: Welstandscommissie concludeert dat zonnepanelen niet voldoen aan de eisen.
+  - date: '2023-08-19'
+    event: Factuur voor advies wordt goedgekeurd.
+  - date: '2023-08-22'
+    event: Ontvangst Woo-verzoek
+  - date: '2023-08-23'
+    event: Besluit tot toewijzing van het Woo-verzoek
+ai_processed_at: '2026-07-23T06:59:44.395Z'
 ---
 
 Gemeente

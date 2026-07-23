@@ -1,8 +1,31 @@
 ---
-title: "2023-08-29 Woo-verzoek bomenkap Berberis Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-29 Woo-verzoek bomenkap Berberis Coevorden.pdf"
-date: 2026-07-22
+title: 2023-08-29 Woo-verzoek bomenkap Berberis Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-08-29 Woo-verzoek bomenkap Berberis Coevorden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Op 24 augustus 2023 ontving de gemeente Coevorden een Woo-verzoek met
+  betrekking tot de omgevingsvergunning voor het kappen van twee acacia's. Het
+  verzoek werd gedeeltelijk toegewezen en de vergunning werd verleend op 24 juli
+  2023, met een bezwaartermijn tot 5 september 2023.
+milestones:
+  - date: '2023-07-13'
+    event: Aanvraag omgevingsvergunning voor het kappen van 2 acacia's ingediend.
+  - date: '2023-07-13'
+    event: Aanvraag voor kap van 2 acacia's ingediend.
+  - date: '2023-07-18'
+    event: Ontvangstbevestiging van de aanvraag verzonden.
+  - date: '2023-07-24'
+    event: Vergunning verleend voor het kappen van de acacia's.
+  - date: '2023-08-24'
+    event: Woo-verzoek en bezwaarschrift ontvangen door de gemeente.
+  - date: '2023-08-29'
+    event: 'Besluit op het Woo-verzoek genomen, gedeeltelijk toegewezen.'
+  - date: '2023-09-05'
+    event: Einde bezwaartermijn; kap mag plaatsvinden indien er geen bezwaar is.
+ai_processed_at: '2026-07-23T06:59:34.175Z'
 ---
 
 Postadres:
