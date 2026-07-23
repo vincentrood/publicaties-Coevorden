@@ -1,8 +1,131 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 4 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 4 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 4 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 4 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Sinds 2020 ontwikkelden gemeente Coevorden en Woonservice stap voor stap de
+  integrale gebiedsontwikkeling van Schoonoord, met aandacht voor MFC, wonen,
+  scholen en participatie. In 2025 leidde de voorgenomen sloop en herhuisvesting
+  tot onrust, waarna communicatieafspraken, bijeenkomsten en een gezamenlijke
+  lijn met Woonservice werden uitgewerkt.
+milestones:
+  - date: '2020-08-25'
+    event: >-
+      Woonservice meldt dat een notitie voor bestuurlijk commitment wordt
+      gemaakt voor de dorpsagenda Schoonoord.
+  - date: '2021-12-21'
+    event: >-
+      Terugkoppeling afspraken bewonersinitiatief Schoonoord na gesprek van
+      20-12.
+  - date: '2022-01-25'
+    event: Bijgewerkte gereedschapskist voor overleg over Schoonoord gedeeld.
+  - date: '2022-04-08'
+    event: Start van het gebiedsontwikkelplan Schoonoord wordt besproken.
+  - date: '2022-12-01'
+    event: >-
+      Belangrijkste stukken over MFA Schoonoord gedeeld en gevraagd naar
+      ondertekende intentieovereenkomst.
+  - date: '2023-01-27'
+    event: >-
+      Conceptadvies MFC Schoonoord wordt gedeeld met planning voor PFO, college
+      en raad.
+  - date: '2023-01-29'
+    event: >-
+      Joop Slomp reageert positief op de hoofdlijnen, maar vraagt om scherpere
+      planning en een betere toon.
+  - date: '2023-01-30'
+    event: >-
+      Intern overleg over afstemming van het conceptadvies en de zorgen over
+      draagvlak in Schoonoord.
+  - date: '2023-01-31'
+    event: >-
+      Besloten wordt de projectgroep te informeren en eerst met scholen en
+      kinderopvang te starten.
+  - date: '2023-02-06'
+    event: >-
+      Projectopdracht Integrale Ontwikkeling Schoonoord doorgestuurd voor
+      afstemming capaciteit en financiën.
+  - date: '2023-06-21'
+    event: >-
+      Opdrachtgeverschap Integrale Ontwikkeling Schoonoord overgedragen en
+      stuurgroepstukken gedeeld.
+  - date: '2024-04-30'
+    event: >-
+      Gemeente signaleert dat sloopinformatie over Schoonoord-Noord is uitgelekt
+      en vraagt om samenhangende communicatie.
+  - date: '2024-05-12'
+    event: >-
+      Stedenbouwkundig bureau vraagt input van kinderen, ouders en docenten over
+      schoolroute en leefomgeving in Schoonoord.
+  - date: '2024-06-05'
+    event: >-
+      Bewoner dient idee in voor speelplek/speelhuisje in Schoonoord; gemeente
+      zet dit door naar projectleider.
+  - date: '2024-06-06'
+    event: >-
+      Gemeente laat weten dat het idee wordt meegenomen in het proces rond
+      herbestemming oude scholen en nieuw MFA.
+  - date: '2024-09-18'
+    event: >-
+      Intern wordt gevraagd of jongeren uit eerdere sessie zijn teruggekoppeld
+      en of een update nodig is.
+  - date: '2024-09-19'
+    event: >-
+      Bevestigd dat er overleg met jongeren loopt en dat op 2024-10-14 een
+      eerste bijeenkomst met circa 20 jongeren gepland staat.
+  - date: '2024-09-23'
+    event: >-
+      Voorstel om jongeren per mail te updaten over voortgang en eerdere input
+      wordt ondersteund.
+  - date: '2025-02-20'
+    event: >-
+      Gemeente adviseert Dorpsbelangen Schoonoord te wachten met communiceren
+      tot na overleg met Woonservice en gemeente.
+  - date: '2025-02-26'
+    event: >-
+      Gemeente en Woonservice bespreken een gezamenlijke communicatielijn voor
+      Schoonoord.
+  - date: '2025-02-27'
+    event: >-
+      Gemeente bespreekt mogelijke 100% terugkeergarantie en financiële
+      afspraken met Woonservice.
+  - date: '2025-06-12'
+    event: >-
+      Woonservice verstuurt brief aan het college over visie, planning en
+      voortgang van Schoonoord.
+  - date: '2025-06-12'
+    event: >-
+      Woonservice meldt 69 te slopen woningen, circa 44 sociale huurwoningen en
+      circa 43 betaalbare koopwoningen.
+  - date: '2025-06-12'
+    event: >-
+      Woonservice meldt dat 8 woningen een sloopaanzegging hebben en 19 reacties
+      zijn ontvangen op 11 beschikbare woningen.
+  - date: '2025-06-13'
+    event: >-
+      Griffie stuurt de brief door en meldt dat deze bestemd was voor het
+      college.
+  - date: '2025-06-17'
+    event: >-
+      Bestuurssecretariaat vraagt intern of de mail van Woonservice bij de
+      juiste afdeling is beland.
+  - date: '2025-06-19'
+    event: >-
+      Gemeente ontvangt de brief ter informatie en merkt op dat deze niet vooraf
+      is afgestemd.
+ai_processed_at: '2026-07-23T09:47:40.167Z'
 ---
 
 DATUM

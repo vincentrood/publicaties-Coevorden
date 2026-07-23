@@ -1,8 +1,74 @@
 ---
-title: "2026-02-23 Woo-verzoek verzoeken van medewerkers en bestuurders om juridische bijstand"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-02-23 Woo-verzoek verzoeken van medewerkers en bestuurders om juridische bijstand.pdf"
-date: 2026-07-23
+title: >-
+  2026-02-23 Woo-verzoek verzoeken van medewerkers en bestuurders om juridische
+  bijstand
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-02-23 Woo-verzoek verzoeken van medewerkers en
+  bestuurders om juridische bijstand.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2025-12-02 een Woo-verzoek over juridische
+  bijstand, integriteitsonderzoeken, facturen en verzekeringscorrespondentie en
+  besloot dit op 2026-02-23 gedeeltelijk toe te wijzen. In de inventarisatie
+  werden vooral documenten over Capra en Nysingh aangetroffen; verzoeken van
+  medewerkers/bestuurders om vergoeding van juridische bijstand werden niet
+  gevonden, terwijl meerdere facturen en een opdrachtbrief deels openbaar zijn
+  gemaakt.
+milestones:
+  - date: '2025-05-12'
+    event: Capra-declaratie voor onderzoek integriteit start werkzaamheden
+  - date: '2025-05-15'
+    event: >-
+      Bespreking tussen gemeente Coevorden en Capra over extern
+      integriteitsonderzoek
+  - date: '2025-05-19'
+    event: >-
+      Brief met voorstel voor onderzoeksopzet, bronnen, werkwijze en
+      kostenraming
+  - date: '2025-06-04'
+    event: Declaratie Capra voor onderzoek integriteit aan gemeente Coevorden
+  - date: '2025-07-02'
+    event: Declaratie Capra voor feitenonderzoek klacht
+  - date: '2025-08-04'
+    event: Nieuwe declaratie Capra voor feitenonderzoek klacht
+  - date: '2025-09-01'
+    event: >-
+      Protocol feitenonderzoek van Capra van toepassing op onderzoeken vanaf
+      deze datum
+  - date: '2025-09-03'
+    event: Nieuwe declaratie Capra voor feitenonderzoek klacht
+  - date: '2025-10-06'
+    event: Nieuwe declaratie Capra voor feitenonderzoek klacht
+  - date: '2025-11-03'
+    event: Nieuwe declaratie Capra voor feitenonderzoek klacht
+  - date: '2025-12-02'
+    event: Woo-verzoek ontvangen
+  - date: '2025-12-02'
+    event: >-
+      Woo-verzoek richt zich op openbaarmaking van juridische bijstand, kosten,
+      mandatering en verzekeringscorrespondentie vanaf 2024
+  - date: '2025-12-05'
+    event: Ontvangstbevestiging verzonden
+  - date: '2025-12-23'
+    event: Beslistermijn met twee weken verlengd
+  - date: '2026-01-13'
+    event: Verlengde beslistermijn verstreken
+  - date: '2026-01-21'
+    event: Ingebrekestelling ontvangen
+  - date: '2026-01-22'
+    event: Ontvangst ingebrekestelling bevestigd
+  - date: '2026-02-09'
+    event: Zienswijze aan belanghebbende(n) gevraagd
+  - date: '2026-02-17'
+    event: Bericht ontvangen dat dossier aan advocaat wordt overgedragen
+  - date: '2026-02-20'
+    event: Opschorting beslistermijn door zienswijze geëindigd
+  - date: '2026-02-23'
+    event: Besluit Woo-verzoek genomen en verzonden
+ai_processed_at: '2026-07-23T09:44:22.140Z'
 ---
 
 Gemeente

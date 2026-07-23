@@ -1,8 +1,30 @@
 ---
-title: "2026-5-26 Woo-verzoek Ingetrokken besluiten opleggen last onder dwangsom Woonoverlast"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-26 Woo-verzoek Ingetrokken besluiten opleggen last onder dwangsom Woonoverlast.pdf"
-date: 2026-07-23
+title: >-
+  2026-5-26 Woo-verzoek Ingetrokken besluiten opleggen last onder dwangsom
+  Woonoverlast
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-26 Woo-verzoek Ingetrokken besluiten opleggen last
+  onder dwangsom Woonoverlast.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-03-30 een Woo-verzoek over ingetrokken
+  besluiten tot oplegging van een last onder dwangsom (art. 151d Gemeentewet)
+  over 2010-01-01 t/m 2025-05-01. Na ontvangstbevestiging en een
+  ingebrekestelling besloot de gemeente op 2026-05-26 het verzoek af te wijzen
+  omdat na onderzoek geen documenten zijn aangetroffen.
+milestones:
+  - date: '2026-03-30'
+    event: Woo-verzoek ingediend bij gemeente Coevorden
+  - date: '2026-04-01'
+    event: Ontvangstbevestiging verzonden
+  - date: '2026-05-12'
+    event: Ingebrekestelling ontvangen
+  - date: '2026-05-26'
+    event: 'Besluit genomen: Woo-verzoek afgewezen wegens geen aangetroffen documenten'
+ai_processed_at: '2026-07-23T09:42:52.409Z'
 ---
 
 Postadres:

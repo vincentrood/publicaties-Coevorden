@@ -1,8 +1,53 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 1"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden nam op 2026-02-12 een Woo-besluit over documenten rond
+  Nieuwe Dijk 2a te Coevorden vanaf 2024-01-01 en maakte deze gedeeltelijk
+  openbaar met weglakking van persoonsgegevens. In de onderliggende stukken uit
+  2023-2025 staan vooral onderzoeken en adviezen over bodem, stikstof,
+  archeologie, welstand en veiligheid voor de ontwikkeling van
+  opslagunits/bedrijfsunits.
+milestones:
+  - date: '2025-05-21'
+    event: >-
+      AERIUS-projectberekening opgesteld voor beoogde situatie (kenmerk
+      Rfdz53fNgLQK).
+  - date: '2025-05-21'
+    event: AERIUS-bijlage voor hexagonen met hersteldoel opgesteld; geen resultaten.
+  - date: '2025-05-22'
+    event: AERIUS-rapport opgesteld voor nieuwbouw 69 opslagunits
+  - date: '2025-05-22'
+    event: Tijdelijke situatie (sloop- en bouwfase) beoordeeld
+  - date: '2025-05-22'
+    event: Beoogde gebruiksfase beoordeeld
+  - date: '2025-05-22'
+    event: 'Conclusie: geen vergunningplicht en geen significante stikstofdepositie'
+  - date: '2025-05-26'
+    event: >-
+      Archeologisch bureauonderzoek en bouwdossieronderzoek afgerond voor
+      plangebied in Coevorden.
+  - date: '2025-11-12'
+    event: Woo-verzoek ingediend over Nieuwe Dijk 2a
+  - date: '2025-11-13'
+    event: Woo-verzoek ontvangen door gemeente Coevorden
+  - date: '2025-11-25'
+    event: Beslistermijn met twee weken verlengd
+  - date: '2026-01-26'
+    event: Derde belanghebbende gevraagd om zienswijze
+  - date: '2026-02-12'
+    event: 'Besluit Woo-verzoek: gedeeltelijk toegewezen'
+ai_processed_at: '2026-07-23T09:51:44.090Z'
 ---
 
 Gemeente

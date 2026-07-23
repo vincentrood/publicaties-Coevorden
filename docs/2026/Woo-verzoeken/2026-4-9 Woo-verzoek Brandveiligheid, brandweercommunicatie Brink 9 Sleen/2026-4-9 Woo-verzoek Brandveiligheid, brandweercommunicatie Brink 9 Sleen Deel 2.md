@@ -1,8 +1,27 @@
 ---
-title: "2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 2"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel
+  2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - '2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen'
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen Deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2020 zijn er meerdere vergunning- en meldingsprocedures rond Brink 9 te
+  Sleen, met in 2021 een bouwvergunningaanvraag voor verbouwingen en brandveilig
+  gebruik en een aparte melding/vergunning voor brandveilig gebruik. In 2023
+  volgde een bedrijfsbezoek door de VRD/brandweer waarbij de gebruiksfunctie
+  onduidelijk bleef, waarna intern overleg ontstond over mandaat, toezicht en
+  mogelijke handhaving.
+milestones:
+  - date: '2021-08-12'
+    event: Nieuwe aanvraag ingediend voor brandveilig gebruik van Brink 9 te Sleen.
+ai_processed_at: '2026-07-23T09:49:53.459Z'
 ---
 
 Gemeente

@@ -1,8 +1,114 @@
 ---
-title: "2026-5-21 Woo-verzoek herinrichting kadezone  havenzijde van het Waterschapsgebouw Vve"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek herinrichting kadezone  havenzijde van het Waterschapsgebouw Vve.pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek herinrichting kadezone  havenzijde van het
+  Waterschapsgebouw Vve
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek herinrichting kadezone  havenzijde
+  van het Waterschapsgebouw Vve.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-04-28 een Woo-verzoek over documenten
+  rond instemming/toezeggingen voor de kadezone bij Kasteel 4 en besloot op
+  2026-05-21 tot gedeeltelijke openbaarmaking, met name met weglakking van
+  persoonsgegevens. In de voorafgaande correspondentie en stukken is vanaf
+  2024-06-05 tot en met 2026-04-02 overleg en afstemming zichtbaar over de
+  herinrichting van de tuin/kademuur, de vertegenwoordiging door de VvE en de
+  verdeling van kosten en werkzaamheden.
+milestones:
+  - date: '2024-06-05'
+    event: Terugbelverzoek over herinrichting strook bij kademuur geregistreerd.
+  - date: '2024-06-19'
+    event: Gesprek gepland over inrichting met betrokken heren.
+  - date: '2025-07-22'
+    event: E-mail aan gemeente over doortrekking kademuur en drainage-risico.
+  - date: '2025-09-18'
+    event: VvE belt over herinrichting Markt en wens tot verharding van de strook.
+  - date: '2025-10-28'
+    event: Document over Kasteel 4 aangetroffen
+  - date: '2025-11-03'
+    event: Verzoek om afspraak met vertegenwoordiger van VvE Kasteel 4.
+  - date: '2025-11-20'
+    event: >-
+      Overleg over aanleg van de tuin; positieve terugkoppeling van aanwezige
+      partner.
+  - date: '2025-11-20'
+    event: >-
+      Bijeenkomst over aanleg tuin havenzijde Kasteel 4 en inzage in
+      offertes/rekeningen.
+  - date: '2025-11-21'
+    event: Mail over aanleg tuin ontvangen
+  - date: '2025-11-21'
+    event: Bevestiging ontvangen dat gemeente iets moois gaat maken van de aanleg.
+  - date: '2025-11-27'
+    event: >-
+      Versturen van rekeningen en kostenoverzicht voor aanleg tuin en
+      parkeerplaatsen.
+  - date: '2026-01-22'
+    event: >-
+      Voorstel voor herstel tuin Kasteel 4 met bouwrijp maken, kolken en
+      levering zwarte gebakken klinkers.
+  - date: '2026-02-05'
+    event: Gemeente reageert positief op het voorstel voor de tuin.
+  - date: '2026-02-06'
+    event: >-
+      Verzoek om afspraak met bewoners van Kasteel 4 voor invulling van de tuin
+      aan de havenzijde.
+  - date: '2026-02-17'
+    event: >-
+      Gemeente vraagt of het overleg met aanwezigen voldoende is, omdat een
+      bestuurslid zich heeft afgemeld.
+  - date: '2026-02-19'
+    event: >-
+      VvE vraagt om verduidelijking over oppervlak, aantal klinkers,
+      prijsvergelijking en aansprakelijkheid.
+  - date: '2026-02-26'
+    event: >-
+      Gemeente licht toe dat 104 m2 wordt aangehouden, 8.352 klinkers nodig zijn
+      en dat de aannemer een halfjaar garantie geeft.
+  - date: '2026-02-27'
+    event: VvE legt afspraken over herinrichting voormalige tuin schriftelijk vast.
+  - date: '2026-03-02'
+    event: Overdracht tuin vastgelegd
+  - date: '2026-03-02'
+    event: VvE meldt dat overdracht van de tuin nog niet notarieel is gerealiseerd.
+  - date: '2026-03-13'
+    event: >-
+      Verzoek om verduidelijking over het gesprek van 28 mei 2025 en de
+      betrokken gemeentelijke medewerkers.
+  - date: '2026-03-16'
+    event: Bevestiging en afronding afspraken herinrichting verstuurd
+  - date: '2026-03-16'
+    event: Gemeente stemt in met korte omschrijving van afspraken en uitvoering.
+  - date: '2026-04-02'
+    event: Mail over kadewand Kasteel 4 ontvangen
+  - date: '2026-04-02'
+    event: >-
+      Gemeente bevestigt dat met de VvE overeenstemming is bereikt over kadewand
+      en afwerking.
+  - date: '2026-04-02'
+    event: >-
+      Gemeente stelt dat over kadewand en afwerking overeenstemming is bereikt
+      met de VvE en verwijst naar het bestuur.
+  - date: '2026-04-03'
+    event: >-
+      Reactie met vragen over met wie namens de VvE overeenstemming is bereikt
+      en of besluitvorming/verslaglegging bestaat.
+  - date: '2026-04-28'
+    event: Woo-verzoek ontvangen
+  - date: '2026-05-06'
+    event: Meerdere contactdocumenten gedateerd
+  - date: '2026-05-07'
+    event: Ontvangstbevestiging verzonden en beslistermijn opgeschort
+  - date: '2026-05-21'
+    event: Besluit gedeeltelijke openbaarmaking genomen
+  - date: '2026-05-28'
+    event: >-
+      Gesprek over het doortrekken van de kadewand, later onderwerp van
+      verduidelijkingsverzoek.
+ai_processed_at: '2026-07-23T09:43:16.299Z'
 ---
 
 Gemeente

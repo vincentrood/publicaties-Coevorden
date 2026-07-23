@@ -1,8 +1,132 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 3 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 3 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 3 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 3 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2023 wordt in Schoonoord gewerkt aan een integrale dorpsontwikkeling
+  rond wonen, MFC en herstructurering van Noord en Zuid, met participatie,
+  bestuurlijk overleg en uitwerking van stedenbouwkundige plannen. In 2025
+  verschuift de focus naar concrete planvorming, fasering, communicatie met
+  inwoners en besluitvorming over sloop, nieuwbouw, parkeren, groen en de
+  samenwerking met Woonservice.
+milestones:
+  - date: '2023-06-20'
+    event: >-
+      Bijeenkomst 'Wonen en leven in Schoonoord' met jongeren en ideeën voor
+      wonen en MFC.
+  - date: '2023-08-01'
+    event: >-
+      Projectleider MFC Schoonoord start en intern projectteam komt voor het
+      eerst bijeen.
+  - date: '2023-09-07'
+    event: >-
+      Uitnodiging verstuurd voor startup projectgroep Integrale Ontwikkeling
+      Schoonoord.
+  - date: '2023-09-12'
+    event: >-
+      Nieuwsbrief MFC Schoonoord nr. 1 verstuurd met update over wonen en leven
+      in Schoonoord.
+  - date: '2023-10-18'
+    event: >-
+      Tweede projectgroepafspraak Integrale Ontwikkeling Schoonoord ingepland
+      via MS Teams.
+  - date: '2024-11-29'
+    event: Bestuurlijk overleg Integrale Ontwikkeling Schoonoord over voortgang.
+  - date: '2025-01-07'
+    event: >-
+      Interne keuzes over inbreiden, communicatie, woningbouwprogramma en
+      samenwerking met Woonservice besproken.
+  - date: '2025-01-07'
+    event: >-
+      CPO-initiatieven, communicatie, inrichtingsprincipes en overeenkomst met
+      Woonservice besproken.
+  - date: '2025-01-07'
+    event: >-
+      Projectgroep bespreekt stand van zaken, plan van aanpak, scenario's,
+      anterieure overeenkomst en communicatie.
+  - date: '2025-01-24'
+    event: >-
+      Actiepunten vastgelegd over speeltuinbehoefte, samenwerkingsovereenkomst
+      en tekenmoment.
+  - date: '2025-01-28'
+    event: >-
+      Stedenbouwkundig plan Zuid, informatiebijeenkomst, financiële raming en
+      afspraken over bestemming en Ringstraat verder voorbereid.
+  - date: '2025-01-28'
+    event: >-
+      Afspraken gemaakt over stedenbouwkundig plan, bestemming naar wonen,
+      openbare ruimte, Ringstraat, modelwoning en participatie.
+  - date: '2025-01-28'
+    event: >-
+      Kostenraming openbaar gebied, uitgifteprijzen en grondexploitatie
+      ingepland.
+  - date: '2025-01-28'
+    event: >-
+      Projectgroep bespreekt opstart, herinrichting openbaar gebied,
+      informatieavond april en communicatie.
+  - date: '2025-02-01'
+    event: >-
+      Voorkeursmodel voor Schoonoord Noord gepresenteerd; combinatie van A en B
+      verder uitgewerkt.
+  - date: '2025-02-01'
+    event: >-
+      Geconstateerd dat Schoonoord Zuid urgenter is; Noord moet worden aangepast
+      en er is behoefte aan een stappenplan.
+  - date: '2025-02-25'
+    event: >-
+      Onderzoeken gestart of uitbreiding, ecologie, groenstructuren, verkoop
+      schoolgebouw Zuid, verkeer en verduurzamingsregelingen nodig zijn.
+  - date: '2025-02-25'
+    event: >-
+      Projectgroep bespreekt actie- en besluitenlijst, stedenbouwkundige
+      uitwerking, info met dorp en concept presentatie.
+  - date: '2025-02-25'
+    event: >-
+      Tweede agenda op dezelfde datum behandelt stand van zaken,
+      inloopbijeenkomst en concept presentatie.
+  - date: '2025-03-11'
+    event: Offerte voor het project moest nog worden geaccordeerd en doorgezet.
+  - date: '2025-03-11'
+    event: >-
+      Voorlopige projectgroepagenda bespreekt dorpsavond, feedback, locaties
+      sociale huur en communicatie.
+  - date: '2025-03-26'
+    event: Overkoepelende kansenkaart gepland voor bespreking in de commissie.
+  - date: '2025-04-01'
+    event: Informatieavond met het dorp gepland.
+  - date: '2025-04-24'
+    event: >-
+      Vervolgacties gestart voor riolering, materiaalgebruik openbaar gebied en
+      gegevens over huurders van sloopwoningen.
+  - date: '2025-05-01'
+    event: Opstellen van de grondexploitatie gepland.
+  - date: '2025-06-13'
+    event: Bewonersavond voor Schoonoord Zuid gepland.
+  - date: '2025-06-24'
+    event: >-
+      Projectgroep bespreekt samenwerking met Woonservice en de
+      inloopbijeenkomst van 15 juli.
+  - date: '2025-07-18'
+    event: >-
+      Concept Programma van Eisen, terugkoppeling bewonersavond en input scholen
+      besproken.
+  - date: '2026-01-27'
+    event: >-
+      Projectteam bespreekt stedenbouwkundig plan, participatieverslag, inloop 9
+      en 10 maart en gemeentelijk besluitvormingsproces.
+ai_processed_at: '2026-07-23T09:47:59.390Z'
 ---
 
 S t o rt s t

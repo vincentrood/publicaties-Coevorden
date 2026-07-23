@@ -1,8 +1,98 @@
 ---
-title: "2026-5-8 Woo-verzoek Basisregistratie Personen correctieverzoek"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-8 Woo-verzoek Basisregistratie Personen correctieverzoek.pdf"
-date: 2026-07-23
+title: 2026-5-8 Woo-verzoek Basisregistratie Personen correctieverzoek
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-8 Woo-verzoek Basisregistratie Personen
+  correctieverzoek.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-03-16 een Woo-verzoek over een
+  BRP-correctieverzoek en besloot op 2026-05-08 gedeeltelijk openbaar te maken.
+  In de onderliggende BRP-zaak werd op 2026-01-07 een verzoek tot uitschrijving
+  met terugwerkende kracht ingediend, op 2026-02-03 afgewezen voor terugwerkende
+  kracht en de uitschrijving per ontvangst van de aangifte verwerkt.
+milestones:
+  - date: '2020-09-11'
+    event: 'Rb. Den Haag: vertrekdatum vastgesteld op basis van feiten en onderzoek'
+  - date: '2022-06-20'
+    event: >-
+      Terugbelverzoek over betalingsregeling gemeentelijke belastingen
+      afgehandeld.
+  - date: '2023-05-10'
+    event: Vraag over betalingsregeling gemeentelijke belastingen direct afgehandeld.
+  - date: '2024-03-13'
+    event: >-
+      ABRvS benadrukt zorgvuldige vaststelling feitelijke situatie vóór
+      BRP-wijziging
+  - date: '2024-11-11'
+    event: Terugbelverzoek over betaling in termijnen van een dwangbevel gestart.
+  - date: '2024-11-18'
+    event: Terugbelverzoek uit 2024 afgehandeld na opnieuw bellen.
+  - date: '2025-04-30'
+    event: Zaak 'Uitreiken rijbewijs' gestart en dezelfde dag afgehandeld.
+  - date: '2025-05-12'
+    event: E-mailcorrespondentie over BRP-correctieverzoek
+  - date: '2025-05-12'
+    event: E-mail ontvangen met vraag over emigratie met terugwerkende kracht.
+  - date: '2025-05-14'
+    event: Reactie medewerker Burgerzaken op e-mail
+  - date: '2025-05-14'
+    event: >-
+      Gemeente antwoordt dat emigratie met terugwerkende kracht niet in de BRP
+      kan worden verwerkt.
+  - date: '2025-10-01'
+    event: Volgens verzoekers feitelijke vertrek uit Nederland
+  - date: '2025-12-02'
+    event: Telefonisch contact tussen familie en Burgerzaken vastgelegd
+  - date: '2025-12-02'
+    event: >-
+      Telefonisch contact over uitschrijven met terugwerkende kracht; verzoek om
+      contact over verblijf in Pakistan sinds 2018.
+  - date: '2025-12-02'
+    event: Gemeente hoort telefonisch voor het eerst over verblijf in Pakistan
+  - date: '2025-12-18'
+    event: Contact over doorgeven emigratie ouders
+  - date: '2025-12-18'
+    event: >-
+      Opnieuw telefonisch contact over het doorgeven van emigratie naar
+      Pakistan.
+  - date: '2025-12-19'
+    event: Belgeschiedenis vermeldt geen andere vastlegging
+  - date: '2026-01-07'
+    event: Verzoekschrift tot uitschrijving BRP met terugwerkende kracht
+  - date: '2026-01-07'
+    event: >-
+      Formeel verzoekschrift ingediend voor ambtshalve uitschrijving BRP en
+      correctie vertrekdatum naar 2018-10-01.
+  - date: '2026-01-07'
+    event: Verzoek om ambtshalve uitschrijving BRP met terugwerkende kracht ingediend
+  - date: '2026-01-08'
+    event: >-
+      Gemeente ontvangt en doorstuurt het verzoekschrift voor behandeling door
+      Burgerzaken.
+  - date: '2026-01-20'
+    event: 'NVVB-advies: bewijs van niet-woonachtig zijn in Nederland nodig'
+  - date: '2026-01-27'
+    event: Advies gevraagd op NVVB-platform
+  - date: '2026-02-03'
+    event: Besluit uitschrijving uit de BRP genomen
+  - date: '2026-02-03'
+    event: >-
+      Gemeente Coevorden besluit: uitschrijving per ontvangstdatum aangifte,
+      geen terugwerkende kracht
+  - date: '2026-02-25'
+    event: Bezwaar tegen BRP-besluit ingediend
+  - date: '2026-03-16'
+    event: Woo-verzoek ontvangen
+  - date: '2026-04-13'
+    event: Beslistermijn met twee weken verlengd
+  - date: '2026-04-16'
+    event: Beslistermijn opgeschort wegens zienswijzen
+  - date: '2026-05-08'
+    event: Woo-besluit gedeeltelijk toegewezen en verzonden
+ai_processed_at: '2026-07-23T09:42:12.260Z'
 ---
 
 Gemeente

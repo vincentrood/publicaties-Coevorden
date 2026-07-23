@@ -1,8 +1,80 @@
 ---
-title: "2026-02-09 Woo-verzoek correspondentie over plaatsen ondergrondse containers"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-02-09 Woo-verzoek correspondentie over plaatsen ondergrondse containers.pdf"
-date: 2026-07-23
+title: 2026-02-09 Woo-verzoek correspondentie over plaatsen ondergrondse containers
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-02-09 Woo-verzoek correspondentie over plaatsen
+  ondergrondse containers.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2025-12-02 een Woo-verzoek en besloot op
+  2026-02-05 tot gedeeltelijke openbaarmaking, met verzending op 2026-02-09. In
+  de stukken over het transformatieproces De Tip/Vitale Vakantieparken lopen de
+  belangrijkste gebeurtenissen van 2021 tot en met 2025, met correspondentie,
+  evaluaties en besluitvorming over deelname en openbaarmaking.
+milestones:
+  - date: '2021-09-19'
+    event: Brief met verzoek om informatie over De Tip en vertegenwoordiging
+  - date: '2021-10-01'
+    event: >-
+      Vlak voor de Algemene Ledenvergadering 2021 vindt het incident plaats dat
+      de emmer doet overlopen.
+  - date: '2021-10-01'
+    event: >-
+      Na het incident ontstaat een Ledeninitiatiefgroep en wordt het bestuur
+      gemaand in actie te komen.
+  - date: '2021-10-01'
+    event: >-
+      Het resterende bestuur bezoekt twee leden thuis; de gesprekken verlopen
+      conflictueus.
+  - date: '2021-10-01'
+    event: >-
+      Het bestuur agendeert een extra ledenvergadering en haalt stukken van de
+      reguliere ALV-agenda.
+  - date: '2021-10-01'
+    event: >-
+      De Initiatiefgroep wordt zonder overleg in een door het bestuur bepaald
+      format geplaatst.
+  - date: '2021-10-01'
+    event: Het bestuur cancelt de extra ledenvergadering.
+  - date: '2021-10-01'
+    event: >-
+      De Initiatiefgroep verspreidt een ledenbrief met haar visie en
+      aankondiging van een feitenrelaas.
+  - date: '2021-10-01'
+    event: >-
+      Het voltallige bestuur kondigt per direct aftreden aan, waardoor een
+      bestuurlijk vacuüm ontstaat.
+  - date: '2021-10-12'
+    event: Eerste brief van de Initiatiefgroep aan het bestuur over de incidenten.
+  - date: '2021-10-31'
+    event: >-
+      Ledenbrief eind oktober 2021 met toelichting op de beweegredenen van de
+      Initiatiefgroep.
+  - date: '2021-10-31'
+    event: 'Ledenbrief kondigt doel, aanpak en planning van rapportage aan'
+  - date: '2022-01-15'
+    event: Streefdatum voor verslaglegging in tweede helft januari 2022
+  - date: '2022-02-15'
+    event: Brief over incidenten bij klankbordgroep en bijgevoegd feitenrelaas
+  - date: '2023-06-29'
+    event: Brief aan College van B&W Coevorden over transformatiebeleid De Tip
+  - date: '2025-08-29'
+    event: Wob/Woo-verzoek om correspondentie ingediend
+  - date: '2025-12-02'
+    event: Woo-verzoek ontvangen door gemeente Coevorden
+  - date: '2025-12-02'
+    event: Gemeente vraagt om specificatie van het verzoek
+  - date: '2025-12-06'
+    event: Verzoeker reageert op specificatieverzoek
+  - date: '2026-01-14'
+    event: Belanghebbenden gevraagd om zienswijze
+  - date: '2026-02-05'
+    event: Besluit op Woo-verzoek genomen
+  - date: '2026-02-09'
+    event: Verzenddatum van het Woo-besluit
+ai_processed_at: '2026-07-23T09:44:48.178Z'
 ---
 
 Gemeente

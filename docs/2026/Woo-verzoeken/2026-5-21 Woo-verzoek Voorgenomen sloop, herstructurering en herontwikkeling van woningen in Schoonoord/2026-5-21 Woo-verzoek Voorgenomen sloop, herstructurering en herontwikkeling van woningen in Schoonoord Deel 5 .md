@@ -1,8 +1,65 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 5 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 5 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 5 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 5 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Het dossier beschrijft de haalbaarheid van een MFC in Schoonoord en
+  concludeert dat ruimtelijk draagvlak groot is, maar dat realisatie alleen kan
+  met structurele gemeentelijke dekking en aanvullende subsidies. Daarnaast
+  wordt in 2022 een integrale gebiedsaanpak gestart om onderwijs, wonen,
+  duurzaamheid en voorzieningen op elkaar af te stemmen.
+milestones:
+  - date: '2022-01-01'
+    event: 'Gemeente hanteert rentepercentage van 1,6% voor financiering.'
+  - date: '2022-01-01'
+    event: >-
+      Uitgangspunten voor exploitatieberekeningen vastgelegd, inclusief
+      afschrijvingstermijnen en verdeling kapitaallasten.
+  - date: '2022-01-01'
+    event: >-
+      Scenario MFC met sporthalnieuwbouw uitgewerkt: totale investering €18,86
+      miljoen, jaarlijkse gemeentelijke dekking €798.000 en aanvullende subsidie
+      €191.000.
+  - date: '2022-01-01'
+    event: >-
+      Scenario MFC met sporthalrenovatie uitgewerkt: totale investering €16,36
+      miljoen, jaarlijkse gemeentelijke dekking €709.000 en aanvullende subsidie
+      €171.000.
+  - date: '2022-01-01'
+    event: >-
+      Scenario krachtpand met sporthalnieuwbouw uitgewerkt: totale investering
+      €11,86 miljoen, jaarlijkse gemeentelijke dekking €508.000 en aanvullende
+      subsidie €111.000.
+  - date: '2022-01-01'
+    event: >-
+      Scenario krachtpand met sporthalrenovatie uitgewerkt: totale investering
+      €8,99 miljoen, jaarlijkse gemeentelijke dekking €536.000 en aanvullende
+      subsidie €88.000.
+  - date: '2022-09-15'
+    event: Projectdocument MFC Schoonoord gedateerd
+  - date: '2022-09-15'
+    event: >-
+      Overzicht subsidiemogelijkheden opgenomen (LEADER, SPUK, BOSA, VSBfonds,
+      Oranje Fonds)
+  - date: '2024-01-01'
+    event: Besluitvormingstraject gemeente Coevorden afgerond in Q1 2024 beoogd
+  - date: '2026-04-01'
+    event: Oplevering krachtpand circa één kwartaal eerder mogelijk
+  - date: '2026-07-01'
+    event: Oplevering MFC in tweede helft 2026 mogelijk
+ai_processed_at: '2026-07-23T09:47:19.795Z'
 ---
 
 82 Uitgangspunten exploitatie

@@ -1,8 +1,44 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 3"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 3.pdf"
-date: 2026-07-23
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 3
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 3.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2024 werd een aanvraag ingediend voor de bouw van 69 opslagunits aan Nieuwe
+  Dijk 2A te Coevorden, maar de gemeente vroeg aanvullende gegevens op en de
+  welstandscommissie vond het plan niet voldoen aan redelijke eisen van
+  welstand. Op 2025-11-05 is de aanvraag buiten behandeling gesteld omdat de
+  gevraagde aanvullende gegevens niet binnen de termijn waren aangeleverd.
+milestones:
+  - date: '2023-01-01'
+    event: >-
+      Conceptverzoek voor bouw van bedrijfsunits op lastige locatie met
+      bodemverontreiniging en gasleiding.
+  - date: '2023-01-01'
+    event: >-
+      Leges voor de procedure zijn verschuldigd conform de legesverordening
+      2023.
+  - date: '2023-12-31'
+    event: Actualisatie bodemonderzoek gevraagd voor advies aan ODD.
+  - date: '2024-12-16'
+    event: Aanvraag omgevingsvergunning ontvangen voor het bouwen van 69 opslagunits.
+  - date: '2024-12-16'
+    event: >-
+      Omgevingsvergunningaanvraag ontvangen voor het bouwen van 69 opslagunits
+      op locatie Coevorden.
+  - date: '2024-12-24'
+    event: >-
+      Verzoek om geometrie/shapefile voor BAG Vertex verzonden voor zaak
+      Z2024-022419.
+ai_processed_at: '2026-07-23T09:51:15.229Z'
 ---
 
 Maatvoering te contrleren Lh.w. door

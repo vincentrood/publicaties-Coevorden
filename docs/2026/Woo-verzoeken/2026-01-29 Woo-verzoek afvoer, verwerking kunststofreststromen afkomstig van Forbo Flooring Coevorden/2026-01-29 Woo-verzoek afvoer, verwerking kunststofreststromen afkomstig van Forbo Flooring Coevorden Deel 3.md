@@ -1,8 +1,44 @@
 ---
-title: "2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 3"
-maps: ["2026","Woo-verzoeken","2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden"]
-source: "2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 3.pdf"
-date: 2026-07-23
+title: >-
+  2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+  Forbo Flooring Coevorden Deel 3
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+    Forbo Flooring Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking
+  kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29
+  Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo
+  Flooring Coevorden Deel 3.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De tekst bevat vooral definities en normverwijzingen uit een rapport over
+  bodem, energie, externe veiligheid, geluid, geur en luchtkwaliteit. De
+  relevante chronologische verwijzingen lopen van 2012 tot 2024, met de meeste
+  actualisaties in 2021 en 2024.
+milestones:
+  - date: '2020-01-01'
+    event: >-
+      Publicatie/vermelding van 'Beheer bedrijfsriolering bodembescherming'
+      (ISBN 9037604714).
+  - date: '2021-01-01'
+    event: 'Vermelding van NEN-EN 13508-2:2003+A1:2011+CNL1:2021/NEN-EN 13508-1:2012.'
+  - date: '2021-03-01'
+    event: >-
+      Publicatie van 'Onderzoek en beoordeling van de buitenriolering - Deel 2:
+      Coderingssysteem voor visuele inspectie'.
+  - date: '2021-08-01'
+    event: >-
+      Vermelding van Interim PGS 15 'Opslag van verpakte gevaarlijke stoffen',
+      versie 1.0.
+  - date: '2024-01-01'
+    event: >-
+      Vermelding van PGS 31 'Overige gevaarlijke vloeistoffen: opslag in
+      ondergrondse en bovengrondse tankinstallaties', versie 1.0.
+ai_processed_at: '2026-07-23T09:51:50.683Z'
 ---
 
 CUR Rapport 2001-3

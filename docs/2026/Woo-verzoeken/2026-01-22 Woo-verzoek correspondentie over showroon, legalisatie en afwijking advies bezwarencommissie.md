@@ -1,8 +1,74 @@
 ---
-title: "2026-01-22 Woo-verzoek correspondentie over showroon, legalisatie en afwijking advies bezwarencommissie"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-01-22 Woo-verzoek correspondentie over showroon, legalisatie en afwijking advies bezwarencommissie.pdf"
-date: 2026-07-23
+title: >-
+  2026-01-22 Woo-verzoek correspondentie over showroon, legalisatie en afwijking
+  advies bezwarencommissie
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-01-22 Woo-verzoek correspondentie over showroon,
+  legalisatie en afwijking advies bezwarencommissie.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden wees in 2024 een conceptverzoek voor een showroom aan
+  huis af omdat dit in strijd was met het omgevingsplan en
+  gemeentelijk/provinciaal beleid. In 2025 volgde handhaving met een last onder
+  dwangsom; na bezwaar liet de gemeente het besluit in stand maar motiveerde dit
+  nader, mede op advies van de bezwaarschriftencommissie.
+milestones:
+  - date: '2024-05-17'
+    event: Conceptverzoek ingediend voor showroom aan huis
+  - date: '2024-05-17'
+    event: Conceptverzoek voor showroom aan huis ingediend
+  - date: '2024-09-02'
+    event: 'Collegeadvies opgesteld: geen medewerking aan conceptverzoek'
+  - date: '2024-09-30'
+    event: PFO-bespreking conceptverzoek
+  - date: '2024-10-08'
+    event: College neemt principebesluit met negatieve grondhouding
+  - date: '2024-10-09'
+    event: Brief met advies ruimtelijke ordening verzonden
+  - date: '2024-10-09'
+    event: Conceptverzoek geregistreerd onder Z2024-009423
+  - date: '2024-10-09'
+    event: Negatief advies conceptverzoek verzonden
+  - date: '2024-10-09'
+    event: Conceptverzoek negatief beoordeeld
+  - date: '2024-10-18'
+    event: Ontvangst Woo-verzoek bevestigd
+  - date: '2024-11-25'
+    event: B&W-besluitenlijst over vergunningaanvraag
+  - date: '2025-01-05'
+    event: Beslistermijn Woo-verzoek verdaagd
+  - date: '2025-01-29'
+    event: Controle uitgevoerd; showroom voor keukens/badkamers geconstateerd
+  - date: '2025-01-29'
+    event: 'Controle: showroom voor keukens/badkamers geconstateerd'
+  - date: '2025-02-10'
+    event: Opnamerapport handhaving vastgesteld
+  - date: '2025-02-10'
+    event: Opnamerapport handhaving opgemaakt
+  - date: '2025-06-03'
+    event: Voornemen last onder dwangsom verzonden
+  - date: '2025-06-05'
+    event: Brief met zienswijze aan college
+  - date: '2025-06-18'
+    event: Tweede brief met zienswijze aan college
+  - date: '2025-06-30'
+    event: Voorlegger PFO over handhaving besproken
+  - date: '2025-07-03'
+    event: Last onder dwangsom opgelegd
+  - date: '2025-10-01'
+    event: Begunstigingstermijn eindigt
+  - date: '2025-12-10'
+    event: Woo-verzoek ontvangen
+  - date: '2025-12-11'
+    event: Woo-verzoek ingediend
+  - date: '2026-01-22'
+    event: >-
+      Woo-besluit verzonden: openbaarmaking met uitzondering van
+      persoonsgegevens
+ai_processed_at: '2026-07-23T09:45:03.942Z'
 ---
 
 nie Gemeente

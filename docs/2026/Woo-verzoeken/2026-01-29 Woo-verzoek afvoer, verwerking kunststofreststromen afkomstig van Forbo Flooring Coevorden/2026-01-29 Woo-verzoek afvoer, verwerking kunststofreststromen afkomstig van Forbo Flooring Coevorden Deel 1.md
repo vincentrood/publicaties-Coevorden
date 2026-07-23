@@ -1,8 +1,105 @@
 ---
-title: "2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 1"
-maps: ["2026","Woo-verzoeken","2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden"]
-source: "2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+  Forbo Flooring Coevorden Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+    Forbo Flooring Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking
+  kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29
+  Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo
+  Flooring Coevorden Deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving via de provincie Drenthe een Woo-verzoek over de
+  afvoer en verwerking van kunststofreststromen van Forbo Flooring te Coevorden,
+  met een besluit op 2025-12-17 en verzending op 2026-01-29. Het verzoek werd
+  gedeeltelijk toegewezen: 73 documenten zijn geïnventariseerd en openbaar
+  gemaakt met weglakking van persoonsgegevens, bedrijfsgevoelige informatie,
+  interne beleidsopvattingen en informatie over het functioneren van overheden.
+milestones:
+  - date: '2024-07-30'
+    event: Contactgegevens vergunningverlener Forbo gedeeld met PVC Recycling.
+  - date: '2024-09-30'
+    event: Vraag gesteld over wat er met 1.500 ton PVC-afval van Forbo gebeurt.
+  - date: '2024-10-01'
+    event: >-
+      PVC Recycling meldde dat Forbo-afval eerder werd gerecycled, maar nu
+      mogelijk naar stort gaat.
+  - date: '2025-02-20'
+    event: >-
+      Eerste ontvangstbericht: verzoek over Forbo-afvalstromen ter kennisname
+      aangenomen; vergunningprocedure loopt nog.
+  - date: '2025-02-20'
+    event: >-
+      Verzoeker reageert dat sprake zou zijn van illegale stort/export en vraagt
+      om stellingname en publicatiedatum.
+  - date: '2025-05-21'
+    event: WhatsApp-reminder over Forbo-afvallen en gebrek aan transparantie.
+  - date: '2025-05-27'
+    event: Woo-verzoek ingediend bij provincie Drenthe over Forbo-reststromen
+  - date: '2025-05-27'
+    event: >-
+      Tweede WhatsApp-reminder over plastisol, lumps en andere
+      flooring-afvallen.
+  - date: '2025-06-10'
+    event: Formeel verzoek ingediend over de afvalstromen van Forbo Coevorden.
+  - date: '2025-06-10'
+    event: >-
+      Omgevingsdienst Drenthe antwoordt dat zij niet via WhatsApp reageert en
+      verwijst naar gemeente Coevorden als bevoegd gezag.
+  - date: '2025-06-16'
+    event: Gemeente Coevorden voegde de mail toe aan zaaknummer Z2025-000581.
+  - date: '2025-06-17'
+    event: >-
+      OD Drenthe overlegde intern over toezicht, handhaving en mogelijke
+      Woo-status.
+  - date: '2025-06-19'
+    event: >-
+      Besloten om een nieuwe LOS-zaak aan te maken en de gemeente Coevorden te
+      laten reageren.
+  - date: '2025-07-11'
+    event: >-
+      Kritische mail over plastisol- en PVC-reststromen van Forbo-Novilon met
+      verzoek om duidelijkheid.
+  - date: '2025-08-20'
+    event: >-
+      Reminder met verzoek om uiterlijk 2025-08-27 schriftelijke bevestiging
+      over codes, bestemmingen, EVOA en toezicht.
+  - date: '2025-08-26'
+    event: >-
+      Omgevingsdienst Drenthe antwoordt: deels recyclebaar/deels niet, noemt
+      kunststofcodes, verwijst EVOA naar ILT en geeft geen details over afvoer
+      of bestemmingen.
+  - date: '2025-08-26'
+    event: >-
+      Verzoeker mailt ILT en stelt dat kernvragen onbeantwoord zijn gebleven;
+      vraagt om reactie uiterlijk 2025-09-05.
+  - date: '2025-08-26'
+    event: >-
+      Omgevingsdienst meldt intern dat verdere reactie niet nodig is omdat
+      verzoeker nu direct vragen aan ILT stelt.
+  - date: '2025-09-09'
+    event: WhatsApp-bericht vermeld als leeg.
+  - date: '2025-09-10'
+    event: Provincie Drenthe zond het Woo-verzoek door naar gemeente Coevorden
+  - date: '2025-09-11'
+    event: Gemeente Coevorden ontving het Woo-verzoek
+  - date: '2025-10-02'
+    event: >-
+      Verzoeker stuurt kopie van WhatsApp-berichten van 2025-02-20, 2025-05-23
+      en 2025-05-27 over Forbo-afvallen.
+  - date: '2025-12-17'
+    event: >-
+      Gemeente nam besluit op het Woo-verzoek en vroeg zienswijzen van
+      belanghebbenden
+  - date: '2026-01-29'
+    event: Besluit verzonden
+ai_processed_at: '2026-07-23T09:52:31.450Z'
 ---
 
 Gemeente

@@ -1,8 +1,125 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 10 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 10 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 10 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 10 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2020 werken gemeente Coevorden, Domesta en Woonservice aan de
+  Warmtevisie, de transitievisie warmte en diverse verduurzamings- en
+  leefbaarheidsafspraken. In 2022-2025 zijn daarnaast belangrijke stappen gezet
+  in Schoonoord, wonen-zorg, statushouders, achtervang en de jaarlijkse
+  prestatieafspraken.
+milestones:
+  - date: '2020-01-01'
+    event: WMO-convenant afgerond en voorbereid op ondertekening
+  - date: '2020-01-01'
+    event: Gemeente en corporaties blijven samenwerken in OGGZ-netwerk en casuïstiek
+  - date: '2020-01-01'
+    event: Afspraken over huisvesting statushouders uitgevoerd en gemonitord
+  - date: '2020-01-01'
+    event: >-
+      Domesta en Woonservice blijven inzetten op langer thuiswonen en
+      woningaanpassingen
+  - date: '2020-01-01'
+    event: Onderzoek onder mantelzorgers in de gemeente uitgevoerd
+  - date: '2020-01-01'
+    event: >-
+      Prestatieafspraken en overlegstructuren worden voortgezet; meerdere punten
+      zijn afgerond of lopen door.
+  - date: '2020-01-01'
+    event: Generieke achtervangovereenkomst komt tot stand.
+  - date: '2020-03-01'
+    event: Sprintsessies warmte gehouden en start gemaakt met warmtevisie
+  - date: '2020-04-01'
+    event: Gemiddelde energie-index Coevorden vastgesteld op 119
+  - date: '2020-12-31'
+    event: >-
+      Gemiddelde energie-index Coevorden was 119 en woningvoorraad gemiddeld
+      label A
+  - date: '2021-01-01'
+    event: >-
+      Sociale teams en OGGZ-samenwerking worden intern herijkt en gesprekken met
+      Domesta ingepland
+  - date: '2021-01-01'
+    event: >-
+      Actieplan laaggeletterdheid vernieuwd en nieuwe subsidieregeling
+      voorbereid
+  - date: '2021-01-01'
+    event: >-
+      Taakstelling huisvesting vergunninghouders voor 2021 gemonitord en pilot
+      met AZC-huisvesting gestart
+  - date: '2021-01-01'
+    event: WWZ-beraad wordt na corona weer opgepakt en geëvalueerd
+  - date: '2021-04-01'
+    event: RRE-uitrol liep door in Q1 2021
+  - date: '2021-04-01'
+    event: >-
+      Stand van zaken en vervolgacties worden vastgelegd in de
+      jaarschijf/overzichtsdocumenten van april 2021.
+  - date: '2021-11-01'
+    event: Afspraken worden geëvalueerd en waar nodig bijgesteld voor 2022.
+  - date: '2021-12-31'
+    event: RRE verlengd tot eind 2021 en daarna beëindigd
+  - date: '2021-12-31'
+    event: Warmtevisie beoogd afgerond in Q4 2021
+  - date: '2022-01-01'
+    event: >-
+      Gemeenten werden zelf verantwoordelijk voor Beschermd Wonen en
+      Maatschappelijke Opvang
+  - date: '2022-01-01'
+    event: RREW-aanvraag niet toegekend
+  - date: '2022-01-01'
+    event: >-
+      Beleid sociaal domein en afspraken wonen-zorg worden verder uitgewerkt en
+      herijkt
+  - date: '2022-01-01'
+    event: >-
+      Gemeenten worden verantwoordelijk voor beschermd wonen; afspraken over
+      huisvestingsaspecten worden gezamenlijk met corporaties voorbereid.
+  - date: '2022-05-01'
+    event: >-
+      Afspraken over de generieke achtervang lopen tot mei 2022; daarna moeten
+      nieuwe afspraken worden gemaakt.
+  - date: '2022-07-06'
+    event: >-
+      Gemeente en betrokken partijen stemmen per e-mail af over betaling van een
+      offerte; verdeling 50% gemeente en 20% Woonservice.
+  - date: '2023-01-01'
+    event: >-
+      Woonzorgvisie van de BOCE-gemeenten is vastgesteld en wordt regionaal
+      uitgewerkt.
+  - date: '2023-01-01'
+    event: >-
+      Eerste stappen worden gezet voor de gezamenlijke verkenning van het
+      woonwagendossier.
+  - date: '2023-01-01'
+    event: >-
+      Intentieovereenkomst integraal ontwikkelplan Schoonoord wordt opgesteld
+      voor planfase 2022-2023.
+  - date: '2024-01-01'
+    event: >-
+      Jaarschijf 2024 zet in op flexwonen, Schoonoord, betaalbaarheid,
+      duurzaamheid en woonwagenstandplaatsen.
+  - date: '2024-01-01'
+    event: >-
+      Domesta levert in 2024 30 flexwoningen in Coevorden op en 8 woningen aan
+      de Batavierstraat.
+  - date: '2024-01-01'
+    event: >-
+      Voor Schoonoord worden in 2024 concrete stappen gezet en wordt het
+      stedenbouwkundig plan voor het noordelijk deel opgeleverd.
+ai_processed_at: '2026-07-23T09:48:38.971Z'
 ---
 
 In het geval dat de subsidie niet is toegekend , dan gaat de

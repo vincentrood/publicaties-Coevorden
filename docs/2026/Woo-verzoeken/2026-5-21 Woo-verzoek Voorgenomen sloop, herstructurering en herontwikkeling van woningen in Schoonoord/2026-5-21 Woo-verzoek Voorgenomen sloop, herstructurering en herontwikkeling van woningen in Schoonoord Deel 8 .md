@@ -1,8 +1,91 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 8 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 8 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 8 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 8 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Sinds 2023 werkt de gemeente Coevorden samen met Woonservice en Dorpsbelang
+  aan de integrale ontwikkeling van Schoonoord, met aandacht voor wonen, het MFC
+  en de herontwikkeling van Schoonoord-Noord en -Zuid. In 2025 is het proces
+  verdiept met woonwensgesprekken, raadsbehandeling en verdere uitwerking van
+  een programma van uitgangspunten en stedenbouwkundig plan.
+milestones:
+  - date: '2023-06-20'
+    event: Bijeenkomst met circa 50 jongeren over wonen en leven in Schoonoord
+  - date: '2023-08-01'
+    event: Projectleider MFC Schoonoord start
+  - date: '2023-09-07'
+    event: >-
+      Uitnodiging verstuurd voor start projectgroep Integrale Ontwikkeling
+      Schoonoord
+  - date: '2023-09-12'
+    event: Testnieuwsbrief MFC Schoonoord nr. 1 verzonden
+  - date: '2023-09-27'
+    event: Nieuwsbrief Wonen en leven in Schoonoord nr. 1 verzonden
+  - date: '2023-10-18'
+    event: Eerste projectgroepoverleg Integrale Ontwikkeling Schoonoord gepland
+  - date: '2023-11-01'
+    event: Eerste informatieavond Schoonoord-Noord aangekondigd
+  - date: '2023-11-08'
+    event: >-
+      Bijeenkomst Verkenning Schoonoord-Noord met omwonenden over wensen voor
+      het gebied.
+  - date: '2023-11-08'
+    event: >-
+      Uitnodiging voor bijeenkomst Verkenning Schoonoord Noord; inventarisatie
+      van wensen en behoeften voor woningbouw op vrijgekomen schoollocatie.
+  - date: '2023-11-28'
+    event: >-
+      Raadscommissie behandelt voorstel voor aanvullend budget voor het MFC
+      Schoonoord.
+  - date: '2023-12-12'
+    event: Gemeenteraad neemt besluit over het MFC-voorstel.
+  - date: '2024-06-13'
+    event: Bijeenkomst Verkenning Schoonoord-Zuid gepland over MFA en woningbouw
+  - date: '2024-06-13'
+    event: >-
+      Bijeenkomst in Schoonoord-Zuid over leefwensen, schoollocatie en
+      planvorming MFA.
+  - date: '2024-06-13'
+    event: >-
+      Uitnodiging voor bijeenkomst Verkenning Schoonoord Zuid; ophalen van
+      ideeën voor invulling van de vrijgekomen schoollocatie.
+  - date: '2024-06-20'
+    event: Jongerensessie over wonen en leven in Schoonoord en het MFC.
+  - date: '2025-01-01'
+    event: >-
+      Start ontwikkeling van stedenbouwkundige schetsen en scenario’s op basis
+      van de bijeenkomsten.
+  - date: '2025-01-01'
+    event: >-
+      Definitief stedenbouwkundig plan wordt in 2025 verder uitgewerkt met
+      bewoners, gemeente en Woonservice.
+  - date: '2025-03-25'
+    event: Projectgroep Schoonoord ontvangt presentatie voor de inloopbijeenkomst
+  - date: '2025-11-03'
+    event: >-
+      Inloopavond in Schoonoord over schetsen voor nieuwbouwplannen en openbare
+      ruimte; inwoners konden eerste reacties achterlaten.
+  - date: '2025-11-05'
+    event: >-
+      Brief met reactieformulier verstuurd; inwoners konden tot 22 november hun
+      mening geven over de schetsen.
+  - date: '2026-02-02'
+    event: >-
+      Gemeente deelde de participatieopbrengst van 249 reacties en kondigde
+      nieuwe schetsen en bijeenkomsten op 9 en 10 maart aan.
+ai_processed_at: '2026-07-23T09:46:23.798Z'
 ---
 
 Van: <Mecoevorden.nl>

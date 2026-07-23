@@ -1,8 +1,146 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 1"
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-01-26 een Woo-verzoek over alle
+  documenten rond de herstructurering van Schoonoord en nam op 2026-05-21 een
+  gedeeltelijk toewijzend besluit. In de periode daarna volgden
+  ingebrekestellingen, aanmaningen, zienswijzen van derden en een uitgebreide
+  inventarisatie van documenten, waarna veel stukken deels openbaar werden
+  gemaakt met weglakking van persoonsgegevens.
+milestones:
+  - date: '2020-04-01'
+    event: Plan van aanpak Schoonoord opgesteld
+  - date: '2020-08-25'
+    event: Dorpsagenda Schoonoord vastgesteld
+  - date: '2020-10-15'
+    event: Bestuurlijk overleg Woonservice en gemeente Coevorden
+  - date: '2021-04-19'
+    event: Bestuurlijk overleg Coevorden en Woonservice
+  - date: '2021-10-26'
+    event: Prestatieafspraken Coevorden 2022
+  - date: '2022-02-07'
+    event: Definitief kaderdocument Schoonoord
+  - date: '2022-05-11'
+    event: Voorstel integrale aanpak en offerte Schoonoord
+  - date: '2022-10-17'
+    event: Haalbaarheidsonderzoek MFC Schoonoord
+  - date: '2022-12-01'
+    event: Getekende intentieovereenkomst Schoonoord
+  - date: '2023-03-03'
+    event: SchoonoordsKrantje nr. 50
+  - date: '2023-08-29'
+    event: Concept-toekomstagenda Schoonoord
+  - date: '2023-10-12'
+    event: Presentatie analyse en kansenkaart
+  - date: '2023-10-20'
+    event: Uitnodiging Schoonoord Noord 8 november 2023
+  - date: '2023-11-08'
+    event: Bewonersbijeenkomst Schoonoord Noord
+  - date: '2023-11-13'
+    event: Ophaalkaartjes en posters 8 november
+  - date: '2024-02-15'
+    event: Werkboek voorkeursmodel parkeren
+  - date: '2024-06-04'
+    event: Uitnodigingen bewonersavond Schoonoord Zuid
+  - date: '2024-06-13'
+    event: Brede dorpsavond en presentatie
+  - date: '2024-09-23'
+    event: Projectgroeppresentatie modellen Schoonoord Zuid
+  - date: '2024-11-29'
+    event: Stuurgroep Schoonoord en verslag
+  - date: '2025-01-07'
+    event: Projectgroepoverleg en notulen
+  - date: '2025-02-22'
+    event: Schriftelijke vragen deelproject Schoonoord-Noord
+  - date: '2025-03-11'
+    event: Presentatie Zuid en Noord
+  - date: '2025-03-17'
+    event: Getekende prestatieafspraken jaarschijf 2025
+  - date: '2025-05-14'
+    event: Raadsinformatiebrief en schriftelijke vragen plan Schoonoord
+  - date: '2025-06-12'
+    event: Brief B&W Coevorden aan Woonservice
+  - date: '2025-06-19'
+    event: Conceptposters voor bewonersbijeenkomst
+  - date: '2025-06-20'
+    event: Raadsinformatiebrief motie Schoonoord
+  - date: '2025-10-09'
+    event: Raadsinformatiebrief PvdA plan Schoonoord
+  - date: '2025-10-10'
+    event: Marsroute herstructurering aangepast
+  - date: '2025-10-14'
+    event: Brief aan raad over stand van zaken herstructurering
+  - date: '2025-10-16'
+    event: Beantwoording raadsvragen huurgrens woningen
+  - date: '2025-10-18'
+    event: Schriftelijke informatieplicht
+  - date: '2025-11-03'
+    event: Opgehaalde input Schoonoord
+  - date: '2025-11-03'
+    event: Inloopavond Schoonoord
+  - date: '2025-11-18'
+    event: Participatie-verslag inloop Schoonoord
+  - date: '2026-01-06'
+    event: Presentatie themasessie herstructurering Schoonoord
+  - date: '2026-01-24'
+    event: Woo-verzoek ingediend
+  - date: '2026-01-26'
+    event: Woo-verzoek ontvangen door gemeente
+  - date: '2026-01-27'
+    event: Aangepast schetsontwerp
+  - date: '2026-02-10'
+    event: Presentatie raad themasessie Schoonoord
+  - date: '2026-02-23'
+    event: Reactie CDA op 2e schetsplan
+  - date: '2026-03-03'
+    event: Posters voor inloop maart
+  - date: '2026-03-09'
+    event: Ingebrekestelling door advocaat
+  - date: '2026-03-26'
+    event: Aanmaning door advocaat
+  - date: '2026-03-31'
+    event: 'Meerdere documenten over uitnodigingen, presentaties en draaiboeken'
+  - date: '2026-04-01'
+    event: Actie- en besluitenlijst integrale ontwikkeling en projectoverleggen
+  - date: '2026-04-01'
+    event: >-
+      Meerdere documenten openbaar gemaakt over plannen, communicatie en
+      financiën
+  - date: '2026-04-13'
+    event: Gemeente meldt dat het verzoek groot en complex is
+  - date: '2026-04-14'
+    event: Gemeente geeft aan termijn 2026-05-01 niet te halen
+  - date: '2026-04-15'
+    event: Advocaat reageert op compensatie en gesplitste verstrekking
+  - date: '2026-04-20'
+    event: Gemeente vraagt opnieuw akkoord voor gesplitste verstrekking
+  - date: '2026-04-22'
+    event: Nieuwe versies van stedenbouwkundig plan en communicatie
+  - date: '2026-04-30'
+    event: Bijeenkomst Schoonoord en aanvullende stukken
+  - date: '2026-05-06'
+    event: Derde belanghebbenden gevraagd om zienswijze
+  - date: '2026-05-20'
+    event: Einde termijn zienswijzen derde belanghebbenden
+  - date: '2026-05-21'
+    event: Besluit Woo-verzoek verzonden; gedeeltelijke toewijzing
+  - date: '2026-06-13'
+    event: Dorpsavond Schoonoord en opzet
+ai_processed_at: '2026-07-23T09:49:00.055Z'
 ---
 
 Gemeente

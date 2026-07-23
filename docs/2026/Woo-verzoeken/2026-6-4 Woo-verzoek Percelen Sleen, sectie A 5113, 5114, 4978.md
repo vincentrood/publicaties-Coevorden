@@ -1,8 +1,157 @@
 ---
-title: "2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114, 4978"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114, 4978.pdf"
-date: 2026-07-23
+title: '2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114, 4978'
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114,
+  4978.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden behandelde in 2026 een Woo-verzoek over documenten rond
+  de percelen in Sleen en besloot deze gedeeltelijk openbaar te maken, met
+  weglakking van persoonsgegevens. Uit de stukken blijkt dat sinds 2023 een
+  langdurig transformatieproces voor De Tip in De Kiel liep, met
+  informatiebijeenkomsten, individuele gesprekken, concepten voor
+  transformatieplan en omgevingsplan, en in 2025-2026 verdere afstemming over
+  bestaande rechten en de mogelijke overgang naar wonen.
+milestones:
+  - date: '2020-01-01'
+    event: Gemeente stelt programma Vitale Vakantieparken Coevorden vast
+  - date: '2022-09-27'
+    event: Document over De Kiel/De Tip (RE_ De Kiel de Tip)
+  - date: '2023-04-23'
+    event: Woo-verzoek ontvangen
+  - date: '2023-05-09'
+    event: >-
+      Uitnodiging voor informatiebijeenkomst transformatieproces De Tip
+      verstuurd.
+  - date: '2023-05-15'
+    event: Makelaar ontvangt uitnodiging
+  - date: '2023-05-25'
+    event: Informatiebijeenkomst transformatieproces De Tip gehouden.
+  - date: '2023-05-26'
+    event: Stukken van de bijeenkomst nagezonden aan betrokkenen.
+  - date: '2023-06-01'
+    event: Document over aankoop De Tip
+  - date: '2023-06-01'
+    event: Informatie over kavel en transformatieproces per e-mail opgevraagd.
+  - date: '2023-06-01'
+    event: >-
+      Potentiële koper vraagt de gemeente of een kavel op De Tip al naar wonen
+      wordt omgezet.
+  - date: '2023-06-02'
+    event: Verzoek om informatie over kavel
+  - date: '2023-06-02'
+    event: Gemeente verstrekte benodigde gegevens over De Tip-De Kiel.
+  - date: '2023-06-02'
+    event: >-
+      Gemeente stuurt gegevens over De Tip door in reactie op het
+      informatieverzoek.
+  - date: '2023-07-10'
+    event: Informeren inzake aankoop kavel
+  - date: '2023-07-10'
+    event: Vervolgcorrespondentie over de kavel en transformatie naar wonen.
+  - date: '2023-08-11'
+    event: >-
+      Nieuwe vraag aan de gemeente over een perceel op De Tip en de
+      aangekondigde omzetting naar permanente bewoning.
+  - date: '2023-08-15'
+    event: >-
+      Gemeente legt uit dat er geen dagencriterium meer is en dat handhaving
+      afhangt van de intentie om te wonen.
+  - date: '2023-08-18'
+    event: Vragen over woonbestemming en informatie kavel
+  - date: '2023-08-18'
+    event: >-
+      Gemeente meldt dat de transformatie nog loopt, dat rond september wordt
+      beoordeeld of genoeg eigenaren meedoen, en dat nu alleen een
+      recreatiebestemming geldt.
+  - date: '2023-08-29'
+    event: >-
+      Belangstellende stelt uitgebreide vragen over de stand van zaken,
+      afspraken, kosten en bouwplicht rond De Tip.
+  - date: '2023-08-30'
+    event: Document over aankoop De Tip
+  - date: '2023-08-30'
+    event: >-
+      Gemeente herhaalt dat de transformatie nog niet zeker is en biedt aan een
+      telefonisch gesprek met de projectleider te plannen.
+  - date: '2023-09-04'
+    event: Informatie inzake verkoop De Tip
+  - date: '2023-09-25'
+    event: Document over verloop transformatie
+  - date: '2023-10-03'
+    event: Vraag over verloop De Tip
+  - date: '2023-10-05'
+    event: Informatie verloop transformatie
+  - date: '2023-10-17'
+    event: Reactie en vraag over voortgang transformatie
+  - date: '2023-10-23'
+    event: Verzoek om op de hoogte te blijven via nieuwsbrief
+  - date: '2024-02-16'
+    event: Document over eigenaren percelen De Tip
+  - date: '2024-04-29'
+    event: Input voor TAM-omgevingsplan De Tip
+  - date: '2024-07-12'
+    event: Concept-streefbeeld voor De Tip gepresenteerd aan de achterban.
+  - date: '2024-07-18'
+    event: Omgeving van De Tip geïnformeerd over de transformatieplannen.
+  - date: '2024-08-19'
+    event: Document over bouwkavel De Kiel of De Eeke
+  - date: '2024-08-30'
+    event: Nieuwe info betreffende bouwkavel telefonisch afgehandeld
+  - date: '2024-10-22'
+    event: Definitief streefbeeld vastgesteld door het college.
+  - date: '2024-12-04'
+    event: Document over bouwactiviteit De Tip
+  - date: '2024-12-12'
+    event: Opmerkingen op voorontwerp TAM-omgevingsplan De Tip
+  - date: '2025-04-08'
+    event: Aanpassing TAM IMRO wijzigingsplan De Tip/De Kiel
+  - date: '2025-05-15'
+    event: Inrichtingsplan v1
+  - date: '2025-06-18'
+    event: Communicatie makelaar plan 4 woningen en inrichtingsplan v2
+  - date: '2025-07-04'
+    event: Communicatie makelaar met reactie gemeente
+  - date: '2025-07-08'
+    event: Communicatie over aangepast plan 4 woningen en inrichtingsplan v3
+  - date: '2025-07-09'
+    event: Akkoord op aangepast plan 4 woningen
+  - date: '2025-07-16'
+    event: Makelaar ziet af van aangepast plan
+  - date: '2025-07-24'
+    event: Communicatie met handreiking
+  - date: '2025-09-15'
+    event: Communicatie over vervolg
+  - date: '2025-11-21'
+    event: FW De Tip
+  - date: '2026-01-07'
+    event: Reactie op conceptnotitie zienswijzen omgevingsplan De Tip
+  - date: '2026-03-19'
+    event: Zienswijze en opname kavels in TAM-transitie
+  - date: '2026-04-03'
+    event: Memo situatie De Tip en memo n.a.v. binnengekomen mail
+  - date: '2026-04-12'
+    event: >-
+      Dringend verzoek tot heroverweging en signalen onzorgvuldige
+      besluitvorming
+  - date: '2026-04-13'
+    event: Spoedsignaal over onzuivere besluitvorming en bejegening
+  - date: '2026-04-15'
+    event: >-
+      Agenderingsverzoek formeel signaal uitsluiting perceel en memo situatie De
+      Tip
+  - date: '2026-04-23'
+    event: Woo-verzoek ontvangen door gemeente
+  - date: '2026-05-21'
+    event: Beslistermijn verlengd met twee weken
+  - date: '2026-06-01'
+    event: 'Besluit Woo-verzoek: gedeeltelijk toegewezen'
+  - date: '2026-06-04'
+    event: Verzenddatum besluit
+ai_processed_at: '2026-07-23T09:41:52.542Z'
 ---
 
 Gemeente

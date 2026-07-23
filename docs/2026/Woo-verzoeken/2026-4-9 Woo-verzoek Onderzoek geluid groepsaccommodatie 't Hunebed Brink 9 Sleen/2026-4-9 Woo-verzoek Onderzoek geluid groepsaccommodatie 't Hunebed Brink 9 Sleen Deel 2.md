@@ -1,8 +1,68 @@
 ---
-title: "2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 2"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+  Sleen Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+    Sleen
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't
+  Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie
+  't Hunebed Brink 9 Sleen Deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In oktober en november 2024 is voor groepsaccommodatie ’t Hunebed in Coevorden
+  een akoestisch onderzoek uitgewerkt en afgestemd tussen gemeente en adviseurs.
+  Het onderzoek concludeert dat gebruik mogelijk is, maar dat inritgebruik in de
+  nacht en afscherming/beperking van enkele terrassen nodig zijn om aan de
+  richtwaarden te voldoen.
+milestones:
+  - date: '2020-11-09'
+    event: Bestemmingsplan Kernen vastgesteld/gehanteerd als ruimtelijk kader.
+  - date: '2024-09-11'
+    event: Geluidsmetingen uitgevoerd aan de blower van de airtrampoline.
+  - date: '2024-09-11'
+    event: >-
+      Meet-/rekengegevens voor de bronsterktebepaling van de blower
+      airtrampoline vastgelegd.
+  - date: '2024-10-16'
+    event: >-
+      Concept aangepaste kaart en regels verzonden; akoestisch onderzoek nog in
+      afwachting.
+  - date: '2024-10-29'
+    event: >-
+      Gemeente vraagt om stukken tijdig aan te leveren voor ontwerp TAM ter
+      inzage op 2024-11-21.
+  - date: '2024-11-01'
+    event: >-
+      Opmerkingen op regels: wonen-aanduiding nodig; groepsaccommodatie niet als
+      uitgangspunt voor regels.
+  - date: '2024-11-01'
+    event: >-
+      Akoestisch advies: uitgaan van wonen, niet van groepsaccommodatie; rijden
+      op zuidelijke strook wel toegestaan, parkeren niet.
+  - date: '2024-11-04'
+    event: >-
+      Gemeente stemt in met aanduiding op woongedeelte en vraagt aangepaste
+      stukken en uitkomsten akoestisch onderzoek.
+  - date: '2024-11-04'
+    event: >-
+      Invoergegevens voor directe en indirecte hinder en diverse
+      oppervlaktebronnen in het rekenmodel opgenomen.
+  - date: '2024-11-05'
+    event: Akoestisch onderzoek afgerond en gedateerd 2024-11-05.
+  - date: '2024-11-05'
+    event: >-
+      Akoestisch rapport opgesteld met berekeningen, toetsing en afweging van
+      maatregelen.
+  - date: '2024-11-05'
+    event: >-
+      Akoestisch onderzoek afgerond en geconcludeerd dat met voorwaarden aan
+      verkeer en terrassen aan de geluidsnormen kan worden voldaan.
+ai_processed_at: '2026-07-23T09:49:18.456Z'
 ---
 
 Mm 06 MR

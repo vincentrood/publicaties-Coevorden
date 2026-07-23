@@ -1,8 +1,52 @@
 ---
-title: "2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 1"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel
+  1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - '2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen'
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen Deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-02-20 een Woo-verzoek over
+  brandveiligheid Brink 9/9a en besloot op 2026-04-09 tot openbaarmaking met
+  weglakking van persoonsgegevens. In de onderliggende dossiers blijkt een
+  langdurige brandveiligheidslijn vanaf 2005, met vergunningen, controles,
+  waarschuwingen en uiteindelijk een brand op 2025-05-06.
+milestones:
+  - date: '2022-10-24'
+    event: >-
+      Gemeente vraagt brandweer om brandveiligheidscontrole bij Brink 9 te
+      Sleen.
+  - date: '2022-12-20'
+    event: >-
+      Brandweer nodigt uit voor bedrijfsbezoek brandveilig gebruik op
+      2023-01-09.
+  - date: '2022-12-20'
+    event: Veiligheidsregio Drenthe kondigde bedrijfsbezoek brandveilig gebruik aan.
+  - date: '2023-01-09'
+    event: >-
+      Brandweer voert bedrijfsbezoek uit en geeft meerdere
+      brandveiligheidsadviezen.
+  - date: '2023-01-09'
+    event: Bedrijfsbezoek brandveilig gebruik gepland bij Brink 9 te Sleen.
+  - date: '2026-02-18'
+    event: Formele klacht over bestuurlijk nalaten en brandveiligheid wordt genoemd.
+  - date: '2026-02-20'
+    event: Woo-verzoek over brandveiligheid Brink 9/9a wordt ontvangen.
+  - date: '2026-03-24'
+    event: >-
+      Belanghebbenden worden aangeschreven voor zienswijze; geen bezwaar tegen
+      openbaarmaking.
+  - date: '2026-04-09'
+    event: >-
+      Besluit Woo-verzoek: documenten openbaar met uitzondering van
+      persoonsgegevens.
+ai_processed_at: '2026-07-23T09:50:13.752Z'
 ---
 
 Postadres:

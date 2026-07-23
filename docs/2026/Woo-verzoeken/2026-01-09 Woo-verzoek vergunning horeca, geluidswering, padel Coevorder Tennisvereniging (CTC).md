@@ -1,8 +1,32 @@
 ---
-title: "2026-01-09 Woo-verzoek vergunning horeca, geluidswering, padel Coevorder Tennisvereniging (CTC)"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-01-09 Woo-verzoek vergunning horeca, geluidswering, padel Coevorder Tennisvereniging (CTC).pdf"
-date: 2026-07-23
+title: >-
+  2026-01-09 Woo-verzoek vergunning horeca, geluidswering, padel Coevorder
+  Tennisvereniging (CTC)
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-01-09 Woo-verzoek vergunning horeca, geluidswering,
+  padel Coevorder Tennisvereniging (CTC).pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2025 diende een Woo-verzoek in over vergunningen, communicatie en overleg
+  rond tennisvereniging CTC en padelbanen. Op 2026-01-09 besloot de gemeente het
+  deel over de horecavergunning toe te wijzen en de gevraagde documenten
+  openbaar te maken met weglakking van persoonsgegevens; de overige onderdelen
+  zouden apart worden behandeld.
+milestones:
+  - date: '2025-12-28'
+    event: Woo-verzoek ingediend via contactformulier
+  - date: '2025-12-28'
+    event: Verzoek geregistreerd onder zaaknummer 70166-2025
+  - date: '2026-01-09'
+    event: Besluit op Woo-verzoek genomen en horecavergunning toegekend
+  - date: '2026-01-09'
+    event: Openbaarmaking met uitzondering van persoonsgegevens aangekondigd
+  - date: '2026-02-20'
+    event: Bezwaar mogelijk binnen zes weken na verzenddatum
+ai_processed_at: '2026-07-23T09:45:34.974Z'
 ---
 
 Gemeente

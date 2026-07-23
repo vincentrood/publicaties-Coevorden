@@ -1,8 +1,106 @@
 ---
-title: "2026-01-14 Woo-verzoek inzet drone boven parken Primo en Secundo"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-01-14 Woo-verzoek inzet drone boven parken Primo en Secundo.pdf"
-date: 2026-07-23
+title: 2026-01-14 Woo-verzoek inzet drone boven parken Primo en Secundo
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-01-14 Woo-verzoek inzet drone boven parken Primo en
+  Secundo.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2025 ontstond discussie over een door de gemeente Coevorden geplande
+  dronevlucht boven recreatieparken Primo en Secundo, waarna bewoners/VvE
+  bezwaar maakten en de gemeente meerdere keren reageerde met een juridische en
+  privacy-onderbouwing. Op 2026-01-14 besloot de gemeente op een Woo-verzoek
+  over deze drone-inzet de aangetroffen documenten deels openbaar te maken, met
+  weglakking van persoonsgegevens.
+milestones:
+  - date: '2024-12-19'
+    event: Ministerbrief over permanente bewoning van recreatiewoningen aangekondigd
+  - date: '2024-12-31'
+    event: >-
+      QuickScan eind 2024 concludeert dat Toenakkers een typisch 2-huisjespark
+      is.
+  - date: '2025-03-26'
+    event: Gesprek met Hofparken over Wolfskuylen en voorbereiding nieuwbouw
+  - date: '2025-04-01'
+    event: Verkenningsgesprekken met park Toenakkers starten in april/mei 2025.
+  - date: '2025-04-08'
+    event: >-
+      College stemt in met vitaliteitsplan Zuiderveld en geleidelijke
+      uitfasering bewoning
+  - date: '2025-04-08'
+    event: >-
+      Raadsinformatiebrief over stoppen gesprekken met huidige
+      vertegenwoordigers van park Wico.
+  - date: '2025-05-27'
+    event: >-
+      Instructieregel permanente bewoning recreatiewoningen gepubliceerd en in
+      consultatie gebracht
+  - date: '2025-06-04'
+    event: >-
+      Raad geïnformeerd over consultatieversie instructieregel en voortgang
+      actieprogramma
+  - date: '2025-06-30'
+    event: >-
+      Stand van zaken juni 2025: bij Wico en Toenakkers worden aantallen
+      BRP-inschrijvingen, beschikkingen en vermoedelijke extra bewoning
+      geactualiseerd.
+  - date: '2025-09-16'
+    event: Offerte ontvangen voor dronevlucht vakantieparken Primo & Secundo.
+  - date: '2025-10-02'
+    event: >-
+      Opdrachtbevestiging verstuurd aan Droneview voor dronevlucht op
+      2025-11-26.
+  - date: '2025-10-02'
+    event: >-
+      Afstemming over dronevlucht Primo en Secundo; uitvoering gepland op
+      2025-11-26.
+  - date: '2025-11-05'
+    event: >-
+      Informatiebrief verzonden over dronevlucht boven Primo en Secundo in week
+      48.
+  - date: '2025-11-05'
+    event: Gemeente kondigt dronevlucht boven recreatieparken Primo en Secundo aan.
+  - date: '2025-11-09'
+    event: Brief ontvangen met zorgen over de inzet van de drone.
+  - date: '2025-11-11'
+    event: Aanvullende brief/e-mail ontvangen over de inzet van de drone.
+  - date: '2025-11-17'
+    event: >-
+      Reactie verzonden: geen besluit nodig, drone-inzet als toezichthoudende
+      taak toegelicht.
+  - date: '2025-11-18'
+    event: Brief ontvangen over zorgen rond drone-inzet boven Primo en Secundo
+  - date: '2025-11-18'
+    event: >-
+      Formele ingebrekestelling tegen voorgenomen dronevluchten wegens ontbreken
+      bevoegdheid, besluit en AVG-grondslag.
+  - date: '2025-11-19'
+    event: E-mail ontvangen over zorgen rond drone-inzet boven Primo en Secundo
+  - date: '2025-11-19'
+    event: Bezwaar ingediend tegen drone-opnames boven of rond het eigendom.
+  - date: '2025-11-21'
+    event: Nieuwe brief/e-mail ontvangen met zorgen over drone-inzet.
+  - date: '2025-11-24'
+    event: >-
+      Uitgebreide juridische reactie verzonden over toezicht, proportionaliteit
+      en privacy.
+  - date: '2025-11-24'
+    event: >-
+      Gemeente reageert schriftelijk op zorgen over drone-inzet en juridische
+      grondslag
+  - date: '2025-11-24'
+    event: >-
+      Intern overleg over drone-inzet; privacy officer acht uitgebreide DPIA
+      niet nodig en stelt blurring als maatregel voldoende.
+  - date: '2025-11-25'
+    event: >-
+      Woo-verzoek ingediend over documenten rond drone-inzet boven Primo en
+      Secundo.
+  - date: '2026-01-14'
+    event: 'Besluit op Woo-verzoek genomen: documenten deels openbaar gemaakt.'
+ai_processed_at: '2026-07-23T09:45:21.185Z'
 ---
 
 Postadres: Gemeente

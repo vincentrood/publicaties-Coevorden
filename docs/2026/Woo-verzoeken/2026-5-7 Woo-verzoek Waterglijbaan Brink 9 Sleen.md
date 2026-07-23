@@ -1,8 +1,96 @@
 ---
-title: "2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen.pdf"
-date: 2026-07-23
+title: 2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: 2026/Woo-verzoeken/2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2025-2026 liep een bezwaarprocedure over de invordering en later
+  bestuursdwang rond de waterglijbaan aan Brink 9 in Sleen, met meerdere
+  geplande en verplaatste hoorzittingen. Op 2026-05-07 besloot de gemeente op
+  een Woo-verzoek over de correspondentie met de bezwaarschriftencommissie en
+  maakte de documenten openbaar, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2025-01-30'
+    event: Invorderingsbeschikking dwangsom verzonden over glijbaan Brink 9 Sleen
+  - date: '2025-01-30'
+    event: Invorderingsbeschikking verzonden over dwangsom glijbaan Brink 9 Sleen
+  - date: '2025-03-14'
+    event: Bezwaar tegen invorderingsbesluit ontvangen
+  - date: '2025-03-17'
+    event: Dossier voor bezwaarprocedure aangeleverd aan bezwaarschriftencommissie
+  - date: '2025-03-19'
+    event: Hoorzitting bezwaar verplaatst naar 21 mei 2025
+  - date: '2025-03-28'
+    event: Termijn voor nadere stukken in bezwaar vastgesteld
+  - date: '2025-04-01'
+    event: Procesdossier aan bezwaarschriftencommissie gestuurd
+  - date: '2025-04-04'
+    event: Dossier en verweerschrift gevraagd voor de hoorzitting
+  - date: '2025-04-23'
+    event: Digitale hoorzitting bezwaar aanvankelijk gepland
+  - date: '2025-05-02'
+    event: Uitnodiging voor hoorzitting op 21 mei 2025 verzonden
+  - date: '2025-05-06'
+    event: >-
+      Brand verwoestte de groepsaccommodatie in Sleen; gemeente wilde hierover
+      eerst met gemachtigde spreken.
+  - date: '2025-05-07'
+    event: Gemeente verzocht behandeling bezwaar aan te houden
+  - date: '2025-05-07'
+    event: Verzoek gedaan om behandeling bezwaar aan te houden
+  - date: '2025-05-09'
+    event: Bezwaarschriftencommissie vroeg reactie op aanhoudingsverzoek
+  - date: '2025-05-13'
+    event: >-
+      Secretariaat meldde dat geen reactie was ontvangen en zitting doorgang kon
+      vinden
+  - date: '2025-05-20'
+    event: Bevestiging ontvangen dat commissie op de hoogte is van aanhoudingsverzoek
+  - date: '2025-05-20'
+    event: >-
+      Gemeente verzocht de bezwaarschriftencommissie de hoorzitting van 21 mei
+      uit te stellen.
+  - date: '2025-05-21'
+    event: Geplande hoorzitting uitgesteld na brand bij groepsaccommodatie
+  - date: '2025-06-05'
+    event: Beslistermijn op bezwaar genoemd als uiterste datum
+  - date: '2025-11-11'
+    event: Zaak opnieuw op agenda gezet voor hoorzitting op 17 december 2025
+  - date: '2025-11-13'
+    event: >-
+      Gemeente gaf aan geen aanvullend verweerschrift of stukken te zullen
+      indienen
+  - date: '2025-11-28'
+    event: Uiterste aanleverdatum voor aangepast verweerschrift of dossier
+  - date: '2025-12-17'
+    event: Hoorzitting bezwaarschriftencommissie gepland
+  - date: '2026-01-29'
+    event: Bezwaar tegen last onder bestuursdwang ingediend
+  - date: '2026-02-04'
+    event: Zaak ingepland voor hoorzitting op 21 april 2026
+  - date: '2026-02-19'
+    event: >-
+      Gemeente stuurde kopie van het besluit op bezwaar en meldde dat de
+      commissie advies had uitgebracht.
+  - date: '2026-03-19'
+    event: Hoorzitting verplaatst naar 15 april 2026
+  - date: '2026-03-20'
+    event: Woo-verzoek ontvangen over correspondentie en documenten rond dit dossier
+  - date: '2026-03-20'
+    event: >-
+      Woo-verzoek ingediend over het dossier 'Waterglijbaan aan de Brink 9 te
+      Sleen'.
+  - date: '2026-03-26'
+    event: Procesdossier inclusief verweerschrift aangeleverd
+  - date: '2026-04-15'
+    event: Nieuwe datum hoorzitting genoemd voor bestuursdwangzaak
+  - date: '2026-04-17'
+    event: Beslistermijn Woo-verzoek met twee weken verlengd
+  - date: '2026-05-07'
+    event: 'Woo-besluit genomen: documenten openbaar, behalve persoonsgegevens'
+ai_processed_at: '2026-07-23T09:42:31.531Z'
 ---
 
 Gemeente

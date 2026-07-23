@@ -1,8 +1,88 @@
 ---
-title: "2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 1"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+  Sleen Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+    Sleen
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't
+  Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie
+  't Hunebed Brink 9 Sleen Deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden behandelde in 2026 een Woo-verzoek over alle
+  correspondentie rond het geluidsonderzoek voor groepsaccommodatie ’t Hunebed
+  en besloot de documenten openbaar te maken met weglakking van
+  persoonsgegevens. In 2024 werkte de gemeente samen met adviseurs en
+  betrokkenen aan een TAM-omgevingsplan, inclusief akoestisch onderzoek,
+  parkeeruitgangspunten en planregels voor de (restrictieve) inpassing van de
+  groepsaccommodatie.
+milestones:
+  - date: '2023-09-19'
+    event: Alcoholwetvergunning verleend voor schenken in aangewezen ruimtes.
+  - date: '2023-10-19'
+    event: >-
+      Horeca-exploitatievergunning verleend met toegestane functies, terrassen
+      en sluitingskaders.
+  - date: '2024-01-01'
+    event: >-
+      Omgevingswet en Bbl traden in werking; oude brandveiligheidsregels
+      vervielen.
+  - date: '2024-06-11'
+    event: Gemeente stuurt brief over groepsaccommodatie en start planwijziging.
+  - date: '2024-08-27'
+    event: >-
+      Akoestisch onderzoeksbureau benaderd voor onderzoek naar de
+      groepsaccommodatie.
+  - date: '2024-08-28'
+    event: Interne e-mail over bespreking met exploitant groepsaccommodatie.
+  - date: '2024-08-28'
+    event: >-
+      Gemeente bevestigde afspraak voor bezoek met akoestisch adviseur op 11
+      september 2024.
+  - date: '2024-08-28'
+    event: Afspraak met exploitant groepsaccommodatie gepland voor 2024-09-11.
+  - date: '2024-09-11'
+    event: Gepland bezoek van gemeente en adviseur aan de locatie voor veldonderzoek.
+  - date: '2024-09-11'
+    event: Gesprek met de ondernemer vond plaats; uitkomsten werden afgewacht.
+  - date: '2024-09-12'
+    event: >-
+      Gemeente meldde dat BRS voldoende informatie had om een akoestisch
+      onderzoek uit te voeren.
+  - date: '2024-10-02'
+    event: >-
+      Teams-overleg over akoestisch onderzoek; CROW-gegevens voor parkeren en
+      verkeersgeneratie besproken.
+  - date: '2024-10-07'
+    event: >-
+      Voorkeur uitgesproken voor CROW-publicatie; berekening kwam uit op 40
+      kamers, 11 parkeerplaatsen op eigen terrein en 31 autobewegingen.
+  - date: '2024-10-16'
+    event: >-
+      Conceptregels en conceptkaart voor het TAM-omgevingsplan gedeeld;
+      afronding wacht op akoestisch onderzoek.
+  - date: '2024-10-22'
+    event: >-
+      Gemeente vroeg wanneer het akoestisch onderzoek afgerond zou zijn vanwege
+      spoed voor ontwerp-TAM.
+  - date: '2024-10-29'
+    event: >-
+      Gemeld dat het akoestisch onderzoek de volgende week zou worden
+      aangeleverd; ontwerp-TAM moest op 2024-11-21 ter inzage.
+  - date: '2026-02-19'
+    event: Woo-verzoek ontvangen over correspondentie en geluidsonderzoek.
+  - date: '2026-03-24'
+    event: Belanghebbenden aangeschreven voor zienswijze.
+  - date: '2026-04-09'
+    event: >-
+      Besluit op Woo-verzoek verzonden; verzoek geheel toegewezen met weglakking
+      van persoonsgegevens.
+ai_processed_at: '2026-07-23T09:49:35.291Z'
 ---
 
 Postadres:

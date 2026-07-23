@@ -1,8 +1,82 @@
 ---
-title: "2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS de Wegwijzer, Geesbrug"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS de Wegwijzer, Geesbrug.pdf"
-date: 2026-07-23
+title: >-
+  2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS de Wegwijzer,
+  Geesbrug
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS
+  de Wegwijzer, Geesbrug.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2025-2026 startte een fusieonderzoek tussen OBS De Zwarm en CBS De
+  Wegwijzer in Geesbrug, met als doel per 2026-08-01 een formele
+  samenwerkingsschool te vormen. De gemeente Coevorden behandelde het dossier in
+  2026 en besloot het Woo-verzoek gedeeltelijk toe te wijzen, met openbaarmaking
+  van documenten minus persoonsgegevens.
+milestones:
+  - date: '2025-09-01'
+    event: Intentieverklaring voor fusie en samenwerkingsschool per 2026-08-01.
+  - date: '2025-10-14'
+    event: Fiers informeert gemeente Coevorden over het fusievoornemen.
+  - date: '2025-10-28'
+    event: >-
+      Raad ontvangt brief over fusieonderzoek; advies: ter afdoening in handen
+      van college.
+  - date: '2025-11-18'
+    event: Gemeente bespreekt de intentieverklaring en vervolgstappen intern.
+  - date: '2025-11-18'
+    event: Ouderavond/raadpleging in het fusieproces.
+  - date: '2025-11-19'
+    event: Uitleg dat het stuk door de raad aan het college is overgedragen.
+  - date: '2025-11-20'
+    event: >-
+      Intern overleg over vraag of eerst fusieonderzoek of collegevoorstel nodig
+      is.
+  - date: '2026-01-01'
+    event: >-
+      Raadsvergadering besluit formeel tot opheffing van OBS De Zwarm bij
+      samenwerkingsschool.
+  - date: '2026-01-05'
+    event: >-
+      Collegeadvies Coevorden: raad voorstellen in te stemmen met opheffing OBS
+      De Zwarm per 2026-08-01.
+  - date: '2026-03-23'
+    event: Concept fusie-effectrapportage gedeeld voor bespreking college.
+  - date: '2026-04-01'
+    event: Instemming MR verwacht in april/mei 2026.
+  - date: '2026-04-02'
+    event: >-
+      Woo-verzoek ingediend over de mogelijke fusie tussen OBS De Zwarm en CBS
+      De Wegwijzer.
+  - date: '2026-04-21'
+    event: Ouderavond/raadpleging in het fusieproces.
+  - date: '2026-04-30'
+    event: Gemeente verlengde de beslistermijn met 14 dagen.
+  - date: '2026-05-08'
+    event: >-
+      Telefonisch contact; verzoek beperkt tot rol van de gemeente en termijn 2
+      weken gepauzeerd voor zienswijze.
+  - date: '2026-05-13'
+    event: Belanghebbenden gevraagd om zienswijze; geen gebruik van gemaakt.
+  - date: '2026-05-19'
+    event: >-
+      Besluit genomen: Woo-verzoek gedeeltelijk toegewezen met weglakking van
+      persoonsgegevens.
+  - date: '2026-08-01'
+    event: >-
+      Beoogde overdracht van OBS De Zwarm aan stichting Fiers en start
+      samenwerkingsschool.
+  - date: '2026-09-01'
+    event: Start inhoudelijke evaluatie in schooljaar 2026/2027.
+  - date: '2026-10-01'
+    event: Tussentijdse evaluatie gepland in herfst 2026.
+  - date: '2026-12-01'
+    event: Tussentijdse evaluatie gepland rond kerst 2026.
+  - date: '2027-01-01'
+    event: 'Evaluatie na een jaar met bestuur, directie en MR.'
+ai_processed_at: '2026-07-23T09:43:29.421Z'
 ---
 
 Gemeente

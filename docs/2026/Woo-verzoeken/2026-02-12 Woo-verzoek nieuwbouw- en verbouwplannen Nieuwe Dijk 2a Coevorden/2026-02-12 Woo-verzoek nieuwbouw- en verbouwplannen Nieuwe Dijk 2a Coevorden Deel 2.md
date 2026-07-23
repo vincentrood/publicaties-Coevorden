@@ -1,8 +1,70 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 2"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2025 is een kwantitatieve risicoanalyse uitgevoerd voor de realisatie van
+  bedrijfsunits voor opslag in Coevorden. De analyse concludeert dat het
+  plaatsgebonden risico geen belemmering vormt en dat het groepsrisico onder de
+  oriëntatiewaarde blijft, met een zeer lichte toename in de toekomstige
+  situatie.
+milestones:
+  - date: '2020-01-01'
+    event: >-
+      Onderzoek externe veiligheid uitgevoerd voor het plan met 70 bedrijfsunits
+      voor opslag.
+  - date: '2020-01-01'
+    event: >-
+      Bestaande bebouwing deels gesloopt en deels gerenoveerd; totale bebouwing
+      neemt af van 4.471 m² naar 4.225 m².
+  - date: '2020-01-01'
+    event: >-
+      Plangebied blijkt deels binnen de 10-6 plaatsgebonden risicocontour van de
+      nabijgelegen mijnbouwinrichting te liggen.
+  - date: '2020-01-01'
+    event: >-
+      Inventarisatie toont relevante buisleidingen van Gasunie en NAM in de
+      omgeving; nadere groepsrisicoberekening is nodig.
+  - date: '2020-01-01'
+    event: >-
+      CAROLA-berekening laat zien dat het groepsrisico in de huidige situatie
+      onder 10% van de oriëntatiewaarde blijft.
+  - date: '2020-01-01'
+    event: >-
+      CAROLA-berekening laat zien dat het groepsrisico in de toekomstige
+      situatie marginaal stijgt maar onder de oriëntatiewaarde blijft.
+  - date: '2020-01-01'
+    event: >-
+      Conclusie: beperkte verantwoording van het groepsrisico volstaat voor het
+      plan.
+  - date: '2025-06-13'
+    event: Aanleverdatum van het rapport vermeld.
+  - date: '2025-06-30'
+    event: Het CAROLA-projectbestand werd laatst bijgewerkt.
+  - date: '2025-06-30'
+    event: Bijlagen met leidinggegevens en risicostudie opgenomen.
+  - date: '2025-06-30'
+    event: Plaatsgebonden risico voor meerdere leidingen uitgewerkt.
+  - date: '2025-06-30'
+    event: Groepsrisicoscreening uitgevoerd voor alle onderzochte tracés.
+  - date: '2025-06-30'
+    event: FN-curves opgenomen voor de slechtste kilometer per tracé.
+  - date: '2025-07-02'
+    event: De risicoberekeningen voor de QRA werden uitgevoerd.
+  - date: '2025-07-23'
+    event: >-
+      Rapportage vermeldt dat het groepsrisico in de toekomstige situatie zeer
+      licht toeneemt maar onder de oriëntatiewaarde blijft.
+ai_processed_at: '2026-07-23T09:51:29.149Z'
 ---
 
 1.1

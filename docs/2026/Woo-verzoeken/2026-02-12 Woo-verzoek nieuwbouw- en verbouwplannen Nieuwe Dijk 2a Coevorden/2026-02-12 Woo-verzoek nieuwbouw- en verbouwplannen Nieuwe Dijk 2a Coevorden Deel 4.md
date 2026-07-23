@@ -1,8 +1,86 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 4"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 4.pdf"
-date: 2026-07-23
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 4
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 4.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2024-2025 liep een aanvraag voor de bouw van 69 opslagunits aan de Nieuwe
+  Dijk 2a in Coevorden, met negatieve welstandsbeoordeling, aanvullende eisen
+  over bodem, externe veiligheid en waterberging, en een overeenkomst over
+  nadeelcompensatie. Omdat de gevraagde aanvullende gegevens niet tijdig zijn
+  aangeleverd, is de aanvraag op 2025-11-05 buiten behandeling gesteld.
+milestones:
+  - date: '2023-06-27'
+    event: >-
+      VRD-advies over beperkte verantwoording groepsrisico voor woningbouw
+      Stationsstraat 34-36
+  - date: '2023-06-27'
+    event: VRD-advies externe veiligheid uitgebracht voor woningbouwontwikkeling.
+  - date: '2024-01-31'
+    event: >-
+      Collegeadvies opgesteld over principebesluit nieuwbouw bedrijfsunits
+      Nieuwe Dijk 2a.
+  - date: '2024-02-13'
+    event: B&W besluiten in principe medewerking te verlenen aan bedrijfsunits.
+  - date: '2024-12-16'
+    event: Omgevingsvergunning aangevraagd voor nieuwbouw 69 opslagunits
+  - date: '2024-12-16'
+    event: >-
+      Omgevingsloketdocumenten en bijlagen ingediend, inclusief bodemonderzoek
+      en tekeningen.
+  - date: '2025-01-28'
+    event: E-mailwisseling over uitweg/parkeren en APV bij opslagunits.
+  - date: '2025-02-05'
+    event: >-
+      SPA WNP vraagt om toelichting op externe-veiligheidsgegevens voor Nieuwe
+      Dijk 2A.
+  - date: '2025-02-13'
+    event: Omgevingsdienst meldt dat bodemadvies voor zaak Z2024-023024 volgt.
+  - date: '2025-02-13'
+    event: OD Drenthe meldt dat advies voor Nieuwe Dijk 2a vertraging heeft
+  - date: '2025-02-14'
+    event: Omgevingsdienst verstrekt bodemmemo over Nieuwe Dijk 2A.
+  - date: '2025-02-14'
+    event: OD Drenthe stuurt advies over bodemonderzoek Nieuwe Dijk 2a
+  - date: '2025-02-17'
+    event: >-
+      Gemeente stuurt aanvullende werkomschrijving grondwerk aan de
+      Omgevingsdienst.
+  - date: '2025-02-17'
+    event: >-
+      Gemeente verwerkt bodemreactie en vraagt aanvullend VRD-advies
+      groepsrisico
+  - date: '2025-03-19'
+    event: Verzoek gedaan om beslistermijn met 6 maanden te verlengen.
+  - date: '2025-03-20'
+    event: Gemeente bevestigt verlenging van de beslistermijn met 6 maanden.
+  - date: '2025-05-27'
+    event: >-
+      Ontwikkelaar vraagt overleg over waterparagraaf en bergingsopgave Nieuwe
+      Dijk 2a
+  - date: '2025-05-28'
+    event: >-
+      Afstemming over waterhuishouding, riolering en verdere
+      vergunningaanvullingen.
+  - date: '2025-05-28'
+    event: >-
+      Gemeente Coevorden legt vraag over waterparagraaf voor aan Waterschap
+      Vechtstromen
+  - date: '2025-06-24'
+    event: >-
+      Gemeente geeft advies over riolering en mogelijke aansluiting op
+      rioolgemaal.
+  - date: '2025-10-28'
+    event: Gewijzigde situatietekeningen met nieuwe en bestaande toestand gedateerd.
+ai_processed_at: '2026-07-23T09:51:02.878Z'
 ---
 
 Gemeente

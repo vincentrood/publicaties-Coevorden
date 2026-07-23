@@ -1,8 +1,101 @@
 ---
-title: "2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 2"
-maps: ["2026","Woo-verzoeken","2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden"]
-source: "2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+  Forbo Flooring Coevorden Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+    Forbo Flooring Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking
+  kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29
+  Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo
+  Flooring Coevorden Deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2024 ontstond correspondentie over de afvalverwerking van Forbo
+  Coevorden, met vragen over de eindbestemming van PVC-/plastisolstromen en de
+  mogelijke aanwezigheid van ZZS. In 2025 volgden meerdere afstemmingen tussen
+  RUD Drenthe, provincie, gemeente, ILT en Forbo over toezicht, XRF-metingen en
+  een conceptreactie op het verzoek om duidelijkheid over de afvalstromen.
+milestones:
+  - date: '2024-07-30'
+    event: RUD Drenthe deelt contactgegevens van de vergunningverlener Forbo.
+  - date: '2024-07-30'
+    event: >-
+      RUD meldt telefoontje van PVC-recycling/Vinylrecycling over
+      Forbo-afvalstromen en doorgeeft contactgegevens.
+  - date: '2024-07-30'
+    event: Melding over PVC-recyclingbedrijf in Lelystad en contact met RUD
+  - date: '2024-08-20'
+    event: >-
+      RUD/ILT bespreken dat Forbo bekend is en dat de stroom met Forbo is
+      gestopt; er lopen handhavingszaken.
+  - date: '2024-08-20'
+    event: >-
+      Interne afstemming over bedrijf in Lelystad en mogelijke link met
+      Forbo-afval
+  - date: '2024-08-26'
+    event: RUD voert overleg met ILT over de einde-afvalstatus van Forbo-snijresten.
+  - date: '2024-08-26'
+    event: >-
+      RUD-medewerker reageert positief op de toenadering van het bedrijf in
+      Lelystad
+  - date: '2024-08-30'
+    event: >-
+      RUD stuurt verzoek om aanvullend XRF-onderzoek naar ZZS in de
+      vinylsnijresten.
+  - date: '2024-09-05'
+    event: SAM BV vraagt om een kort Teams-overleg over de XRF/ZZS-vraag.
+  - date: '2024-09-05'
+    event: 'RUD reageert dat een overleg op 6 september om 13:00 uur mogelijk is.'
+  - date: '2024-09-26'
+    event: >-
+      RUD stuurt de contactgegevens van de vergunningverlener Forbo opnieuw
+      door.
+  - date: '2024-11-11'
+    event: Overleg ingepland over resultaten van XRF-metingen
+  - date: '2025-06-10'
+    event: Vraag over Forbo-afvalstromen doorgestuurd naar gemeente Coevorden
+  - date: '2025-06-16'
+    event: >-
+      ILT vraagt RUD of er inspecties bekend zijn over Forbo’s afvoer van
+      afvalstoffen na een signaal over PVC-afvalstromen.
+  - date: '2025-06-17'
+    event: >-
+      RUD meldt intern overleg over taakverdeling en opvolging van het
+      Forbo-dossier.
+  - date: '2025-07-11'
+    event: Inhoudelijke reactie van RUD op vragen over Forbo-afvalstromen
+  - date: '2025-07-14'
+    event: >-
+      ILT vraagt om contact met de toezichthouder van Forbo om inspectie in te
+      plannen.
+  - date: '2025-07-15'
+    event: >-
+      RUD verstrekt contactgegevens van toezichthouders milieu-industrie en
+      milieu-afval.
+  - date: '2025-07-15'
+    event: ILT verduidelijkt dat het om de toezichthouder van Forbo zelf gaat.
+  - date: '2025-07-15'
+    event: RUD bevestigt opnieuw de contactgegevens van de toezichthouders.
+  - date: '2025-07-15'
+    event: ILT vraagt nogmaals om contactgegevens van de toezichthouder van Forbo.
+  - date: '2025-08-06'
+    event: Conceptreactie en afstemming met provincie Drenthe over Forbo-dossier
+  - date: '2025-08-20'
+    event: >-
+      Vervolgvragen over afvalcodes, bestemmingen en toezicht op
+      Forbo-afvalstromen
+  - date: '2025-08-26'
+    event: >-
+      Conceptreactie over afvalstromen Forbo wordt intern besproken en akkoord
+      gevraagd
+  - date: '2025-08-27'
+    event: RUD stuurt contactgegevens door van een senior inspecteur/toezichthouder.
+ai_processed_at: '2026-07-23T09:52:10.572Z'
 ---
 
 Wij zijn vinylreeycling.com een onderneming die zich bezig houd met PVC recycling.

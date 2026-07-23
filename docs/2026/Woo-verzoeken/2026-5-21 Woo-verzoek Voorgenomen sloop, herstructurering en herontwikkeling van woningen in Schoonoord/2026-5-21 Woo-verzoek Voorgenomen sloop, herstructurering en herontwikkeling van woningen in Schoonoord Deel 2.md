@@ -1,8 +1,118 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 2"
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2021 werkt Coevorden aan een integrale aanpak voor Schoonoord, waarin
+  wonen, onderwijs, duurzaamheid en openbare ruimte samenkomen. In 2024-2026
+  verschoof de focus naar een concreet stedenbouwkundig plan voor
+  Schoonoord-Noord en -Zuid, met sloop-nieuwbouw, grondruil, participatie en
+  bestuurlijke besluitvorming, terwijl de samenwerking met Woonservice onder
+  druk kwam te staan.
+milestones:
+  - date: '2020-07-17'
+    event: Projectopdracht Integraal Ontwikkelplan Schoonoord opgesteld
+  - date: '2021-02-01'
+    event: >-
+      Transitievisie Warmte vastgesteld; Schoonoord aangewezen als kansrijke
+      kern
+  - date: '2021-12-07'
+    event: Woonvisie vastgesteld met integrale aanpak voor wonen in Schoonoord
+  - date: '2021-12-22'
+    event: Concept opgaveverkenning integrale aanpak Schoonoord opgesteld.
+  - date: '2021-12-22'
+    event: >-
+      Opgaveverkenning: integrale visie en uitvoeringsplan voor Schoonoord
+      uitgewerkt
+  - date: '2022-01-01'
+    event: Raad besluit door te gaan met haalbaarheidsonderzoek naar MFA
+  - date: '2022-02-10'
+    event: Intentieovereenkomst gesloten met deelnemende partijen voor MFA
+  - date: '2022-07-14'
+    event: Intentieovereenkomst voor integraal ontwikkelplan Schoonoord ondertekend
+  - date: '2022-11-01'
+    event: Rapportage haalbaarheidsonderzoek MFA opgeleverd en gepresenteerd
+  - date: '2023-01-31'
+    event: Projectopdracht Integraal Ontwikkelplan Schoonoord geactualiseerd
+  - date: '2024-03-12'
+    event: Kansenkaart Schoonoord opgesteld met integrale ontwikkelkansen.
+  - date: '2024-03-24'
+    event: >-
+      Kansenkaart Schoonoord vastgesteld als beleidskader voor dorpsopgaven en
+      koppelkansen.
+  - date: '2024-05-13'
+    event: PFO bespreekt projectopdracht Schoonoord-Noord fase 2
+  - date: '2024-06-24'
+    event: Brief over woonbeleid en uitstel huisvestingsverordening.
+  - date: '2024-12-07'
+    event: Woonvisie 2021+ bevestigt integrale aanpak voor Schoonoord.
+  - date: '2025-01-31'
+    event: >-
+      Woonservice zou bewoners Noord informeren over voorgenomen sloop en
+      renovatie.
+  - date: '2025-02-10'
+    event: >-
+      2e concept stedenbouwkundig plan herstructurering Schoonoord
+      gepresenteerd.
+  - date: '2025-02-16'
+    event: Memo adviseert over vervolgstappen en participatie rond Schoonoord.
+  - date: '2025-02-28'
+    event: Woonservice zou bewoners Zuid informeren over definitieve sloop.
+  - date: '2025-03-09'
+    event: Geplande dorpsbijeenkomst over het stedenbouwkundig plan.
+  - date: '2025-03-10'
+    event: Tweede geplande dorpsbijeenkomst over het stedenbouwkundig plan.
+  - date: '2025-04-01'
+    event: Beoogde informatie aan het dorp over de plannen.
+  - date: '2025-11-01'
+    event: >-
+      In november 2025 werd de eerste versie van het plan aan het dorp
+      gepresenteerd.
+  - date: '2025-11-01'
+    event: >-
+      Eerste concept stedenbouwkundig plan voor Schoonoord aan het dorp
+      gepresenteerd.
+  - date: '2026-01-12'
+    event: Praatstuk Schoonoord gedeeld met fracties
+  - date: '2026-02-10'
+    event: >-
+      Tweede concept stedenbouwkundig plan gepresenteerd in besloten themasessie
+      aan de gemeenteraad.
+  - date: '2026-02-10'
+    event: Themasessie gemeenteraad over herstructureringsplannen Schoonoord gepland
+  - date: '2026-02-12'
+    event: >-
+      In bestuurlijk overleg afgesproken communicatie over Zetveld te gebruiken
+      en bewoners te betrekken.
+  - date: '2026-02-13'
+    event: Memo opgesteld over standpuntvorming herstructurering Zetveld Schoonoord.
+  - date: '2026-02-17'
+    event: B&W-vergadering over Zetveld en planvorming Schoonoord.
+  - date: '2026-02-17'
+    event: >-
+      Conceptantwoorden voorbereid voor mondelinge vragen in het vragenuurtje
+      over Schoonoord.
+  - date: '2026-03-09'
+    event: Geplande koffietafel met bewoners voor heroverweging na participatieronde.
+  - date: '2026-03-10'
+    event: Geplande koffietafel met bewoners voor heroverweging na participatieronde.
+  - date: '2026-06-01'
+    event: Oplevering nieuwe scholen gepland in zomer 2026.
+  - date: '2026-10-01'
+    event: Eind 2026 beoogde beschikbaarheid van de schoollocatie in Noord.
+ai_processed_at: '2026-07-23T09:48:19.217Z'
 ---
 
 Herstructurering Schoonoord – Spagaat in samenwerking met

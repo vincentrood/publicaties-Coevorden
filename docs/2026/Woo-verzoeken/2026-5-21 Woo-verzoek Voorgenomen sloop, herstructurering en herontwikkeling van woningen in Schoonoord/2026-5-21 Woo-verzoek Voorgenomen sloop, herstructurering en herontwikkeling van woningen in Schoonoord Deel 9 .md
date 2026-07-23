@@ -1,8 +1,158 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 9 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 9 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 9 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 9 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Het dossier gaat over de herstructurering van Schoonoord, waarbij gemeente,
+  Woonservice en Dorpsbelangen via kansenkaart, schetsontwerpen en participatie
+  toewerken naar een definitief stedenbouwkundig plan. In 2025-2026 ontstond
+  veel onrust door sloopaanzeggingen en communicatie van Woonservice, waarna de
+  gemeente de regie aanscherpte, een terugkeergarantie en tijdelijke huisvesting
+  afsprak en het proces opnieuw in fases uitwerkte.
+milestones:
+  - date: '2023-11-08'
+    event: Laatste bewonersbijeenkomst Schoonoord-Noord.
+  - date: '2024-03-12'
+    event: Kansenkaart Schoonoord gepresenteerd aan de raad.
+  - date: '2024-03-26'
+    event: Gemeenteraad stelt de Kansenkaart Schoonoord vast.
+  - date: '2024-03-26'
+    event: Raad stelt de Kansenkaart Schoonoord vast.
+  - date: '2024-06-13'
+    event: Bijeenkomst met bewoners van Schoonoord-Zuid.
+  - date: '2024-06-25'
+    event: >-
+      Raadsinformatiebrief over woonbeleid en huisvestingsverordening; besluit
+      om opstellen uit te stellen.
+  - date: '2024-12-31'
+    event: >-
+      Eind 2024 leidt de stedenbouwkundige verkenning tot een
+      voorkeursmodel/schetsontwerp.
+  - date: '2024-12-31'
+    event: >-
+      Eind 2024 leidt de verkenning tot een voorkeursschets/voorkeursmodel voor
+      Schoonoord.
+  - date: '2025-02-01'
+    event: >-
+      Woonservice start met sloopaankondigingen aan huurders, wat onrust
+      veroorzaakt.
+  - date: '2025-02-22'
+    event: Schriftelijke vragen gesteld over Schoonoord-Noord.
+  - date: '2025-03-13'
+    event: Beantwoording raadsvragen over Schoonoord-Noord verzonden.
+  - date: '2025-03-25'
+    event: 'Motie aangenomen over totaalplan, terugkeergarantie en wisselwoningen.'
+  - date: '2025-03-25'
+    event: Raad neemt motie 25-01 aan over de herstructurering Schoonoord.
+  - date: '2025-03-25'
+    event: >-
+      Woonservice maakt het schetsontwerp openbaar aan huurders zonder overleg
+      met andere partijen.
+  - date: '2025-03-25'
+    event: >-
+      Motie over herstructurering Schoonoord wordt aangenomen en voorkeursmodel
+      wordt openbaar gemaakt aan huurders.
+  - date: '2025-04-01'
+    event: >-
+      Woonwensgesprekken met huurders van te slopen woningen starten in april
+      2025.
+  - date: '2025-05-08'
+    event: Schriftelijke vragen gesteld over huurgrens woningen in Schoonoord.
+  - date: '2025-05-14'
+    event: Beantwoording raadsvragen over plan Schoonoord verzonden.
+  - date: '2025-05-28'
+    event: >-
+      Gemeente en Woonservice spreken nieuwe samenwerkingsafspraken af in de
+      stuurgroep.
+  - date: '2025-05-28'
+    event: >-
+      Stuurgroep bespreekt en stemt in met nieuwe samenwerkingsafspraken tussen
+      gemeente en Woonservice.
+  - date: '2025-05-31'
+    event: Woonwensgesprekken met huurders worden in mei 2025 afgerond.
+  - date: '2025-06-04'
+    event: Voorgenomen informatieavond voor raadsleden door Woonservice.
+  - date: '2025-06-05'
+    event: College stuurt eerste beantwoording van de motie aan de raad.
+  - date: '2025-06-12'
+    event: Woonservice stuurt een brief met terugkeergarantie en woonwensenoverzicht.
+  - date: '2025-06-12'
+    event: >-
+      Woonservice stuurt brief aan college over visie, planning,
+      terugkeergarantie en tijdelijke huisvesting.
+  - date: '2025-06-25'
+    event: College informeert de raad over de afhandeling van motie 25-01.
+  - date: '2025-06-25'
+    event: >-
+      Collegebrief aan de raad over afhandeling van de motie herstructurering
+      Schoonoord.
+  - date: '2025-07-01'
+    event: >-
+      Verwachte behandeling programma van uitgangspunten in de raadsvergadering
+      van juli.
+  - date: '2025-07-09'
+    event: Technische vragen geregistreerd over huurgrens en terugkeergarantie.
+  - date: '2025-07-15'
+    event: >-
+      Inloopbijeenkomst met bewoners en raad over concept-stedenbouwkundige
+      schetsplannen.
+  - date: '2025-08-15'
+    event: Bewoners kunnen tot medio augustus reageren op de eerste concepten.
+  - date: '2025-09-30'
+    event: 'Uiterste verwachting: programma van uitgangspunten aan de raad.'
+  - date: '2025-10-31'
+    event: >-
+      Verwachting: aangepaste schetsen en voorlopig stedenbouwkundig ontwerp met
+      kosten- en opbrengstenraming.
+  - date: '2025-11-03'
+    event: >-
+      Inloopbijeenkomst met bewoners over schetsen voor Schoonoord-Noord, Zuid
+      en de oude sportvelden.
+  - date: '2025-12-31'
+    event: Verwachte bespreking afgerond stedenbouwkundig plan in de gemeenteraad.
+  - date: '2025-12-31'
+    event: >-
+      Eind 2025 vaststelling van het stedenbouwkundig ontwerp door college en
+      raad beoogd.
+  - date: '2026-01-31'
+    event: Alternatieve planning voor afronding bespreking stedenbouwkundig plan.
+  - date: '2026-02-03'
+    event: >-
+      College stuurt een raadsinformatiebrief met terugblik, beantwoording motie
+      25-01 en vooruitblik.
+  - date: '2026-02-10'
+    event: >-
+      Aangepaste integrale presentatie voor tweede themasessie raad over
+      Schoonoord verzonden.
+  - date: '2026-03-09'
+    event: >-
+      Bespreking van aangepaste schetsen met bewoners van Schoonoord-Zuid en
+      bewoners van sloopgenomineerde woningen.
+  - date: '2026-03-10'
+    event: >-
+      Bespreking van aangepaste schetsen met bewoners van Schoonoord-Noord en
+      bewoners van sloopgenomineerde woningen.
+  - date: '2026-09-30'
+    event: >-
+      Vanaf najaar 2026 worden per deelgebied aparte realisatiebesluiten aan de
+      raad gevraagd.
+  - date: '2027-03-31'
+    event: >-
+      Streefdatum om een voorlopig plan met kosten- en opbrengstenraming aan de
+      raad voor te leggen.
+ai_processed_at: '2026-07-23T09:46:04.766Z'
 ---
 
 (2)

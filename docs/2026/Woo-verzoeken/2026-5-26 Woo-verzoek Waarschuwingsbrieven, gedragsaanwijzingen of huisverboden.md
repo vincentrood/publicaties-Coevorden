@@ -1,8 +1,51 @@
 ---
-title: "2026-5-26 Woo-verzoek Waarschuwingsbrieven, gedragsaanwijzingen of huisverboden"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-26 Woo-verzoek Waarschuwingsbrieven, gedragsaanwijzingen of huisverboden.pdf"
-date: 2026-07-23
+title: >-
+  2026-5-26 Woo-verzoek Waarschuwingsbrieven, gedragsaanwijzingen of
+  huisverboden
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-26 Woo-verzoek Waarschuwingsbrieven,
+  gedragsaanwijzingen of huisverboden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-03-30 een Woo-verzoek over alle
+  waarschuwingsbrieven, gedragsaanwijzingen en huisverboden in het kader van de
+  Wet aanpak woonoverlast over 2010-01-01 t/m 2025-05-01. Na onderzoek trof de
+  gemeente drie verzonden bestuurlijke waarschuwingsbrieven aan en besloot zij
+  op 2026-05-26 het verzoek gedeeltelijk toe te wijzen, met openbaarmaking van
+  de brieven onder weglakking van persoonsgegevens.
+milestones:
+  - date: '2022-10-12'
+    event: >-
+      Brief over overlastgevende situatie en verzoek om geen meldingen meer te
+      doen.
+  - date: '2022-11-22'
+    event: Beleidsregel woonoverlast vastgesteld door de burgemeester van Coevorden.
+  - date: '2022-12-02'
+    event: Beleidsregel Wet aanpak woonoverlast gemeente Coevorden werd van kracht.
+  - date: '2023-07-18'
+    event: Waarschuwingsbrief woonoverlast opgesteld namens gemeente en politie.
+  - date: '2023-07-20'
+    event: Waarschuwingsbrief woonoverlast verzonden.
+  - date: '2025-04-03'
+    event: Uitnodiging voor gesprek over wederzijdse overlastmeldingen.
+  - date: '2025-06-18'
+    event: Laatste waarschuwing om te stoppen met (woon)overlast.
+  - date: '2026-03-30'
+    event: >-
+      Woo-verzoek ingediend over waarschuwingsbrieven, gedragsaanwijzingen en
+      huisverboden.
+  - date: '2026-04-01'
+    event: Ontvangstbevestiging van het Woo-verzoek verzonden.
+  - date: '2026-04-16'
+    event: Beslistermijn verlengd tot en met 2026-05-11.
+  - date: '2026-05-12'
+    event: Ingebrekestelling ontvangen.
+  - date: '2026-05-26'
+    event: Besluit op Woo-verzoek verzonden; gedeeltelijke toewijzing.
+ai_processed_at: '2026-07-23T09:42:47.078Z'
 ---
 
 Gemeente

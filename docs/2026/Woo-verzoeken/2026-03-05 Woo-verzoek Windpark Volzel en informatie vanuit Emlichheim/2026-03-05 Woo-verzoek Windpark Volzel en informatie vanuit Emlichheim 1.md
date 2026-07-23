@@ -1,8 +1,99 @@
 ---
-title: "2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1"
-maps: ["2026","Woo-verzoeken","2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim"]
-source: "2026/Woo-verzoeken/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1.pdf"
-date: 2026-07-23
+title: 2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim
+source: >-
+  2026/Woo-verzoeken/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit
+  Emlichheim/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit
+  Emlichheim 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2024-2026 liep de grensoverschrijdende procedure rond windpark Volzel
+  tussen Samtgemeinde Emlichheim, gemeente Coevorden en provincie Drenthe,
+  waarbij Coevorden en Drenthe uiteindelijk geen bezwaren hadden tegen het plan.
+  In februari en maart 2026 volgden een brief aan omwonenden, een provinciale
+  reactie en een Woo-besluit waarin Coevorden documenten deels openbaar maakte
+  en deels weigerde.
+milestones:
+  - date: '2024-05-28'
+    event: >-
+      Samtgemeindeausschuss stelde de 101e FNP-wijziging voor Windpark Volzel
+      vast.
+  - date: '2024-11-28'
+    event: Kennisgeving over windpark Volzel ontvangen door Coevorden
+  - date: '2024-11-28'
+    event: >-
+      Samtgemeinde Emlichheim verzond de vroegtijdige participatiebrief over de
+      101e FNP-wijziging.
+  - date: '2024-12-05'
+    event: >-
+      Openbare terinzagelegging van de planstukken startte online en in het
+      gemeentehuis.
+  - date: '2024-12-06'
+    event: In brief genoemd als notificatiedatum van Samtgemeinde Emlichheim
+  - date: '2024-12-11'
+    event: Openbare informatie- en inspraakbijeenkomst in Haus Ringerbrüggen.
+  - date: '2025-01-06'
+    event: Einde van de openbare inzageperiode.
+  - date: '2025-01-10'
+    event: Uiterste datum voor het indienen van een zienswijze of reactie.
+  - date: '2025-12-16'
+    event: Eerste interne vraag over windmolens Volzel tussen Arendshof en Laar.
+  - date: '2025-12-17'
+    event: >-
+      Gemeente Coevorden meldt dat Volzel circa 2,5 km van de grens ligt en geen
+      RO-bezwaren heeft.
+  - date: '2025-12-18'
+    event: >-
+      Verzoek om na te gaan of plannen ter inzage komen en inwoners actief
+      moeten worden benaderd.
+  - date: '2026-01-12'
+    event: >-
+      Intern wordt gevraagd of er nog iets is uitgezocht bij de Duitsers over de
+      plannen bij Arenshof.
+  - date: '2026-01-19'
+    event: >-
+      Brief van omwonenden over formele notificatie en grensoverschrijdende
+      effecten
+  - date: '2026-01-19'
+    event: >-
+      Verzoek aan contactpersoon in Emlichheim om te bevestigen dat er geen
+      windmolens tussen Arendshof en Laar gepland zijn.
+  - date: '2026-01-20'
+    event: >-
+      Coevorden vraagt Duitse collega’s om bevestiging en context over de
+      plannen.
+  - date: '2026-01-21'
+    event: >-
+      Terugkoppeling dat Coevorden als betrokken overheid is geïnformeerd en dat
+      de genoemde locatie buiten het plangebied lijkt te vallen.
+  - date: '2026-01-26'
+    event: Gemeente Coevorden reageert op brief over windpark Volzel
+  - date: '2026-01-27'
+    event: Verzenddatum gemeentelijke reactie
+  - date: '2026-01-27'
+    event: >-
+      Provincie Drenthe ontvangt conceptbrief; verzending wordt uitgesteld om
+      eerst de gemeenteraad te informeren.
+  - date: '2026-01-27'
+    event: Gemeente Coevorden stuurde een brief aan omwonenden van Windpark Volzel.
+  - date: '2026-02-16'
+    event: >-
+      Provincie Drenthe stuurt formele brief: geen negatieve effecten verwacht
+      en geen reden voor extra notificatie.
+  - date: '2026-02-17'
+    event: Tweede gemeentelijke brief over notificatie en effecten
+  - date: '2026-02-19'
+    event: Verzenddatum tweede gemeentelijke brief
+  - date: '2026-02-20'
+    event: Provincie deelt de verzonden brief intern met Coevorden.
+  - date: '2026-02-24'
+    event: Woo-verzoek ingediend over documenten rond windpark Volzel
+  - date: '2026-03-03'
+    event: 'Besluit op Woo-verzoek: gedeeltelijke toewijzing'
+ai_processed_at: '2026-07-23T09:50:46.746Z'
 ---
 
 Gemeente

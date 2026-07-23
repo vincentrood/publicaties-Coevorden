@@ -1,8 +1,46 @@
 ---
-title: "2026-4-17 Woo-verzoek Juridische bijstand aan wethouder Holties"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-4-17 Woo-verzoek Juridische bijstand aan wethouder Holties.pdf"
-date: 2026-07-23
+title: 2026-4-17 Woo-verzoek Juridische bijstand aan wethouder Holties
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-4-17 Woo-verzoek Juridische bijstand aan wethouder
+  Holties.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2026-03-13 een Woo-verzoek over juridische
+  bijstand aan wethouder Holties en verlengde diezelfde dag de beslistermijn met
+  twee weken. Op 2026-04-17 besloot de gemeente het verzoek gedeeltelijk toe te
+  wijzen en documenten deels openbaar te maken, met weglakking van
+  persoonsgegevens en concurrentiegevoelige uurtarieven.
+milestones:
+  - date: '2025-10-13'
+    event: Yspeert bevestigt opdracht tot juridische bijstand aan Erik Holties.
+  - date: '2025-11-17'
+    event: >-
+      Declaratie voor oktober 2025 verstuurd aan Gemeente Coevorden (€ 4.019,02
+      incl. btw).
+  - date: '2025-12-10'
+    event: >-
+      Declaratie voor november 2025 verstuurd aan Gemeente Coevorden (€ 6.624,75
+      incl. btw).
+  - date: '2026-01-13'
+    event: >-
+      Declaratie voor december 2025 verstuurd aan Gemeente Coevorden (€ 2.541,61
+      incl. btw).
+  - date: '2026-02-16'
+    event: >-
+      Declaratie voor januari 2026 verstuurd aan Gemeente Coevorden (€ 2.341,96
+      incl. btw).
+  - date: '2026-03-13'
+    event: Woo-verzoek ontvangen over juridische bijstand aan wethouder Holties.
+  - date: '2026-03-13'
+    event: >-
+      Beslistermijn met twee weken verlengd en zienswijze van belanghebbende
+      gevraagd.
+  - date: '2026-04-17'
+    event: 'Besluit genomen: Woo-verzoek gedeeltelijk toegewezen.'
+ai_processed_at: '2026-07-23T09:43:58.326Z'
 ---
 
 Gemeente

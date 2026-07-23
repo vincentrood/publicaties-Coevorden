@@ -1,8 +1,125 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 7 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 7 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 7 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 7 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2023 wordt in Schoonoord gewerkt aan een integrale toekomstagenda met
+  een kansenkaart, schetsontwerpen en participatiemomenten over
+  herstructurering, woningbouw en het MFC. In 2025-2026 verschuift de planning
+  naar een aangepast schetsontwerp, een dorpsbrede inloop op 2025-11-03 en
+  besluitvorming over het stedenbouwkundig plan in zomer 2026.
+milestones:
+  - date: '2023-06-20'
+    event: >-
+      Bijeenkomst 'Wonen en leven in Schoonoord' met jongeren en brainstorm over
+      wonen en MFC
+  - date: '2023-08-01'
+    event: Projectleider voor MFC en Schoonoord start
+  - date: '2023-09-25'
+    event: Vooraankondiging opstart Schoonoord-Noord opgesteld voor dorpskrantje.
+  - date: '2023-09-26'
+    event: >-
+      Tekst voor dorpskrantje en digitale nieuwsbrief afgestemd en verstuurd
+      naar drukkerij.
+  - date: '2023-09-27'
+    event: Nieuwsbrief over wonen en leven in Schoonoord verstuurd
+  - date: '2023-09-29'
+    event: >-
+      Concepttekst over Schoonoord-Noord doorgestuurd binnen gemeente en
+      Woonservice.
+  - date: '2023-11-01'
+    event: Vooraankondiging informatieavond opstart Schoonoord-Noord
+  - date: '2024-03-26'
+    event: Gemeenteraad stelt de Kansenkaart Schoonoord vast.
+  - date: '2024-05-01'
+    event: College stelt projectopdracht herstructurering Schoonoord vast.
+  - date: '2024-06-13'
+    event: Ruimtelijke verkenning Schoonoord-Zuid en quickscan gepresenteerd
+  - date: '2024-12-31'
+    event: Voorkeursmodel / concept schetsontwerp is eind 2024 uitgewerkt.
+  - date: '2025-02-01'
+    event: Woonservice start met aankondiging van sloop aan huurders.
+  - date: '2025-03-11'
+    event: Projectgroep bespreekt concept herstructureringsplannen Noord en Zuid
+  - date: '2025-03-25'
+    event: Raadsvergadering neemt motie aan over herstructurering Schoonoord.
+  - date: '2025-03-25'
+    event: Concept schetsontwerp wordt openbaar gemaakt aan huurders.
+  - date: '2025-04-01'
+    event: >-
+      Woonwensgesprekken met huurders van te slopen woningen vinden plaats in
+      april en mei.
+  - date: '2025-04-17'
+    event: Dorpsbrede informatieavond voorbereid met posters en feedback ophalen
+  - date: '2025-05-06'
+    event: Commissievergadering bespreekt de huuropzegging per september 2026.
+  - date: '2025-05-08'
+    event: CDA stelt technische vragen over plan Schoonoord
+  - date: '2025-05-28'
+    event: >-
+      Stuurgroep stemt in met nieuwe samenwerkingsaanpak tussen gemeente en
+      Woonservice.
+  - date: '2025-06-12'
+    event: >-
+      Woonservice stuurt een brief aan het college met visie en planning voor
+      Schoonoord.
+  - date: '2025-06-20'
+    event: Collegebrief aan de raad beantwoordt de motie en schetst de vervolgaanpak.
+  - date: '2025-07-15'
+    event: Inloopbijeenkomst met bewoners over de schetsen en woonwensen.
+  - date: '2025-09-16'
+    event: College beantwoordt raadsvragen over huurgrens woningen in plan Schoonoord
+  - date: '2025-09-17'
+    event: >-
+      Marsroute herstructurering Schoonoord: voorbereiding nieuw inloopmoment en
+      afstemming met Woonservice.
+  - date: '2025-09-18'
+    event: >-
+      Check op aanhaken van stedenbouwkundig bureau en planning van
+      inloopbijeenkomst.
+  - date: '2025-10-01'
+    event: >-
+      Verwachte afronding van het voorlopig stedenbouwkundig plan met kosten- en
+      opbrengstenraming.
+  - date: '2025-10-07'
+    event: Mini-inloop met college om vervolgstappen in Schoonoord te bespreken.
+  - date: '2025-10-14'
+    event: >-
+      Raadsinformatiebrief voorbereiden over bewonersbijeenkomst, herstelbrieven
+      en besluitvormingsfases.
+  - date: '2025-11-03'
+    event: Twee inloopsessies in het dorpshuis voor huurders en overige inwoners.
+  - date: '2025-12-31'
+    event: Uitkomsten van het inloopmoment verwerken in een aangepast schetsontwerp.
+  - date: '2025-12-31'
+    event: Beoogde vaststelling van het voorlopig stedenbouwkundig plan in Q4 2025.
+  - date: '2026-01-01'
+    event: Nieuwe schets bespreken in college en stuurgroep.
+  - date: '2026-01-31'
+    event: Besluitvormingstraject loopt door in Q1 2026.
+  - date: '2026-02-01'
+    event: Nieuwe schets presenteren aan dorp en gemeenteraad.
+  - date: '2026-02-01'
+    event: Definitief voorstel bespreken en mandaat ophalen voor akkoord.
+  - date: '2026-06-01'
+    event: >-
+      Besluitvorming over het stedenbouwkundig plan door college en
+      gemeenteraad.
+  - date: '2026-09-01'
+    event: Huuropzegging voor de eerste te slopen woningen gaat in.
+ai_processed_at: '2026-07-23T09:46:43.295Z'
 ---
 
 KANSENKAART

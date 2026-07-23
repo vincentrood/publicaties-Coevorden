@@ -1,8 +1,34 @@
 ---
-title: "2026-4-17 Woo-verzoek Vergoeding juridische kosten"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-4-17 Woo-verzoek Vergoeding juridische kosten.pdf"
-date: 2026-07-23
+title: 2026-4-17 Woo-verzoek Vergoeding juridische kosten
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: 2026/Woo-verzoeken/2026-4-17 Woo-verzoek Vergoeding juridische kosten.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft op 17 april 2026 gedeeltelijk beslist op een
+  Woo-verzoek over documenten rond vergoeding van juridische kosten en daarbij
+  drie facturen deels openbaar gemaakt. Het verzoek werd op 10 maart 2026
+  ontvangen; na een zienswijzetraject en een zoekslag zijn persoonsgegevens en
+  concurrentiegevoelige uurtarieven/bestedede uren weggelakt.
+milestones:
+  - date: '2025-04-03'
+    event: Factuur 2025/238 voor begeleiding integriteitscommissie opgesteld
+  - date: '2025-07-22'
+    event: Factuur 2025/293 voor begeleiding integriteitscommissie opgesteld
+  - date: '2025-10-01'
+    event: Factuur 2025/317 voor begeleiding integriteitscommissie opgesteld
+  - date: '2026-03-10'
+    event: Woo-verzoek ontvangen door gemeente Coevorden
+  - date: '2026-03-11'
+    event: Verzoeker vroeg om stukken uiterlijk 12 maart te ontvangen
+  - date: '2026-03-12'
+    event: Gemeente meldde dat het verzoek als Woo-verzoek zou worden behandeld
+  - date: '2026-03-31'
+    event: Derden om zienswijze gevraagd; geen gebruik van gemaakt
+  - date: '2026-04-17'
+    event: 'Besluit op Woo-verzoek verzonden: gedeeltelijke toewijzing'
+ai_processed_at: '2026-07-23T09:43:48.777Z'
 ---
 
 Dt Gemeente

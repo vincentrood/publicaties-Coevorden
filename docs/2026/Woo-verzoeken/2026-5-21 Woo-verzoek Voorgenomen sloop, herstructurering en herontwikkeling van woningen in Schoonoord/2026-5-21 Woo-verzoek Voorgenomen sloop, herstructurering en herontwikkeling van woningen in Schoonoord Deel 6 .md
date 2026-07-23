@@ -1,8 +1,182 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 6 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 6 .pdf"
-date: 2026-07-23
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 6 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 6 .pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Vanaf 2020 werken gemeente Coevorden, Woonservice en Dorpsbelang aan een
+  integrale dorpsagenda en herstructurering van Schoonoord, met een kansenkaart,
+  intentieovereenkomst en daaropvolgende uitwerking naar schets- en voorlopig
+  stedenbouwkundig plan. In 2025-2026 verschuift de focus naar participatie,
+  herijking van schetsontwerpen en besluitvorming over het stedenbouwkundig
+  plan, grondexploitatie en omgevingsplan.
+milestones:
+  - date: '2020-01-01'
+    event: >-
+      Brainstorm gemeente Coevorden en Woonservice; behoefte aan gezamenlijke
+      aanpak en SWOT-analyse.
+  - date: '2020-09-01'
+    event: Bestuurlijk commitment voor de dorpsagenda wordt voorbereid en gestart.
+  - date: '2020-10-01'
+    event: Voorbereidende kennismakingsgesprekken met stakeholders voor de kick-off.
+  - date: '2020-11-01'
+    event: >-
+      Kick-off dorpsagenda Schoonoord met doelen, proces en samenstelling van
+      stuurgroep en projectgroep.
+  - date: '2020-12-01'
+    event: Stuurgroep bespreekt intentieovereenkomst en vaststellingsmoment.
+  - date: '2021-01-01'
+    event: >-
+      Projectgroep verzamelt uitgangspunten en kaders per organisatie en bereidt
+      vraagstelling richting dorp voor.
+  - date: '2021-02-01'
+    event: Stuurgroep stelt thema’s en bijbehorende kaders vast.
+  - date: '2021-03-01'
+    event: >-
+      Projectgroep haalt aandachtspunten op in het dorp via fietstocht,
+      dorpsschouw en gesprekken.
+  - date: '2021-04-01'
+    event: Analyse van opgehaalde informatie en eerste aanzet tot projecten.
+  - date: '2021-05-01'
+    event: Stuurgroep bespreekt eerste uitkomsten uit het dorp.
+  - date: '2021-06-01'
+    event: Dorpsavond met presentatie van uitkomsten en bundeling van ideeën.
+  - date: '2021-07-01'
+    event: >-
+      Eerste concept dorpsagenda met financieringsbehoefte,
+      samenwerkingsverbanden en prioritering.
+  - date: '2021-08-01'
+    event: Stuurgroep stelt eerste concept dorpsagenda vast.
+  - date: '2021-09-01'
+    event: Stakeholders voeren interne besluitvorming over de dorpsagenda.
+  - date: '2021-10-01'
+    event: Dorpsagenda wordt gezamenlijk ondertekend; uitvoering kan starten.
+  - date: '2021-12-07'
+    event: Raad stelt Woonvisie vast met integrale aanpak voor Schoonoord
+  - date: '2021-12-07'
+    event: Gemeenteraad stelt woonvisie met integrale aanpak voor Schoonoord vast
+  - date: '2022-01-01'
+    event: College stelt intentieovereenkomst vast met Woonservice en dorpsbelang
+  - date: '2022-06-01'
+    event: 'Intentieovereenkomst tussen gemeente, Woonservice en dorpsbelangen'
+  - date: '2023-03-01'
+    event: Kansenkaart vastgesteld
+  - date: '2023-09-01'
+    event: >-
+      Start stap 1: ophalen en vaststellen programma van eisen voor Schoonoord
+      Noord en herijken van de kansenkaart.
+  - date: '2023-09-15'
+    event: VO stedenbouwkundig plan Schoonoord Noord gedateerd
+  - date: '2023-10-01'
+    event: >-
+      Stap 1 loopt door met projectgroep, werksessies, dorpsbijeenkomst en
+      vastlegging van uitgangspunten.
+  - date: '2023-10-16'
+    event: Inloopmoment in dorpshuis voor huurders en inwoners
+  - date: '2023-11-01'
+    event: >-
+      Start stap 2: ontwikkeling van 2 à 3 ruimtelijke scenario’s en
+      stedenbouwkundige schetsen.
+  - date: '2023-12-19'
+    event: Themasessie in de gemeenteraad over de voor- en nadelen van de modellen.
+  - date: '2024-02-01'
+    event: >-
+      Stap 2 afgerond met presentatie van scenario’s en eventuele herijking
+      richting dorp.
+  - date: '2024-03-01'
+    event: Gemeenteraad stelt kansenkaart vast
+  - date: '2024-03-01'
+    event: >-
+      Start stap 3: uitwerking van voorkeursmodel tot maatvast stedenbouwkundig
+      plan (VO).
+  - date: '2024-03-01'
+    event: Uitwerking deelgebied Noord en Zuid naar schetsplannen
+  - date: '2024-04-01'
+    event: >-
+      Stap 3 loopt door met aanpassingsrondes, presentatie in het dorp en
+      oplevering van het VO-plan.
+  - date: '2024-12-01'
+    event: Stuurgroep kiest voorkeursschetsplan
+  - date: '2025-02-13'
+    event: >-
+      E-mail over woningbouwopgave Schoonoord: voorbereiding op vragen over
+      koopwoningen en verdeling Noord/Zuid.
+  - date: '2025-02-17'
+    event: >-
+      Afstemming per e-mail over brainstorm en betrokkenheid van Woonservice bij
+      de herstructureringsopgave.
+  - date: '2025-03-04'
+    event: >-
+      E-mails verstuurd over telmodel Schoonoord Zuid en stedenbouwkundig plan
+      Schoonoord Noord
+  - date: '2025-03-11'
+    event: Projectgroep bespreekt concept herstructureringsplannen Noord en Zuid
+  - date: '2025-07-15'
+    event: Inloopbijeenkomst in het dorp voor reacties op schetsontwerp
+  - date: '2025-07-21'
+    event: Start week waarin reacties op schetsontwerp worden gerubriceerd
+  - date: '2025-08-25'
+    event: Stand opmaken welke reacties worden meegenomen in ontwerp
+  - date: '2025-09-01'
+    event: Schets aanpassen naar kader voor verdere uitwerking
+  - date: '2025-09-30'
+    event: Definitief schetsontwerp en doorrekening terugkoppelen aan college en raad
+  - date: '2025-10-31'
+    event: Opstellen college-/raadsvoorstel
+  - date: '2025-11-03'
+    event: Presentatie schetsontwerpen aan dorp en gemeenteraad
+  - date: '2025-12-01'
+    event: Besluitvormingstraject college en raad
+  - date: '2025-12-01'
+    event: Uitkomsten participatie verwerken tot definitief voorstel
+  - date: '2026-01-01'
+    event: >-
+      Start verdere uitwerking naar voorlopig ontwerp voor Noord/Zuid en oude
+      sportvelden
+  - date: '2026-01-27'
+    event: Aangepast schetsontwerp gepresenteerd
+  - date: '2026-02-01'
+    event: Definitief voorstel presenteren aan dorp en gemeenteraad
+  - date: '2026-06-01'
+    event: Besluitvorming stedenbouwkundig plan
+  - date: '2026-07-31'
+    event: >-
+      Einde periode voor uitwerking naar VO en voorbereidingen zoals
+      onderzoeken, verkaveling en grondruil
+  - date: '2026-11-01'
+    event: >-
+      Najaar 2026: route naar definitief stedenbouwkundig plan en concept
+      omgevingsplan
+  - date: '2026-11-01'
+    event: Voorlopig stedenbouwkundig plan en grondexploitatie in besluitvorming
+  - date: '2027-01-01'
+    event: 'Voorjaar 2027: gemeenteraad besluit over definitief omgevingsplan'
+  - date: '2027-05-01'
+    event: >-
+      Gemeenteraad besluit over definitief stedenbouwkundig plan,
+      grondexploitatie en investeringskrediet
+  - date: '2027-11-01'
+    event: College besluit over aanbestedingen
+  - date: '2027-12-31'
+    event: 'Eind 2027: start realisatie en gunningen'
+  - date: '2028-06-01'
+    event: Start realisatie en uitvoering openbaar gebied
+  - date: '2028-07-01'
+    event: 'Voorjaar/zomer 2028: college besluit over gunningen en realisatie'
+  - date: '2032-12-31'
+    event: Einde voorziene realisatiefase en jaarlijkse actualisatie grondexploitatie
+ai_processed_at: '2026-07-23T09:47:06.021Z'
 ---
 
 VERBEELDING
