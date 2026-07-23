@@ -1,8 +1,25 @@
 ---
-title: "2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake lichtmastreclame en rotondereclame gemeente Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake lichtmastreclame en rotondereclame gemeente Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-05 Woo-verzoek concessies, afspraken en contracten inzake
+  lichtmastreclame en rotondereclame gemeente Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-05 Woo-verzoek concessies, afspraken en contracten
+  inzake lichtmastreclame en rotondereclame gemeente Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek over concessies voor lichtmastreclame en rotondereclame is op
+  2023-11-15 ingediend. Op 2024-02-05 is inhoudelijk gereageerd met een
+  overzicht van contracten en is aangegeven dat het verzoek daarmee als
+  afgesloten wordt beschouwd.
+milestones:
+  - date: '2023-11-15'
+    event: Woo-verzoek ingediend
+  - date: '2024-02-05'
+    event: Besluit/inhoudelijke reactie en afsluiting verzoek
+ai_processed_at: '2026-07-23T12:30:06.831Z'
 ---
 
 1

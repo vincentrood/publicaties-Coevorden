@@ -1,8 +1,28 @@
 ---
-title: "2024-10-29 Woo-verzoek CPO Dalen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-10-29 Woo-verzoek CPO Dalen.pdf"
-date: 2026-07-23
+title: 2024-10-29 Woo-verzoek CPO Dalen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-10-29 Woo-verzoek CPO Dalen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2024-10-02 een Woo-verzoek over documenten
+  rond woningbouw in Dalen en nam daarop op 2024-10-29 een besluit tot
+  gedeeltelijke openbaarmaking van 4 documenten. Eerder in 2024 zijn voor de
+  CPO-initiatieven in Dalen ruimtelijke kaders gedeeld en is op 2024-01-16 een
+  intentieverklaring vastgesteld.
+milestones:
+  - date: '2024-01-16'
+    event: intentieverklaring vastgesteld
+  - date: '2024-05-28'
+    event: ruimtelijke kaders per locatie gedeeld
+  - date: '2024-07-22'
+    event: ontwerpen toegezonden
+  - date: '2024-10-02'
+    event: Woo-verzoek ingediend
+  - date: '2024-10-29'
+    event: besluit Woo-verzoek genomen
+ai_processed_at: '2026-07-23T12:24:41.637Z'
 ---
 
 Gemeente

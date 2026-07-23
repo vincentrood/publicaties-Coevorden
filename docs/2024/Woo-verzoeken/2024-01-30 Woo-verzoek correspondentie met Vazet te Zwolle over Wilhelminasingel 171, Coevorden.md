@@ -1,8 +1,34 @@
 ---
-title: "2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over Wilhelminasingel 171, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over Wilhelminasingel 171, Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle over
+  Wilhelminasingel 171, Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-30 Woo-verzoek correspondentie met Vazet te Zwolle
+  over Wilhelminasingel 171, Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2021 diende Vazet een vooroverlegverzoek in voor herontwikkeling van
+  Wilhelminasingel 171 te Coevorden; dit leidde niet tot een inhoudelijk akkoord
+  en in 2022 werd een nieuwe aanvraag voor hetzelfde plan ingediend. Op
+  2024-01-30 volgde een Woo-besluit waarbij het verzoek gedeeltelijk werd
+  toegewezen en de documenten op 2024-02-14 werden verstrekt.
+milestones:
+  - date: '2021-04-30'
+    event: aanvraag vooroverleg ingediend
+  - date: '2022-03-18'
+    event: nieuwe conceptaanvraag/vooroverleg ingediend
+  - date: '2022-05-12'
+    event: intrekking vooroverleg door aanvrager
+  - date: '2023-12-09'
+    event: Woo-verzoek ingediend
+  - date: '2024-01-30'
+    event: besluit op Woo-verzoek
+  - date: '2024-02-14'
+    event: documenten verstrekt
+ai_processed_at: '2026-07-23T12:30:28.804Z'
 ---
 
 Gemeente

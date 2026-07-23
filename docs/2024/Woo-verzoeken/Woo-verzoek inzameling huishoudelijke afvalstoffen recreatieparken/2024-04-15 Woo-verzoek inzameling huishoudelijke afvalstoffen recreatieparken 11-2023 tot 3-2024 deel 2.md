@@ -1,8 +1,65 @@
 ---
-title: "2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 2"
-maps: ["2024","Woo-verzoeken","Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken"]
-source: "2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+  11-2023 tot 3-2024 deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+source: >-
+  2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken 11-2023 tot 3-2024 deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De ontwerp-afvalstoffenverordening Coevorden 2024 lag van 2023-11-20 tot
+  2024-01-01 ter inzage en daarop zijn zienswijzen ingediend. De raad stelde de
+  verordening vast op 2023-11-07 en de zienswijzen leidden tot een wijziging,
+  met name over Zuiderveld en de periode tot 2024-07-01.
+milestones:
+  - date: '2023-10-16'
+    event: Ontwerp-afvalstoffenverordening vastgesteld voor inspraak
+  - date: '2023-11-07'
+    event: Verordening vastgesteld
+  - date: '2023-11-07'
+    event: Raad stelt belastingverordeningen 2024 vast
+  - date: '2023-11-20'
+    event: Ontwerp-afvalstoffenverordening ter inzage gelegd
+  - date: '2023-11-29'
+    event: Ontwerp-uitvoeringsbesluit ter inzage gelegd
+  - date: '2023-12-04'
+    event: Brief over nieuwe afvalinzameling per 2024-07-01
+  - date: '2023-12-15'
+    event: Zienswijze ingediend
+  - date: '2023-12-18'
+    event: Zienswijze ingediend
+  - date: '2023-12-18'
+    event: Brief over afvalinzameling per 2024-07-01 voor recreatiepark
+  - date: '2023-12-21'
+    event: Zienswijze ingediend
+  - date: '2023-12-29'
+    event: Zienswijze ingediend
+  - date: '2024-01-01'
+    event: Inwerkingtreding verordening en heffing
+  - date: '2024-01-01'
+    event: Verordening in werking
+  - date: '2024-01-05'
+    event: Zienswijze ingediend
+  - date: '2024-01-08'
+    event: Te late zienswijze ingediend
+  - date: '2024-02-27'
+    event: Afvalstoffenverordening 2024 vastgesteld
+  - date: '2024-02-27'
+    event: >-
+      Raad stelt Afvalstoffenverordening 2024 gewijzigd vast en trekt
+      verordening 2005 in
+  - date: '2024-03-05'
+    event: Uitvoeringsbesluit gewijzigd vastgesteld
+  - date: '2024-03-05'
+    event: College stelt Uitvoeringsbesluit Afvalstoffenverordening 2024 vast
+  - date: '2024-07-01'
+    event: Start gemeentelijke inzameling bij recreatiewoningen
+ai_processed_at: '2026-07-23T12:34:11.581Z'
 ---
 
 Artikel 10 Vermindering extra container voor medisch afval

@@ -1,8 +1,24 @@
 ---
-title: "2024-07-10 Woo-verzoek gespreksverslagen voormalig restaurant"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-10 Woo-verzoek gespreksverslagen voormalig restaurant.pdf"
-date: 2026-07-23
+title: 2024-07-10 Woo-verzoek gespreksverslagen voormalig restaurant
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-10 Woo-verzoek gespreksverslagen voormalig
+  restaurant.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-05-31 is een Woo-verzoek ingediend bij de gemeente Coevorden. Op
+  2024-07-10 is dit verzoek afgewezen omdat na inventarisatie geen documenten
+  zijn aangetroffen; de beslistermijn was eerder verlengd.
+milestones:
+  - date: '2024-05-31'
+    event: Woo-verzoek ingediend
+  - date: '2024-06-26'
+    event: beslistermijn met twee weken verlengd
+  - date: '2024-07-10'
+    event: Woo-verzoek afgewezen; geen documenten aangetroffen
+ai_processed_at: '2026-07-23T12:25:54.155Z'
 ---
 
 Gemeente

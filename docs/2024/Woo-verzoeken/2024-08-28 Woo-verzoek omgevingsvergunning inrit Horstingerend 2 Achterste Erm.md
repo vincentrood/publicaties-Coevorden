@@ -1,8 +1,33 @@
 ---
-title: "2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm.pdf"
-date: 2026-07-23
+title: 2024-08-28 Woo-verzoek omgevingsvergunning inrit Horstingerend 2 Achterste Erm
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-28 Woo-verzoek omgevingsvergunning inrit
+  Horstingerend 2 Achterste Erm.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2021 vond vooroverleg plaats over het verleggen van de inrit aan
+  Horstingerend 2/Achterste Erm; de gemeente gaf aan dat dit vergunningplichtig
+  was en onder voorwaarden mogelijk. In juli 2024 werd een aanvraag voor
+  omgevingsvergunning ingediend, waarna de gemeente op 2024-07-10 de
+  aanlegwerkzaamheden stillegde met een last onder dwangsom en op 2024-08-28 het
+  Woo-verzoek gedeeltelijk openbaar maakte.
+milestones:
+  - date: '2021-08-26'
+    event: >-
+      Vooroverleg: gemeente ziet geen principieel bezwaar tegen verplaatsing
+      inrit, maar vergunningplichtig.
+  - date: '2024-07-09'
+    event: >-
+      Aanvraag omgevingsvergunning ingediend voor legalisatie/verplaatsing
+      inrit.
+  - date: '2024-07-10'
+    event: 'Besluit: stilleggen werkzaamheden met last onder dwangsom.'
+  - date: '2024-08-28'
+    event: 'Besluit op Woo-verzoek: documenten gedeeltelijk openbaar gemaakt.'
+ai_processed_at: '2026-07-23T12:25:24.030Z'
 ---
 
 Uw gegevens

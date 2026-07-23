@@ -1,8 +1,29 @@
 ---
-title: "2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-10-31 Woo-verzoek correspondentie herontwikkeling Nieuwe Dijk 2a
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-10-31 Woo-verzoek correspondentie herontwikkeling
+  Nieuwe Dijk 2a Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2023-06-21 diende Bute Bouw B.V. een QuickScan/conceptaanvraag in voor
+  nieuwbouw van bedrijfsunits aan de Nieuwe Dijk 2a te Coevorden. Op 2024-10-31
+  besloot de gemeente op het Woo-verzoek van 2024-10-07 de gevraagde stukken
+  grotendeels openbaar te maken, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2023-06-21'
+    event: indiening QuickScan/conceptaanvraag
+  - date: '2024-02-13'
+    event: 'principebesluit: medewerking verleend'
+  - date: '2024-10-07'
+    event: Woo-verzoek ontvangen
+  - date: '2024-10-31'
+    event: 'Woo-besluit: openbaarmaking met uitzondering van persoonsgegevens'
+ai_processed_at: '2026-07-23T12:24:28.943Z'
 ---
 
 Bostadhes:

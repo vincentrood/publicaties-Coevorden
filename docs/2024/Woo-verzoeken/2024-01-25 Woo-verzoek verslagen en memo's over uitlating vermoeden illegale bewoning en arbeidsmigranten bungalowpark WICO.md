@@ -1,8 +1,28 @@
 ---
-title: "2024-01-25 Woo-verzoek verslagen en memo's over uitlating vermoeden illegale bewoning en arbeidsmigranten bungalowpark WICO"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-25 Woo-verzoek verslagen en memo's over uitlating vermoeden illegale bewoning en arbeidsmigranten bungalowpark WICO.pdf"
-date: 2026-07-23
+title: >-
+  2024-01-25 Woo-verzoek verslagen en memo's over uitlating vermoeden illegale
+  bewoning en arbeidsmigranten bungalowpark WICO
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-25 Woo-verzoek verslagen en memo's over uitlating
+  vermoeden illegale bewoning en arbeidsmigranten bungalowpark WICO.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-12-22 een Woo-verzoek over documenten
+  rond bungalowpark Wico en besliste daarover op 2024-01-25. Het verzoek werd
+  gedeeltelijk toegewezen; documenten werden deels openbaar gemaakt met
+  weglakking van persoonsgegevens en het onderdeel over gespreksverslagen werd
+  afgewezen omdat geen relevante documenten waren aangetroffen.
+milestones:
+  - date: '2023-12-21'
+    event: Woo-verzoek ingediend
+  - date: '2024-01-09'
+    event: Beslistermijn verlengd met 2 weken
+  - date: '2024-01-25'
+    event: 'Besluit: gedeeltelijk toegewezen, deels geweigerd'
+ai_processed_at: '2026-07-23T12:30:54.743Z'
 ---
 
 Postadres:

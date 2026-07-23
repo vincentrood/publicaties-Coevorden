@@ -1,8 +1,63 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 4"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 4.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 4
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 4.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De kern van het dossier is het gemeentelijke beleid en de uitvoering rond
+  permanente bewoning van recreatiewoningen in Coevorden, met vanaf 2020 een
+  verscherpte programmatische aanpak via VVPC en handhaving. In 2023 is voor
+  Wico/Schoonoord geadviseerd om de recreatieve functie te herstellen via
+  transformatie, terwijl het college tegelijk VTH-beleid vaststelde en het
+  VVPC-traject bestuurlijk werd voorbereid.
+milestones:
+  - date: '2020-06-01'
+    event: Vaststelling programma contract VVPC
+  - date: '2020-10-20'
+    event: Raadsbesluit over VVPC-programma en middelen
+  - date: '2020-10-20'
+    event: 'besluit gemeenteraad: uitvoering programmacontract VVPC'
+  - date: '2021-02-22'
+    event: Lijst vakantieparken Coevorden uit VVPC opgesteld
+  - date: '2021-03-02'
+    event: Projectopdracht toezicht en handhaving vastgesteld
+  - date: '2021-05-01'
+    event: Memo ondersteuningsbehoefte Coevorden ihkv project Naober
+  - date: '2021-06-01'
+    event: Raadsexcursie met bespreking voortgang VVPC
+  - date: '2022-05-02'
+    event: >-
+      Rapportage: Wico heeft geen recreatief perspectief; gesprek met eigenaar
+      aangekondigd
+  - date: '2022-12-01'
+    event: start project Wico
+  - date: '2023-02-13'
+    event: PFO-behandeling brief/reactie over Wico
+  - date: '2023-04-15'
+    event: Woo-verzoek ingediend over bungalowpark Wico
+  - date: '2023-04-28'
+    event: Collegeadvies VTH-beleidsplan 2023-2027 vastgesteld
+  - date: '2023-05-01'
+    event: ontvangstbevestiging Woo-verzoek
+  - date: '2023-05-09'
+    event: reactie college op brief over Wico
+  - date: '2023-05-23'
+    event: >-
+      Collegebesluit VTH-beleidsplan 2023-2027, jaarverslag 2022 en
+      uitvoeringsprogramma 2023
+  - date: '2023-05-25'
+    event: besluit verlenging beslistermijn Woo-verzoek
+  - date: '2023-07-04'
+    event: ingebrekestelling wegens niet tijdig beslissen op Woo-verzoek
+ai_processed_at: '2026-07-23T12:37:56.326Z'
 ---
 
 Voorlegger PFO

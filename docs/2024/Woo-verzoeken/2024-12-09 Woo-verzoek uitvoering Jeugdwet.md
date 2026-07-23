@@ -1,8 +1,33 @@
 ---
-title: "2024-12-09 Woo-verzoek uitvoering Jeugdwet"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-09 Woo-verzoek uitvoering Jeugdwet.pdf"
-date: 2026-07-23
+title: 2024-12-09 Woo-verzoek uitvoering Jeugdwet
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-12-09 Woo-verzoek uitvoering Jeugdwet.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-11-14 diende de verzoeker een Woo-verzoek in bij de gemeente Coevorden
+  over documenten rond de uitvoering van de Jeugdwet. Op 2024-12-09 besloot de
+  gemeente het verzoek gedeeltelijk toe te wijzen en negen nog niet openbare
+  documenten openbaar te maken, met weglakking van persoonsgegevens.
+milestones:
+  - date: '2023-12-13'
+    event: Addendum op samenwerkingsovereenkomst Jeugdhulpregio Drenthe vastgesteld
+  - date: '2024-04-04'
+    event: Uitwerking interviews en documentenscan voor LEjA Coevorden afgerond
+  - date: '2024-10-22'
+    event: College stelde beleidskader vast
+  - date: '2024-11-14'
+    event: Woo-verzoek ingediend
+  - date: '2024-12-09'
+    event: Gedeeltelijk toewijzend Woo-besluit genomen
+  - date: '2024-12-09'
+    event: Bijlage E Jeugddossiers geactualiseerd
+  - date: '2024-12-17'
+    event: Verordening jeugdhulp 2025 vastgesteld
+  - date: '2024-12-17'
+    event: Beleidsregels jeugdhulp 2025 vastgesteld
+ai_processed_at: '2026-07-23T12:23:49.580Z'
 ---
 
 Gemeente

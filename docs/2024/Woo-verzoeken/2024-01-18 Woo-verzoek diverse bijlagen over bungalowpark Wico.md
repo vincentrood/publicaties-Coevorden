@@ -1,8 +1,24 @@
 ---
-title: "2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico.pdf"
-date: 2026-07-23
+title: 2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark Wico
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-18 Woo-verzoek diverse bijlagen over bungalowpark
+  Wico.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-12-22 een Woo-verzoek over documenten
+  rond Vitale Vakantieparken Coevorden en nam op 2024-01-18 een gedeeltelijk
+  toewijzend besluit. In het besluit is vermeld dat enkele gevraagde documenten
+  niet zijn aangetroffen of reeds openbaar zijn, en dat de documenten deels
+  openbaar worden gemaakt met weglakking van persoonsgegevens.
+milestones:
+  - date: '2023-12-22'
+    event: Woo-verzoek ingediend
+  - date: '2024-01-18'
+    event: 'Besluit: gedeeltelijk toegewezen'
+ai_processed_at: '2026-07-23T12:31:49.886Z'
 ---
 
 Postadres:

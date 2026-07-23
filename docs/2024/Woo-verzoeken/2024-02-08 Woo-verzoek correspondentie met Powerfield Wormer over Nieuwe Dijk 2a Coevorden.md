@@ -1,8 +1,58 @@
 ---
-title: "2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk 2a Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk 2a Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-08 Woo-verzoek correspondentie met Powerfield Wormer over Nieuwe Dijk
+  2a Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-08 Woo-verzoek correspondentie met Powerfield
+  Wormer over Nieuwe Dijk 2a Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2022 diende Powerfield Netherlands B.V. een aanvraag in voor een
+  omgevingsvergunning voor een energieopslagsysteem aan de Nieuwe Dijk 2A te
+  Coevorden. In 2022 en 2023 volgden een ontvangstbevestiging, een provinciale
+  Wnb-ontheffing voor het kabeltracé tussen Hollandscheveld en Coevorden, en een
+  aanbiedingsbrief met bezwaarclausule.
+milestones:
+  - date: '2021-09-15'
+    event: vooroverleg ingediend
+  - date: '2022-02-21'
+    event: aanvraag omgevingsvergunning ingediend
+  - date: '2022-02-21'
+    event: vooroverleg conceptaanvraag
+  - date: '2022-06-15'
+    event: omgevingsvergunning aangevraagd
+  - date: '2022-07-27'
+    event: aanvullende gegevens gevraagd
+  - date: '2022-10-04'
+    event: aanvraag ingetrokken
+  - date: '2022-11-24'
+    event: aanvraag ontvangen voor kabeltracé/omgevingsvergunning
+  - date: '2022-11-24'
+    event: aanvraag ingediend
+  - date: '2022-11-24'
+    event: nieuwe aanvraag kabeltracé ingediend
+  - date: '2022-11-30'
+    event: ontvangstbevestiging aanvraag
+  - date: '2022-12-13'
+    event: ontbrekende gegevens opgevraagd
+  - date: '2022-12-15'
+    event: ontbrekende gegevens ontvangen
+  - date: '2023-01-16'
+    event: beslistermijn verlengd
+  - date: '2023-01-23'
+    event: beslistermijn verlengd
+  - date: '2023-02-24'
+    event: besluit verzonden
+  - date: '2023-02-24'
+    event: vergunning verleend
+  - date: '2023-03-29'
+    event: besluit Wnb-ontheffing verleend
+  - date: '2023-03-29'
+    event: aanbiedingsbrief ontheffing verzonden
+ai_processed_at: '2026-07-23T12:30:02.431Z'
 ---
 
 $'(/$$5 9$67*2('217:,..(/,1* %9

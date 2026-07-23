@@ -1,8 +1,29 @@
 ---
-title: "2024-06-11 Woo-verzoek correspondentie verduurzamen van 20 twee-onder-een-kap woningen aan Langbos"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-06-11 Woo-verzoek correspondentie verduurzamen van 20 twee-onder-een-kap woningen aan Langbos.pdf"
-date: 2026-07-23
+title: >-
+  2024-06-11 Woo-verzoek correspondentie verduurzamen van 20 twee-onder-een-kap
+  woningen aan Langbos
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-06-11 Woo-verzoek correspondentie verduurzamen van 20
+  twee-onder-een-kap woningen aan Langbos.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-04-29 diende de verzoeker een Woo-verzoek in over documenten rond de
+  omgevingsvergunning voor het verduurzamen van 20 woningen in Oosterhesselen en
+  de afwijking daarvan. De gemeente Coevorden besloot op 2024-06-11 het verzoek
+  deels toe te wijzen en deels af te wijzen, met openbaarmaking van documenten
+  met weglakking van persoonsgegevens en een verlenging van de beslistermijn met
+  twee weken.
+milestones:
+  - date: '2024-04-29'
+    event: Woo-verzoek ingediend
+  - date: '2024-05-24'
+    event: Beslistermijn verlengd met twee weken
+  - date: '2024-06-11'
+    event: 'Besluit: deels toegewezen, deels afgewezen'
+ai_processed_at: '2026-07-23T12:26:41.635Z'
 ---
 
 Gemeente

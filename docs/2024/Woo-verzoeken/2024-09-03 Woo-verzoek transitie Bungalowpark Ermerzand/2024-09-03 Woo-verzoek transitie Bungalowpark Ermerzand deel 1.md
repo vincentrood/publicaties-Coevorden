@@ -1,8 +1,83 @@
 ---
-title: "2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1"
-maps: ["2024","Woo-verzoeken","2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1.pdf"
-date: 2026-07-23
+title: 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark
+  Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-07-03 diende verzoeker een Woo-verzoek in over alle documenten en
+  correspondentie rond de transitie naar permanente bewoning op Bungalowpark
+  Ermerzand. Op 2024-09-03 besloot de gemeente het verzoek toe te wijzen en de
+  documenten deels openbaar te maken; de beslistermijn was tussentijds verlengd
+  en opgeschort.
+milestones:
+  - date: '2020-10-27'
+    event: >-
+      voorbereidende notitie transformatie recreatiewoningen naar permanente
+      bewoning
+  - date: '2021-03-16'
+    event: checklist Bouwbesluit bij transformatie recreatiewoningen vastgesteld
+  - date: '2021-03-19'
+    event: transitievergadering over procesovereenkomst en brief aan leden
+  - date: '2021-05-22'
+    event: ALV gepland voor informatie over transitie
+  - date: '2021-06-01'
+    event: inventarisatie voorzieningen park Ermerzand opgesteld
+  - date: '2021-09-13'
+    event: voorbereidend overleg informatieochtend transitie
+  - date: '2021-09-25'
+    event: informatie bijeenkomst transitie Ermerzand
+  - date: '2023-03-01'
+    event: 'overleg commissie en werkgroep over taxatie, Bouwbesluit en streefbeeld'
+  - date: '2023-03-06'
+    event: overleg over transformatie met thema verlichting en kabels/leidingen
+  - date: '2023-03-15'
+    event: overleg over transformatie en kwaliteitskaarten gestart
+  - date: '2023-04-06'
+    event: 'overleg over transformatie met thema verkeer, wegen, parkeren en riolering'
+  - date: '2023-04-21'
+    event: overleg wegen (technisch) over onderhoud en kwaliteit
+  - date: '2023-05-12'
+    event: overleg algemene voorzieningen en vervolgonderzoeken
+  - date: '2023-06-09'
+    event: overleg taxatie en toets Bouwbesluit
+  - date: '2023-06-14'
+    event: toets Bouwbesluit van 3 woningen uitgevoerd
+  - date: '2023-08-18'
+    event: communicatie over Bouwbesluit en inloopbijeenkomst voorbereid
+  - date: '2023-09-08'
+    event: stedenbouwkundige analyse bij DAAD geagendeerd
+  - date: '2023-10-13'
+    event: 'stedenbouwkundige analyse, transformatieproces en taxatie besproken'
+  - date: '2023-11-10'
+    event: taxatie afgerond en transformatieproces juridisch verder uitgezocht
+  - date: '2023-12-01'
+    event: 'overleg commissie en werkgroep over taxatie, besluitvorming en Bouwbesluit'
+  - date: '2023-12-09'
+    event: eigenarenbijeenkomst gepland over taxatie en transformatie
+  - date: '2024-01-19'
+    event: stedenbouwkundige analyse door DAAD besproken en vervolgstappen gepland
+  - date: '2024-02-16'
+    event: >-
+      juridische structuur en besluitvorming rond transformatie verder
+      uitgezocht
+  - date: '2024-05-11'
+    event: ALV over voorzieningen; onvoldoende eigenaren voor besluitvorming
+  - date: '2024-07-03'
+    event: Woo-verzoek ingediend
+  - date: '2024-07-05'
+    event: >-
+      overleg gemeente en VVPD over toekomstbeeld, voorzieningen en
+      vervolgproces
+  - date: '2024-09-03'
+    event: 'Woo-besluit: verzoek toegewezen, documenten deels openbaar'
+  - date: '2024-11-24'
+    event: gemeente stelt nieuw afvalbeleid op vakantieparken vast per 2024-07-01
+ai_processed_at: '2026-07-23T12:42:44.052Z'
 ---
 
 Postadres:

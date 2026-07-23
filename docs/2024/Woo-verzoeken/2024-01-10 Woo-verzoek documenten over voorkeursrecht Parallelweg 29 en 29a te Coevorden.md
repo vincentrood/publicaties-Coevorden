@@ -1,8 +1,42 @@
 ---
-title: "2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-01-10 Woo-verzoek documenten over voorkeursrecht Parallelweg 29 en 29a te
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-10 Woo-verzoek documenten over voorkeursrecht
+  Parallelweg 29 en 29a te Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden vestigde op 2020-10-26 een voorlopig voorkeursrecht op
+  percelen in Holwert Midden; de gemeenteraad bestendigde dit op 2020-12-08,
+  waarmee het voorkeursrecht voor drie jaar werd verlengd. In 2021 bood de
+  gemeente na ontvangst van aanbiedingen van de eigenaren de percelen
+  Parallelweg 29 en 29a in beginsel aan te kopen, en op 2024-01-10 wees zij het
+  Woo-verzoek toe met openbaarmaking van documenten onder weglakking van
+  persoonsgegevens.
+milestones:
+  - date: '2020-10-26'
+    event: collegebesluit voorlopige aanwijzing Wvg
+  - date: '2020-10-26'
+    event: collegebesluit voorlopige aanwijzing voorkeursrecht (Wvg)
+  - date: '2020-12-08'
+    event: raadsbesluit bestendiging voorkeursrecht
+  - date: '2020-12-08'
+    event: raadsbesluit aanwijzing/bestendiging voorkeursrecht (Wvg)
+  - date: '2020-12-11'
+    event: inwerkingtreding raadsbesluit na publicatie
+  - date: '2021-04-19'
+    event: aanbieding percelen Parallelweg 29 en 29a
+  - date: '2021-05-25'
+    event: collegebesluit in beginsel tot aankoop
+  - date: '2023-11-29'
+    event: Woo-verzoek ingediend
+  - date: '2024-01-10'
+    event: besluit Woo-verzoek toegewezen
+ai_processed_at: '2026-07-23T12:33:13.898Z'
 ---
 
 Gemeente

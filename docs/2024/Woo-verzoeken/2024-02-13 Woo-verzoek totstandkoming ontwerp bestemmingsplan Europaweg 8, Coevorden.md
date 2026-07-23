@@ -1,8 +1,45 @@
 ---
-title: "2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8, Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8, Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-13 Woo-verzoek totstandkoming ontwerp bestemmingsplan Europaweg 8,
+  Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-13 Woo-verzoek totstandkoming ontwerp
+  bestemmingsplan Europaweg 8, Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2024 diende verzoeker een Woo-verzoek in over contacten rond het
+  ontwerpbestemmingsplan Europaweg 8 te Coevorden; de gemeente wees dit op
+  2024-02-13 gedeeltelijk toe met openbaarmaking van documenten met gelakte
+  persoonsgegevens. Daarvoor liep vanaf 2021 een planologische procedure voor
+  Europaweg 8, met concept- en ontwerpbestemmingsplannen, vooroverlegreacties en
+  inhoudelijke afstemming over de ruimte-voor-ruimteontwikkeling.
+milestones:
+  - date: '2020-11-18'
+    event: principe medewerking gemeente
+  - date: '2021-12-22'
+    event: aanvraag herziening bestemmingsplan ontvangen
+  - date: '2022-01-13'
+    event: ontvangstbevestiging aanvraag
+  - date: '2023-03-23'
+    event: anterieure overeenkomst verzonden
+  - date: '2023-11-24'
+    event: aangepast plan ingediend
+  - date: '2023-11-29'
+    event: aangepast ontwerpbestemmingsplan ingediend
+  - date: '2023-12-08'
+    event: aangepast bestemmingsplan aangeleverd
+  - date: '2023-12-11'
+    event: plan aangepast na wethoudersbespreking
+  - date: '2023-12-13'
+    event: publicatiebestanden aangeleverd
+  - date: '2024-01-11'
+    event: Woo-verzoek ingediend
+  - date: '2024-02-13'
+    event: 'Besluit: gedeeltelijke toewijzing Woo-verzoek'
+ai_processed_at: '2026-07-23T12:28:43.771Z'
 ---
 
 Gemeente

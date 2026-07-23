@@ -1,8 +1,51 @@
 ---
-title: "2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's Ganzenparadijs"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's Ganzenparadijs.pdf"
-date: 2026-07-23
+title: >-
+  2024-06-03 Woo-verzoek correspondentie en handhavingsverzoek Akka's
+  Ganzenparadijs
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-06-03 Woo-verzoek correspondentie en
+  handhavingsverzoek Akka's Ganzenparadijs.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2024-04-22 een Woo-verzoek en besloot dit op
+  2024-06-03 gedeeltelijk openbaar te maken met weglakking van persoonsgegevens.
+  In de onderliggende handhavingszaak werd op 2023-09-15 een handhavingsverzoek
+  ingediend, op 2023-11-09 de beslistermijn verlengd, op 2023-12-12
+  ingebrekestelling gedaan en op 2024-03-15 beroep wegens niet tijdig beslissen
+  ingesteld.
+milestones:
+  - date: '2020-01-24'
+    event: principeakkoord herziening bestemmingsplan
+  - date: '2020-08-13'
+    event: aanvraag omgevingsvergunning ingediend
+  - date: '2021-03-31'
+    event: omgevingsvergunning verleend
+  - date: '2021-09-28'
+    event: besluit op bezwaar genomen
+  - date: '2021-09-28'
+    event: besluit op bezwaar herroepen/intrekking aangekondigd
+  - date: '2021-10-04'
+    event: bekendmaking vergunning van rechtswege en voorschriften
+  - date: '2023-09-11'
+    event: besluiten ingetrokken ter zitting
+  - date: '2023-09-15'
+    event: verzoek tot handhavend optreden ingediend
+  - date: '2023-11-09'
+    event: beslistermijn handhavingsverzoek verlengd
+  - date: '2023-12-12'
+    event: ingebrekestelling verzonden
+  - date: '2024-01-19'
+    event: reactie op ingebrekestelling
+  - date: '2024-03-15'
+    event: beroep niet tijdig beslissen ingesteld
+  - date: '2024-04-22'
+    event: Woo-verzoek ontvangen
+  - date: '2024-06-03'
+    event: besluit op Woo-verzoek genomen
+ai_processed_at: '2026-07-23T12:26:59.415Z'
 ---
 
 An

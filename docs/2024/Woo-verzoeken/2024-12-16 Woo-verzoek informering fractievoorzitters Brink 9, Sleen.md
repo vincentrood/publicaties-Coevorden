@@ -1,8 +1,26 @@
 ---
-title: "2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen.pdf"
-date: 2026-07-23
+title: '2024-12-16 Woo-verzoek informering fractievoorzitters Brink 9, Sleen'
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-12-16 Woo-verzoek informering fractievoorzitters Brink
+  9, Sleen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-01-02 is een Woo-verzoek ingediend bij de gemeente Coevorden over
+  e-mails, gespreksverslagen en overige stukken over het informeren van
+  fractievoorzitters rond Brink 9 in Sleen. Op 2024-12-16 is dit verzoek
+  toegewezen en is één document openbaar gemaakt met weglakking van
+  persoonsgegevens.
+milestones:
+  - date: '2024-01-02'
+    event: Woo-verzoek ingediend
+  - date: '2024-12-16'
+    event: >-
+      Woo-besluit: verzoek toegewezen en document openbaar gemaakt met
+      weglakking
+ai_processed_at: '2026-07-23T12:23:39.938Z'
 ---
 
 Gemeente

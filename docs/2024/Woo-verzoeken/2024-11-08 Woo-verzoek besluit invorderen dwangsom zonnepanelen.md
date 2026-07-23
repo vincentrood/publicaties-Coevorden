@@ -1,8 +1,23 @@
 ---
-title: "2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen.pdf"
-date: 2026-07-23
+title: 2024-11-08 Woo-verzoek besluit invorderen dwangsom zonnepanelen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-11-08 Woo-verzoek besluit invorderen dwangsom
+  zonnepanelen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-10-09 is een Woo-verzoek ingediend over documenten rond het besluit
+  tot invordering van een dwangsom van € 2.000 (zaak Z2024-010031). Op
+  2024-11-08 heeft de gemeente het verzoek gedeeltelijk toegewezen en documenten
+  openbaar gemaakt met weglakking van persoonsgegevens.
+milestones:
+  - date: '2024-10-09'
+    event: Woo-verzoek ingediend
+  - date: '2024-11-08'
+    event: 'Besluit op Woo-verzoek: gedeeltelijk toegewezen'
+ai_processed_at: '2026-07-23T12:24:08.784Z'
 ---
 
 nie Gemeente

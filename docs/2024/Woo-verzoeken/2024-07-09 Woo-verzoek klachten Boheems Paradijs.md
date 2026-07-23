@@ -1,8 +1,20 @@
 ---
-title: "2024-07-09 Woo-verzoek klachten Boheems Paradijs"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-09 Woo-verzoek klachten Boheems Paradijs.pdf"
-date: 2026-07-23
+title: 2024-07-09 Woo-verzoek klachten Boheems Paradijs
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-07-09 Woo-verzoek klachten Boheems Paradijs.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-06-13 is een Woo-verzoek ingediend om klachten over Boheems Paradijs
+  in te zien. Op 2024-07-09 heeft de gemeente dit verzoek afgewezen omdat na
+  anonimisering het enige aangetroffen document onleesbaar werd.
+milestones:
+  - date: '2024-06-13'
+    event: Woo-verzoek ingediend
+  - date: '2024-07-09'
+    event: 'Besluit: Woo-verzoek afgewezen'
+ai_processed_at: '2026-07-23T12:26:03.536Z'
 ---
 
 Gemeente

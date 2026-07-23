@@ -1,8 +1,23 @@
 ---
-title: "2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe.pdf"
-date: 2026-07-23
+title: 2024-09-03 Woo-verzoek ZKA-rapport vitaliteit verblijfssector Drenthe
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek ZKA-rapport vitaliteit
+  verblijfssector Drenthe.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-08-16 diende verzoeker een Woo-verzoek in bij de gemeente Coevorden.
+  Op 2024-09-03 besloot de gemeente het verzoek deels toe te wijzen voor het
+  ZKA-rapport en deels af te wijzen omdat de gevraagde bijlagen al openbaar
+  waren.
+milestones:
+  - date: '2024-08-16'
+    event: Woo-verzoek ingediend
+  - date: '2024-09-03'
+    event: 'Besluit: deels toegewezen, deels afgewezen'
+ai_processed_at: '2026-07-23T12:25:05.061Z'
 ---
 
 Postadres:

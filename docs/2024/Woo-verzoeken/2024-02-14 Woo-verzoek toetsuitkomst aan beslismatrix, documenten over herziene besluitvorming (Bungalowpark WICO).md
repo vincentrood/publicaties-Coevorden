@@ -1,8 +1,24 @@
 ---
-title: "2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over herziene besluitvorming (Bungalowpark WICO)"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over herziene besluitvorming (Bungalowpark WICO).pdf"
-date: 2026-07-23
+title: >-
+  2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix, documenten over
+  herziene besluitvorming (Bungalowpark WICO)
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-02-14 Woo-verzoek toetsuitkomst aan beslismatrix,
+  documenten over herziene besluitvorming (Bungalowpark WICO).pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek is op 2024-01-23 ingediend en op 2024-02-14 gedeeltelijk
+  toegewezen. De gemeente trof 6 documenten aan, maar vond geen documenten over
+  de gevraagde herziene besluitvorming van college en raad.
+milestones:
+  - date: '2024-01-23'
+    event: Woo-verzoek ingediend
+  - date: '2024-02-14'
+    event: 'Besluit op Woo-verzoek: gedeeltelijk toegewezen en deels afgewezen'
+ai_processed_at: '2026-07-23T12:28:05.213Z'
 ---
 
 Gemeente

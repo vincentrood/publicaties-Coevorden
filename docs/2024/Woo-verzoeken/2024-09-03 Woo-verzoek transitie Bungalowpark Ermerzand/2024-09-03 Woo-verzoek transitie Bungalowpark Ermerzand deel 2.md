@@ -1,8 +1,63 @@
 ---
-title: "2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2"
-maps: ["2024","Woo-verzoeken","2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2.pdf"
-date: 2026-07-23
+title: 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek transitie Bungalowpark
+  Ermerzand/2024-09-03 Woo-verzoek transitie Bungalowpark Ermerzand deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Sinds 2021 liep het traject rond de mogelijke transformatie van Ermerzand van
+  recreatie naar wonen, met een gezamenlijke brief, een taxatierapport en
+  verdere uitwerking in 2023-2024. In 2024 volgde kritiek en reactie op de Q&A
+  en verslagen, terwijl de gemeente het proces bleef koppelen aan draagvlak
+  onder eigenaren.
+milestones:
+  - date: '2020-04-16'
+    event: gemeentelijke memo over voorzieningen bij transformatie vakantieparken
+  - date: '2021-02-01'
+    event: handleiding kwaliteitskaarten transformatie niet-vitale vakantieparken
+  - date: '2021-03-22'
+    event: brief aan eigenaren over transformatie en enquête
+  - date: '2021-04-25'
+    event: gezamenlijke brief aan leden Ermerzand voorbereid
+  - date: '2021-05-22'
+    event: ALV gepland voor bespreking transitie
+  - date: '2023-01-16'
+    event: intentieovereenkomst getekend voor vervolgonderzoek woonbestemming
+  - date: '2023-06-30'
+    event: einde erfpacht verklaard
+  - date: '2023-07-01'
+    event: erfpacht en opstal samengevoegd tot bloot eigendom
+  - date: '2023-08-18'
+    event: toelichting op onderzoek bouwbesluit voor mogelijke transformatie
+  - date: '2023-08-24'
+    event: offerteaanvraag taxatie uitgebracht
+  - date: '2023-09-04'
+    event: offerte taxatie uitgebracht
+  - date: '2023-09-14'
+    event: opdracht tot taxatie verstrekt
+  - date: '2023-10-05'
+    event: opname/taxatie op waardepeildatum
+  - date: '2023-10-11'
+    event: opdracht door opdrachtgever 1 getekend
+  - date: '2023-10-12'
+    event: opdracht door opdrachtgever 2 getekend
+  - date: '2023-10-23'
+    event: KvK-uittreksel gebruikt als bron
+  - date: '2023-10-25'
+    event: deskundigenrapport waardeverandering opgesteld
+  - date: '2023-11-08'
+    event: deskundigenrapport gedateerd
+  - date: '2023-11-10'
+    event: deskundigenrapport ondertekend
+  - date: '2024-03-01'
+    event: reactie op Q&A transitie Ermerzand
+  - date: '2024-03-06'
+    event: berichtgeving over Ermerzand als toekomstige woonwijk gedeeld
+ai_processed_at: '2026-07-23T12:41:48.447Z'
 ---
 
 concept versie 9-4-2021 CVE

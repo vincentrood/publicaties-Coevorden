@@ -1,8 +1,62 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 1"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De Woo-aanvraag voor het gehele WICO-dossier is op 2023-07-09 ingediend en na
+  beperking van de gevraagde periode is op 2024-02-29 gedeeltelijk beslist. De
+  beslistermijn is in juli 2023 verlengd en op 2023-12-05 zijn belanghebbenden
+  om zienswijzen gevraagd; documenten worden deels openbaar gemaakt en deels
+  geweigerd/gelakt.
+milestones:
+  - date: '2022-05-24'
+    event: voornemen last onder dwangsom verzonden
+  - date: '2023-03-08'
+    event: 'brief gemeente: plan Wico terug naar recreatie en start gesprekken'
+  - date: '2023-03-08'
+    event: brief over terugbrengen park naar recreatie verzonden
+  - date: '2023-04-02'
+    event: >-
+      reactie op brief: verzoek om WOO-informatie over factsheet en gang van
+      zaken
+  - date: '2023-05-02'
+    event: 'gemeente: reactie op vragen over Wico en aankondiging bijeenkomsten'
+  - date: '2023-05-09'
+    event: uitnodiging informatiebijeenkomsten Wico
+  - date: '2023-05-11'
+    event: uitnodiging informatiebijeenkomst Wico en Q&A
+  - date: '2023-05-16'
+    event: 'collegebesluit: beantwoording schriftelijke raadsvragen over Wico'
+  - date: '2023-05-23'
+    event: 'brief aan raad over besluitvorming, tijdslijn en quickscan Wico'
+  - date: '2023-05-24'
+    event: informatiebijeenkomsten voor bungaloweigenaren
+  - date: '2023-05-24'
+    event: informatiebijeenkomsten voor eigenaren gehouden
+  - date: '2023-07-07'
+    event: gesprek gemeente met werkgroep Wico
+  - date: '2023-07-09'
+    event: Woo-verzoek ingediend
+  - date: '2023-07-17'
+    event: Beslistermijn verlengd met circa 5 maanden
+  - date: '2023-07-17'
+    event: 'nieuwsbrief: handhaving voorlopig uitgesteld in afwachting onderzoek'
+  - date: '2023-07-25'
+    event: informatie deelname onderzoek Bureau Ruimte & Vrije Tijd verzonden
+  - date: '2023-12-05'
+    event: Zienswijze gevraagd aan belanghebbenden
+  - date: '2024-02-29'
+    event: 'Besluit: gedeeltelijk toegewezen en documenten openbaar gemaakt'
+ai_processed_at: '2026-07-23T12:40:51.310Z'
 ---
 
 Postadres:

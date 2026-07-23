@@ -1,8 +1,90 @@
 ---
-title: "2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1"
-maps: ["2024","Woo-verzoeken","Documenten omtrent Bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO,
+  communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Documenten omtrent Bungalowpark WICO
+source: >-
+  2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek
+  documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau
+  Ruimte en Vrije Tijd deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-08-25 een Woo-verzoek over documenten
+  rond COMcept, Ruimte & Vrije Tijd, mandaten en beleidsdocumenten over Wico en
+  het buitengebied. Op 2024-02-21 volgde een besluit waarbij het verzoek deels
+  werd toegewezen, deels afgewezen en documenten deels openbaar werden gemaakt
+  met weglakking van persoonsgegevens.
+milestones:
+  - date: '2021-01-01'
+    event: start onderzoek transformatie De Tip naar wonen
+  - date: '2021-01-01'
+    event: start onderzoek transformatie Ermerzand naar wonen
+  - date: '2022-03-22'
+    event: >-
+      start handhaving/controle op permanente bewoning Ermerstrand, Primo en
+      Secundo
+  - date: '2022-05-01'
+    event: subsidie Weidzz Natuurlodges ontvangen
+  - date: '2022-07-01'
+    event: >-
+      eerste officiële brieven/voornemen last onder dwangsom voor permanente
+      bewoning gestart
+  - date: '2022-12-27'
+    event: communicatiesessie Wico opgesteld
+  - date: '2023-02-20'
+    event: Gesprek over toekomst park Wico
+  - date: '2023-02-21'
+    event: >-
+      besluit/brief Wico: terug naar recreatie en beëindiging permanente
+      bewoning
+  - date: '2023-02-28'
+    event: Beantwoording e-mail over Wico
+  - date: '2023-03-08'
+    event: brief Wico verstuurd aan betrokkenen
+  - date: '2023-03-08'
+    event: >-
+      Brief Wico: aankondiging terug naar recreatie en beëindiging permanente
+      bewoning
+  - date: '2023-03-14'
+    event: Start parkbezoeken Wico
+  - date: '2023-05-16'
+    event: Q&A Wico akkoord voor online publicatie
+  - date: '2023-05-24'
+    event: Informatiebijeenkomsten Wico
+  - date: '2023-05-25'
+    event: informatiebijeenkomst De Tip over transformatie
+  - date: '2023-07-01'
+    event: uitvoeringsplan Ermerstrand/Primo/Secundo afgerond
+  - date: '2023-07-11'
+    event: 'Aanpassing Q&A Wico: handhaving voorlopig uitgesteld voor onderzoek'
+  - date: '2023-07-12'
+    event: 'nieuwsbrief Wico verspreid naar college, raad en KCC'
+  - date: '2023-07-21'
+    event: >-
+      Uitleg gemeente over handhaving en informatiebijeenkomst parken
+      Steenbakkersweg
+  - date: '2023-07-21'
+    event: 'Uitvoeringsplan Primo, Secundo en Ermerstrand afgerond'
+  - date: '2023-08-22'
+    event: >-
+      Programmateam VVPC: melding dat rapportage herhuisvesting Erm geen nieuwe
+      updates had
+  - date: '2023-08-25'
+    event: Woo-verzoek ingediend
+  - date: '2023-08-29'
+    event: websiteteksten en Q&A’s voor parken geactualiseerd
+  - date: '2023-09-26'
+    event: laatste feedback op websiteteksten en Q&A’s verwerkt
+  - date: '2023-10-16'
+    event: Aangepaste intranettekst VVPC met handhavingsprocedures
+  - date: '2023-10-23'
+    event: Aangepaste webteksten en Q&A's VVPC gepubliceerd voorbereid
+  - date: '2024-02-21'
+    event: Besluit Woo-verzoek genomen
+ai_processed_at: '2026-07-23T12:37:01.803Z'
 ---
 
 Gemeente

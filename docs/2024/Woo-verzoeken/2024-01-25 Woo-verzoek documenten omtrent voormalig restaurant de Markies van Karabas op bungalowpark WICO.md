@@ -1,8 +1,32 @@
 ---
-title: "2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van Karabas op bungalowpark WICO"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van Karabas op bungalowpark WICO.pdf"
-date: 2026-07-23
+title: >-
+  2024-01-25 Woo-verzoek documenten omtrent voormalig restaurant de Markies van
+  Karabas op bungalowpark WICO
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-25 Woo-verzoek documenten omtrent voormalig
+  restaurant de Markies van Karabas op bungalowpark WICO.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-12-15 een Woo-verzoek over documenten
+  rond De Markies van Karabas / Wico. Op 2024-01-25 is daarop gedeeltelijk
+  positief beslist: documenten worden deels openbaar gemaakt, maar het verzoek
+  voor stukken over de omgevingstafel is afgewezen omdat die niet zijn
+  aangetroffen.
+milestones:
+  - date: '2023-12-14'
+    event: Woo-verzoek ingediend
+  - date: '2024-01-09'
+    event: Beslistermijn verlengd met 2 weken
+  - date: '2024-01-25'
+    event: 'Besluit: gedeeltelijke toewijzing en gedeeltelijke afwijzing'
+  - date: '2024-01-25'
+    event: >-
+      Openbaarmaking documenten met weglakking persoonsgegevens en
+      concurrentiegevoelige gegevens
+ai_processed_at: '2026-07-23T12:31:06.088Z'
 ---
 
 Postadres:

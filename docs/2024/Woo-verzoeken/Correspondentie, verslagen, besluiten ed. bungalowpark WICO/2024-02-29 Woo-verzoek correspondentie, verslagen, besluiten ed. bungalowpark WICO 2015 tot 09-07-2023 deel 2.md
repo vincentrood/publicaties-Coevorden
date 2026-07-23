@@ -1,8 +1,107 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 2"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden startte in 2023 het traject rond bungalowpark Wico met
+  een brief aan bewoners/eigenaren, gevolgd door gesprekken en een onderzoek
+  naar recreatieve kansen. Daarna werd de handhaving op permanente bewoning
+  voorlopig uitgesteld in afwachting van de onderzoeksresultaten.
+milestones:
+  - date: '2022-04-25'
+    event: >-
+      Brief: permanente bewoning op Slenerweg 83 niet toegestaan; aankondiging
+      officiële brief en zienswijze.
+  - date: '2022-06-10'
+    event: VLOD verzonden aan huurder en eigenaren van Slenerweg 83.
+  - date: '2022-06-28'
+    event: Overzicht persoonsgebonden gedoogbeschikkingen Wico opgesteld.
+  - date: '2023-01-16'
+    event: Voorstel eerste aanpak communicatie park Wico gedeeld.
+  - date: '2023-01-21'
+    event: aanvraag/brief over aanpak en communicatie VVP Wico
+  - date: '2023-03-08'
+    event: >-
+      brief aan eigenaren/bewoners over start traject en aankondiging
+      parkbezoeken
+  - date: '2023-03-08'
+    event: Brief aan eigenaren/bewoners Wico akkoord; verzending voorbereid.
+  - date: '2023-03-09'
+    event: Brief Wico verstuurd aan eigenaren/bewoners.
+  - date: '2023-03-10'
+    event: >-
+      brief aan bewoners/eigenaren over beëindiging permanente bewoning en
+      toekomstplan
+  - date: '2023-03-13'
+    event: Start parkbezoeken en individuele gesprekken op Wico.
+  - date: '2023-03-29'
+    event: gesprek over Wico en mededeling dat permanente bewoning niet is toegestaan
+  - date: '2023-04-13'
+    event: indiening schriftelijke vragen over Wico door CDA
+  - date: '2023-04-13'
+    event: Besluit tot informatiebijeenkomst Wico op 24 en 31 mei.
+  - date: '2023-04-15'
+    event: brief met vragen/opmerkingen over de aanpak van Wico
+  - date: '2023-04-26'
+    event: beantwoording schriftelijke raadsvragen over Wico
+  - date: '2023-04-26'
+    event: 'besluit/antwoord: permanente bewoning niet toegestaan; uitnodiging gesprek'
+  - date: '2023-05-01'
+    event: Uitnodiging en Q&A voor informatiebijeenkomst Wico opgesteld.
+  - date: '2023-05-03'
+    event: gesprek over Wico
+  - date: '2023-05-08'
+    event: Conceptbrief huurders Wico afgerond voor verzending.
+  - date: '2023-05-17'
+    event: Definitieve brief huurders Wico verzonden.
+  - date: '2023-05-24'
+    event: informatiebijeenkomsten voor eigenaren op Wico
+  - date: '2023-05-24'
+    event: informatiebijeenkomsten voor bewoners/eigenaren
+  - date: '2023-05-24'
+    event: Geplande informatiebijeenkomst Wico.
+  - date: '2023-05-31'
+    event: Tweede geplande informatiebijeenkomst Wico.
+  - date: '2023-06-26'
+    event: Conceptmemo over uitstellen handhaving op park Wico opgesteld.
+  - date: '2023-06-28'
+    event: voorstel uitstel handhaving besproken
+  - date: '2023-06-28'
+    event: 'verlenging/uitstel: pas op de plaats met handhaving tot 2023-09-01'
+  - date: '2023-07-06'
+    event: >-
+      Overleg over QuickScan/vitaliteitsscan Wico en separate afspraak met
+      grondeigenaar.
+  - date: '2023-07-07'
+    event: start onderzoek/vitaliteitsscan door Bureau Ruimte & Vrije Tijd
+  - date: '2023-07-17'
+    event: gesprek over verblijven op Wico en doorverwijzing naar werkgroep
+  - date: '2023-07-24'
+    event: gespreksverslag van 2023-07-17 verzonden
+  - date: '2023-08-01'
+    event: akkoord op offerte vitaliteitsscan Wico
+  - date: '2023-08-07'
+    event: schouw/onderzoek op park Wico aangekondigd
+  - date: '2023-08-08'
+    event: Toelichting proces en onderzoeksfase vitaliteitsscan Wico verzonden.
+  - date: '2023-08-09'
+    event: Aankondiging schouw bungalowpark Wico voor 2023-08-17.
+  - date: '2023-08-10'
+    event: toelichting gemeente op proces vitaliteitsscan en verzoek om medewerking
+  - date: '2023-08-17'
+    event: start schouw/onderzoek in kader van vitaliteitsscan
+  - date: '2023-08-17'
+    event: Geplande schouw in het kader van de vitaliteitsscan Wico.
+ai_processed_at: '2026-07-23T12:39:54.706Z'
 ---
 
 1

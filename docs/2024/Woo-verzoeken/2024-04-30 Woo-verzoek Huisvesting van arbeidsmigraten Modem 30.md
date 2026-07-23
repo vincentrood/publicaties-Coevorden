@@ -1,8 +1,31 @@
 ---
-title: "2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30.pdf"
-date: 2026-07-23
+title: 2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten Modem 30
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-04-30 Woo-verzoek Huisvesting van arbeidsmigraten
+  Modem 30.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2024 is een conceptaanvraag ingediend voor tijdelijke huisvesting van
+  arbeidsmigranten aan Modem 30 te Coevorden. De gemeente heeft dit verzoek op
+  2024-04-30 gedeeltelijk toegewezen, met openbaarmaking van documenten met
+  weglakking van persoonsgegevens.
+milestones:
+  - date: '2024-02-08'
+    event: >-
+      conceptverzoek ingediend voor tijdelijke huisvesting arbeidsmigranten
+      Modem 30
+  - date: '2024-02-22'
+    event: foutieve publicatie ontvangst formele aanvraag
+  - date: '2024-03-01'
+    event: 'rectificatie gepubliceerd: het betrof een conceptverzoek'
+  - date: '2024-03-11'
+    event: 'collegebesluit: geen medewerking aan afwijking omgevingsplan'
+  - date: '2024-04-30'
+    event: 'besluit Woo-verzoek: gedeeltelijk toegewezen'
+ai_processed_at: '2026-07-23T12:27:21.762Z'
 ---
 
 Gemeente

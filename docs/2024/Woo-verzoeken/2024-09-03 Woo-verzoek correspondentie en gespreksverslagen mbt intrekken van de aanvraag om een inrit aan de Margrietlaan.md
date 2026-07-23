@@ -1,8 +1,25 @@
 ---
-title: "2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van de aanvraag om een inrit aan de Margrietlaan"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van de aanvraag om een inrit aan de Margrietlaan.pdf"
-date: 2026-07-23
+title: >-
+  2024-09-03 Woo-verzoek correspondentie en gespreksverslagen mbt intrekken van
+  de aanvraag om een inrit aan de Margrietlaan
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-09-03 Woo-verzoek correspondentie en gespreksverslagen
+  mbt intrekken van de aanvraag om een inrit aan de Margrietlaan.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-07-22 is een Woo-verzoek ingediend voor correspondentie en
+  gespreksverslagen over het intrekken van de aanvraag voor een inrit op de
+  Margrietlaan. Op 2024-09-03 heeft de gemeente het verzoek toegewezen en de
+  aangetroffen documenten openbaar gemaakt, met weglakking van persoonsgegevens.
+milestones:
+  - date: '2024-07-22'
+    event: Woo-verzoek ingediend
+  - date: '2024-09-03'
+    event: 'Woo-besluit: verzoek toegewezen en documenten openbaar gemaakt'
+ai_processed_at: '2026-07-23T12:24:56.254Z'
 ---
 
 Gemeente

@@ -1,8 +1,58 @@
 ---
-title: "2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 1"
-maps: ["2024","Woo-verzoeken","Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken"]
-source: "2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken 11-2023 tot 3-2024 deel 1.pdf"
-date: 2026-07-23
+title: >-
+  2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+  11-2023 tot 3-2024 deel 1
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Woo-verzoek inzameling huishoudelijke afvalstoffen recreatieparken
+source: >-
+  2024/Woo-verzoeken/Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken/2024-04-15 Woo-verzoek inzameling huishoudelijke afvalstoffen
+  recreatieparken 11-2023 tot 3-2024 deel 1.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2024-03-04 een Woo-verzoek over informatie
+  rond de inzameling van huishoudelijke afvalstoffen bij recreatieparken vanaf
+  2023-11-07. Op 2024-04-15 is daarop gedeeltelijk positief beslist; de
+  gevraagde documenten zijn deels openbaar gemaakt en bezwaar is mogelijk binnen
+  zes weken.
+milestones:
+  - date: '2023-10-16'
+    event: >-
+      college stelde ontwerp-afvalstoffenverordening vast en legde deze zes
+      weken ter inzage
+  - date: '2023-10-31'
+    event: collegevoorstel voor vaststelling afvalstoffenverordening
+  - date: '2023-11-07'
+    event: >-
+      college stelde ontwerp-afvalstoffenverordening vast en legde deze zes
+      weken ter inzage
+  - date: '2023-11-14'
+    event: >-
+      college stelde ontwerp-uitvoeringsbesluit vast en legde dit zes weken ter
+      inzage
+  - date: '2023-12-12'
+    event: raad stelt afvalstoffenverordening 2024 vast
+  - date: '2024-01-23'
+    event: collegevoorstel tot gewijzigde vaststelling
+  - date: '2024-02-26'
+    event: college stelde gewijzigd uitvoeringsbesluit en notitie zienswijzen vast
+  - date: '2024-02-27'
+    event: >-
+      raad stelde Afvalstoffenverordening gemeente Coevorden 2024 vast en trok
+      de verordening 2005 in
+  - date: '2024-02-27'
+    event: raad stelt afvalstoffenverordening 2024 gewijzigd vast
+  - date: '2024-03-04'
+    event: Woo-verzoek ingediend
+  - date: '2024-03-05'
+    event: >-
+      college stelde gewijzigd uitvoeringsbesluit en notitie zienswijzen opnieuw
+      vast
+  - date: '2024-04-15'
+    event: 'Besluit op Woo-verzoek: gedeeltelijk toegewezen'
+ai_processed_at: '2026-07-23T12:35:08.166Z'
 ---
 
 Postadres:

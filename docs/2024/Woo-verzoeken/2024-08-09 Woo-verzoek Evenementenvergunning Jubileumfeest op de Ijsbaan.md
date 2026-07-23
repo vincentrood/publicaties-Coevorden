@@ -1,8 +1,23 @@
 ---
-title: "2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan.pdf"
-date: 2026-07-23
+title: 2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest op de Ijsbaan
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-09 Woo-verzoek Evenementenvergunning Jubileumfeest
+  op de Ijsbaan.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2024-07-21 een Woo-verzoek over stukken rond
+  de aanvraag en vergunningverlening van het Oranjefeest van CSVC. Op 2024-08-09
+  besloot de gemeente het verzoek gedeeltelijk toe te wijzen en documenten
+  openbaar te maken met weglakking van persoonsgegevens.
+milestones:
+  - date: '2024-07-21'
+    event: Woo-verzoek ingediend
+  - date: '2024-08-09'
+    event: 'Besluit Woo-verzoek: gedeeltelijk toegewezen'
+ai_processed_at: '2026-07-23T12:25:42.690Z'
 ---
 
 Gemeente

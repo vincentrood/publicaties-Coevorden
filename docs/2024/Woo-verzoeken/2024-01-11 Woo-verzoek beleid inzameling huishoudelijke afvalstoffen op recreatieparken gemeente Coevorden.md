@@ -1,8 +1,78 @@
 ---
-title: "2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op recreatieparken gemeente Coevorden"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op recreatieparken gemeente Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2024-01-11 Woo-verzoek beleid inzameling huishoudelijke afvalstoffen op
+  recreatieparken gemeente Coevorden
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-01-11 Woo-verzoek beleid inzameling huishoudelijke
+  afvalstoffen op recreatieparken gemeente Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden diende op 2023-11-08 een Woo-verzoek in over het beleid
+  rond afvalinzameling op recreatieparken. Op 2024-01-11 volgde een
+  gedeeltelijke toewijzing, met openbaarmaking van documenten behalve gelakte
+  persoonsgegevens, concurrentiegevoelige gegevens en persoonlijke
+  beleidsopvattingen.
+milestones:
+  - date: '2020-05-26'
+    event: >-
+      Motie ingediend over verstrekken milieupas aan permanente bewoners
+      recreatiewoningen
+  - date: '2021-02-10'
+    event: Collegevoorstel afvalinzameling recreatieparken
+  - date: '2021-04-04'
+    event: Collegevoorstel afvalinzameling recreatieparken
+  - date: '2021-05-04'
+    event: Collegevoorstel afvalinzameling recreatieparken
+  - date: '2021-06-24'
+    event: >-
+      Collegebesluit: afvalstoffenheffing en inzameling voor recreatieparken
+      waar huishoudelijk afval vrijkomt
+  - date: '2021-08-09'
+    event: >-
+      Interne terugkoppeling: voorstel niet afzonderlijk behandelen, onderdeel
+      maken van Vitale Vakantieparken
+  - date: '2023-02-21'
+    event: >-
+      aanvraag/juridische toetsing RUD-beoordeling afvalinzameling
+      vakantieparken
+  - date: '2023-03-21'
+    event: uitgangspunten afvalinzameling Vitale Vakantieparken opgesteld
+  - date: '2023-06-08'
+    event: collegevoorstel afvalinzameling recreatieparken gestart
+  - date: '2023-06-26'
+    event: kostenplaatje Area ontvangen
+  - date: '2023-07-10'
+    event: >-
+      Collegevoorstel: invoering onderscheid inrichting/niet-inrichting per
+      2024, actualisatie verordeningen en nieuw tarief
+  - date: '2023-07-10'
+    event: >-
+      PFO: voorstel inhoudelijk akkoord, kosten te hoog; extra scenario's
+      gevraagd
+  - date: '2023-08-21'
+    event: >-
+      Collegevoorstel: invoering onderscheid inrichting/niet-inrichting per
+      2024, actualisatie verordeningen en nieuw tarief
+  - date: '2023-08-21'
+    event: >-
+      PFO: kosten doorbelast aan alle inwoners; tarief recreatiewoningen gelijk
+      aan meerpersoonshuishouden
+  - date: '2023-08-29'
+    event: >-
+      Collegevoorstel: invoering onderscheid inrichting/niet-inrichting per
+      2024, actualisatie verordeningen en nieuw tarief
+  - date: '2023-10-17'
+    event: beoogde raadsbehandeling
+  - date: '2023-11-08'
+    event: Woo-verzoek ingediend
+  - date: '2024-01-11'
+    event: Gedeeltelijk Woo-besluit genomen
+  - date: '2024-07-01'
+    event: beoogde invoering nieuwe afvalinzameling
+ai_processed_at: '2026-07-23T12:32:45.123Z'
 ---
 
 Gemeente

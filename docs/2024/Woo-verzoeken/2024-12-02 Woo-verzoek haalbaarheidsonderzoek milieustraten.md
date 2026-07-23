@@ -1,8 +1,24 @@
 ---
-title: "2024-12-02 Woo-verzoek haalbaarheidsonderzoek milieustraten"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-02 Woo-verzoek haalbaarheidsonderzoek milieustraten.pdf"
-date: 2026-07-23
+title: 2024-12-02 Woo-verzoek haalbaarheidsonderzoek milieustraten
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-12-02 Woo-verzoek haalbaarheidsonderzoek
+  milieustraten.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden diende op 2024-09-12 een Woo-verzoek in over het
+  haalbaarheidsonderzoek naar de centralisatie van de milieustraten. Op
+  2024-12-02 besloot de gemeente het verzoek toe te wijzen en documenten
+  openbaar te maken met weglakking van persoonsgegevens en informatie buiten de
+  reikwijdte.
+milestones:
+  - date: '2024-09-12'
+    event: Woo-verzoek ingediend
+  - date: '2024-12-02'
+    event: 'Besluit Woo-verzoek: geheel toegewezen'
+ai_processed_at: '2026-07-23T12:23:55.478Z'
 ---
 
 Gemeente

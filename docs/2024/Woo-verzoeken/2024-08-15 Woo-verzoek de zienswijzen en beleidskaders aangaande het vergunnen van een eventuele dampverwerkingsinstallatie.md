@@ -1,8 +1,23 @@
 ---
-title: "2024-08-15 Woo-verzoek de zienswijzen en beleidskaders aangaande het vergunnen van een eventuele dampverwerkingsinstallatie"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-08-15 Woo-verzoek de zienswijzen en beleidskaders aangaande het vergunnen van een eventuele dampverwerkingsinstallatie.pdf"
-date: 2026-07-23
+title: >-
+  2024-08-15 Woo-verzoek de zienswijzen en beleidskaders aangaande het vergunnen
+  van een eventuele dampverwerkingsinstallatie
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-08-15 Woo-verzoek de zienswijzen en beleidskaders
+  aangaande het vergunnen van een eventuele dampverwerkingsinstallatie.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Het Woo-verzoek is op 2024-04-16 ontvangen. Op 2024-08-15 is het verzoek
+  afgewezen omdat na inventarisatie geen documenten zijn aangetroffen.
+milestones:
+  - date: '2024-04-16'
+    event: Woo-verzoek ingediend
+  - date: '2024-08-15'
+    event: 'Besluit: verzoek afgewezen, geen documenten aangetroffen'
+ai_processed_at: '2026-07-23T12:25:33.685Z'
 ---
 
 Gemeente

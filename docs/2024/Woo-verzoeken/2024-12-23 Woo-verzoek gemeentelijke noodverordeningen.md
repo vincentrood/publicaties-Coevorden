@@ -1,8 +1,21 @@
 ---
-title: "2024-12-23 Woo-verzoek gemeentelijke noodverordeningen"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-12-23 Woo-verzoek gemeentelijke noodverordeningen.pdf"
-date: 2026-07-23
+title: 2024-12-23 Woo-verzoek gemeentelijke noodverordeningen
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: 2024/Woo-verzoeken/2024-12-23 Woo-verzoek gemeentelijke noodverordeningen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2024-12-17 is een Woo-verzoek ingediend bij de gemeente Coevorden over
+  noodverordeningen in de periode 2018-2024. Op 2024-12-23 is dit verzoek
+  afgewezen omdat de gevraagde documenten al openbaar waren; bezwaar binnen zes
+  weken werd vermeld.
+milestones:
+  - date: '2024-12-17'
+    event: Woo-verzoek ingediend
+  - date: '2024-12-23'
+    event: Woo-verzoek afgewezen
+ai_processed_at: '2026-07-23T12:23:35.267Z'
 ---
 
 (geanonimiseerd)

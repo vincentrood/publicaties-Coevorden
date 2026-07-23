@@ -1,8 +1,85 @@
 ---
-title: "2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3"
-maps: ["2024","Woo-verzoeken","Correspondentie, verslagen, besluiten ed. bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO 2015 tot 09-07-2023 deel 3
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - 'Correspondentie, verslagen, besluiten ed. bungalowpark WICO'
+source: >-
+  2024/Woo-verzoeken/Correspondentie, verslagen, besluiten ed. bungalowpark
+  WICO/2024-02-29 Woo-verzoek correspondentie, verslagen, besluiten ed.
+  bungalowpark WICO 2015 tot 09-07-2023 deel 3.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Dit document beschrijft een afwegingskader voor gemeenten over de toekomst van
+  niet-vitale vakantieparken, met nadruk op wel of niet wonen toestaan in
+  recreatiewoningen. Het bevat geen concrete Woo-procedure of besluitvorming
+  over een specifieke aanvraag.
+milestones:
+  - date: '2020-03-30'
+    event: aanvraag/inschrijving recreatiewoning voor tijdelijke bewoning
+  - date: '2020-05-11'
+    event: >-
+      besluit: geen (tijdelijke) toestemming voor hoofdverblijf in
+      recreatiewoning
+  - date: '2020-08-17'
+    event: >-
+      beleid/uitvoering: handhaving op illegale bewoning projectmatig,
+      BRP-inschrijving ontmoedigen
+  - date: '2020-10-20'
+    event: Vaststelling programmacontract en uitvoeringsplan VVPC
+  - date: '2021-06-01'
+    event: >-
+      beoordeling inschrijvingen: geen van de gevallen komt in aanmerking voor
+      gedoogbeschikking
+  - date: '2021-06-01'
+    event: Memo ondersteuning Naober verzonden
+  - date: '2021-06-03'
+    event: >-
+      verlenging/meerjarenraming extra budget voor toezicht en handhaving
+      2022-2025
+  - date: '2022-03-10'
+    event: Afspraak gepland met Wico over stand van zaken VVP
+  - date: '2022-03-29'
+    event: Gesprek met Wico over geen woonbestemming en handhaving
+  - date: '2022-05-24'
+    event: Voornemen last onder dwangsom Wico verzonden
+  - date: '2022-05-31'
+    event: Woo-verzoek Wico ingediend
+  - date: '2023-03-10'
+    event: Brief aan Wico over parkbezoeken en traject terug naar recreatie
+  - date: '2023-04-02'
+    event: Brief familie Wico ingediend
+  - date: '2023-05-09'
+    event: Commissievergadering over Wico en tijdslijn gedeeld
+  - date: '2023-06-20'
+    event: >-
+      besluit/afspraak: pas op de plaats bij handhaving WICO en memo over voor-
+      en nadelen
+  - date: '2023-07-07'
+    event: overleg over WICO en opdracht vitaliteitsscan/onderzoek
+  - date: '2023-07-09'
+    event: Woo-verzoek over volledig WICO-dossier ontvangen
+  - date: '2023-07-09'
+    event: Woo-verzoek ontvangen
+  - date: '2023-07-11'
+    event: >-
+      correspondentie: notulen aangepast, onderzoek bevestigd als
+      vitaliteitsscan
+  - date: '2023-07-18'
+    event: Inventarisatie collega’s gestart
+  - date: '2023-07-20'
+    event: Aanvullende inventarisatie en afhandeling verzoek gestart
+  - date: '2023-07-21'
+    event: Onderzoeksvragen en documenten voor WICO-onderzoek verspreid
+  - date: '2023-07-24'
+    event: 'afhandeling: WOO-verzoeken rond WICO moeten worden afgerond'
+  - date: '2023-08-14'
+    event: Documenten voor Woo-verzoek verzameld
+  - date: '2023-08-16'
+    event: Inventarisatiemap voor Woo-verzoek geplaatst
+ai_processed_at: '2026-07-23T12:38:51.387Z'
 ---
 
 3

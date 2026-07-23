@@ -1,8 +1,57 @@
 ---
-title: "2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot 06-2024"
-maps: ["2024","Woo-verzoeken"]
-source: "2024/Woo-verzoeken/2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot 06-2024.pdf"
-date: 2026-07-23
+title: >-
+  2024-07-09 Woo-verzoek documentatie bungalowpark Wico Schoonoord 01-2024 tot
+  06-2024
+maps:
+  - '2024'
+  - Woo-verzoeken
+source: >-
+  2024/Woo-verzoeken/2024-07-09 Woo-verzoek documentatie bungalowpark Wico
+  Schoonoord 01-2024 tot 06-2024.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2024 diende de verzoeker een Woo-verzoek in over bungalowpark Wico en later
+  volgde een aanvullend Woo-verzoek over de onderbouwing van vermoedens rond
+  illegale bewoning en verhuur. De gemeente nam op 2024-07-09 een gedeeltelijk
+  toewijzend Woo-besluit en verlengde eerder de beslistermijn; daarnaast liep
+  een traject rond de vitaliteitsscan/het onderzoek naar Wico en correspondentie
+  daarover.
+milestones:
+  - date: '2020-06-01'
+    event: >-
+      Programmacontract/uitvoeringsplan VVPC vastgesteld in concept; start
+      programma en fasering uitgewerkt
+  - date: '2024-01-16'
+    event: >-
+      Besluit commissie: opdracht vitaliteitsscan WICO blijft van kracht en
+      handhaving wordt opgeschort tot na het onderzoek
+  - date: '2024-01-21'
+    event: reactie grondeigenaren Wico ingediend bij griffie
+  - date: '2024-01-30'
+    event: college reageert op reactie commissievergadering Wico
+  - date: '2024-02-02'
+    event: reactie op collegebrief over Wico verstuurd
+  - date: '2024-03-27'
+    event: gemeente meldt geplande vitaliteitsscan Wico op 2024-05-28
+  - date: '2024-03-27'
+    event: >-
+      Gemeente informeert eigenaar en eigenaren over geplande vitaliteitsscan
+      WICO op 2024-05-28
+  - date: '2024-04-25'
+    event: gemeente bevestigt opschorting handhaving Wico tot afronding onderzoek
+  - date: '2024-05-28'
+    event: Bezoek en vitaliteitsscan WICO gepland/uitgevoerd
+  - date: '2024-05-30'
+    event: Woo-verzoek bungalowpark Wico ingediend
+  - date: '2024-06-25'
+    event: beslistermijn Woo-verzoek verlengd met twee weken
+  - date: '2024-07-01'
+    event: Conceptrapport vitaliteitsscan WICO verwacht
+  - date: '2024-07-09'
+    event: 'besluit op Woo-verzoek: gedeeltelijk toegewezen, deels afgewezen'
+  - date: '2024-07-31'
+    event: Definitieve producten/rapportage WICO verwacht
+ai_processed_at: '2026-07-23T12:26:33.005Z'
 ---
 
 Postadres:

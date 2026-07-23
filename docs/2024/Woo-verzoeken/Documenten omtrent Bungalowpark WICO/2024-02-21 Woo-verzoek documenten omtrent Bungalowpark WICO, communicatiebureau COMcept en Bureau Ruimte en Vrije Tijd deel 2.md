@@ -1,8 +1,49 @@
 ---
-title: "2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2"
-maps: ["2024","Woo-verzoeken","Documenten omtrent Bungalowpark WICO"]
-source: "2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2.pdf"
-date: 2026-07-23
+title: >-
+  2024-02-21 Woo-verzoek documenten omtrent Bungalowpark WICO,
+  communicatiebureau COMcept en Bureau Ruimte en Vrije Tijd deel 2
+maps:
+  - '2024'
+  - Woo-verzoeken
+  - Documenten omtrent Bungalowpark WICO
+source: >-
+  2024/Woo-verzoeken/Documenten omtrent Bungalowpark WICO/2024-02-21 Woo-verzoek
+  documenten omtrent Bungalowpark WICO, communicatiebureau COMcept en Bureau
+  Ruimte en Vrije Tijd deel 2.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2023 startte gemeente Coevorden met de communicatie en uitvoering rond
+  bungalowpark Wico, gericht op terugkeer naar recreatief gebruik en beëindiging
+  van permanente bewoning. Daarna volgden bewonersbijeenkomsten, een
+  werkgroeptraject en een onderzoek door Bureau voor Ruimte & Vrije Tijd,
+  waarbij de grondeigenaar bezwaar maakte tegen het onderzoek en toestemming
+  weigerde.
+milestones:
+  - date: '2020-10-01'
+    event: vaststelling uitvoeringsplan en fase I
+  - date: '2023-01-09'
+    event: voorstel eerste aanpak Wico en communicatiebrieven
+  - date: '2023-03-08'
+    event: brief aan eigenaren/bewoners Wico verstuurd
+  - date: '2023-03-09'
+    event: melding dat brief Wico wordt verzonden
+  - date: '2023-05-24'
+    event: informatiebijeenkomst Wico
+  - date: '2023-07-12'
+    event: memo over uitvoering toezegging raad inzake VVPC
+  - date: '2023-07-27'
+    event: opdracht voor herijking einddoelen aan bureau uitgezet
+  - date: '2023-07-27'
+    event: aanvraag opdracht herijking einddoelen parken
+  - date: '2023-08-02'
+    event: opdracht bevestigd voor uitwerking vitaliteitsscan/herijking
+  - date: '2023-10-17'
+    event: collegebesluit om reactie op mail werkgroep Wico te behandelen
+  - date: '2023-10-17'
+    event: reactie college op werkgroep Wico
+  - date: '2024-01-01'
+    event: beoogde start onderzoek Wico
+ai_processed_at: '2026-07-23T12:36:03.508Z'
 ---
 
 1
