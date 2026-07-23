@@ -70,7 +70,7 @@ function extractRelevantBlocks(text) {
       if (p.length > 80) score += 1;
       return { text: p.trim(), score };
     })
-    .filter((p) => p.score > 5)
+    .filter((p) => p.score > 0)
     .sort((a, b) => b.score - a.score);
 
   return scored.map((p) => p.text);
@@ -147,7 +147,7 @@ async function analyzeContent(textBlocks) {
       messages: [
         {
           role: "system",
-          content: "Je bent een expert in Nederlandse Woo-dossiers. Taak: Extraheer een chronologische tijdlijn en samenvatting. Gebruik ISO datums (YYYY-MM-DD). Negeer vóór 2020.",
+          content: "Je bent een expert in Nederlandse Woo-dossiers. Taak: Extraheer een chronologische tijdlijn en samenvatting. Laat gebeurtenissen weg die niet relevant zijn aan de Wet Open Overheid. Gebruik ISO datums (YYYY-MM-DD). Negeer vóór 2020.",
         },
         {
           role: "user",
