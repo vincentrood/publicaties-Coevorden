@@ -1,8 +1,63 @@
 ---
-title: "2023-07-10 Woo-verzoek communicatie tussen verzoeker en medewerker gemeente Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-07-10 Woo-verzoek communicatie tussen verzoeker en medewerker gemeente Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2023-07-10 Woo-verzoek communicatie tussen verzoeker en medewerker gemeente
+  Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-07-10 Woo-verzoek communicatie tussen verzoeker en
+  medewerker gemeente Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2023 ontstond een langdurige discussie over een Alcoholwetvergunning,
+  waarbij de gemeente meerdere keren uitleg gaf over de vereiste nieuwe aanvraag
+  en de ontbrekende verklaringen. Op 18 juni 2023 diende betrokkene een
+  Woo-verzoek in voor een geluidsopname en onderliggende documenten; op 10 juli
+  2023 besloot de gemeente dit verzoek gedeeltelijk toe te wijzen en
+  gedeeltelijk af te wijzen.
+milestones:
+  - date: '2023-05-22'
+    event: E-mail over Alcoholwet-aanvraag en documenten
+  - date: '2023-05-24'
+    event: >-
+      Reactie gemeente: oude aanvraag buiten behandeling, nieuwe ondertekende
+      versie nodig
+  - date: '2023-05-25'
+    event: E-mail over WeTransfer en verzoek om alcoholvergunning
+  - date: '2023-05-30'
+    event: Gemeente meldt dat documenten opnieuw worden geprobeerd te verzenden
+  - date: '2023-06-07'
+    event: >-
+      Verzoek om directe vergunning of uitleg over termijn tussen ondertekening
+      en behandeling
+  - date: '2023-06-08'
+    event: Gemeente licht toe waarom een nieuwe aanvraag nodig is
+  - date: '2023-06-08'
+    event: Telefonisch contact gemeld over aanvraag alcoholvergunning
+  - date: '2023-06-09'
+    event: 'Gemeente meldt dat alleen aanvrager zelf SVH heeft gehaald, niet de vrouw'
+  - date: '2023-06-12'
+    event: >-
+      Gemeente stuurt opnieuw aanvraagformulieren en voorwaarden voor nieuwe
+      aanvraag
+  - date: '2023-06-12'
+    event: Aanvrager klaagt over fouten en vraagt spoedafspraak
+  - date: '2023-06-13'
+    event: KCC meldt telefonisch contact en vraagt terug te bellen
+  - date: '2023-06-13'
+    event: Intern voorstel om brief met belverbod te sturen
+  - date: '2023-06-13'
+    event: Verzoek om geluidsbestand van telefonisch gesprek
+  - date: '2023-06-15'
+    event: Collega's worden geïnformeerd over brief met belverbod en afhandeling
+  - date: '2023-06-15'
+    event: Verzoek om documenten gebruikt voor brief 34196-2023
+  - date: '2023-06-18'
+    event: Woo-verzoek ontvangen door gemeente
+  - date: '2023-07-10'
+    event: 'Besluit op Woo-verzoek verzonden: deels afwijzing, deels toewijzing'
+ai_processed_at: '2026-07-23T09:22:07.681Z'
 ---
 
 A

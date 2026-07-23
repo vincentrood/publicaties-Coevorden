@@ -1,8 +1,29 @@
 ---
-title: "2023-04-20 Woo-verzoek heffingen diverse belastingen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-20 Woo-verzoek heffingen diverse belastingen.pdf"
-date: 2026-07-23
+title: 2023-04-20 Woo-verzoek heffingen diverse belastingen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-04-20 Woo-verzoek heffingen diverse belastingen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 14 maart 2023 diende Local Tax namens verzoeker een Woo-verzoek in bij
+  gemeente Coevorden over aantallen aanslagen, bezwaren en rechtsmiddelen voor
+  diverse heffingen in 2018-2020. Op 20 april 2023 antwoordde de gemeente per
+  e-mail en gaf zij aan dat er in 2018-2023 geen reinigingsrechten,
+  baatbelasting, precariobelasting en vermakelijkhedenretributie werden geheven,
+  met daarnaast cijfers over bezwaren en procedures.
+milestones:
+  - date: '2023-03-14'
+    event: >-
+      Woo-verzoek ingediend bij gemeente Coevorden over heffingen, bezwaren en
+      rechtsmiddelen voor 2018-2020.
+  - date: '2023-04-04'
+    event: Verdagingsbrief per post verzonden.
+  - date: '2023-04-20'
+    event: >-
+      Gemeente Coevorden beantwoordt het Woo-verzoek per e-mail en verstrekt
+      cijfers en heffingsinformatie.
+ai_processed_at: '2026-07-23T09:23:19.990Z'
 ---
 
 1

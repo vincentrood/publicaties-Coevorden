@@ -1,8 +1,64 @@
 ---
-title: "2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te Sleen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te Sleen.pdf"
-date: 2026-07-23
+title: >-
+  2023-10-25 Woo-verzoek documenten over klachten en handhaving Brink 9 en 9a te
+  Sleen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-10-25 Woo-verzoek documenten over klachten en
+  handhaving Brink 9 en 9a te Sleen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2022 dienden omwonenden meerdere handhavingsverzoeken in over overlast en
+  vermeend strijdig gebruik van Brink 9 te Sleen, waarna de gemeente eerst te
+  laat reageerde en later deels afwees of beperkte handhaving aankondigde. In
+  2023 volgden nieuwe verzoeken over hotelgebruik, zonnepanelen en
+  Woo-openbaarmaking, met besluiten waarin de gemeente deels openbaar maakte,
+  een handhavingsverzoek afwees en voor zonnepanelen een voornemen tot last
+  onder dwangsom gaf.
+milestones:
+  - date: '2022-09-05'
+    event: >-
+      Gesprek over Brink 9: vergunning groepsaccommodatie ontbreekt, handhaving
+      dreigt en gemeente zegt dossier en vertrouwen te onderzoeken.
+  - date: '2022-09-05'
+    event: >-
+      Gemeente verwijst eigenaren naar frontoffice voor vergunningaanvraag en
+      zegt te bekijken of kosten of leges deels tegemoetgekomen kunnen worden.
+  - date: '2022-09-05'
+    event: >-
+      Afgesproken wordt ook de vergunningplicht voor de glijbaan uit te zoeken
+      en de informatie over vergunningen toe te sturen.
+  - date: '2023-07-06'
+    event: Handhavingsverzoek ingediend over Brink 9 te Sleen
+  - date: '2023-07-12'
+    event: Handhavingsverzoek per post ontvangen door gemeente Coevorden
+  - date: '2023-07-13'
+    event: >-
+      Ontvangstbevestiging verzonden; onderdeel hygiënecode doorgestuurd naar
+      NVWA
+  - date: '2023-07-18'
+    event: Handhavingsverzoek ingediend over zonnepanelen Brink 9
+  - date: '2023-07-31'
+    event: Toezichthouder bezocht Brink 9 te Sleen en stelde bevindingen vast
+  - date: '2023-08-02'
+    event: >-
+      Gespreksverslag opgesteld over ontbrekende vergunning groepsaccommodatie
+      Brink 9
+  - date: '2023-08-09'
+    event: Besluit genomen om handhavingsverzoek Brink 9 af te wijzen
+  - date: '2023-08-21'
+    event: Woo-verzoek ontvangen over klachten en handhaving Brink 9 en 9a
+  - date: '2023-08-21'
+    event: Voornemen last onder dwangsom verzonden over zonnepanelen Brink 9
+  - date: '2023-09-10'
+    event: Uiterste datum gesteld om zonnepanelenovertreding te beëindigen
+  - date: '2023-10-08'
+    event: Zienswijze van derde ontvangen tegen openbaarmaking
+  - date: '2023-10-25'
+    event: Besluit op Woo-verzoek genomen en documenten deels openbaar gemaakt
+ai_processed_at: '2026-07-23T09:20:22.874Z'
 ---
 
 1

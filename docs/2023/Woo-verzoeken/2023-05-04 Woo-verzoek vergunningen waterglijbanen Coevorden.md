@@ -1,8 +1,27 @@
 ---
-title: "2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden.pdf"
-date: 2026-07-23
+title: 2023-05-04 Woo-verzoek vergunningen waterglijbanen Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-05-04 Woo-verzoek vergunningen waterglijbanen
+  Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2023 diende Richard Rolink een Woo-verzoek in over waterglijbanen en
+  bijbehorende omgevingsvergunningen in de gemeente Coevorden; de gemeente
+  verlengde de beslistermijn en wees het verzoek vervolgens toe met
+  openbaarmaking van documenten, deels met weglakking van persoonsgegevens. De
+  bijlagen tonen dat de relevante vergunningen en besluiten voor meerdere
+  locaties tussen 1981 en 2010 zijn afgegeven.
+milestones:
+  - date: '2023-03-24'
+    event: Woo-verzoek ontvangen door gemeente Coevorden
+  - date: '2023-04-20'
+    event: Beslistermijn verlengd met 2 weken
+  - date: '2023-05-04'
+    event: Woo-besluit verzonden; verzoek toegewezen en documenten openbaar gemaakt
+ai_processed_at: '2026-07-23T09:22:56.596Z'
 ---
 
 1

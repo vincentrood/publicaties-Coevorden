@@ -1,8 +1,108 @@
 ---
-title: "2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen, handhavingsopdrachten vanaf 18-12-2022"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen, handhavingsopdrachten vanaf 18-12-2022.pdf"
-date: 2026-07-23
+title: >-
+  2023-07-27 Woo-verzoek bungalowpark WICO, notities, notulen,
+  handhavingsopdrachten vanaf 18-12-2022
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-07-27 Woo-verzoek bungalowpark WICO, notities,
+  notulen, handhavingsopdrachten vanaf 18-12-2022.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-04-17 een Woo-verzoek over bungalowpark
+  Wico en verlengde en schortte de behandeling daarna meerdere keren op vanwege
+  zienswijzen en aanvullende inventarisatie. Op 2023-07-27 is het besluit
+  genomen om documenten deels openbaar te maken, deels te anonimiseren en voor
+  één document uitgestelde openbaarmaking toe te passen tot 2023-08-11.
+milestones:
+  - date: '2022-12-27'
+    event: Communicatieaanpak Wico opgesteld.
+  - date: '2023-01-16'
+    event: Communicatieplan en eerste aanpak WICO besproken en aangepast.
+  - date: '2023-01-23'
+    event: >-
+      Voortgangsrapportage: gesprek met eigenaar gepland voor 2023-02-20 en
+      brieven/parkbezoeken voorbereid.
+  - date: '2023-02-16'
+    event: >-
+      Rapportage: gesprek met eigenaar op 2023-02-20 bevestigd; parkbezoeken en
+      communicatie verder voorbereid.
+  - date: '2023-03-08'
+    event: >-
+      Aankondigingsbrief over toekomst bungalowpark WICO verstuurd aan eigenaren
+      en bewoners.
+  - date: '2023-03-13'
+    event: >-
+      Eerste gesprek met eigenaar van horecapand over ontwikkelplan en route via
+      de omgevingstafel.
+  - date: '2023-03-23'
+    event: >-
+      Rapportage: parkbezoeken liepen, reacties werden verwerkt en bijeenkomsten
+      voor mei/juni werden voorbereid.
+  - date: '2023-04-15'
+    event: Woo-verzoek over bungalowpark Wico ingediend.
+  - date: '2023-04-17'
+    event: Woo-verzoek door gemeente ontvangen.
+  - date: '2023-05-09'
+    event: Behandeltermijn met twee weken verlengd.
+  - date: '2023-05-16'
+    event: >-
+      Controle op vakantiepark; persoon aangetroffen en gegevens over verblijf
+      vastgelegd.
+  - date: '2023-05-16'
+    event: >-
+      Vastgelegd dat verblijf in recreatieobject langdurig wonen betrof en
+      object gehuurd was.
+  - date: '2023-05-16'
+    event: BRP-inschrijving en werk-/woon-werkverkeer bevraagd en genoteerd.
+  - date: '2023-05-16'
+    event: >-
+      Kosten, betaalwijze en overige lasten voor gebruik van recreatieobject
+      bevraagd.
+  - date: '2023-05-18'
+    event: >-
+      Tweede controle op vakantiepark; identiteit vastgesteld en
+      verblijfssituatie genoteerd.
+  - date: '2023-05-18'
+    event: >-
+      Vastgelegd dat persoon in recreatieobject verbleef en het object in
+      eigendom was.
+  - date: '2023-05-18'
+    event: BRP-inschrijving en arbeidsgegevens van de persoon bevraagd.
+  - date: '2023-05-18'
+    event: 'Kosten, betaalwijze en overige inkomsten bevraagd en vastgelegd.'
+  - date: '2023-05-19'
+    event: >-
+      Derde controle op vakantiepark; persoon aangesproken en identiteit
+      vastgesteld.
+  - date: '2023-05-19'
+    event: >-
+      Vastgelegd dat verblijf in recreatieobject langdurig wonen betrof en
+      object gehuurd was.
+  - date: '2023-05-19'
+    event: 'BRP-inschrijving, werk, woon-werkverkeer en kosten van verblijf bevraagd.'
+  - date: '2023-05-19'
+    event: Arbeidsvoorwaarden en eventuele uitkeringen/toeslagen bevraagd.
+  - date: '2023-05-25'
+    event: Behandeltermijn opgeschort wegens zienswijzeronde.
+  - date: '2023-06-15'
+    event: Uiterste datum voor zienswijzen van belanghebbenden.
+  - date: '2023-07-05'
+    event: >-
+      Gemeente meldde dat het verzoek meer tijd kostte en startte extra
+      inventarisatie.
+  - date: '2023-07-10'
+    event: Eén zienswijze ontvangen en om nadere motivering gevraagd.
+  - date: '2023-07-21'
+    event: Uiterste datum voor zienswijzen over aanvullende documenten.
+  - date: '2023-07-27'
+    event: Besluit Woo-verzoek genomen en verzonden.
+  - date: '2023-08-11'
+    event: Einde termijn voor uitgestelde openbaarmaking.
+  - date: '2023-09-07'
+    event: Uiterste datum voor bezwaar tegen het besluit.
+ai_processed_at: '2026-07-23T09:21:49.246Z'
 ---
 
 Postadres:

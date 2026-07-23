@@ -1,8 +1,64 @@
 ---
-title: "2023-11-09 Woo-verzoek weigeren omgevingsvergunning padelbanen Coevorder Tennisclub te Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-11-09 Woo-verzoek weigeren omgevingsvergunning padelbanen Coevorder Tennisclub te Coevorden.pdf"
-date: 2026-07-23
+title: >-
+  2023-11-09 Woo-verzoek weigeren omgevingsvergunning padelbanen Coevorder
+  Tennisclub te Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-11-09 Woo-verzoek weigeren omgevingsvergunning
+  padelbanen Coevorder Tennisclub te Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-10-09 een Woo-verzoek over de weigering
+  van de omgevingsvergunning voor padelbanen aan de Nordhornerstraat 23. Op
+  2023-11-09 is deels beslist: de motivatie van de weigering is gedeeltelijk
+  openbaar gemaakt, maar het gevraagde onderzoek naar alternatieve locaties
+  bleek niet als document aanwezig.
+milestones:
+  - date: '2021-04-15'
+    event: Geluidmetingen uitgevoerd bij padelbaan van Tennisvereniging Shot in Zeist
+  - date: '2021-10-20'
+    event: Akoestisch onderzoeksrapport V1.0 gedateerd
+  - date: '2022-01-19'
+    event: Offerte voor aanleg van 2 padelbanen bij Tennisclub Coevorden.
+  - date: '2022-02-28'
+    event: Aanvraag omgevingsvergunning voor 2 padelbanen ingediend.
+  - date: '2022-05-11'
+    event: Akoestisch onderzoek van het GeluidBuro voor de padelbanen opgesteld.
+  - date: '2022-08-01'
+    event: RUD Drenthe gaf opmerkingen op het akoestisch onderzoek.
+  - date: '2022-12-20'
+    event: >-
+      Aanvullende reactie van het GeluidBuro op de opmerkingen van de RUD
+      Drenthe.
+  - date: '2023-09-26'
+    event: College weigert de omgevingsvergunning voor de padelbanen.
+  - date: '2023-09-26'
+    event: >-
+      Besluit van burgemeester en wethouders van Coevorden met zaaknummer
+      Z2022-002414
+  - date: '2023-09-26'
+    event: >-
+      Besluit van burgemeester en wethouders van Coevorden vermeld op de
+      stukken.
+  - date: '2023-09-29'
+    event: Besluit/toezending van de weigering en legesbrief verzonden.
+  - date: '2023-09-29'
+    event: Besluit verzonden
+  - date: '2023-09-29'
+    event: Verzenddatum van het besluit vermeld op de stukken.
+  - date: '2023-10-05'
+    event: Woo-verzoek via contactformulier ingediend.
+  - date: '2023-10-09'
+    event: Woo-verzoek intern als zodanig herkend en doorgestuurd.
+  - date: '2023-10-10'
+    event: Telefonisch contact over de reikwijdte van het Woo-verzoek.
+  - date: '2023-11-01'
+    event: Opnieuw telefonisch contact over het Woo-verzoek.
+  - date: '2023-11-09'
+    event: Beslissing op het Woo-verzoek verzonden.
+ai_processed_at: '2026-07-23T09:19:40.047Z'
 ---
 
 Gemeente

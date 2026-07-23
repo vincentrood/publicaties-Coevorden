@@ -1,8 +1,61 @@
 ---
-title: "2023-06-18 Woo-verzoek contacten ambtenaar"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-06-18 Woo-verzoek contacten ambtenaar.pdf"
-date: 2026-07-23
+title: 2023-06-18 Woo-verzoek contacten ambtenaar
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-06-18 Woo-verzoek contacten ambtenaar.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden besliste op 2023-07-10 op een Woo-verzoek van
+  2023-06-18: de geluidsopname van een telefonisch gesprek bestond niet, maar
+  relevante e-mailwisselingen werden deels verstrekt met weglakking van
+  persoonsgegevens. De onderliggende correspondentie draaide in mei-juni 2023
+  vooral om een alcoholwetvergunning, een nieuwe aanvraag, en de mededeling dat
+  eerdere aanvragen buiten behandeling waren gesteld.
+milestones:
+  - date: '2020-01-01'
+    event: Ingebrekestelling wegens uitblijven van verlening alcoholvergunning.
+  - date: '2020-01-01'
+    event: >-
+      Telefonische toezegging om terug te komen op de kwestie, maar reactie
+      blijft uit.
+  - date: '2020-01-01'
+    event: >-
+      Verzoek om per direct vergunning te leveren of maximale behandeltermijn
+      toe te lichten.
+  - date: '2023-05-22'
+    event: E-mail over alcoholvergunning en actuele documenten
+  - date: '2023-05-24'
+    event: >-
+      Reactie: oude aanvraag buiten behandeling, nieuwe ondertekende versie
+      nodig
+  - date: '2023-05-25'
+    event: Verzoek om WeTransfer-mail en vergunning; mogelijk Woo-verzoek
+  - date: '2023-05-30'
+    event: >-
+      Gemeente meldt dat documenten niet bewaard zijn en nieuwe aanvraag nodig
+      is
+  - date: '2023-06-07'
+    event: E-mail over uitblijvende alcoholvergunning en terugbelverzoek
+  - date: '2023-06-08'
+    event: Gemeente licht regels toe over datum/ondertekening en nieuwe aanvraag
+  - date: '2023-06-08'
+    event: Team meldt telefonisch contact over alcoholvergunning en vraagt afstemming
+  - date: '2023-06-12'
+    event: Gemeente stuurt aanvraagformulieren en vraagt ontbrekende stukken op
+  - date: '2023-06-12'
+    event: Reactie van aanvrager met klacht over communicatie en verzoek om afspraak
+  - date: '2023-06-13'
+    event: 'Interne mail: voorstel om belverbodbrief te sturen'
+  - date: '2023-06-13'
+    event: KCC meldt lastig telefoongesprek en vraagt terugkoppeling
+  - date: '2023-06-15'
+    event: 'Interne mail: brief met belverbod is afgeleverd'
+  - date: '2023-06-18'
+    event: Woo-verzoek ingediend om geluidsbestand en gebruikte documenten
+  - date: '2023-07-10'
+    event: 'Woo-besluit: opname niet aanwezig, e-mails deels openbaar gemaakt'
+ai_processed_at: '2026-07-23T09:22:41.761Z'
 ---
 
 A

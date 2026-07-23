@@ -1,8 +1,64 @@
 ---
-title: "2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase I Vitale Vakantieparken Coevorden c 3.0"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase I Vitale Vakantieparken Coevorden c 3.0.pdf"
-date: 2026-07-23
+title: >-
+  2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase I Vitale
+  Vakantieparken Coevorden c 3.0
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-12-15 Woo-verzoek bijlage bij Uitvoeringsplan en fase
+  I Vitale Vakantieparken Coevorden c 3.0.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-05-09 een Woo-verzoek om openbaarmaking
+  van de bijlage bij het Uitvoeringsplan Vitale Vakantieparken Coevorden. Na een
+  procedure over geheimhouding, een rechterlijke uitspraak over niet-tijdig
+  beslissen en opheffing van de geheimhouding door de raad, is het document op
+  2023-12-15 alsnog openbaar gemaakt.
+milestones:
+  - date: '2020-07-01'
+    event: Concept-bijlage Uitvoeringsplan Vitale Vakantie Parken Coevorden opgesteld
+  - date: '2020-07-01'
+    event: >-
+      Primo, Secundo en andere parken beoordeeld op categorie, bewoning en
+      toekomstperspectief
+  - date: '2020-07-01'
+    event: >-
+      De Wolfskuylen verkocht aan nieuwe eigenaar; gesprekken met gemeente
+      gestart
+  - date: '2020-10-13'
+    event: College legt geheimhouding op aan de bijlage
+  - date: '2020-10-20'
+    event: Gemeenteraad bekrachtigt de geheimhouding
+  - date: '2020-10-20'
+    event: Raadsvergadering Coevorden over Vitale Vakantie Parken
+  - date: '2020-10-20'
+    event: >-
+      Bijlage Uitvoeringsplan aangewezen als niet-openbaar op grond van
+      Wob-artikel 10 lid 2 sub g
+  - date: '2023-05-09'
+    event: Woo-verzoek ontvangen
+  - date: '2023-05-09'
+    event: Wob-verzoek ingediend om de bijlage Uitvoeringsplan te ontvangen
+  - date: '2023-05-15'
+    event: Ontvangst bevestigd en telefonisch contact over procedure
+  - date: '2023-06-20'
+    event: Verdagingsbrief verzonden
+  - date: '2023-07-23'
+    event: Ingebrekestelling ontvangen
+  - date: '2023-07-24'
+    event: Reactie op ingebrekestelling verstuurd
+  - date: '2023-08-14'
+    event: Beroep niet tijdig beslissen ingediend bij rechtbank
+  - date: '2023-09-22'
+    event: Rechtbank doet uitspraak en stelt beslistermijn/dwangsom vast
+  - date: '2023-11-07'
+    event: College stelt raad voor geheimhouding op te heffen
+  - date: '2023-12-12'
+    event: Raad heft geheimhouding op
+  - date: '2023-12-15'
+    event: Woo-verzoek toegewezen en document openbaar gemaakt
+ai_processed_at: '2026-07-23T09:19:09.591Z'
 ---
 
 Postadres:

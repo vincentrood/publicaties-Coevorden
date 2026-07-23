@@ -1,8 +1,42 @@
 ---
-title: "2023-10-26 Woo-verzoek terrasvergunningen gemeente Coevorden vanaf 2016"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-10-26 Woo-verzoek terrasvergunningen gemeente Coevorden vanaf 2016.pdf"
-date: 2026-07-23
+title: 2023-10-26 Woo-verzoek terrasvergunningen gemeente Coevorden vanaf 2016
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-10-26 Woo-verzoek terrasvergunningen gemeente
+  Coevorden vanaf 2016.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2023 ontving de gemeente Coevorden een Woo-verzoek om alle sinds 2016
+  afgegeven terrasvergunningen te verstrekken en besloot dit verzoek toe te
+  wijzen. De verstrekte documenten tonen terrasontheffingen en een latere
+  correctie daarvan voor meerdere locaties in Coevorden, met openbaarmaking
+  onder weglakking van persoonsgegevens.
+milestones:
+  - date: '2020-02-03'
+    event: 'Aanvraag terrasvergunning Café Million, Drostenstraat 8'
+  - date: '2020-04-27'
+    event: 'Aanvraag terrasvergunning De Kaasbank, Friesestraat 2'
+  - date: '2020-05-20'
+    event: Ontheffing verleend voor terras De Kaasbank
+  - date: '2020-05-26'
+    event: Ontheffing verleend voor terras Café Million
+  - date: '2020-06-04'
+    event: Correctie op voorschrift 2 van ontheffing Café Million
+  - date: '2022-03-22'
+    event: 'Aanvraag terrasvergunning FIEMA Coevorden, Friesestraat 122'
+  - date: '2022-09-20'
+    event: Ontheffing verleend voor terras FIEMA Coevorden
+  - date: '2023-09-30'
+    event: Woo-verzoek ontvangen over alle terrasvergunningen sinds 2016
+  - date: '2023-09-30'
+    event: Woo-verzoek om alle terrasvergunningen sinds 2016
+  - date: '2023-10-25'
+    event: Besluit genomen om de gevraagde documenten openbaar te maken
+  - date: '2023-10-26'
+    event: Besluit verzonden
+ai_processed_at: '2026-07-23T09:19:59.503Z'
 ---
 
 Gemeente

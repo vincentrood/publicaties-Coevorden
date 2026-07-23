@@ -1,8 +1,43 @@
 ---
-title: "2023-04-19 Woo-verzoek whatsappgeschiedenis tussen verzoeker en medewerker gemeente"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-19 Woo-verzoek whatsappgeschiedenis tussen verzoeker en medewerker gemeente.pdf"
-date: 2026-07-23
+title: >-
+  2023-04-19 Woo-verzoek whatsappgeschiedenis tussen verzoeker en medewerker
+  gemeente
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-04-19 Woo-verzoek whatsappgeschiedenis tussen
+  verzoeker en medewerker gemeente.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-03-24 een Woo-verzoek om de volledige
+  WhatsApp-geschiedenis over 2022-02-01 t/m 2023-03-24. Op 2023-04-17 is het
+  verzoek toegewezen en zijn de gevraagde documenten openbaar gemaakt, met
+  weglakking van persoonsgegevens.
+milestones:
+  - date: '2022-06-28'
+    event: Eerste beschikbare WhatsApp-bericht in de export
+  - date: '2022-06-29'
+    event: Berichten en bijlage over vergunningen gedeeld
+  - date: '2022-10-31'
+    event: Verzoek om wethouder langs te laten komen
+  - date: '2022-11-01'
+    event: Reactie dat men intern bezig is en spoedig bericht volgt
+  - date: '2022-11-04'
+    event: Meerdere berichten over onvrede en verzoek om gesprek
+  - date: '2023-01-17'
+    event: Verzoek om telefonisch contact en schriftelijke verklaring
+  - date: '2023-01-23'
+    event: Verzoek om reactie op een mail
+  - date: '2023-03-23'
+    event: Verzoek om ontbrekend deel van de chat te mailen
+  - date: '2023-03-24'
+    event: Woo-verzoek ontvangen voor volledige WhatsApp-geschiedenis
+  - date: '2023-03-24'
+    event: Laatste chatberichten in de export; contact loopt niet rechtstreeks
+  - date: '2023-04-17'
+    event: 'Besluit genomen: Woo-verzoek toegewezen'
+ai_processed_at: '2026-07-23T09:23:27.460Z'
 ---
 
 Gemeente

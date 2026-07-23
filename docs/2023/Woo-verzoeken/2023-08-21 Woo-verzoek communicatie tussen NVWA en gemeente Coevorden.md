@@ -1,8 +1,34 @@
 ---
-title: "2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente Coevorden.pdf"
-date: 2026-07-23
+title: 2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-08-21 Woo-verzoek communicatie tussen NVWA en gemeente
+  Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 24 juli 2023 een Woo-verzoek over
+  correspondentie met de NVWA en besloot dit verzoek toe te wijzen. De
+  correspondentie laat zien dat de NVWA op 25 juli 2023 om het
+  handhavingsverzoek vroeg en dat de gemeente datzelfde dag het ondertekende
+  verzoek doorstuurde; het besluit werd op 21 augustus 2023 verzonden.
+milestones:
+  - date: '2023-07-13'
+    event: NVWA bevestigt ontvangst van melding 2023-120008402
+  - date: '2023-07-24'
+    event: Woo-verzoek ontvangen door gemeente Coevorden
+  - date: '2023-07-25'
+    event: NVWA vraagt ontbrekend handhavingsverzoek op
+  - date: '2023-07-25'
+    event: Gemeente stuurt handhavingsverzoek naar NVWA
+  - date: '2023-07-25'
+    event: NVWA bedankt voor de toezending
+  - date: '2023-08-17'
+    event: 'Besluit Woo-verzoek: toegewezen'
+  - date: '2023-08-21'
+    event: Besluit verzonden
+ai_processed_at: '2026-07-23T09:21:19.395Z'
 ---
 
 Gemeente

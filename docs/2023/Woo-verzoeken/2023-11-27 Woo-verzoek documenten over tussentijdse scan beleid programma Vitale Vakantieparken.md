@@ -1,8 +1,84 @@
 ---
-title: "2023-11-27 Woo-verzoek documenten over tussentijdse scan beleid programma Vitale Vakantieparken"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-11-27 Woo-verzoek documenten over tussentijdse scan beleid programma Vitale Vakantieparken.pdf"
-date: 2026-07-23
+title: >-
+  2023-11-27 Woo-verzoek documenten over tussentijdse scan beleid programma
+  Vitale Vakantieparken
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-11-27 Woo-verzoek documenten over tussentijdse scan
+  beleid programma Vitale Vakantieparken.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-08-23 een Woo-verzoek over documenten
+  rond de toezegging aan de raad over een tussentijdse scan van het programma
+  Vitale Vakantieparken. Het verzoek werd in twee deelbesluiten afgehandeld: op
+  2023-11-27 deel 1 en op 2023-12-21 deel 2, met gedeeltelijke openbaarmaking en
+  opheffing van geheimhouding voor het tweede deel.
+milestones:
+  - date: '2020-05-01'
+    event: Eerste conceptuitwerking programmacontract VVPC
+  - date: '2020-06-01'
+    event: Tweede conceptuitwerking na bijeenkomsten college en programmateam
+  - date: '2020-07-01'
+    event: Derde conceptuitwerking na feedback ambtelijke organisatie
+  - date: '2020-07-01'
+    event: Vierde conceptuitwerking na bespreking met bestuurlijk opdrachtgever
+  - date: '2020-09-01'
+    event: Vijfde uitwerking na bespreking CMT
+  - date: '2020-10-01'
+    event: Definitieve versie 1.0 na bespreking college
+  - date: '2020-10-01'
+    event: Definitieve versie 2.0 na bespreking gemeenteraad
+  - date: '2023-07-12'
+    event: >-
+      Memo over uitvoering toezegging raad inzake VVPC en opdracht aan Bureau
+      voor Ruimte en Vrije Tijd
+  - date: '2023-07-25'
+    event: Concept-opdracht voor de toezegging aan de raad wordt intern voorgelegd
+  - date: '2023-07-26'
+    event: >-
+      Wethouder reageert op de opdrachtformulering en bevestigt de bedoeling van
+      de tussentijdse scan
+  - date: '2023-07-27'
+    event: Gemeente Coevorden vraagt offerte/kosten voor uitvoering opdracht
+  - date: '2023-08-01'
+    event: >-
+      Reactie met advies om per park een verdiepende vitaliteitsscan uit te
+      voeren
+  - date: '2023-08-02'
+    event: >-
+      Afstemming over welke parken worden meegenomen en dat gesprekken met
+      eigenaren later volgen
+  - date: '2023-08-02'
+    event: >-
+      Gemeente vraagt om uitwerking van de opdracht en wil uitvoering liefst
+      eerder dan eind 2023
+  - date: '2023-08-23'
+    event: Woo-verzoek ingediend over Vitale Vakantieparken Coevorden
+  - date: '2023-08-23'
+    event: Woo-verzoek over bungalowpark WICO wordt ingediend
+  - date: '2023-08-23'
+    event: Offerte voor de herijking van de einddoelen wordt ontvangen
+  - date: '2023-08-24'
+    event: >-
+      Gemeente meldt dat de offerte in het eerstvolgende opdrachtgeversoverleg
+      met de wethouder wordt besproken
+  - date: '2023-10-24'
+    event: >-
+      Verzoek per e-mail gesplitst in twee besluiten wegens vertrouwelijk
+      document
+  - date: '2023-11-07'
+    event: College stelde raad voor geheimhouding op te heffen
+  - date: '2023-11-21'
+    event: Eerste deelbesluit genomen
+  - date: '2023-11-27'
+    event: Eerste deelbesluit verzonden
+  - date: '2023-12-12'
+    event: Gemeenteraad hief geheimhouding op
+  - date: '2023-12-21'
+    event: Tweede deelbesluit per e-mail verzonden
+ai_processed_at: '2026-07-23T09:19:24.192Z'
 ---
 
 Postadres:

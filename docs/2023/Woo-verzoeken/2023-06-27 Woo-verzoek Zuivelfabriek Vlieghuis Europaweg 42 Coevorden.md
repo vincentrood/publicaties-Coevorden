@@ -1,8 +1,63 @@
 ---
-title: "2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42 Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42 Coevorden.pdf"
-date: 2026-07-23
+title: 2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42 Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-06-27 Woo-verzoek Zuivelfabriek Vlieghuis Europaweg 42
+  Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In 2023 diende de verzoeker een Woo-verzoek in over KH Dairy Sourcing BV
+  (A-ware) in Coevorden, waarna de gemeente/RUD documenten inventariseerde, een
+  zienswijze van de derde-belanghebbende beoordeelde en uiteindelijk
+  gedeeltelijke openbaarmaking besloot. De stukken tonen dat bij controles op 29
+  maart en 17 april 2023 meerdere milieu- en meldingsovertredingen zijn
+  vastgesteld, waarna de documenten op 13 juli 2023 zijn verstrekt.
+milestones:
+  - date: '2020-01-01'
+    event: 'Geen NB-vergunning: geen aanpassing van de zuivering.'
+  - date: '2020-01-01'
+    event: >-
+      Na regeling van de vergunningen moet een melding worden gedaan en door de
+      RUD worden beoordeeld.
+  - date: '2020-01-01'
+    event: >-
+      Na de opleveringscontrole volgt een brief waarin wordt gemeld dat niet
+      volgens de melding wordt gewerkt.
+  - date: '2020-01-01'
+    event: >-
+      Er wordt gehandhaafd: zo snel mogelijk melding doen over afvalwater of
+      productie verminderen tot circa 250 m3/dag.
+  - date: '2023-03-29'
+    event: Opleveringscontrole uitgevoerd bij KH Dairy Sourcing in Coevorden
+  - date: '2023-04-11'
+    event: >-
+      Bezoekverslag gedeeld over afvalwater, zuivering en geconstateerde
+      afwijkingen
+  - date: '2023-04-17'
+    event: Controle e-MJV 2022 bij KH Dairy Sourcing BV; 1 overtreding geconstateerd.
+  - date: '2023-04-20'
+    event: Rapport checklist digitaal ondertekend; 6 overtredingen vastgelegd
+  - date: '2023-04-27'
+    event: >-
+      Woo-verzoek per e-mail ontvangen over A-ware/KH Dairy Sourcing BV in
+      Coevorden.
+  - date: '2023-05-05'
+    event: Telefonisch contact over gewenste controlerapporten.
+  - date: '2023-05-16'
+    event: Ontvangstbevestiging en opschorting van de Woo-behandeling verzonden.
+  - date: '2023-06-01'
+    event: Verdaging gemeld; behandeling uitgesteld tot uiterlijk 16 juni 2023.
+  - date: '2023-06-21'
+    event: Zienswijze van derde-belanghebbende ingediend via advocaat.
+  - date: '2023-06-27'
+    event: Woo-besluit genomen en verzonden; gedeeltelijke openbaarmaking besloten.
+  - date: '2023-07-13'
+    event: >-
+      Documenten daadwerkelijk toegezonden nadat derde-belanghebbende geen
+      bezwaar/schorsing had ingediend.
+ai_processed_at: '2026-07-23T09:22:29.940Z'
 ---
 
 Postadres:

@@ -1,8 +1,66 @@
 ---
-title: "2023-08-23 Woo-verzoek communicatie tussen welstandscommissie en gemeente adres te Sleen"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-08-23 Woo-verzoek communicatie tussen welstandscommissie en gemeente adres te Sleen.pdf"
-date: 2026-07-23
+title: >-
+  2023-08-23 Woo-verzoek communicatie tussen welstandscommissie en gemeente
+  adres te Sleen
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: >-
+  2023/Woo-verzoeken/2023-08-23 Woo-verzoek communicatie tussen
+  welstandscommissie en gemeente adres te Sleen.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  In juli en augustus 2023 liep een handhavings-/legalisatieonderzoek over
+  zonnepanelen bij Brink 9 in Sleen, waarbij de gemeente advies vroeg aan Het
+  Oversticht. Op 23 augustus 2023 besloot de gemeente het Woo-verzoek toe te
+  wijzen en de communicatie openbaar te maken met weglakking van
+  persoonsgegevens.
+milestones:
+  - date: '2023-07-27'
+    event: >-
+      Gemeente vraagt voorlopig advies over legalisatie van zonnepanelen aan
+      Brink 9.
+  - date: '2023-08-16'
+    event: >-
+      Welstandscommissie geeft negatief voorlopig advies over zonnepanelen die
+      te ver uitsteken.
+  - date: '2023-08-16'
+    event: >-
+      Het Oversticht meldt dat de panelen te ver uitsteken en geen positief
+      advies kan geven.
+  - date: '2023-08-17'
+    event: >-
+      E-mailwisseling over facturering en behandeling van de aanvraag als
+      gemeentelijk verzoek.
+  - date: '2023-08-17'
+    event: >-
+      Welstandsadvies uitgebracht: plan strijdig met redelijke eisen van
+      welstand.
+  - date: '2023-08-17'
+    event: >-
+      Gemeente vraagt of een mail van Het Oversticht voldoende is of dat een
+      brief nodig is.
+  - date: '2023-08-18'
+    event: >-
+      Gemeente bespreekt dat het welstandsadvies onderdeel is van het interne
+      legalisatieproces en niet op de overtreder kan worden verhaald.
+  - date: '2023-08-19'
+    event: >-
+      Afstemming over facturatie van de welstandskosten aan de gemeente
+      Coevorden.
+  - date: '2023-08-21'
+    event: >-
+      Welstandscommissie meldt dat de adviezen zijn ontvangen en dat
+      spoedaanvragen rechtstreeks kunnen worden gestuurd.
+  - date: '2023-08-22'
+    event: >-
+      Woo-verzoek ontvangen om alle communicatie met de welstandscommissie over
+      zaak Z2023-019139.
+  - date: '2023-08-23'
+    event: >-
+      Gemeente wijst Woo-verzoek toe en maakt documenten openbaar met
+      uitzondering van persoonsgegevens.
+ai_processed_at: '2026-07-23T09:21:13.616Z'
 ---
 
 Gemeente

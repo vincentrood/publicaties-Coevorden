@@ -1,8 +1,32 @@
 ---
-title: "2023-04-18 Woo-verzoek rapportages bedrijfsbezoek"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-04-18 Woo-verzoek rapportages bedrijfsbezoek.pdf"
-date: 2026-07-23
+title: 2023-04-18 Woo-verzoek rapportages bedrijfsbezoek
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-04-18 Woo-verzoek rapportages bedrijfsbezoek.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  Op 2023-03-22 diende een inwoner per e-mail een Woo-verzoek in over documenten
+  rond een gemeentelijke controle op 2023-03-20. De gemeente besloot op
+  2023-04-18 de beschikbare documenten openbaar te maken, met weglakking van
+  persoonsgegevens, en voegde onder meer een politiebericht en twee rapportages
+  toe.
+milestones:
+  - date: '2023-03-20'
+    event: >-
+      Gemeentelijke controle op het pand, gericht op alcohol en aanwezigheid van
+      arbeidsmigranten.
+  - date: '2023-03-21'
+    event: >-
+      Proces-verbaal en opnamerapport werden opgemaakt; geen arbeidsmigranten
+      aangetroffen.
+  - date: '2023-03-22'
+    event: Woo-verzoek ingediend om alle documenten over de controle.
+  - date: '2023-04-18'
+    event: >-
+      Besluit op Woo-verzoek verzonden: documenten openbaar gemaakt met
+      uitzondering van persoonsgegevens.
+ai_processed_at: '2026-07-23T09:23:32.930Z'
 ---
 
 Gemeente

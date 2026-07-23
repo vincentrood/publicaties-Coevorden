@@ -1,8 +1,29 @@
 ---
-title: "2023-10-18 Woo-verzoek Eurostaete grond in Coevorden"
-maps: ["2023","Woo-verzoeken"]
-source: "2023/Woo-verzoeken/2023-10-18 Woo-verzoek Eurostaete grond in Coevorden.pdf"
-date: 2026-07-23
+title: 2023-10-18 Woo-verzoek Eurostaete grond in Coevorden
+maps:
+  - '2023'
+  - Woo-verzoeken
+source: 2023/Woo-verzoeken/2023-10-18 Woo-verzoek Eurostaete grond in Coevorden.pdf
+date: 2026-07-23T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 2023-08-21 een Woo-verzoek over alle gegevens
+  rond het grondstuk Eurostaete en vroeg op 2023-08-28 om specificatie; op
+  2023-09-06 werd verduidelijkt dat het om documentatie vanaf 1998 ging. Op
+  2023-10-18 besloot de gemeente 166 documenten (gedeeltelijk) openbaar te
+  maken, met lakking van persoonsgegevens en enkele bedragen, en wees zij op
+  bezwaar binnen zes weken.
+milestones:
+  - date: '2023-08-21'
+    event: Woo-verzoek ontvangen over alle gegevens rond Eurostaete
+  - date: '2023-08-28'
+    event: Specificatieverzoek verstuurd door gemeente
+  - date: '2023-09-06'
+    event: Verzoeker specificeert dat documentatie vanaf 1998 wordt gezocht
+  - date: '2023-10-18'
+    event: >-
+      Besluit Woo-verzoek verzonden; verzoek toegewezen en documenten deels
+      openbaar gemaakt
+ai_processed_at: '2026-07-23T09:20:47.004Z'
 ---
 
 Postadres:
