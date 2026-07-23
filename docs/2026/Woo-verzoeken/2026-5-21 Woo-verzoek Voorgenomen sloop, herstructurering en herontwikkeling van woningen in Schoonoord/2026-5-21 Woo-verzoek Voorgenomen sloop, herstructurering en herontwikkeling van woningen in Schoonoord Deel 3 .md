@@ -1,8 +1,94 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 3 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 3 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 3 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 3 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De integrale ontwikkeling van Schoonoord richt zich op woningbouw,
+  herstructurering en het verbeteren van voorzieningen in het dorp. Diverse
+  bijeenkomsten en participatieprocessen zijn opgezet om de wensen van de
+  inwoners te verzamelen en te integreren in de plannen.
+milestones:
+  - date: '2023-09-07'
+    event: >-
+      Afspraak voor startup projectgroep Integrale Ontwikkeling Schoonoord
+      ingepland.
+  - date: '2023-09-12'
+    event: Nieuwsbrief MFC Schoonoord verzonden met laatste ontwikkelingen.
+  - date: '2024-11-29'
+    event: Bestuurlijk overleg over integrale ontwikkeling Schoonoord.
+  - date: '2025-01-07'
+    event: CPO initiatieven goed meenemen in de voortgang
+  - date: '2025-01-07'
+    event: Communicatiestrategie opstellen
+  - date: '2025-01-07'
+    event: Inrichting proces woningbouwprogramma koopwoningen
+  - date: '2025-01-24'
+    event: >-
+      Samenwerkingsovereenkomst opstellen voor integrale ontwikkeling
+      Schoonoord.
+  - date: '2025-01-28'
+    event: Opdracht voor uitwerking stedenbouwkundig plan Zuid.
+  - date: '2025-01-28'
+    event: Opstellen Grondexploitatie
+  - date: '2025-01-28'
+    event: College/Raadsvoorstel goedkeuring Stedenbouwkundig plan
+  - date: '2025-01-28'
+    event: Profiel breedte Ringstraat bepalen en vastleggen
+  - date: '2025-01-28'
+    event: Informatiebijeenkomst met dorp organiseren
+  - date: '2025-01-28'
+    event: Datum informatiebijeenkomsten en locatie vastleggen
+  - date: '2025-01-28'
+    event: Kostenraming openbaar gebied opstellen
+  - date: '2025-01-28'
+    event: Dekkingsmiddelen in beeld brengen
+  - date: '2025-01-28'
+    event: Aanvraag omgevingsvergunning voor schoollocaties
+  - date: '2025-01-28'
+    event: >-
+      Vergadering over herstructurering Schoonoord met focus op actiepunten en
+      communicatie.
+  - date: '2025-02-25'
+    event: Locatie uitbreiding sportvelden nagaan
+  - date: '2025-02-25'
+    event: Ecologische quickscan Slagkrooie
+  - date: '2025-02-25'
+    event: Verkoop Schoolgebouw Zuid OBS SJ
+  - date: '2025-02-25'
+    event: Financiële regelingen verduurzaming maken
+  - date: '2025-02-25'
+    event: >-
+      Tweede vergadering over herstructurering Schoonoord met bespreking van
+      collegevoorstel.
+  - date: '2025-03-11'
+    event: Offerte moet worden geaccordeerd door Woonservice.
+  - date: '2025-03-11'
+    event: Projectgroep vergadering met terugkoppeling en presentatie dorpsavond.
+  - date: '2025-04-24'
+    event: Controle op bestaande riolering.
+  - date: '2025-05-01'
+    event: Kostenraming openbaar gebied opstellen.
+  - date: '2025-06-24'
+    event: Bijpraten over samenwerking Woonservice en inloopbijeenkomst gepland.
+  - date: '2025-07-15'
+    event: Inloopbijeenkomst gehouden voor bewoners over herstructurering.
+  - date: '2026-01-01'
+    event: Aanvraag in zomer voor te bouwen woningen
+  - date: '2026-01-27'
+    event: Projectteam vergadering over stedenbouwkundig plan en participatieverslag.
+ai_processed_at: '2026-07-23T07:58:03.426Z'
 ---
 
 S t o rt s t

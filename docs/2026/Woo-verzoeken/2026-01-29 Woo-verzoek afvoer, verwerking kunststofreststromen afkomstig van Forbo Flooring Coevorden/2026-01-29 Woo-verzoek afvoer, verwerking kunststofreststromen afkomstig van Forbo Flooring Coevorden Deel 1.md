@@ -1,8 +1,58 @@
 ---
-title: "2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 1"
-maps: ["2026","Woo-verzoeken","2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden"]
-source: "2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 1.pdf"
-date: 2026-07-22
+title: >-
+  2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+  Forbo Flooring Coevorden Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+    Forbo Flooring Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking
+  kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29
+  Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo
+  Flooring Coevorden Deel 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2025 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de afvoer en verwerking van kunststofreststromen van Forbo Flooring. Het
+  verzoek is gedeeltelijk toegewezen, maar er zijn uitzonderingsgronden
+  toegepast waardoor niet alle informatie openbaar kon worden gemaakt.
+milestones:
+  - date: '2022-03-25'
+    event: Project goedgekeurd voor uitvoering.
+  - date: '2024-08-20'
+    event: Bodemprocedure met ILT gestart.
+  - date: '2024-09-30'
+    event: Vragen over PVC-afval van Forbo en recycling gesteld.
+  - date: '2025-02-20'
+    event: Eerste WhatsApp-bericht over afvalstromen Forbo Coevorden.
+  - date: '2025-05-21'
+    event: Herinnering gestuurd over de afvalstromen.
+  - date: '2025-05-27'
+    event: Tweede herinnering gestuurd over de afvalstromen.
+  - date: '2025-06-10'
+    event: Formeel verzoek ingediend over afvalstromen van Forbo.
+  - date: '2025-06-10'
+    event: >-
+      Reactie van vergunningverlener dat vragen aan gemeente Coevorden moeten
+      worden gesteld.
+  - date: '2025-08-20'
+    event: Herinnering gestuurd voor duidelijkheid over plastisol/PVC-reststromen.
+  - date: '2025-08-26'
+    event: >-
+      Verzoek om duidelijkheid over afvalstromen en EVOA-status gestuurd naar
+      ILT.
+  - date: '2025-09-05'
+    event: Deadline voor inhoudelijke reactie op vragen over afvalstromen.
+  - date: '2025-09-11'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2025-12-17'
+    event: Beslissing op het Woo-verzoek.
+  - date: '2026-01-29'
+    event: Verzenddatum van de beslissing op het Woo-verzoek.
+ai_processed_at: '2026-07-23T08:03:43.133Z'
 ---
 
 Gemeente

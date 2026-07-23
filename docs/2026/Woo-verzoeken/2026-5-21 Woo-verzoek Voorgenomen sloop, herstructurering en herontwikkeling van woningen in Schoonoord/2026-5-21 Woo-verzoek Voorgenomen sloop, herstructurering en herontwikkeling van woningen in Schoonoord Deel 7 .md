@@ -1,8 +1,72 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 7 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 7 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 7 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 7 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De herstructurering van Schoonoord omvat de sloop en nieuwbouw van woningen,
+  met een focus op het verbeteren van de leefomgeving en het creëren van een mix
+  van woningtypen. Belangrijke data in het proces zijn de inloopbijeenkomsten en
+  de besluitvorming over het stedenbouwkundig plan in de zomer van 2026.
+milestones:
+  - date: '2023-06-20'
+    event: Bijeenkomst met jongeren over wonen en voorzieningen in Schoonoord.
+  - date: '2023-09-17'
+    event: Bespreking over nieuw inloopmoment en onderlinge afstemming.
+  - date: '2023-09-27'
+    event: Nieuwsbrief over ontwikkelingen in Schoonoord verzonden.
+  - date: '2023-10-14'
+    event: Voorbereidende gesprekken en bezoeken bij huurders van de sloopwoningen.
+  - date: '2023-11-01'
+    event: Informatieavond over het project 'Schoonoord-Noord' georganiseerd.
+  - date: '2023-11-03'
+    event: Inloopmoment in Dorpshuis voor huurders en inwoners.
+  - date: '2024-03-26'
+    event: Kansenkaart Schoonoord aangenomen door gemeenteraad.
+  - date: '2024-05-01'
+    event: Projectopdracht voor herstructurering Schoonoord vastgesteld.
+  - date: '2025-03-25'
+    event: Gemeenteraad neemt motie aan voor herstructurering Schoonoord.
+  - date: '2025-03-25'
+    event: Motie over herstructurering Schoonoord aangenomen in raadsvergadering.
+  - date: '2025-05-08'
+    event: CDA-fractie stelt technische vragen over het plan Schoonoord.
+  - date: '2025-06-03'
+    event: Beantwoording van vragen in de commissievergadering.
+  - date: '2025-07-15'
+    event: Inloopbijeenkomst over schetsontwerp stedenbouwkundige opzet.
+  - date: '2025-09-16'
+    event: Beantwoording van raadsvragen over het plan Schoonoord.
+  - date: '2025-10-01'
+    event: Voorlopig stedenbouwkundig plan met kostenraming verwacht.
+  - date: '2025-11-08'
+    event: Presentatie van het stedenbouwkundig plan aan de gemeenteraad.
+  - date: '2025-12-01'
+    event: Uitkomsten inloopmoment verwerken in een aangepast schetsontwerp.
+  - date: '2026-01-01'
+    event: Bespreken nieuwe schets in college en stuurgroep.
+  - date: '2026-01-01'
+    event: Besluitvorming over de herstructurering in gemeenteraad.
+  - date: '2026-02-01'
+    event: Presentatie nieuwe schets aan dorp.
+  - date: '2026-02-01'
+    event: Bespreken definitief voorstel en ophalen mandaat voor akkoord.
+  - date: '2026-06-01'
+    event: Besluitvorming stedenbouwkundig plan college/gemeenteraad.
+  - date: '2026-12-31'
+    event: Einde van de herstructureringsfase.
+ai_processed_at: '2026-07-23T07:56:31.319Z'
 ---
 
 KANSENKAART

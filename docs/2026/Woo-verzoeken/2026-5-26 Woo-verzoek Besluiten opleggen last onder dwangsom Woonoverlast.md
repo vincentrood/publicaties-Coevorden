@@ -1,8 +1,27 @@
 ---
-title: "2026-5-26 Woo-verzoek Besluiten opleggen last onder dwangsom Woonoverlast"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-26 Woo-verzoek Besluiten opleggen last onder dwangsom Woonoverlast.pdf"
-date: 2026-07-22
+title: 2026-5-26 Woo-verzoek Besluiten opleggen last onder dwangsom Woonoverlast
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-26 Woo-verzoek Besluiten opleggen last onder
+  dwangsom Woonoverlast.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Een Woo-verzoek is ingediend door een burger voor openbaarmaking van
+  documenten met betrekking tot last onder dwangsom. Het verzoek is op 30 maart
+  2026 ontvangen en later afgewezen omdat er geen relevante documenten zijn
+  aangetroffen.
+milestones:
+  - date: '2026-03-30'
+    event: Indiening Woo-verzoek door burger
+  - date: '2026-04-01'
+    event: Ontvangstbevestiging Woo-verzoek
+  - date: '2026-05-12'
+    event: Ingebrekestelling ontvangen door gemeente
+  - date: '2026-05-26'
+    event: Afwijzingsbesluit verzonden aan verzoeker
+ai_processed_at: '2026-07-23T07:52:54.395Z'
 ---
 
 Postadres:

@@ -1,8 +1,49 @@
 ---
-title: "2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS de Wegwijzer, Geesbrug"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS de Wegwijzer, Geesbrug.pdf"
-date: 2026-07-22
+title: >-
+  2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS de Wegwijzer,
+  Geesbrug
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-19 Woo-verzoek Fusie OBS de Zwarm, Geesbrug en CBS
+  de Wegwijzer, Geesbrug.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen met betrekking tot de
+  fusie tussen OBS de Zwarm en CBS de Wegwijzer, en heeft besloten om dit
+  verzoek gedeeltelijk toe te wijzen. De fusie is gepland voor 1 augustus 2026,
+  met als doel een toekomstbestendige samenwerkingsschool te creëren.
+milestones:
+  - date: '2025-09-01'
+    event: Intentieverklaring voor fusie ondertekend door beide schoolbesturen.
+  - date: '2025-11-18'
+    event: Eerste ouderavond over fusie gehouden.
+  - date: '2025-11-21'
+    event: Tweede ouderavond over fusie gehouden.
+  - date: '2026-01-05'
+    event: Gemeente Coevorden geeft positief advies over fusie.
+  - date: '2026-04-01'
+    event: Instemming van de medezeggenschapsraden voor fusie.
+  - date: '2026-04-02'
+    event: Ontvangst Woo-verzoek over fusie tussen OBS de Zwarm en CBS de Wegwijzer.
+  - date: '2026-04-30'
+    event: Verlenging van de beslistermijn met 14 dagen.
+  - date: '2026-05-08'
+    event: Telefooncontact met aanvrager over interesse in de rol van de gemeente.
+  - date: '2026-05-13'
+    event: >-
+      Mededeling aan aanvrager over het vragen van zienswijzen aan
+      belanghebbenden.
+  - date: '2026-08-01'
+    event: Beoogde fusiedatum van de scholen.
+  - date: '2026-08-01'
+    event: Officiële fusie van OBS De Zwarm en CBS De Wegwijzer.
+  - date: '2026-12-01'
+    event: Eerste evaluatie van de fusieprocessen.
+  - date: '2027-01-01'
+    event: Einde van het eerste evaluatiejaar.
+ai_processed_at: '2026-07-23T07:53:25.934Z'
 ---
 
 Gemeente

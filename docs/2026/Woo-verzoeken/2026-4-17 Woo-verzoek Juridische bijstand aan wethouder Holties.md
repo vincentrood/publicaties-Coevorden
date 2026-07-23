@@ -1,8 +1,32 @@
 ---
-title: "2026-4-17 Woo-verzoek Juridische bijstand aan wethouder Holties"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-4-17 Woo-verzoek Juridische bijstand aan wethouder Holties.pdf"
-date: 2026-07-22
+title: 2026-4-17 Woo-verzoek Juridische bijstand aan wethouder Holties
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-4-17 Woo-verzoek Juridische bijstand aan wethouder
+  Holties.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Op 13 maart 2026 ontving de gemeente Coevorden een Woo-verzoek voor
+  openbaarmaking van documenten met betrekking tot juridische bijstand aan
+  wethouder Holties. Het besluit om het verzoek gedeeltelijk toe te wijzen werd
+  op 17 april 2026 verzonden, met een toelichting op de redenen voor
+  gedeeltelijke openbaarmaking.
+milestones:
+  - date: '2025-11-17'
+    event: 'Declaratie voor oktober 2025 verstuurd, totaal € 4.019,02'
+  - date: '2025-12-10'
+    event: 'Declaratie voor november 2025 verstuurd, totaal € 6.624,75'
+  - date: '2026-01-13'
+    event: 'Declaratie voor december 2025 verstuurd, totaal € 2.541,61'
+  - date: '2026-02-16'
+    event: 'Declaratie voor januari 2026 verstuurd, totaal € 2.341,96'
+  - date: '2026-03-13'
+    event: Ontvangst Woo-verzoek van MN MN.
+  - date: '2026-04-17'
+    event: Verzending van het besluit tot gedeeltelijke openbaarmaking.
+ai_processed_at: '2026-07-23T07:53:52.207Z'
 ---
 
 Gemeente

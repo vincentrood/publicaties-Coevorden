@@ -1,8 +1,58 @@
 ---
-title: "2026-01-14 Woo-verzoek inzet drone boven parken Primo en Secundo"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-01-14 Woo-verzoek inzet drone boven parken Primo en Secundo.pdf"
-date: 2026-07-22
+title: 2026-01-14 Woo-verzoek inzet drone boven parken Primo en Secundo
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-01-14 Woo-verzoek inzet drone boven parken Primo en
+  Secundo.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen met betrekking tot de
+  inzet van drones boven recreatieparken. Na beoordeling is besloten om de
+  documenten deels openbaar te maken, met uitzondering van persoonsgegevens, en
+  zijn er verschillende reacties en bezwaren van betrokkenen ontvangen over de
+  rechtmatigheid van de drone-inzet.
+milestones:
+  - date: '2022-01-01'
+    event: Start revitalisering van vakantieparken.
+  - date: '2024-09-01'
+    event: QuickScan uitgevoerd voor park Toenakkers.
+  - date: '2025-04-08'
+    event: Besluit om gesprekken met vertegenwoordigers van het park te stoppen.
+  - date: '2025-05-27'
+    event: Publicatie instructieregel over permanente bewoning recreatiewoningen.
+  - date: '2025-06-04'
+    event: >-
+      Verzenddatum brief over consultatieversie instructieregel permanente
+      bewoning vakantieparken.
+  - date: '2025-10-02'
+    event: >-
+      Opdrachtbevestiging voor dronevlucht boven recreatieparken Primo en
+      Secundo.
+  - date: '2025-11-05'
+    event: Informatiebrief over de aanstaande dronevlucht verzonden.
+  - date: '2025-11-17'
+    event: Reactie op bezwaar en zienswijze inzake drone-inzet.
+  - date: '2025-11-18'
+    event: Ontvangst van zorgen over drone-inzet door gemeente.
+  - date: '2025-11-18'
+    event: Ingebrekestelling inzake voorgenomen dronevluchten.
+  - date: '2025-11-19'
+    event: Ontvangst van aanvullende zorgen over drone-inzet.
+  - date: '2025-11-19'
+    event: Formeel bezwaar tegen drone-opnames door eigenaar.
+  - date: '2025-11-24'
+    event: Juridische onderbouwing van de drone-inzet verzonden.
+  - date: '2025-11-24'
+    event: Verzenddatum reactie op zorgen over drone-inzet.
+  - date: '2025-11-24'
+    event: Verzenddatum tweede reactie op zorgen over drone-inzet.
+  - date: '2025-11-25'
+    event: Indiening Woo-verzoek voor documenten over drone-inzet.
+  - date: '2026-01-14'
+    event: Besluit op Woo-verzoek genomen en documenten deels openbaar gemaakt.
+ai_processed_at: '2026-07-23T07:55:18.826Z'
 ---
 
 Postadres: Gemeente

@@ -1,8 +1,61 @@
 ---
-title: "2026-01-22 Woo-verzoek correspondentie over showroon, legalisatie en afwijking advies bezwarencommissie"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-01-22 Woo-verzoek correspondentie over showroon, legalisatie en afwijking advies bezwarencommissie.pdf"
-date: 2026-07-22
+title: >-
+  2026-01-22 Woo-verzoek correspondentie over showroon, legalisatie en afwijking
+  advies bezwarencommissie
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-01-22 Woo-verzoek correspondentie over showroon,
+  legalisatie en afwijking advies bezwarencommissie.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een verzoek tot het realiseren van een showroom
+  aan huis afgewezen, omdat dit in strijd is met het bestemmingsplan. Na een
+  handhavingstraject is er een last onder dwangsom opgelegd wegens overtreding
+  van de regels, waartegen bezwaar is gemaakt.
+milestones:
+  - date: '2024-05-17'
+    event: >-
+      Indiening van een conceptverzoek voor een showroom voor tegels en
+      sanitair.
+  - date: '2024-05-17'
+    event: Indiening conceptverzoek voor showroom aan huis.
+  - date: '2024-05-17'
+    event: Indiening conceptverzoek voor showroom
+  - date: '2024-06-03'
+    event: Voornemen last onder dwangsom verzonden
+  - date: '2024-10-08'
+    event: >-
+      College van B&W neemt een principebesluit om geen medewerking te verlenen
+      aan het conceptverzoek.
+  - date: '2024-10-08'
+    event: >-
+      Negatief principebesluit van de gemeente Coevorden over het
+      conceptverzoek.
+  - date: '2024-10-09'
+    event: Negatieve beoordeling van het conceptverzoek
+  - date: '2025-01-29'
+    event: Controle door toezichthouders op perceel met showroom.
+  - date: '2025-01-29'
+    event: 'Controle door toezichthouder, showroom geconstateerd'
+  - date: '2025-06-03'
+    event: Verzenddatum van het voornemen tot last onder dwangsom.
+  - date: '2025-06-10'
+    event: 'Eerste uitnodiging voor gesprek, afgezegd vanwege ziekte'
+  - date: '2025-06-16'
+    event: 'Tweede uitnodiging voor gesprek, geen reactie'
+  - date: '2025-07-03'
+    event: Last onder dwangsom verzonden
+  - date: '2025-10-01'
+    event: Deadline voor beëindigen overtreding
+  - date: '2025-12-10'
+    event: Ontvangst van een Woo-verzoek door de gemeente.
+  - date: '2026-01-05'
+    event: Beslistermijn voor het Woo-verzoek wordt verdaagd.
+  - date: '2026-01-22'
+    event: Verzenddatum van het Woo-besluit aan de aanvrager.
+ai_processed_at: '2026-07-23T07:55:01.257Z'
 ---
 
 nie Gemeente

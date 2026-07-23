@@ -1,8 +1,46 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 5 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 5 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 5 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 5 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In Schoonoord zijn plannen voor de ontwikkeling van een multifunctioneel
+  centrum (MFC) en de herstructurering van woningen, waarbij de gemeente,
+  Woonservice en dorpsbelang samenwerken. De focus ligt op het creëren van een
+  duurzame en leefbare omgeving met een mix van sociale huur en koopwoningen.
+milestones:
+  - date: '2022-01-01'
+    event: 'Gemeente hanteert een rentepercentage van 1,6% voor financiering.'
+  - date: '2022-01-01'
+    event: >-
+      Exploitatieresultaat MFC, sporthal nieuwbouw gepresenteerd met een tekort
+      op basis van verhuurinkomsten.
+  - date: '2022-01-01'
+    event: >-
+      Exploitatieresultaat MFC, sporthal renovatie gepresenteerd met lagere
+      jaarlasten.
+  - date: '2022-01-01'
+    event: Aanvullende dekking en mogelijkheden voor subsidies besproken.
+  - date: '2022-01-01'
+    event: Conclusies en advies over de haalbaarheid van het MFC gepresenteerd.
+  - date: '2022-09-15'
+    event: Start project MFC Schoonoord
+  - date: '2024-01-01'
+    event: Besluitvormingstraject gemeente Coevorden afgerond.
+  - date: '2026-07-01'
+    event: Oplevering van het MFC gepland.
+ai_processed_at: '2026-07-23T07:57:12.964Z'
 ---
 
 82 Uitgangspunten exploitatie

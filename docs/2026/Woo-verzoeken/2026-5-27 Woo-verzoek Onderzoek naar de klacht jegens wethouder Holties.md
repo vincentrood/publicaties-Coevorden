@@ -1,8 +1,29 @@
 ---
-title: "2026-5-27 Woo-verzoek Onderzoek naar de klacht jegens wethouder Holties"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-27 Woo-verzoek Onderzoek naar de klacht jegens wethouder Holties.pdf"
-date: 2026-07-22
+title: 2026-5-27 Woo-verzoek Onderzoek naar de klacht jegens wethouder Holties
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-27 Woo-verzoek Onderzoek naar de klacht jegens
+  wethouder Holties.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Op 9 april 2026 heeft een cliënt een Woo-verzoek ingediend voor openbaarmaking
+  van documenten, maar dit verzoek is afgewezen omdat de gevraagde documenten
+  niet beschikbaar zijn. Het besluit kan worden aangevochten door een
+  bezwaarschrift in te dienen binnen zes weken.
+milestones:
+  - date: '2026-04-09'
+    event: Ontvangst Woo-verzoek
+  - date: '2026-04-09'
+    event: Afwijzing Woo-verzoek
+  - date: '2026-04-09'
+    event: Bezwaar ingediend tegen afwijzing
+  - date: '2026-04-13'
+    event: Voorstel om Woo-verzoek opnieuw in behandeling te nemen
+  - date: '2026-05-27'
+    event: Verzenddatum van het besluit
+ai_processed_at: '2026-07-23T07:52:30.849Z'
 ---
 
 Postadres:

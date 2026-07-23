@@ -1,8 +1,65 @@
 ---
-title: "2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 2"
-maps: ["2026","Woo-verzoeken","2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden"]
-source: "2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 2.pdf"
-date: 2026-07-22
+title: >-
+  2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+  Forbo Flooring Coevorden Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+    Forbo Flooring Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking
+  kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29
+  Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo
+  Flooring Coevorden Deel 2.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De communicatie betreft de afvalstromen van Forbo Coevorden, waarbij zorgen
+  zijn geuit over de verwerking van PVC-afval en de transparantie van deze
+  processen. Er zijn vragen over de recyclingstatus en de eindbestemming van
+  deze afvalstromen, met een nadruk op de noodzaak van toezicht en circulaire
+  economie.
+milestones:
+  - date: '2024-07-30'
+    event: Contactgegevens vergunningverlener Forbo gedeeld.
+  - date: '2024-07-30'
+    event: Contact met PVC-recyclingbedrijf over niet-recycling van PVC-afval.
+  - date: '2024-08-20'
+    event: Discussie over afvalstromen van Forbo met toezichthouders.
+  - date: '2024-08-20'
+    event: Communicatie over een bedrijf in Lelystad dat PVC-afval niet recycleert.
+  - date: '2024-08-26'
+    event: Overleg met RUD over einde afvalstatus snijresten van Forbo.
+  - date: '2024-08-26'
+    event: Team-overleg over de situatie van Forbo.
+  - date: '2024-08-26'
+    event: >-
+      Terug van vakantie, interesse in de ontwikkelingen rondom het bedrijf in
+      Lelystad.
+  - date: '2024-08-30'
+    event: Verzoek om aanvullend XRF-meting ivm ZZS in snijresten.
+  - date: '2024-09-05'
+    event: Teams meeting gepland over ZZS en afvalstatus.
+  - date: '2024-09-12'
+    event: Vergadering over de resultaten van de XRF-meting.
+  - date: '2025-06-16'
+    event: Vraag naar inspecties bij Forbo over afvalstoffen.
+  - date: '2025-06-17'
+    event: Intern overleg gepland over wie verantwoordelijk is voor de opvolging.
+  - date: '2025-07-11'
+    event: >-
+      Zorgen geuit over de verwerking van plastisolreststromen van
+      Forbo-Novilon.
+  - date: '2025-07-14'
+    event: Verzoek om contactgegevens van toezichthouder van Forbo.
+  - date: '2025-07-27'
+    event: Contactgegevens van toezichthouder verstrekt.
+  - date: '2025-08-10'
+    event: Formeel verzoek om duidelijkheid over afvalstromen van Forbo.
+  - date: '2025-08-26'
+    event: Reactie op vragen over afvalverwerking en circulaire economie.
+ai_processed_at: '2026-07-23T08:03:20.836Z'
 ---
 
 Wij zijn vinylreeycling.com een onderneming die zich bezig houd met PVC recycling.

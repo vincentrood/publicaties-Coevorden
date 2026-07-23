@@ -1,8 +1,36 @@
 ---
-title: "2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 2"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 2.pdf"
-date: 2026-07-22
+title: >-
+  2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel
+  2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - '2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen'
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen Deel 2.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een reeks van controles en vergunningaanvragen
+  uitgevoerd met betrekking tot de brandveiligheid van de groepsaccommodatie aan
+  Brink 9 te Sleen. Er zijn diverse overtredingen geconstateerd en er zijn
+  meerdere verzoeken gedaan om de situatie te corrigeren, met als doel de
+  brandveiligheid te waarborgen.
+milestones:
+  - date: '2020-01-01'
+    event: Start van de beschrijving van groepsaccommodaties in Norg en Sleen.
+  - date: '2020-01-01'
+    event: Vermelding van attracties en bezienswaardigheden in de omgeving.
+  - date: '2020-01-01'
+    event: Details over de indeling en faciliteiten van verschillende accommodaties.
+  - date: '2020-01-01'
+    event: >-
+      Informatie over bouwvergunningen en brandveiligheidseisen voor een
+      accommodatie.
+  - date: '2021-08-12'
+    event: Aanvraag voor brandveilig gebruik ingediend
+ai_processed_at: '2026-07-23T08:00:08.417Z'
 ---
 
 Gemeente

@@ -1,8 +1,88 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 1"
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 1.pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2026 heeft de gemeente Coevorden een Woo-verzoek ontvangen met betrekking
+  tot de herstructurering van woningen in Schoonoord. Het proces omvatte
+  verschillende stappen, waaronder het vaststellen van een Kansenkaart en het
+  organiseren van participatiebijeenkomsten met bewoners.
+milestones:
+  - date: '2023-10-12'
+    event: Presentatie analyse kansenkaart
+  - date: '2023-10-20'
+    event: Uitnodiging Schoonoord Noord
+  - date: '2023-12-08'
+    event: Uitnodiging wonen en raad
+  - date: '2023-12-14'
+    event: Werkboek modellen
+  - date: '2024-02-15'
+    event: Werkboek voorkeursmodel - parkeren
+  - date: '2024-06-04'
+    event: Brief uitnodiging Schoonoord Zuid
+  - date: '2024-06-13'
+    event: Bijeenkomst bewonersavond Schoonoord-Zuid
+  - date: '2024-07-18'
+    event: Aangepast programma van eisen Schoonoord Zuid
+  - date: '2025-01-07'
+    event: Werkboek modellen
+  - date: '2025-03-04'
+    event: Zuid model A-woningbouwaantallen
+  - date: '2025-10-02'
+    event: Opzet bewonersbijeenkomst
+  - date: '2025-10-21'
+    event: Schriftelijke informatieplicht
+  - date: '2025-10-30'
+    event: Raadsinformatiebrief herstructurering Schoonoord
+  - date: '2025-12-18'
+    event: Marsroute uitgewerkt Schoonoord
+  - date: '2026-01-04'
+    event: Presentatie themasessie herstructurering Schoonoord
+  - date: '2026-01-24'
+    event: Indiening Woo-verzoek door de aanvrager.
+  - date: '2026-01-26'
+    event: Ontvangst van het Woo-verzoek door de gemeente.
+  - date: '2026-01-30'
+    event: Bijlage 1 Proces integrale ontwikkelingen Schoonoord
+  - date: '2026-03-01'
+    event: Verslag projectgroep
+  - date: '2026-03-09'
+    event: Advocaat stelt gemeente in gebreke wegens uitblijven besluit.
+  - date: '2026-03-26'
+    event: Advocaat stuurt aanmaning naar de gemeente.
+  - date: '2026-04-01'
+    event: Diverse documenten en besluiten over Schoonoord
+  - date: '2026-04-01'
+    event: Diverse documenten en voorstellen voor sociale huur
+  - date: '2026-04-13'
+    event: Gemeente meldt dat het verzoek complex is en meer tijd vergt.
+  - date: '2026-04-14'
+    event: Gemeente bevestigt dat de deadline van 1 mei 2026 niet gehaald kan worden.
+  - date: '2026-04-22'
+    event: Brief bij participatieopbrengst
+  - date: '2026-04-30'
+    event: Bijeenkomst Schoonoord
+  - date: '2026-05-06'
+    event: Gemeente vraagt derde belanghebbenden om zienswijzen.
+  - date: '2026-05-20'
+    event: Deadline voor inleveren zienswijzen door derde belanghebbenden.
+  - date: '2026-05-21'
+    event: Besluit van de gemeente om het verzoek gedeeltelijk toe te wijzen.
+  - date: '2026-05-21'
+    event: Publicatie van het besluit op de website van de gemeente.
+ai_processed_at: '2026-07-23T07:59:04.946Z'
 ---
 
 Gemeente

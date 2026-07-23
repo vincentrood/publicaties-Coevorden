@@ -1,8 +1,48 @@
 ---
-title: "2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen.pdf"
-date: 2026-07-22
+title: 2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: 2026/Woo-verzoeken/2026-5-7 Woo-verzoek Waterglijbaan Brink 9 Sleen.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden ontving op 20 maart 2026 een Woo-verzoek met betrekking
+  tot de waterglijbaan aan de Brink 9 te Sleen. Het verzoek werd toegewezen op 7
+  mei 2026, met uitzondering van persoonsgegevens.
+milestones:
+  - date: '2023-05-21'
+    event: Hoorzitting over bezwaar tegen invorderingsbesluit uitgesteld.
+  - date: '2025-04-23'
+    event: Digitale hoorzitting bezwaarschriftencommissie gepland.
+  - date: '2025-06-05'
+    event: Beslissing op bezwaar moet zijn genomen.
+  - date: '2025-11-11'
+    event: Hoorzitting gepland voor behandeling bezwaar.
+  - date: '2025-12-17'
+    event: Hoorzitting bezwaarschriftencommissie.
+  - date: '2026-01-29'
+    event: Indiening bezwaarschrift tegen last onder bestuursdwang.
+  - date: '2026-02-18'
+    event: Advies bezwaarschriftencommissie aan college verzonden.
+  - date: '2026-03-20'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2026-03-20'
+    event: >-
+      Woo-verzoek ingediend voor openbaarmaking van informatie over dossier
+      waterglijbaan.
+  - date: '2026-03-26'
+    event: Uiterste datum voor aanleveren dossier en verweerschrift.
+  - date: '2026-04-15'
+    event: Hoorzitting gepland.
+  - date: '2026-04-17'
+    event: Beslistermijn voor het Woo-verzoek met twee weken verlengd.
+  - date: '2026-04-21'
+    event: Hoorzitting ingepland.
+  - date: '2026-05-07'
+    event: >-
+      Besluit om het Woo-verzoek toe te wijzen, met uitzondering van
+      persoonsgegevens.
+ai_processed_at: '2026-07-23T07:52:24.119Z'
 ---
 
 Gemeente

@@ -1,8 +1,67 @@
 ---
-title: "2026-02-23 Woo-verzoek verzoeken van medewerkers en bestuurders om juridische bijstand"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-02-23 Woo-verzoek verzoeken van medewerkers en bestuurders om juridische bijstand.pdf"
-date: 2026-07-22
+title: >-
+  2026-02-23 Woo-verzoek verzoeken van medewerkers en bestuurders om juridische
+  bijstand
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-02-23 Woo-verzoek verzoeken van medewerkers en
+  bestuurders om juridische bijstand.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden heeft een Woo-verzoek ontvangen met betrekking tot de
+  openbaarmaking van informatie over juridische bijstand aan medewerkers en
+  bestuurders. Het verzoek is gedeeltelijk toegewezen, maar niet alle informatie
+  kon openbaar worden gemaakt vanwege privacy- en bedrijfsbelangen.
+milestones:
+  - date: '2024-01-01'
+    event: >-
+      Verzoek om openbaarmaking van documenten over juridische bijstand en
+      integriteitsmeldingen.
+  - date: '2025-05-15'
+    event: >-
+      Gesprek over de wens voor extern integriteitsonderzoek na melding van een
+      medewerker.
+  - date: '2025-05-19'
+    event: >-
+      Capra Advocaten ontvangt opdracht voor het uitvoeren van het
+      integriteitsonderzoek.
+  - date: '2025-06-04'
+    event: >-
+      Declaratie van Capra Advocaten voor juridische bijstand aan de gemeente
+      Coevorden.
+  - date: '2025-07-02'
+    event: Tweede declaratie van Capra Advocaten voor juridische bijstand.
+  - date: '2025-08-04'
+    event: Derde declaratie van Capra Advocaten voor juridische bijstand.
+  - date: '2025-09-03'
+    event: Vierde declaratie van Capra Advocaten voor juridische bijstand.
+  - date: '2025-10-06'
+    event: Vijfde declaratie van Capra Advocaten voor juridische bijstand.
+  - date: '2025-11-03'
+    event: Zesde declaratie van Capra Advocaten voor juridische bijstand.
+  - date: '2025-12-02'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2025-12-05'
+    event: Versturen ontvangstbevestiging van het Woo-verzoek.
+  - date: '2025-12-23'
+    event: Versturen brief met verlenging van de beslistermijn.
+  - date: '2026-01-13'
+    event: Einde wettelijke beslistermijn.
+  - date: '2026-01-21'
+    event: Ontvangst ingebrekestelling.
+  - date: '2026-01-22'
+    event: Bevestiging ontvangst ingebrekestelling.
+  - date: '2026-02-09'
+    event: Mededeling aan verzoeker over het vragen van zienswijzen.
+  - date: '2026-02-17'
+    event: Ontvangst bericht over overdracht dossier aan advocaat.
+  - date: '2026-02-20'
+    event: Einde termijn voor indienen zienswijzen.
+  - date: '2026-02-23'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-07-23T07:54:19.925Z'
 ---
 
 Gemeente

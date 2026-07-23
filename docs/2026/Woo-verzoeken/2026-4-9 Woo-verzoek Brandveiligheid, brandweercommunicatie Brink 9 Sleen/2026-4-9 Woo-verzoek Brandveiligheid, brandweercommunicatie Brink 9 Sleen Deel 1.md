@@ -1,8 +1,36 @@
 ---
-title: "2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 1"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel 1.pdf"
-date: 2026-07-22
+title: >-
+  2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen Deel
+  1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - '2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie Brink 9 Sleen'
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen/2026-4-9 Woo-verzoek Brandveiligheid, brandweercommunicatie
+  Brink 9 Sleen Deel 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2026 is er een Woo-verzoek ingediend door een bedrijf met betrekking tot
+  brandveiligheid van de groepsaccommodatie aan Brink 9 in Sleen, na een brand
+  in 2025. Het verzoek omvatte documenten over brandveiligheid, inspecties en
+  interne communicatie, en werd op 9 april 2026 volledig toegewezen, met
+  uitzondering van persoonsgegevens.
+milestones:
+  - date: '2022-12-20'
+    event: Informatie over bedrijfsbezoek brandveiligheid verzonden.
+  - date: '2023-01-09'
+    event: Bedrijfsbezoek brandveiligheid gepland.
+  - date: '2026-02-20'
+    event: Ontvangst Woo-verzoek met betrekking tot brandveiligheid Brink 9/9a.
+  - date: '2026-03-24'
+    event: >-
+      Mededeling aan aanvrager over het aanvragen van zienswijzen van
+      belanghebbenden.
+  - date: '2026-04-09'
+    event: Besluit verzonden om het Woo-verzoek geheel toe te wijzen.
+ai_processed_at: '2026-07-23T08:00:25.943Z'
 ---
 
 Postadres:

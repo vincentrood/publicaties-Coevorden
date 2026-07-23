@@ -1,8 +1,37 @@
 ---
-title: "2026-4-13 Woo-verzoek erfafscheidingen binnen Aalden"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-4-13 Woo-verzoek erfafscheidingen binnen Aalden.pdf"
-date: 2026-07-22
+title: 2026-4-13 Woo-verzoek erfafscheidingen binnen Aalden
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: 2026/Woo-verzoeken/2026-4-13 Woo-verzoek erfafscheidingen binnen Aalden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2023 en 2026 zijn er Woo-verzoeken ingediend bij de gemeente Coevorden met
+  betrekking tot erfafscheidingen in Aalden. De gemeente heeft deze verzoeken
+  beoordeeld en besluiten genomen over de openbaarmaking van de gevraagde
+  informatie.
+milestones:
+  - date: '2023-10-26'
+    event: >-
+      Aanvraag omgevingsvergunning ontvangen voor verbouwing en erfafscheiding
+      op Paardelandsdrift 22.
+  - date: '2023-11-28'
+    event: >-
+      Welstandscommissie adviseert dat het bouwplan voldoet aan redelijke eisen
+      van welstand.
+  - date: '2023-12-05'
+    event: Besluit omgevingsvergunning verleend voor verbouwing en erfafscheiding.
+  - date: '2023-12-05'
+    event: >-
+      Besluit van de gemeente Coevorden verzonden met betrekking tot de
+      omgevingsvergunning.
+  - date: '2026-03-31'
+    event: Ontvangst Woo-verzoek over erfafscheidingen in Aalden.
+  - date: '2026-04-13'
+    event: >-
+      Besluit op Woo-verzoek verzonden, gedeeltelijke openbaarmaking van
+      informatie.
+ai_processed_at: '2026-07-23T07:54:01.873Z'
 ---
 
 Gemeente

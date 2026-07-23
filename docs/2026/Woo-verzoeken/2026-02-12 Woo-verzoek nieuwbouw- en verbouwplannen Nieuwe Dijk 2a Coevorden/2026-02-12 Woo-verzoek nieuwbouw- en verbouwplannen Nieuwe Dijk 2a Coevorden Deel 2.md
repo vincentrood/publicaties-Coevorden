@@ -1,8 +1,45 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 2"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 2.pdf"
-date: 2026-07-22
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 2.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In opdracht van Bute Development B.V. is een onderzoek naar externe veiligheid
+  uitgevoerd voor de realisatie van bedrijfsunits voor opslag. Het onderzoek
+  concludeert dat het plaatsgebonden risico en groepsrisico acceptabel zijn en
+  geen belemmering vormen voor de ontwikkeling.
+milestones:
+  - date: '2020-01-01'
+    event: Start onderzoek externe veiligheid door Bute Development B.V.
+  - date: '2020-01-01'
+    event: Beoordeling van de huidige situatie en risico's in het plangebied.
+  - date: '2020-01-01'
+    event: >-
+      Voorstel voor de sloop en renovatie van bestaande bebouwing en de bouw van
+      70 nieuwe bedrijfsunits.
+  - date: '2020-01-01'
+    event: >-
+      Kwantitatieve analyse van het groepsrisico en plaatsgebonden risico
+      uitgevoerd.
+  - date: '2020-01-01'
+    event: Conclusie dat het groepsrisico onder de oriëntatiewaarde blijft.
+  - date: '2020-01-01'
+    event: Beperkte verantwoording van het groepsrisico gepresenteerd.
+  - date: '2025-06-13'
+    event: Aanleveren gegevens voor risicostudie
+  - date: '2025-06-30'
+    event: Einddatum voor risicostudie en mitigatie maatregelen
+  - date: '2025-07-02'
+    event: Uitvoering van de risicoberekeningen met CAROLA versie 1.0.0.52.
+ai_processed_at: '2026-07-23T08:02:17.306Z'
 ---
 
 1.1

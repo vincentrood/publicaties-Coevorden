@@ -1,8 +1,37 @@
 ---
-title: "2026-5-26 Woo-verzoek Waarschuwingsbrieven, gedragsaanwijzingen of huisverboden"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-26 Woo-verzoek Waarschuwingsbrieven, gedragsaanwijzingen of huisverboden.pdf"
-date: 2026-07-22
+title: >-
+  2026-5-26 Woo-verzoek Waarschuwingsbrieven, gedragsaanwijzingen of
+  huisverboden
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-26 Woo-verzoek Waarschuwingsbrieven,
+  gedragsaanwijzingen of huisverboden.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2026 heeft de gemeente Coevorden een Woo-verzoek ontvangen voor
+  openbaarmaking van waarschuwingsbrieven en gedragsaanwijzingen. Het verzoek is
+  gedeeltelijk toegewezen, waarbij enkele documenten zijn geanonimiseerd om de
+  privacy van betrokkenen te waarborgen.
+milestones:
+  - date: '2022-11-22'
+    event: Beleidsregel voor aanpak woonoverlast vastgesteld door burgemeester.
+  - date: '2023-07-20'
+    event: >-
+      Waarschuwingsbrief verzonden aan overlastgever na herhaalde meldingen van
+      woonoverlast.
+  - date: '2026-03-30'
+    event: Ontvangst Woo-verzoek
+  - date: '2026-04-01'
+    event: Ontvangstbevestiging Woo-verzoek
+  - date: '2026-04-16'
+    event: Beslistermijn verlengd tot 11 mei 2026
+  - date: '2026-05-12'
+    event: Ingebrekestelling ontvangen
+  - date: '2026-05-26'
+    event: Besluit op Woo-verzoek verzonden
+ai_processed_at: '2026-07-23T07:52:42.633Z'
 ---
 
 Gemeente

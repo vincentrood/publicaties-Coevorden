@@ -1,8 +1,58 @@
 ---
-title: "2026-5-8 Woo-verzoek Basisregistratie Personen correctieverzoek"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-8 Woo-verzoek Basisregistratie Personen correctieverzoek.pdf"
-date: 2026-07-22
+title: 2026-5-8 Woo-verzoek Basisregistratie Personen correctieverzoek
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-8 Woo-verzoek Basisregistratie Personen
+  correctieverzoek.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2026 diende een verzoek tot ambtshalve uitschrijving uit de
+  Basisregistratie Personen (BRP) in bij de gemeente Coevorden, met als
+  vertrekdatum 1 oktober 2018. Het verzoek werd gedeeltelijk toegewezen, maar de
+  gemeente weigerde de terugwerkende kracht van de vertrekdatum, wat leidde tot
+  een formeel besluit en de mogelijkheid tot bezwaar.
+milestones:
+  - date: '2020-09-11'
+    event: >-
+      Rechtbank Den Haag bevestigt dat vertrekdatum op basis van feiten moet
+      worden vastgesteld.
+  - date: '2022-06-20'
+    event: Startdatum aanvraag voor betalingsregeling
+  - date: '2023-05-10'
+    event: Vraag over betalingsregeling gemeentelijke belastingen
+  - date: '2024-03-13'
+    event: >-
+      ABRvS benadrukt dat gemeenten zorgvuldig moeten vaststellen wat de
+      feitelijke situatie is voordat BRP-gegevens worden gewijzigd.
+  - date: '2025-04-30'
+    event: Zaak gestart voor uitreiken rijbewijs
+  - date: '2025-05-14'
+    event: Vraag over emigratie met terugwerkende kracht
+  - date: '2025-12-02'
+    event: Contact over uitschrijven met terugwerkende kracht
+  - date: '2026-01-07'
+    event: Indiening verzoekschrift voor ambtshalve uitschrijving BRP
+  - date: '2026-01-15'
+    event: Telefooncontact met woningcorporatie over huurbetalingen tot 31-10-2025.
+  - date: '2026-01-20'
+    event: >-
+      Verzoek tot uitschrijving uit de BRP met terugwerkende kracht naar
+      01-10-2018 ingediend.
+  - date: '2026-02-03'
+    event: Gemeente Coevorden bevestigt uitschrijving uit de BRP per 07-01-2026.
+  - date: '2026-03-16'
+    event: Ontvangst Woo-verzoek
+  - date: '2026-04-13'
+    event: Verlenging beslistermijn met twee weken
+  - date: '2026-04-16'
+    event: Opschorting beslistermijn vanwege zienswijzen
+  - date: '2026-04-27'
+    event: Einde wettelijke beslistermijn
+  - date: '2026-05-08'
+    event: Besluit op Woo-verzoek verzonden
+ai_processed_at: '2026-07-23T07:52:08.427Z'
 ---
 
 Gemeente

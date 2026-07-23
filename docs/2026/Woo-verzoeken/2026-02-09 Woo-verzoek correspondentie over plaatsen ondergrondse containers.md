@@ -1,8 +1,56 @@
 ---
-title: "2026-02-09 Woo-verzoek correspondentie over plaatsen ondergrondse containers"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-02-09 Woo-verzoek correspondentie over plaatsen ondergrondse containers.pdf"
-date: 2026-07-22
+title: 2026-02-09 Woo-verzoek correspondentie over plaatsen ondergrondse containers
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-02-09 Woo-verzoek correspondentie over plaatsen
+  ondergrondse containers.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2025 en 2026 heeft de gemeente Coevorden verschillende Woo-verzoeken en
+  besluiten behandeld met betrekking tot de transformatie van recreatiegebieden
+  naar woonbestemmingen. De evaluatie van het transformatieproces en de
+  betrokkenheid van eigenaren heeft geleid tot zorgen over transparantie en
+  representativiteit in de besluitvorming.
+milestones:
+  - date: '2021-10-12'
+    event: >-
+      Initiatiefgroep stuurt eerste brief aan het bestuur over onacceptabel
+      gedrag.
+  - date: '2021-10-31'
+    event: Ledenbrief van de Initiatiefgroep met uitleg over hun beweegredenen.
+  - date: '2021-10-31'
+    event: >-
+      Ledenbrief over aanpak en doelstellingen met betrekking tot functie-eisen
+      en gedrag binnen de vereniging.
+  - date: '2021-11-01'
+    event: Incident vlak voor de Algemene Ledenvergadering leidt tot escalatie.
+  - date: '2021-11-15'
+    event: Motie van wantrouwen tegen het betrokken bestuurslid wordt aangekondigd.
+  - date: '2021-11-30'
+    event: >-
+      Voltallige bestuur treedt af na rumoerig email-verkeer en aankondiging van
+      rapportage.
+  - date: '2022-01-31'
+    event: >-
+      Streefdatum voor verslaglegging van anoniem feitenrelaas over ervaringen
+      met grensoverschrijdend gedrag.
+  - date: '2023-06-29'
+    event: >-
+      Brief aan College van B&W Coevorden over transformatiebeleid van De Tip en
+      zorgen over transparantie en handhaving.
+  - date: '2025-12-02'
+    event: Ontvangst Woo-verzoek
+  - date: '2025-12-06'
+    event: Reactie op verzoek om specificatie
+  - date: '2026-01-14'
+    event: Mededeling aan verzoeker over zienswijze
+  - date: '2026-02-05'
+    event: Verzenddatum van het besluit
+  - date: '2026-02-09'
+    event: Besluit Woo-verzoek verzonden
+ai_processed_at: '2026-07-23T07:54:43.669Z'
 ---
 
 Gemeente

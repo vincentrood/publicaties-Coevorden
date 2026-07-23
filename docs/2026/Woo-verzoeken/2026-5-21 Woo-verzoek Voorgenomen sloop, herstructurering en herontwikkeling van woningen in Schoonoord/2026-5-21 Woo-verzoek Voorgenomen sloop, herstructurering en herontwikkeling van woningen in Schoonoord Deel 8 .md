@@ -1,8 +1,74 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 8 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 8 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 8 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 8 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden werkt aan de herstructurering van Schoonoord, inclusief
+  de bouw van een Multifunctioneel Centrum (MFC) en nieuwe woningen. Inwoners
+  worden betrokken bij het proces om hun wensen en zorgen te inventariseren en
+  te verwerken in de plannen.
+milestones:
+  - date: '2023-03-01'
+    event: >-
+      Gemeenteraad stelt budget van 5,2 miljoen euro beschikbaar voor nieuwbouw
+      van scholen.
+  - date: '2023-06-20'
+    event: Bijeenkomst met jongeren over wonen en leven in Schoonoord.
+  - date: '2023-09-27'
+    event: >-
+      Nieuwsbrief over ontwikkelingen rondom het MFC en woningbouw in
+      Schoonoord.
+  - date: '2023-10-12'
+    event: Agenda en stukken voor de projectgroep Integrale Ontwikkeling Schoonoord.
+  - date: '2023-11-03'
+    event: Inloopavond over schetsen nieuwbouwplannen in Schoonoord.
+  - date: '2023-11-08'
+    event: Bijeenkomst over de verkenning van Schoonoord Noord.
+  - date: '2023-11-28'
+    event: Voorstel MFC Schoonoord wordt behandeld in raadscommissie.
+  - date: '2023-12-12'
+    event: Gemeenteraad neemt besluit over het voorstel voor het MFC.
+  - date: '2024-02-02'
+    event: Terugkoppeling van reacties op de schetsen van nieuwbouwplannen.
+  - date: '2024-03-09'
+    event: Bijeenkomsten over nieuwe schetsen voor Schoonoord.
+  - date: '2024-06-13'
+    event: >-
+      Bijeenkomst over de verkenning van Schoonoord Zuid en de invulling van de
+      locatie van de oude school.
+  - date: '2024-06-13'
+    event: >-
+      Bijeenkomst voor bewoners over cultuur-historische en stedenbouwkundige
+      waarden.
+  - date: '2024-06-13'
+    event: Bijeenkomst over de verkenning van Schoonoord Zuid.
+  - date: '2025-01-01'
+    event: Ontwikkeling van stedenbouwkundige schetsen/scenario's begint.
+  - date: '2025-03-25'
+    event: Actie n.a.v. projectgroep Schoonoord.
+  - date: '2025-11-05'
+    event: Reactieformulier over schetsen nieuwbouwplannen.
+  - date: '2026-02-02'
+    event: Terugkoppeling van participatieopbrengst en nieuwe schetsen.
+  - date: '2026-09-01'
+    event: Nieuwe Kindcentrum in gebruik genomen.
+  - date: '2027-01-01'
+    event: Start van de sloop van de school in Schoonoord Noord.
+  - date: '2029-01-01'
+    event: Einde van de nieuwbouw en inrichting van de woonomgeving.
+ai_processed_at: '2026-07-23T07:56:13.463Z'
 ---
 
 Van: <Mecoevorden.nl>

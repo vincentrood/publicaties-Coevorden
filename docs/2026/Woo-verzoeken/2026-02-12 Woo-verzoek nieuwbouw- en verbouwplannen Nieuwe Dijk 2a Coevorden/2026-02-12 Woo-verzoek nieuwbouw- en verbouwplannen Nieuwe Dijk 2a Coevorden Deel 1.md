@@ -1,8 +1,49 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 1"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 1.pdf"
-date: 2026-07-22
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In Coevorden is een Woo-verzoek ingediend voor de openbaarmaking van
+  documenten met betrekking tot nieuwbouw- en verbouwplannen op Nieuwe Dijk 2a.
+  Het verzoek is gedeeltelijk toegewezen, waarbij enkele documenten zijn
+  geanonimiseerd vanwege privacy- en veiligheidsredenen.
+milestones:
+  - date: '2023-01-01'
+    event: Start van de aanlegfase van het project.
+  - date: '2024-12-31'
+    event: Einde van de aanlegfase.
+  - date: '2025-05-21'
+    event: Projectberekening uitgevoerd met AERIUS Calculator voor emissies.
+  - date: '2025-05-22'
+    event: >-
+      Rapportage van de AERIUS-calculator met resultaten van
+      stikstofdepositieberekeningen.
+  - date: '2025-05-22'
+    event: >-
+      Resultaten van de projectberekening met betrekking tot stikstofgevoelige
+      Natura gebieden gepresenteerd.
+  - date: '2025-05-26'
+    event: >-
+      Archeologisch bureauonderzoek uitgevoerd voor omgevingsvergunning in
+      Coevorden.
+  - date: '2025-11-12'
+    event: Ontvangst Woo-verzoek
+  - date: '2025-11-25'
+    event: Verlenging beslistermijn met twee weken
+  - date: '2026-01-26'
+    event: Vragen aan derde belanghebbende over bezwaar tegen openbaarmaking
+  - date: '2026-02-12'
+    event: Verzenddatum besluit Woo-verzoek
+ai_processed_at: '2026-07-23T08:02:50.673Z'
 ---
 
 Gemeente

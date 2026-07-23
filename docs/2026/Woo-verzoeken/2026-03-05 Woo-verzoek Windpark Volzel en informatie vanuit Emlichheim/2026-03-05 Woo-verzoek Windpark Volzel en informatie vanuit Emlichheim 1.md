@@ -1,8 +1,68 @@
 ---
-title: "2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1"
-maps: ["2026","Woo-verzoeken","2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim"]
-source: "2026/Woo-verzoeken/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1.pdf"
-date: 2026-07-22
+title: 2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit Emlichheim
+source: >-
+  2026/Woo-verzoeken/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit
+  Emlichheim/2026-03-05 Woo-verzoek Windpark Volzel en informatie vanuit
+  Emlichheim 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2026 heeft de gemeente Coevorden een Woo-verzoek ontvangen voor
+  openbaarmaking van documenten met betrekking tot het windpark Volzel. Het
+  verzoek werd gedeeltelijk toegewezen, met enkele documenten die openbaar zijn
+  gemaakt, terwijl andere informatie werd afgewimpeld op basis van privacy- en
+  vertrouwelijkheidsgronden.
+milestones:
+  - date: '2024-05-28'
+    event: >-
+      Besluit tot wijziging van het bestemmingsplan voor Windpark Volzel door
+      Samtgemeinde Emlichheim.
+  - date: '2024-12-05'
+    event: >-
+      Start van de openbare participatie voor de wijziging van het
+      bestemmingsplan.
+  - date: '2024-12-06'
+    event: >-
+      Kennisgeving van Samtgemeinde Emlichheim over het windpark Volzel
+      ontvangen door gemeente Coevorden.
+  - date: '2025-01-06'
+    event: >-
+      Einde van de openbare participatie voor de wijziging van het
+      bestemmingsplan.
+  - date: '2025-01-10'
+    event: Deadline voor feedback op de wijziging van het bestemmingsplan.
+  - date: '2025-05-20'
+    event: >-
+      Samtgemeinde Emlichheim stuurt wijziging Flächennutzungsplan voor windpark
+      Volzel.
+  - date: '2026-01-18'
+    event: Omwonenden sturen een mail over de realisatie van het windpark Volzel.
+  - date: '2026-01-19'
+    event: >-
+      Verzoek om openbaarmaking van documenten ingediend door een collectief van
+      omwonenden.
+  - date: '2026-01-26'
+    event: Verzenddatum van de formele notificatie door gemeente Coevorden.
+  - date: '2026-01-27'
+    event: >-
+      Verzending van de brief van gemeente Coevorden aan omwonenden van Windpark
+      Volzel.
+  - date: '2026-02-16'
+    event: Provincie Drenthe bevestigt geen bezwaren tegen het windpark Volzel.
+  - date: '2026-02-19'
+    event: Besluit van de gemeente Coevorden op het Woo-verzoek verzonden.
+  - date: '2026-02-20'
+    event: Gemeente Coevorden ontvangt een brief over het windpark Volzel.
+  - date: '2026-02-24'
+    event: Indiening van een Woo-verzoek per e-mail door een individu.
+  - date: '2026-02-27'
+    event: Conceptbrief van de gemeente Coevorden aan omwonenden wordt besproken.
+  - date: '2026-03-03'
+    event: Verzenddatum van het besluit op het Woo-verzoek.
+ai_processed_at: '2026-07-23T08:01:22.624Z'
 ---
 
 Gemeente

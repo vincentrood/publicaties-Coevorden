@@ -1,8 +1,70 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 4"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 4.pdf"
-date: 2026-07-22
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 4
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 4.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden is bezig met de ontwikkeling van bedrijfsunits aan de
+  Nieuwe Dijk 2A, waarbij diverse onderzoeken naar externe veiligheid en
+  bodemverontreiniging zijn uitgevoerd. De aanvraag voor de omgevingsvergunning
+  is complex door de aanwezigheid van verontreinigingen en de noodzaak voor
+  nadere onderzoeken en motiveringen.
+milestones:
+  - date: '2023-06-14'
+    event: Verzoek om advies over bestemmingsplan Stationsstraat 34-36.
+  - date: '2023-06-14'
+    event: Verzoek om advies over bestemmingsplan ingediend.
+  - date: '2023-06-27'
+    event: Advies uitgebracht door Veiligheidsregio Drenthe over groepsrisico.
+  - date: '2023-06-27'
+    event: Advies van Veiligheidsregio Drenthe ontvangen met aanbevelingen.
+  - date: '2023-09-13'
+    event: Rapport 'Onderzoek externe veiligheid' opgesteld voor Nieuwe Dijk 2A.
+  - date: '2024-01-31'
+    event: Advies College van B&W over principebesluit nieuwbouw bedrijfsunits.
+  - date: '2024-02-13'
+    event: Besluit genomen om medewerking te verlenen aan de nieuwbouw.
+  - date: '2024-12-16'
+    event: Aanvraag omgevingsvergunning voor nieuwbouw 69 opslagunits ingediend.
+  - date: '2024-12-16'
+    event: Documenten en bijlagen ingediend voor de bouwactiviteit.
+  - date: '2025-01-28'
+    event: Verzoek om verlenging van beslistermijn voor de bouw van opslagunits.
+  - date: '2025-02-05'
+    event: >-
+      Communicatie over de externe veiligheid en benodigde aanvullingen op het
+      rapport.
+  - date: '2025-02-13'
+    event: Communicatie over bodemonderzoek Nieuwe Dijk 2a.
+  - date: '2025-02-14'
+    event: Advies over bodemonderzoek voor Nieuwe Dijk 2A verzonden.
+  - date: '2025-02-17'
+    event: Aanvullende gegevens over bodemonderzoek verwerkt.
+  - date: '2025-03-19'
+    event: >-
+      Beslistermijn met 6 maanden verlengd voor aanleveren van aanvullende
+      gegevens.
+  - date: '2025-05-27'
+    event: >-
+      Vraag over waterparagraaf Nieuwe Dijk 2a voorgelegd aan Waterschap
+      Vechtstromen.
+  - date: '2025-05-28'
+    event: Aanvullingen voor de aanvraag omgevingsvergunning besproken.
+  - date: '2025-05-28'
+    event: Reactie op waterparagraaf aangevraagd.
+  - date: '2025-06-24'
+    event: Advies inzake riolering en waterhuishouding voor Nieuwe Dijk 2A gegeven.
+  - date: '2025-10-28'
+    event: Situatietekening nieuwe toestand gepresenteerd.
+ai_processed_at: '2026-07-23T08:01:45.115Z'
 ---
 
 Gemeente

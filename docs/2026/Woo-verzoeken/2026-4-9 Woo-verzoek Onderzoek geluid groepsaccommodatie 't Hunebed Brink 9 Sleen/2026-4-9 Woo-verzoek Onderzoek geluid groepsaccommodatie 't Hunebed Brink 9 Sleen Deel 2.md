@@ -1,8 +1,48 @@
 ---
-title: "2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 2"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 2.pdf"
-date: 2026-07-22
+title: >-
+  2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+  Sleen Deel 2
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+    Sleen
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't
+  Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie
+  't Hunebed Brink 9 Sleen Deel 2.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In het kader van de ontwikkeling van groepsaccommodaties 't Hunebed in
+  Coevorden is een akoestisch onderzoek uitgevoerd om de geluidsimpact op de
+  omgeving te beoordelen. De resultaten tonen aan dat er overschrijdingen van
+  geluidsnormen zijn, vooral in de avond- en nachtperioden, wat leidt tot
+  aanbevelingen voor geluidsbeperkende maatregelen.
+milestones:
+  - date: '2020-11-09'
+    event: Publicatie van het 'Bestemmingsplan Kernen'.
+  - date: '2024-09-11'
+    event: Geluidmetingen uitgevoerd aan de blower van de airtrampoline.
+  - date: '2024-09-11'
+    event: Meetdatum voor geluidsmetingen in de groepsaccommodatie.
+  - date: '2024-10-16'
+    event: Concept regels en kaart voor groepsaccommodaties verzonden.
+  - date: '2024-10-29'
+    event: 'Opmerkingen op de regels ontvangen, deadline voor ontwerp TAM vastgesteld.'
+  - date: '2024-11-01'
+    event: E-mails over akoestisch onderzoek en aanpassingen aan de regels.
+  - date: '2024-11-04'
+    event: Invoer van gegevens voor overdrachtsberekeningen.
+  - date: '2024-11-05'
+    event: Akoestisch onderzoek uitgevoerd en geluidsniveaus vastgesteld.
+  - date: '2024-11-05'
+    event: Resultaten van geluidsberekeningen gepresenteerd.
+  - date: '2024-11-05'
+    event: Directe en indirecte hinder gemeten en geanalyseerd.
+  - date: '2024-11-21'
+    event: Deadline voor ontwerp TAM ter inzage.
+ai_processed_at: '2026-07-23T07:59:26.038Z'
 ---
 
 Mm 06 MR

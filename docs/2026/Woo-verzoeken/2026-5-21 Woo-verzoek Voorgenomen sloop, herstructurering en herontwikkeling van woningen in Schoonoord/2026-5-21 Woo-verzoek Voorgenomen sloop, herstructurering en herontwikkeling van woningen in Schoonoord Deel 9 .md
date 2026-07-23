@@ -1,8 +1,78 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 9 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 9 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 9 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 9 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De herstructurering van Schoonoord is een complex proces dat leidt tot onrust
+  onder bewoners door sloopplannen en communicatieproblemen. De gemeente
+  Coevorden en Woonservice werken samen aan een stedenbouwkundig plan, waarbij
+  bewonersparticipatie centraal staat.
+milestones:
+  - date: '2024-03-12'
+    event: Presentatie kansenkaart Schoonoord aan de gemeenteraad.
+  - date: '2024-03-26'
+    event: Vaststelling van de Kansenkaart voor Schoonoord door de gemeenteraad.
+  - date: '2024-03-26'
+    event: Gemeenteraad aanneemt de Kansenkaart van Schoonoord.
+  - date: '2024-06-13'
+    event: Inloopbijeenkomst voor bewoners van Schoonoord-Zuid.
+  - date: '2025-03-25'
+    event: Aangenomen motie door de gemeenteraad over herstructurering Schoonoord.
+  - date: '2025-03-25'
+    event: >-
+      Aannemen van motie 25-01 door de gemeenteraad, gericht op herstructurering
+      Schoonoord.
+  - date: '2025-05-14'
+    event: Beantwoording van schriftelijke vragen door het college over Schoonoord.
+  - date: '2025-05-28'
+    event: >-
+      Nieuwe afspraken over samenwerking tussen gemeente en Woonservice worden
+      gemaakt.
+  - date: '2025-06-04'
+    event: Informatieavond voor raadsleden over de inventarisatie van woonwensen.
+  - date: '2025-06-05'
+    event: Antwoord op vragen van de gemeenteraad over de herstructurering.
+  - date: '2025-07-15'
+    event: >-
+      Inloopbijeenkomst met bewoners over concept stedenbouwkundige
+      schetsplannen.
+  - date: '2025-09-01'
+    event: >-
+      Verwerking van de uitkomsten van de inventarisatie in het programma van
+      uitgangspunten.
+  - date: '2025-10-01'
+    event: Toetsing van aangepaste schetsplannen bij de gemeenteraad en bewoners.
+  - date: '2025-11-03'
+    event: Inloopbijeenkomst met bewoners over schetsen van de gebiedsontwikkeling.
+  - date: '2025-12-01'
+    event: Bespreking van het afgeronde stedenbouwkundig plan in de gemeenteraad.
+  - date: '2025-12-31'
+    event: Vaststelling van het Stedenbouwkundig Ontwerp door de gemeenteraad.
+  - date: '2026-02-10'
+    event: Themabijeenkomst voor de gemeenteraad over het vervolg van het traject.
+  - date: '2026-03-09'
+    event: Bespreking van aangepaste schetsen met bewoners van Schoonoord Zuid.
+  - date: '2026-03-10'
+    event: Bespreking van aangepaste schetsen met bewoners van Schoonoord Noord.
+  - date: '2026-09-01'
+    event: Aanvraag van realisatiebesluiten per deelgebied aan de gemeenteraad.
+  - date: '2027-04-01'
+    event: >-
+      Voorlopig plan voor de gebiedsontwikkeling met kosten- en
+      opbrengstenraming wordt aan de gemeenteraad voorgelegd.
+ai_processed_at: '2026-07-23T07:55:55.421Z'
 ---
 
 (2)

@@ -1,8 +1,30 @@
 ---
-title: "2026-5-18 Woo-verzoek Ingetrokken voornemens opleggen last onder dwangsom Woonoverlast"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-5-18 Woo-verzoek Ingetrokken voornemens opleggen last onder dwangsom Woonoverlast.pdf"
-date: 2026-07-22
+title: >-
+  2026-5-18 Woo-verzoek Ingetrokken voornemens opleggen last onder dwangsom
+  Woonoverlast
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-5-18 Woo-verzoek Ingetrokken voornemens opleggen last
+  onder dwangsom Woonoverlast.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Op 30 maart 2026 diende een verzoek tot openbaarmaking in het kader van de Wet
+  open overheid (Woo) bij de gemeente Coevorden. Het verzoek werd op 18 mei 2026
+  afgewezen omdat er geen relevante documenten konden worden aangetroffen.
+milestones:
+  - date: '2026-03-30'
+    event: Ontvangst Woo-verzoek
+  - date: '2026-04-01'
+    event: Ontvangstbevestiging verzonden
+  - date: '2026-04-16'
+    event: Beslistermijn verlengd tot 11 mei 2026
+  - date: '2026-05-12'
+    event: Ingebrekestelling ontvangen
+  - date: '2026-05-18'
+    event: Afwijzingsbesluit verzonden
+ai_processed_at: '2026-07-23T07:53:37.678Z'
 ---
 
 Gemeente

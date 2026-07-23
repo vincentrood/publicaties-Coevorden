@@ -1,8 +1,85 @@
 ---
-title: "2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114, 4978"
-maps: ["2026","Woo-verzoeken"]
-source: "2026/Woo-verzoeken/2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114, 4978.pdf"
-date: 2026-07-22
+title: '2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114, 4978'
+maps:
+  - '2026'
+  - Woo-verzoeken
+source: >-
+  2026/Woo-verzoeken/2026-6-4 Woo-verzoek Percelen Sleen, sectie A 5113, 5114,
+  4978.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden is bezig met de transformatie van vakantiepark De Tip
+  van recreatie naar permanente woonbestemming. Dit proces omvat gesprekken met
+  eigenaren, het opstellen van een transformatieplan en het verkrijgen van
+  goedkeuring van de provincie Drenthe.
+milestones:
+  - date: '2023-05-15'
+    event: Makelaar ontvangt uitnodiging.
+  - date: '2023-05-25'
+    event: Informatiebijeenkomst over transformatieproces De Tip.
+  - date: '2023-06-01'
+    event: Aankoop de Tip.
+  - date: '2023-06-01'
+    event: Verstrekking van benodigde gegevens voor De Tip aan geïnteresseerden.
+  - date: '2023-06-02'
+    event: Verzoek om informatie kavel.
+  - date: '2023-06-02'
+    event: Bevestiging van ontvangst van informatie door geïnteresseerden.
+  - date: '2023-06-02'
+    event: Verstrekking van informatie aan potentiële kopers over de kavel op De Tip.
+  - date: '2023-07-10'
+    event: Informeren inzake aankoop kavel.
+  - date: '2023-07-10'
+    event: Verzoek om informatie over kavel De Tip.
+  - date: '2023-08-18'
+    event: Beantwoording vragen woonbestemming.
+  - date: '2023-08-18'
+    event: >-
+      Antwoorden op vragen van eigenaren over de transformatie naar
+      woonbestemming.
+  - date: '2023-08-30'
+    event: Aankoop de Tip.
+  - date: '2023-08-30'
+    event: >-
+      Update over de voortgang van de transformatie en de stand van zaken met
+      eigenaren.
+  - date: '2023-09-26'
+    event: Verloop transformatie.
+  - date: '2023-10-03'
+    event: Vraag over verloop De Tip.
+  - date: '2023-10-05'
+    event: Informatie verloop transformatie.
+  - date: '2023-10-17'
+    event: Reactie en vraag over voortgang verloop transformatie.
+  - date: '2023-10-23'
+    event: Op de hoogte blijven d.m.v. nieuwsbrief.
+  - date: '2024-07-12'
+    event: Concept streefbeeld gepresenteerd aan de achterban.
+  - date: '2024-07-18'
+    event: >-
+      Omgeving van De Tip uitgenodigd om kennis te nemen van
+      transformatieplannen.
+  - date: '2024-08-19'
+    event: Bouwkavel de Kiel of de Eeke.
+  - date: '2024-10-22'
+    event: Definitieve streefbeeld vastgesteld door het college.
+  - date: '2024-12-04'
+    event: Bouwactiviteit de TIP.
+  - date: '2025-07-24'
+    event: Communicatie met handreiking.
+  - date: '2025-09-15'
+    event: Communicatie.
+  - date: '2026-04-03'
+    event: Memo situatie De Tip.
+  - date: '2026-04-12'
+    event: >-
+      Dringend verzoek tot heroverweging onrechtmatige uitsluiting perceel De
+      Tip.
+  - date: '2026-06-01'
+    event: Besluit Woo-verzoek verzonden.
+  - date: '2026-06-04'
+    event: Verzenddatum besluit Woo-verzoek.
+ai_processed_at: '2026-07-23T07:51:50.110Z'
 ---
 
 Gemeente

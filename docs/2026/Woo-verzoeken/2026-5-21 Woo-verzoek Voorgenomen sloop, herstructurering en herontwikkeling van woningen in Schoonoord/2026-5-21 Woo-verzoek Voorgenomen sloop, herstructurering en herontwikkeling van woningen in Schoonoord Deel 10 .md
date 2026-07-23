@@ -1,8 +1,75 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 10 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 10 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 10 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 10 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De gemeente Coevorden en woningcorporaties Domesta en Woonservice hebben
+  prestatieafspraken gemaakt om de woningvoorraad te verduurzamen en de
+  leefbaarheid te verbeteren. Er zijn plannen voor nieuwbouw, sloop-nieuwbouw en
+  het ondersteunen van bijzondere doelgroepen, met een focus op samenwerking en
+  participatie van inwoners.
+milestones:
+  - date: '2020-03-01'
+    event: Start sprintsessies voor de Warmtevisie
+  - date: '2020-12-31'
+    event: Gemiddelde energie-index in Coevorden is 119
+  - date: '2021-01-01'
+    event: Gemeente en Domesta bespreken wensen met betrekking tot casuïstiek.
+  - date: '2021-04-01'
+    event: RRE verlengd tot eind december 2021
+  - date: '2021-04-01'
+    event: Acties vanuit gesprekken in najaar 2021 worden gezamenlijk uitgevoerd.
+  - date: '2021-04-01'
+    event: >-
+      Start evaluatie van de effecten van uitstroom uit maatschappelijke opvang
+      naar huurwoningen.
+  - date: '2021-06-01'
+    event: Transitievisie Warmte in BOCE-verband opgepakt
+  - date: '2021-09-01'
+    event: Overleg met strategisch adviseur en corporaties over wensen en behoeftes.
+  - date: '2021-10-01'
+    event: Gemeente en corporaties werken samen binnen het OGGZ-netwerk.
+  - date: '2021-11-01'
+    event: Plannen voor gesprekken over de voortgang van prestatieafspraken.
+  - date: '2021-12-01'
+    event: Gemeente houdt zich aan taakstelling voor huisvesting van statushouders.
+  - date: '2021-12-31'
+    event: 'RRE stopt, geen opvolger voor 2022'
+  - date: '2021-12-31'
+    event: Gemiddelde energie-index in Coevorden is 120
+  - date: '2022-01-01'
+    event: >-
+      Gemeente en corporaties blijven zich inspannen voor huisvesting van
+      statushouders.
+  - date: '2022-01-01'
+    event: Gemeente Coevorden neemt verantwoordelijkheid voor Beschermd Wonen.
+  - date: '2022-04-01'
+    event: Pilot gestart voor huisvesting vergunninghouders uit AZC.
+  - date: '2022-07-01'
+    event: Intentieovereenkomst voor integraal ontwikkelplan Schoonoord ondertekend.
+  - date: '2022-09-01'
+    event: Vervolgacties voor verbetering integratie van Somalische bewoners.
+  - date: '2022-12-01'
+    event: Evaluatie van de samenwerking en signalering van sociale problemen.
+  - date: '2023-01-01'
+    event: Woonzorgvisie door BOCE gemeenten vastgesteld.
+  - date: '2023-09-01'
+    event: Uitbreiding van adviseurs voor de VoorzieningenWijzer.
+  - date: '2024-01-01'
+    event: Oplevering van 30 flexwoningen in Coevorden.
+ai_processed_at: '2026-07-23T07:58:42.524Z'
 ---
 
 In het geval dat de subsidie niet is toegekend , dan gaat de

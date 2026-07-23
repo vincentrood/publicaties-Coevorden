@@ -1,8 +1,63 @@
 ---
-title: "2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 1"
-maps: ["2026","Woo-verzoeken","2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen"]
-source: "2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9 Sleen Deel 1.pdf"
-date: 2026-07-22
+title: >-
+  2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+  Sleen Deel 1
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't Hunebed Brink 9
+    Sleen
+source: >-
+  2026/Woo-verzoeken/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie 't
+  Hunebed Brink 9 Sleen/2026-4-9 Woo-verzoek Onderzoek geluid groepsaccommodatie
+  't Hunebed Brink 9 Sleen Deel 1.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  In 2026 ontving de gemeente Coevorden een Woo-verzoek voor openbaarmaking van
+  documenten met betrekking tot een geluidsonderzoek. Het verzoek werd op 9
+  april 2026 toegewezen, met uitzondering van persoonsgegevens, en leidde tot
+  verdere discussies over de groepsaccommodatie aan de Brink 9 in Sleen.
+milestones:
+  - date: '2023-09-19'
+    event: Verlening van de Alcoholwetvergunning voor de groepsaccommodatie.
+  - date: '2023-10-19'
+    event: Verlening van de horeca-exploitatievergunning voor de groepsaccommodatie.
+  - date: '2024-01-01'
+    event: Inwerkingtreding van de Omgevingswet.
+  - date: '2024-06-11'
+    event: >-
+      Verzending van een brief over de groepsaccommodatie en de voortgang van de
+      planwijziging.
+  - date: '2024-08-28'
+    event: Afspraak gemaakt met Emil voor overleg.
+  - date: '2024-09-11'
+    event: Afspraak voor akoestisch onderzoek in verband met de groepsaccommodatie.
+  - date: '2024-09-11'
+    event: Overleg met exploitant groepsaccommodatie.
+  - date: '2024-09-12'
+    event: BRS heeft voldoende informatie voor akoestisch onderzoek.
+  - date: '2024-10-02'
+    event: Afstemming over akoestisch onderzoek en verkeersgeneratie.
+  - date: '2024-10-16'
+    event: Concept regels en kaart TAM-omgevingsplan verzonden.
+  - date: '2024-10-22'
+    event: Vragen over afronding akoestisch onderzoek.
+  - date: '2024-10-29'
+    event: Opmerkingen op regels TAM-omgevingsplan verzonden.
+  - date: '2024-11-21'
+    event: Deadline voor ontwerp TAM ter inzage.
+  - date: '2026-02-19'
+    event: Ontvangst Woo-verzoek door gemeente Coevorden.
+  - date: '2026-03-24'
+    event: >-
+      Mededeling aan verzoeker over het aanvragen van zienswijzen van
+      belanghebbenden.
+  - date: '2026-04-09'
+    event: >-
+      Besluit tot gedeeltelijke openbaarmaking van documenten en verzending van
+      het besluit aan de verzoeker.
+ai_processed_at: '2026-07-23T07:59:44.275Z'
 ---
 
 Postadres:

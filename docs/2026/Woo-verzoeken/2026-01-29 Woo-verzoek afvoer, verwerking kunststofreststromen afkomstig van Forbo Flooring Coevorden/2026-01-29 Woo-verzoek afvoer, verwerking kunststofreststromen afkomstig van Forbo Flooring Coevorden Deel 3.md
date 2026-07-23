@@ -1,8 +1,32 @@
 ---
-title: "2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 3"
-maps: ["2026","Woo-verzoeken","2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden"]
-source: "2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo Flooring Coevorden Deel 3.pdf"
-date: 2026-07-22
+title: >-
+  2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+  Forbo Flooring Coevorden Deel 3
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-01-29 Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van
+    Forbo Flooring Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-01-29 Woo-verzoek afvoer, verwerking
+  kunststofreststromen afkomstig van Forbo Flooring Coevorden/2026-01-29
+  Woo-verzoek afvoer, verwerking kunststofreststromen afkomstig van Forbo
+  Flooring Coevorden Deel 3.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  Dit document bevat richtlijnen en normen met betrekking tot bodemkwaliteit,
+  energie-efficiëntie en veiligheidsbeheer in Nederland. Het behandelt
+  verschillende aspecten van milieubeheer, waaronder inspectie, risicoanalyse en
+  emissiebeheer.
+milestones:
+  - date: '2020-01-01'
+    event: Publicatie NEN 5725 over beheer bedrijfsriolering en bodembescherming.
+  - date: '2021-03-01'
+    event: >-
+      Onderzoek en beoordeling van de buitenriolering met coderingssysteem voor
+      visuele inspectie.
+ai_processed_at: '2026-07-23T08:02:57.388Z'
 ---
 
 CUR Rapport 2001-3

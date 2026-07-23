@@ -1,8 +1,40 @@
 ---
-title: "2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 3"
-maps: ["2026","Woo-verzoeken","2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden"]
-source: "2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden Deel 3.pdf"
-date: 2026-07-22
+title: >-
+  2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+  Deel 3
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - 2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe Dijk 2a Coevorden
+source: >-
+  2026/Woo-verzoeken/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden/2026-02-12 Woo-verzoek nieuwbouw- en verbouwplannen Nieuwe
+  Dijk 2a Coevorden Deel 3.pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De aanvraag voor de bouw van 69 opslagunits op Nieuwe Dijk 2A in Coevorden is
+  op 16 december 2024 ingediend, maar is op 5 november 2025 buiten behandeling
+  gesteld vanwege het niet voldoen aan de vereisten. De welstandscommissie heeft
+  geadviseerd het bouwplan aan te passen om aan de redelijke eisen van welstand
+  te voldoen.
+milestones:
+  - date: '2023-01-01'
+    event: Initiatiefnemers kunnen aanvraag omgevingsvergunning indienen.
+  - date: '2023-01-01'
+    event: Advies van de Omgevingstafel over het plan.
+  - date: '2023-01-01'
+    event: Leges verschuldigd voor afwijking bestemmingsplan.
+  - date: '2023-12-31'
+    event: Deadline voor actualisatie bodemonderzoek.
+  - date: '2024-12-16'
+    event: Ontvangst aanvraag voor bouw van 69 opslagunits.
+  - date: '2024-12-16'
+    event: Ontvangst aanvraag omgevingsvergunning voor bouwen van 69 opslagunits.
+  - date: '2024-12-24'
+    event: Verzoek om geometrie aan te leveren voor BAG.
+  - date: '2025-10-29'
+    event: Aangepaste tekeningen ingediend voor de bouw van opslagunits.
+ai_processed_at: '2026-07-23T08:02:00.275Z'
 ---
 
 Maatvoering te contrleren Lh.w. door

@@ -1,8 +1,82 @@
 ---
-title: "2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 6 "
-maps: ["2026","Woo-verzoeken","2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord"]
-source: "2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling van woningen in Schoonoord Deel 6 .pdf"
-date: 2026-07-22
+title: >-
+  2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+  van woningen in Schoonoord Deel 6 
+maps:
+  - '2026'
+  - Woo-verzoeken
+  - >-
+    2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering en herontwikkeling
+    van woningen in Schoonoord
+source: >-
+  2026/Woo-verzoeken/2026-5-21 Woo-verzoek Voorgenomen sloop, herstructurering
+  en herontwikkeling van woningen in Schoonoord/2026-5-21 Woo-verzoek
+  Voorgenomen sloop, herstructurering en herontwikkeling van woningen in
+  Schoonoord Deel 6 .pdf
+date: 2026-07-22T00:00:00.000Z
+summary: >-
+  De herstructurering van Schoonoord omvat de ontwikkeling van nieuwe woningen
+  en de herbestemming van bestaande locaties, met een focus op duurzaamheid en
+  gemeenschapsbetrokkenheid. De planning loopt van 2021 tot 2030, met
+  verschillende fasen van participatie en besluitvorming.
+milestones:
+  - date: '2021-12-07'
+    event: Gemeenteraad besluit over integrale aanpak voor Schoonoord.
+  - date: '2021-12-07'
+    event: Gemeenteraad stelt Woonvisie met integrale aanpak Schoonoord vast.
+  - date: '2022-01-01'
+    event: Intentieovereenkomst vastgesteld met Woonservice en dorpsbelang.
+  - date: '2022-06-01'
+    event: 'Intentieovereenkomst getekend tussen gemeente, Woonservice en Dorpsbelang.'
+  - date: '2023-03-01'
+    event: Gemeenteraad stelt kansenkaart vast.
+  - date: '2023-03-01'
+    event: Besluit over nieuwe huisvesting basisscholen.
+  - date: '2023-03-01'
+    event: Kansenkaart vastgesteld.
+  - date: '2023-09-01'
+    event: >-
+      Start werkzaamheden voor het ophalen en vaststellen van
+      programmavereisten.
+  - date: '2023-10-18'
+    event: Vastleggen gezamenlijk programma van eisen in projectgroep.
+  - date: '2023-11-01'
+    event: Ontwikkeling van ruimtelijke scenario's en stedenbouwkundige schetsen.
+  - date: '2023-12-19'
+    event: Presentatie van scenario's aan de gemeenteraad.
+  - date: '2024-03-01'
+    event: Concept uitwerkingsvoorstel wordt vastgesteld door de stuurgroep.
+  - date: '2024-03-01'
+    event: Uitwerking van het voorkeursmodel in een stedenbouwkundig plan.
+  - date: '2024-03-01'
+    event: Uitwerking deelgebied Noord en Zuid naar schetsplannen.
+  - date: '2024-04-30'
+    event: Afronding en presentatie van het definitieve stedenbouwkundig plan.
+  - date: '2025-11-01'
+    event: College besluit over voorlopig stedenbouwkundig plan.
+  - date: '2025-11-03'
+    event: Inloopmoment met presentatie schetsontwerpen aan dorp en gemeenteraad.
+  - date: '2025-12-01'
+    event: Definitieve voorstel aan dorp en gemeenteraad gepresenteerd.
+  - date: '2026-01-01'
+    event: Start van de aanbesteding voor ontwikkellocatie.
+  - date: '2026-01-01'
+    event: Bespreken definitief voorstel en ophalen mandaat voor akkoord wethouders.
+  - date: '2026-03-01'
+    event: Vaststelling voorstel in Stuurgroep Schoonoord.
+  - date: '2026-12-01'
+    event: Besluitvorming stedenbouwkundig plan.
+  - date: '2027-01-01'
+    event: Gemeenteraad besluit over definitief omgevingsplan.
+  - date: '2027-01-01'
+    event: Oplevering scholen.
+  - date: '2027-12-01'
+    event: Herontwikkeling noordelijk deel Schoonoord.
+  - date: '2027-12-31'
+    event: Einde van de realisatiefase voor de eerste woningen.
+  - date: '2028-12-01'
+    event: Herontwikkeling zuidelijk deel Schoonoord.
+ai_processed_at: '2026-07-23T07:56:55.180Z'
 ---
 
 VERBEELDING
